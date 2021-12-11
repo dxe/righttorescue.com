@@ -1,11 +1,5 @@
 import { Button, Col, Ratio, Row } from "react-bootstrap";
-
-interface FeaturedCaseProps {
-  name: string;
-  page: string;
-  video: string;
-  children: any;
-}
+import React from "react";
 
 export const FeaturedCase = ({
   name,
@@ -46,3 +40,11 @@ export const FeaturedCase = ({
     </Row>
   );
 };
+FeaturedCase.displayName = "FeaturedCase";
+
+interface FeaturedCaseProps {
+  name: string;
+  page: string;
+  video: string;
+  children: any;
+}

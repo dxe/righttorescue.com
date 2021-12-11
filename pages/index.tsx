@@ -2,7 +2,6 @@ import type { NextPage } from "next";
 import { MastHead } from "../components/MastHead";
 import { Letter } from "../components/Letter";
 import { Cases } from "../components/Cases";
-import { FeaturedCase } from "../components/FeaturedCase";
 import React from "react";
 import { Case } from "../components/Case";
 import { Announcements } from "../components/Announcements";
@@ -17,21 +16,19 @@ const Home: NextPage = () => {
       <MastHead image="bg-masthead-rain.jpeg" takeActionPage="rain.html" />
       <Letter />
       <Cases>
-        <Cases.FeaturedCase>
-          <FeaturedCase
-            name="Rescuing Rain from a Goat Meat Ranch in North Carolina"
-            page="rain.html"
-            video="https://www.youtube.com/embed/0Sxnyg4Nomo"
-          >
-            DxE co-founder Wayne Hsiung is being charged with felony counts of
-            breaking or entering and larceny, as well as a misdemeanor trespass
-            count for rescuing a sick baby goat from a goat meat ranch in North
-            Carolina, an incident which unfolded on Facebook live. Wayne took
-            the baby, named Rain, to emergency veterinary care and today, Rain
-            is safe with a family who takes care of him. Wayne's trial is
-            scheduled to begin Monday November 29th at the Transylvania County
-            Courthouse in Brevard, NC.
-          </FeaturedCase>
+        <Cases.FeaturedCase
+          name="Rescuing Rain from a Goat Meat Ranch in North Carolina"
+          page="rain.html"
+          video="https://www.youtube.com/embed/0Sxnyg4Nomo"
+        >
+          DxE co-founder Wayne Hsiung is being charged with felony counts of
+          breaking or entering and larceny, as well as a misdemeanor trespass
+          count for rescuing a sick baby goat from a goat meat ranch in North
+          Carolina, an incident which unfolded on Facebook live. Wayne took the
+          baby, named Rain, to emergency veterinary care and today, Rain is safe
+          with a family who takes care of him. Wayne's trial is scheduled to
+          begin Monday November 29th at the Transylvania County Courthouse in
+          Brevard, NC.
         </Cases.FeaturedCase>
         <Cases.CaseList>
           <Case

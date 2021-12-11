@@ -1,5 +1,6 @@
 import { Col, Container, Row } from "react-bootstrap";
 import React from "react";
+import { FeaturedCase } from "./FeaturedCase";
 
 export const Cases = ({ children }: any) => {
   const featuredCase = React.Children.map(children, (child) =>
@@ -20,7 +21,9 @@ export const Cases = ({ children }: any) => {
         {featuredCase}
         <Row className="mb-5">
           <Col lg={12}>
-            <h2 className="mb-5 text-center">More Cases</h2>
+            <h2 className="mb-5 text-center">
+              {featuredCase.length === 0 ? "All Cases" : "More Cases"}
+            </h2>
             <Row xs={1} md={2} lg={3}>
               {caseList}
             </Row>
@@ -31,8 +34,6 @@ export const Cases = ({ children }: any) => {
   );
 };
 
-const FeaturedCase = ({ children }: any) => children;
-FeaturedCase.displayName = "FeaturedCase";
 Cases.FeaturedCase = FeaturedCase;
 
 const CaseList = ({ children }: any) => children;

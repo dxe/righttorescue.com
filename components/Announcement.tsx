@@ -1,4 +1,5 @@
 import React from "react";
+import Image from "next/image";
 
 export const Announcement = ({
   title,
@@ -15,11 +16,15 @@ export const Announcement = ({
       }}
     >
       {image && (
-        <img
-          className="img-fluid mb-3 mb-lg-0 update-image"
-          src={`img/updates/${image}`}
-          alt=""
-        />
+        <div style={{ maxWidth: 100, minWidth: 100 }}>
+          <Image
+            src={`/img/updates/${image}`}
+            height={400}
+            width={400}
+            alt=""
+            className="update-image"
+          />
+        </div>
       )}
 
       <p className="px-4 pb-3">
