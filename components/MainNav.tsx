@@ -1,5 +1,4 @@
 import { Navbar, Container, Nav } from "react-bootstrap";
-import Script from "next/script";
 import { useEffect, useState } from "react";
 //@ts-ignore
 import { Link } from "react-scroll";
@@ -8,7 +7,7 @@ import { Link } from "react-scroll";
 
 const SHRINK_OFFSET = 15;
 
-export const MainNav = ({ scrollspyElementsStatus }: any) => {
+export const MainNav = () => {
   const [shrink, setShrink] = useState(false);
   const [expanded, setExpanded] = useState(false);
 
@@ -94,10 +93,6 @@ export const MainNav = ({ scrollspyElementsStatus }: any) => {
             </Nav>
           </Navbar.Collapse>
         </Container>
-        <Script
-          src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.4.1/jquery.easing.min.js"
-          strategy="afterInteractive"
-        />
       </Navbar>
       {/* Dummy div to allow easily scroll back to the top when brand logo is clicked */}
       <div id="after-nav" />

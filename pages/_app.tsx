@@ -5,7 +5,6 @@ import type { AppProps } from "next/app";
 import { useEffect } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
-import Script from "next/script";
 import { MainNav } from "../components/MainNav";
 import { Support } from "../components/Support";
 import { Footer } from "../components/Footer";
@@ -13,11 +12,14 @@ import { Footer } from "../components/Footer";
 // TODO: maybe don't declare the page layout here since it's also used for things like the 404 page?
 // or maybe just update the 404 page to have a dark background?
 
+const GTM_CONFIG = "GTM-NCX3NJC";
+
 function MyApp({ Component, pageProps }: AppProps) {
   useEffect(() => {
     //@ts-ignore
     import("bootstrap/dist/js/bootstrap");
   }, []);
+
   return (
     <SSRProvider>
       <Head>
@@ -33,21 +35,13 @@ function MyApp({ Component, pageProps }: AppProps) {
         <meta property="og:image" content="img/og-image.png" />
         <link rel="icon" type="image/png" href="img/favicon.png" />
         <title>Right to Rescue</title>
-        {/*TODO: add font awesome & google tag manager*/}
-        <link
-          href="https://fonts.googleapis.com/css?family=Varela+Round"
-          rel="stylesheet"
-        />
-        <link
-          href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-          rel="stylesheet"
-        />
-        {/*TODO: see https://mariestarck.com/add-google-analytics-to-your-next-js-application-in-5-easy-steps/*/}
         <script
-          async
-          src={`https://www.googletagmanager.com/gtag/js?id=GTM-NCX3NJC`}
+          src={`https://www.googletagmanager.com/gtag/js?id=${GTM_CONFIG}`}
+          defer
         />
         <script
+          id="gtm"
+          defer
           dangerouslySetInnerHTML={{
             __html: `
             (function (w, d, s, l, i) {
@@ -59,24 +53,28 @@ function MyApp({ Component, pageProps }: AppProps) {
               j.async = true;
               j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
               f.parentNode.insertBefore(j, f);
-            })(window, document, "script", "dataLayer", "GTM-NCX3NJC");
+            })(window, document, "script", "dataLayer", "${GTM_CONFIG}");
           `,
           }}
         />
-        <noscript>
-          <iframe
-            src="https://www.googletagmanager.com/ns.html?id=GTM-NCX3NJC"
-            height="0"
-            width="0"
-            style={{ display: "none", visibility: "hidden" }}
-          ></iframe>
-        </noscript>
+        {/*TODO: add font awesome (ensure it works for petition share buttons too) */}
+        <link
+          href="https://fonts.googleapis.com/css?family=Varela+Round"
+          rel="stylesheet"
+        />
+        <link
+          href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
+          rel="stylesheet"
+        />
       </Head>
-      {/*TODO: remove jquery to where petition uses it after not using it for scrolling*/}
-      <Script
-        src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"
-        strategy="afterInteractive"
-      />
+      <noscript>
+        <iframe
+          src={`https://www.googletagmanager.com/ns.html?id=${GTM_CONFIG}`}
+          height="0"
+          width="0"
+          style={{ display: "none", visibility: "hidden" }}
+        ></iframe>
+      </noscript>
       <MainNav />
       <Component {...pageProps} />
       <Support />
