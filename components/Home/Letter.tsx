@@ -10,15 +10,6 @@ export const Letter = () => {
   useEffect(() => {
     const scriptTag = document.createElement("script");
     scriptTag.src = "https://storage.googleapis.com/dxe-petitions/api.js";
-    scriptTag.addEventListener("load", () => {
-      // scroll the page down if needed since the petition loading pushed other elements down
-      if (
-        window.location.hash === "#cases" ||
-        window.location.hash === "#support"
-      ) {
-        Scroll.animateScroll.scrollMore(400);
-      }
-    });
     document.body.appendChild(scriptTag);
   }, []);
 
@@ -90,7 +81,7 @@ export const Letter = () => {
               </div>
             )}
 
-            <div id="letter-form">
+            <div id="letter-form" style={{ minHeight: 500 }}>
               {/*@ts-ignore*/}
               <dxe-petition petition="one-letter" cta="Sign"></dxe-petition>
               <br />
