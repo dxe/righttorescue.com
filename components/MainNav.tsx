@@ -1,7 +1,9 @@
 import { Navbar, Container, Nav } from "react-bootstrap";
 import { useEffect, useState } from "react";
 //@ts-ignore
-import { Link } from "react-scroll";
+import { Link as ScrollLink } from "react-scroll";
+import { useRouter } from "next/router";
+import PageLink from "next/link";
 
 // TODO: ensure nav links work on home & other pages
 
@@ -35,14 +37,13 @@ export const MainNav = () => {
       >
         <Container>
           <Navbar.Brand>
-            <Link
-              to="after-nav"
-              smooth={true}
-              offset={-100}
-              duration={500}
-              style={{ cursor: "pointer" }}
-            >
-              <img id="logo" src="img/logo.png" alt="DxE" />
+            <Link to="/" isNavLink={false}>
+              <img
+                id="logo"
+                src="img/logo.png"
+                alt="DxE"
+                style={{ cursor: "pointer" }}
+              />
             </Link>
           </Navbar.Brand>
           <Navbar.Toggle
@@ -51,43 +52,14 @@ export const MainNav = () => {
           />
           <Navbar.Collapse className="ml-auto" id="basic-navbar-nav">
             <Nav className="ms-auto">
-              <Link
-                activeClass="active"
-                className="nav-link"
-                to="sign"
-                spy={true}
-                smooth={true}
-                offset={-100}
-                duration={500}
-                onClick={collapseNavbar}
-                style={{ cursor: "pointer" }}
-              >
+              {/*TODO: just calculate the achor link based on page link*/}
+              <Link to="sign" isNavLink={true} onClick={collapseNavbar}>
                 Sign
               </Link>
-              <Link
-                activeClass="active"
-                className="nav-link"
-                to="cases"
-                spy={true}
-                smooth={true}
-                offset={-100}
-                duration={500}
-                onClick={collapseNavbar}
-                style={{ cursor: "pointer" }}
-              >
+              <Link to="cases" isNavLink={true} onClick={collapseNavbar}>
                 Cases
               </Link>
-              <Link
-                activeClass="active"
-                className="nav-link"
-                to="support"
-                spy={true}
-                smooth={true}
-                offset={-100}
-                duration={500}
-                onClick={collapseNavbar}
-                style={{ cursor: "pointer" }}
-              >
+              <Link to="support" isNavLink={true} onClick={collapseNavbar}>
                 Donate
               </Link>
             </Nav>
@@ -97,5 +69,40 @@ export const MainNav = () => {
       {/* Dummy div to allow easily scroll back to the top when brand logo is clicked */}
       <div id="after-nav" />
     </>
+  );
+};
+
+// Link returns a ScrollLink (Link from "react-scroll") if on the homepage (to scroll within the page)
+// or a PageLink (Link from "next/link") if not on the homepage (to go back to the homepage).
+const Link = ({ to, isNavLink, children, onClick }: any) => {
+  const router = useRouter();
+  const [onHomepage, setOnHomepage] = useState(false);
+
+  useEffect(() => {
+    setOnHomepage(router.pathname === "/");
+  }, [router.pathname]);
+
+  if (onHomepage)
+    return (
+      <ScrollLink
+        to={to === "/" ? "after-nav" : to}
+        offset={-100}
+        style={{ cursor: "pointer" }}
+        smooth={true}
+        activeClass={isNavLink ? "active" : ""}
+        className={isNavLink ? "nav-link" : ""}
+        spy={isNavLink}
+        onClick={onClick}
+      >
+        {children}
+      </ScrollLink>
+    );
+
+  return (
+    <PageLink href={to === "/" ? to : `/#${to}`}>
+      <a className={isNavLink ? "nav-link" : ""} onClick={onClick}>
+        {children}
+      </a>
+    </PageLink>
   );
 };

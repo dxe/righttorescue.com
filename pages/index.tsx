@@ -1,11 +1,11 @@
 import type { NextPage } from "next";
-import { MastHead } from "../components/MastHead";
-import { Letter } from "../components/Letter";
-import { Cases } from "../components/Cases";
+import { MastHead } from "../components/Home/MastHead";
+import { Letter } from "../components/Home/Letter";
+import { Cases } from "../components/Home/Cases";
 import React from "react";
-import { Case } from "../components/Case";
-import { Announcements } from "../components/Announcements";
-import { Announcement } from "../components/Announcement";
+import { Case } from "../components/Home/Case";
+import { Announcements } from "../components/Home/Announcements";
+import { Announcement } from "../components/Home/Announcement";
 
 const Home: NextPage = () => {
   {
@@ -34,56 +34,56 @@ const Home: NextPage = () => {
           <Case
             name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
             location="Sonoma County, California"
-            page="sunrise.html"
+            page="sunrise"
             image="sunrise.jpg"
           />
 
           <Case
             name="Smithfield"
             location="Beaver County, Utah"
-            page="sf-ut.html"
+            page="sf-ut"
             image="sf-ut.jpg"
           />
 
           <Case
             name="Ridglan Farms"
             location="Dane County, Wisconsin"
-            page="ridglan.html"
+            page="ridglan"
             image="ridglan.jpg"
           />
 
           <Case
             name="Farmer John"
             location="Los Angeles County, California"
-            page="fj.html"
+            page="fj"
             image="fj.png"
           />
 
           <Case
             name="Iowa Select Farms"
             location="Wright County, Iowa"
-            page="iowa.html"
+            page="iowa"
             image="iowa.jpg"
           />
 
           <Case
             name="Diestel Turkey Ranch"
             location="Alameda County, California"
-            page="diestel.html"
+            page="diestel"
             image="diestel.jpg"
           />
 
           <Case
             name="Pleasant Valley Farms"
             location="San Joaquin County, California"
-            page="pv.html"
+            page="pv"
             image="pv.jpg"
           />
 
           <Case
             name="Norbest Turkey"
             location="Sanpete County, Utah"
-            page="norbest.html"
+            page="norbest"
             image="nb.jpg"
             past
           />
@@ -91,7 +91,7 @@ const Home: NextPage = () => {
           <Case
             name="Smithfield"
             location="Scotland County, North Carolina"
-            page="sf-nc.html"
+            page="sf-nc"
             image="sf-nc.jpg"
             past
           />

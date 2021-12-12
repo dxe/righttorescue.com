@@ -1,8 +1,27 @@
 import Script from "next/script";
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
+import * as Scroll from "react-scroll";
+import { useInterval } from "@restart/hooks";
 
 export const Letter = () => {
   const [expanded, setExpanded] = useState(false);
+
+  // This seems to be the best way to ensure that the script runs each time the page is navigated to.
+  useEffect(() => {
+    const scriptTag = document.createElement("script");
+    scriptTag.src = "https://storage.googleapis.com/dxe-petitions/api.js";
+    scriptTag.addEventListener("load", () => {
+      // scroll the page down if needed since the petition loading pushed other elements down
+      if (
+        window.location.hash === "#cases" ||
+        window.location.hash === "#support"
+      ) {
+        Scroll.animateScroll.scrollMore(400);
+      }
+    });
+    document.body.appendChild(scriptTag);
+  }, []);
+
   return (
     <section id="sign" className="about-section">
       <div className="container">
@@ -16,8 +35,6 @@ export const Letter = () => {
               protect whistleblowers who expose this misconduct and help the
               suffering animals.
             </p>
-
-            {/* TODO: get "read more" toggle working w/ react instead of jquery */}
 
             <p className="text-white-50 text-center" id="read-more">
               <strong
@@ -72,11 +89,6 @@ export const Letter = () => {
                 </p>
               </div>
             )}
-
-            <Script
-              src="https://storage.googleapis.com/dxe-petitions/api.js"
-              strategy="afterInteractive"
-            />
 
             <div id="letter-form">
               {/*@ts-ignore*/}
