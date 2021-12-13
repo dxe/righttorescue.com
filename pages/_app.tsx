@@ -11,11 +11,6 @@ import Script from "next/script";
 const GTM_CONFIG = "GTM-NCX3NJC";
 
 function MyApp({ Component, pageProps }: AppProps) {
-  useEffect(() => {
-    //@ts-ignore
-    import("bootstrap/dist/js/bootstrap");
-  }, []);
-
   return (
     <SSRProvider>
       <Head>
