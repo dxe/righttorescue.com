@@ -32,6 +32,7 @@ export const Support = () => {
               >
                 <FontAwesomeIcon
                   icon={faHeart}
+                  size="lg"
                   style={{ maxWidth: 20, marginRight: 15 }}
                 />
                 Donate
