@@ -395,7 +395,7 @@ h4 {
   color: black;
 }
 
-/* These hover opacities are for the Cases section on the homepage */
+/* These hover opacities are for the CasesSection section on the homepage */
 a h4:hover,
 a h5:hover {
   filter: alpha(opacity=50);

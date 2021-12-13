@@ -1,13 +1,14 @@
 import { Col, Container, Row } from "react-bootstrap";
 import React from "react";
 import { FeaturedCase } from "./FeaturedCase";
+import { CaseList } from "./CaseList";
 
-export const Cases = ({ children }: any) => {
-  const featuredCase = React.Children.map(children, (child) =>
+export const CasesSection = (props: CasesProps) => {
+  const featuredCase = React.Children.map(props.children, (child) =>
     child.type.displayName === "FeaturedCase" ? child : null
   );
 
-  const caseList = React.Children.map(children, (child) =>
+  const caseList = React.Children.map(props.children, (child) =>
     child.type.displayName === "CaseList" ? child : null
   );
 
@@ -34,8 +35,9 @@ export const Cases = ({ children }: any) => {
   );
 };
 
-Cases.FeaturedCase = FeaturedCase;
+CasesSection.FeaturedCase = FeaturedCase;
+CasesSection.CaseList = CaseList;
 
-const CaseList = ({ children }: any) => children;
-CaseList.displayName = "CaseList";
-Cases.CaseList = CaseList;
+interface CasesProps {
+  children: any;
+}

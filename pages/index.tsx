@@ -1,7 +1,7 @@
 import type { NextPage } from "next";
 import { MastHead } from "../components/Home/MastHead";
 import { Letter } from "../components/Home/Letter";
-import { Cases } from "../components/Home/Cases";
+import { CasesSection } from "../components/Home/CasesSection";
 import React from "react";
 import { Case } from "../components/Home/Case";
 import { Announcements } from "../components/Home/Announcements";
@@ -10,12 +10,12 @@ import { Announcement } from "../components/Home/Announcement";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="bg-masthead-rain.jpeg" takeActionPage="rain.html" />
+      <MastHead image="bg-masthead-rain.jpeg" takeActionPage="rain" />
       <Letter />
-      <Cases>
-        <Cases.FeaturedCase
+      <CasesSection>
+        <CasesSection.FeaturedCase
           name="Rescuing Rain from a Goat Meat Ranch in North Carolina"
-          page="rain.html"
+          page="rain"
           video="https://www.youtube.com/embed/0Sxnyg4Nomo"
         >
           DxE co-founder Wayne Hsiung is being charged with felony counts of
@@ -26,8 +26,8 @@ const Home: NextPage = () => {
           with a family who takes care of him. Wayne's trial is scheduled to
           begin Monday November 29th at the Transylvania County Courthouse in
           Brevard, NC.
-        </Cases.FeaturedCase>
-        <Cases.CaseList>
+        </CasesSection.FeaturedCase>
+        <CasesSection.CaseList>
           <Case
             name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
             location="Sonoma County, California"
@@ -92,8 +92,8 @@ const Home: NextPage = () => {
             image="sf-nc.jpg"
             past
           />
-        </Cases.CaseList>
-      </Cases>
+        </CasesSection.CaseList>
+      </CasesSection>
       <Announcements>
         <Announcement
           title="Sanpete County, Utah"

@@ -1,11 +1,11 @@
 import { Container } from "react-bootstrap";
 import React, { useState } from "react";
 
-export const Announcements = ({ children }: any) => {
-  const featuredAnnouncements = React.Children.map(children, (child) => {
+export const Announcements = (props: AnnouncementsProps) => {
+  const featuredAnnouncements = React.Children.map(props.children, (child) => {
     return child.props.featured ? child : null;
   });
-  const moreAnnouncements = React.Children.map(children, (child) => {
+  const moreAnnouncements = React.Children.map(props.children, (child) => {
     return child.props.featured ? null : child;
   });
 
@@ -42,3 +42,7 @@ export const Announcements = ({ children }: any) => {
     </section>
   );
 };
+
+interface AnnouncementsProps {
+  children: any;
+}

@@ -7,9 +7,6 @@ import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
 import Layout from "../components/Layout";
 
-// TODO: maybe don't declare the page layout here since it's also used for things like the 404 page?
-// or maybe just update the 404 page to have a dark background?
-
 const GTM_CONFIG = "GTM-NCX3NJC";
 
 function MyApp({ Component, pageProps }: AppProps) {

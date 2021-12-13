@@ -1,12 +1,13 @@
-import { Link } from "react-scroll";
+import { Link as ScrollLink } from "react-scroll";
+import Link from "next/link";
 
-export const MastHead = ({ image, takeActionPage }: any) => {
+export const MastHead = (props: MastHeadProps) => {
   return (
     <header
       className="masthead"
       style={{
         background: `linear-gradient(to bottom,rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),
-                      url("/img/${image}")`,
+                      url("/img/${props.image}")`,
         backgroundColor: "#161616",
         backgroundPosition: "center",
         backgroundRepeat: "no-repeat",
@@ -33,7 +34,7 @@ export const MastHead = ({ image, takeActionPage }: any) => {
             abuses and rescuing suffering animals
           </h2>
 
-          <Link
+          <ScrollLink
             activeClass="active"
             className="btn btn-primary mx-2 fade-in-third"
             to="sign"
@@ -43,19 +44,22 @@ export const MastHead = ({ image, takeActionPage }: any) => {
             style={{ cursor: "pointer" }}
           >
             Sign Now
-          </Link>
+          </ScrollLink>
 
-          {takeActionPage && (
-            <a
-              href={takeActionPage}
-              className="btn btn-secondary mx-2 fade-in-third"
-            >
-              Take Action
-            </a>
+          {props.takeActionPage && (
+            <Link href={props.takeActionPage}>
+              <a className="btn btn-secondary mx-2 fade-in-third">
+                Take Action
+              </a>
+            </Link>
           )}
         </div>
-        -
       </div>
     </header>
   );
 };
+
+interface MastHeadProps {
+  image: string;
+  takeActionPage: string;
+}

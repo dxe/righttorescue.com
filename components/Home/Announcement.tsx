@@ -1,12 +1,7 @@
 import React from "react";
 import Image from "next/image";
 
-export const Announcement = ({
-  title,
-  date,
-  image,
-  children,
-}: AnnouncementProps) => {
+export const Announcement = (props: AnnouncementProps) => {
   return (
     <div
       style={{
@@ -15,10 +10,10 @@ export const Announcement = ({
         alignItems: "flex-start",
       }}
     >
-      {image && (
+      {props.image && (
         <div style={{ maxWidth: 100, minWidth: 100 }}>
           <Image
-            src={`/img/updates/${image}`}
+            src={`/img/updates/${props.image}`}
             height={400}
             width={400}
             alt=""
@@ -28,10 +23,10 @@ export const Announcement = ({
       )}
 
       <p className="px-4 pb-3">
-        <strong>{title}</strong>
-        <span className="update-date">{date}</span>
+        <strong>{props.title}</strong>
+        <span className="update-date">{props.date}</span>
         <br />
-        {children}
+        {props.children}
       </p>
     </div>
   );

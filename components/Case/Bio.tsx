@@ -7,7 +7,8 @@ export const Bio = (props: BioProps) => {
       {/*Note that you'll prob also need to put a marginTop of -7 on the featured-text element too*/}
       {/*<Image src={`/img/${props.image}`} height={500} width={700}  alt="" />*/}
       <img
-        className={`img-fluid mb-3 mb-lg-0 ${props.circle ? "lawyer" : ""}`}
+        className={`mb-3 mb-lg-0 ${props.circle ? "lawyer" : ""}`}
+        style={{ width: "100%" }}
         src={`img/${props.image}`}
         alt=""
       />
