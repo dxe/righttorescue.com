@@ -12,8 +12,6 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 You can edit the pages by modifying `pages/*.tsx`. Your browser auto-updates as you edit the files.
 
-## Deploy on Vercel
+## Deployment
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+A GitHub Action automatically deploys the website to http://righttorescue.com after pushing to main.
