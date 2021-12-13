@@ -7,7 +7,7 @@ export const Details = (props: DetailsProps) => {
             <div className="col-lg-5 order-lg-2 mx-auto">
               <img
                 className="img-fluid mb-3"
-                src={`img/${props.image}`}
+                src={`/img/${props.image}`}
                 alt=""
               />
             </div>

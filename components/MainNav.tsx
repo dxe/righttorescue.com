@@ -38,7 +38,7 @@ export const MainNav = () => {
             <Link to="/" isNavLink={false}>
               <img
                 id="logo"
-                src="img/logo.png"
+                src="/img/logo.png"
                 alt="DxE"
                 style={{ cursor: "pointer" }}
               />

@@ -6,7 +6,7 @@ export const Bio = (props: BioProps) => {
       <img
         className={`mb-3 mb-lg-0 ${props.circle ? "lawyer" : ""}`}
         style={{ width: "100%" }}
-        src={`img/${props.image}`}
+        src={`/img/${props.image}`}
         alt=""
       />
       <div
