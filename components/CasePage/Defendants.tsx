@@ -25,6 +25,7 @@ export const Defendants = (props: DefendantsProps) => {
           xs={1}
           md={defendantCount > 1 ? 2 : 1}
           lg={defendantCount > 2 ? 3 : defendantCount > 1 ? 2 : 1}
+          className="justify-content-center"
         >
           {props.children}
         </Row>
