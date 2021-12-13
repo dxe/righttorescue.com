@@ -10,22 +10,34 @@ import { Announcement } from "../components/Home/Announcement";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="bg-masthead-rain.jpeg" takeActionPage="rain" />
+      <MastHead image="bg-masthead-matt.jpg" takeActionPage="iowa" />
       <Letter />
       <CasesSection>
         <CasesSection.FeaturedCase
-          name="Rescuing Rain from a Goat Meat Ranch in North Carolina"
-          page="rain"
-          video="https://www.youtube.com/embed/0Sxnyg4Nomo"
+          name="Rescuing Gilly from Iowa Select Farms"
+          page="iowa"
+          video="https://www.youtube.com/embed/0Hf1YwIzN-k"
+          videoRatio="1x1"
         >
-          DxE co-founder Wayne Hsiung is being charged with felony counts of
-          breaking or entering and larceny, as well as a misdemeanor trespass
-          count for rescuing a sick baby goat from a goat meat ranch in North
-          Carolina, an incident which unfolded on Facebook live. Wayne took the
-          baby, named Rain, to emergency veterinary care and today, Rain is safe
-          with a family who takes care of him. Wayne's trial is scheduled to
-          begin Monday November 29th at the Transylvania County Courthouse in
-          Brevard, NC.
+          <p>
+            In May 2020, DxE investigators exposed Iowa Select Farms roasting
+            pigs alive. It’s a process the industry calls “ventilation shutdown”
+            (VSD). It was used to kill thousands of healthy pigs in response to
+            slaughterhouse shutdowns caused by COVID-19.
+          </p>
+          <p>
+            Using hidden cameras, DxE captured pigs shrieking in agony at
+            temperatures of over 140ºF in these gruesome mass killings. Two to
+            three hours into the process, workers with bolt guns were seen
+            shooting any pigs that appeared to still be alive.
+          </p>
+          <p>
+            DxE activists rescued one piglet, named her Gilly, and brought her
+            to sanctuary to live out her life in peace. Investigators Matt
+            Johnson and Linda Cridge are facing felony burglary charges because
+            of Gilly's rescue. Matt and Linda's trials are scheduled for
+            December 2021.
+          </p>
         </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
           <Case
@@ -57,10 +69,10 @@ const Home: NextPage = () => {
           />
 
           <Case
-            name="Iowa Select Farms"
-            location="Wright County, Iowa"
-            page="iowa"
-            image="iowa.jpg"
+            name="Sospiro Ranch"
+            location="North Carolina"
+            page="rain"
+            image="rain.jpg"
           />
 
           <Case
@@ -95,6 +107,17 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
+        <Announcement
+          title="Transylvania County, North Carolina"
+          date="Dec. 6, 2021"
+          image="rain.jpg"
+          featured
+        >
+          GUILTY: The jury found Wayne guilty on both counts: felony breaking or
+          entering and felony larceny. The Judge issued a suspended sentence.
+          Wayne will have to do two years of supervised probation and pay $250
+          in restitution, but no jail time. He plans to appeal.
+        </Announcement>
         <Announcement
           title="Sanpete County, Utah"
           date="Nov. 24, 2021"

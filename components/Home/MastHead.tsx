@@ -1,5 +1,6 @@
 import { Link as ScrollLink } from "react-scroll";
 import Link from "next/link";
+import { Button } from "react-bootstrap";
 
 export const MastHead = (props: MastHeadProps) => {
   return (
@@ -48,9 +49,9 @@ export const MastHead = (props: MastHeadProps) => {
 
           {props.takeActionPage && (
             <Link href={props.takeActionPage}>
-              <a className="btn btn-secondary mx-2 fade-in-third">
+              <Button variant="secondary" className="mx-2 my-2 fade-in-third">
                 Take Action
-              </a>
+              </Button>
             </Link>
           )}
         </div>

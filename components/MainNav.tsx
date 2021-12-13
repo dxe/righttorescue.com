@@ -5,8 +5,6 @@ import { Link as ScrollLink } from "react-scroll";
 import { useRouter } from "next/router";
 import PageLink from "next/link";
 
-// TODO: ensure nav links work on home & other pages
-
 const SHRINK_OFFSET = 15;
 
 export const MainNav = () => {
@@ -52,7 +50,6 @@ export const MainNav = () => {
           />
           <Navbar.Collapse className="ml-auto" id="basic-navbar-nav">
             <Nav className="ms-auto">
-              {/*TODO: just calculate the achor link based on page link*/}
               <Link to="sign" isNavLink={true} onClick={collapseNavbar}>
                 Sign
               </Link>

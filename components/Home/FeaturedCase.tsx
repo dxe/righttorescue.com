@@ -15,7 +15,7 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
 
         <Row>
           <Col lg={6} className="mb-5">
-            <Ratio aspectRatio="16x9">
+            <Ratio aspectRatio={props.videoRatio}>
               <iframe
                 className="embed-responsive-item"
                 src={props.video}
@@ -26,8 +26,8 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
           </Col>
 
           <Col lg={6} className="mb-5">
-            <p>{props.children}</p>
-            <p className="text-white mt-4 mb-5 text-center">
+            {props.children}
+            <p className="text-white mt-4 mb-5 text-center mx-auto">
               <Link href={props.page}>
                 <Button>Learn more</Button>
               </Link>
@@ -44,5 +44,6 @@ interface FeaturedCaseProps {
   name: string;
   page: string;
   video: string;
+  videoRatio: string;
   children: any;
 }

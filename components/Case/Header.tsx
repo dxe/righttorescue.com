@@ -1,5 +1,4 @@
 export const Header = (props: HeaderProps) => {
-  // TODO: handle props like this in other components too
   return (
     <section id="sign" className="about-section text-center pb-3">
       <div className="container pt-5 justify-content-center">
@@ -12,7 +11,6 @@ export const Header = (props: HeaderProps) => {
           <div className="col-lg-7 py-3">
             <div>
               <div className={`ratio ratio-${props.videoRatio}`}>
-                {/*TODO: ensure this works w/ FB or YT*/}
                 <iframe
                   src={props.video}
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
