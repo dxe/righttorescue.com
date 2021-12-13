@@ -19,21 +19,33 @@ export const Footer = () => {
               className="mx-2"
               target="_blank"
             >
-              <FontAwesomeIcon icon={faTwitter} size="lg" style={{ maxWidth: 30 }} />
+              <FontAwesomeIcon
+                icon={faTwitter}
+                size="lg"
+                style={{ maxWidth: 30 }}
+              />
             </a>
             <a
               href="http://facebook.com/directactioneverywhere"
               className="mx-2"
               target="_blank"
             >
-              <FontAwesomeIcon icon={faFacebook} size="lg" style={{ maxWidth: 30 }} />
+              <FontAwesomeIcon
+                icon={faFacebook}
+                size="lg"
+                style={{ maxWidth: 30 }}
+              />
             </a>
             <a
               href="http://instagram.com/directactioneverywhere"
               className="mx-2"
               target="_blank"
             >
-              <FontAwesomeIcon icon={faInstagram} size="lg" style={{ maxWidth: 30 }} />
+              <FontAwesomeIcon
+                icon={faInstagram}
+                size="lg"
+                style={{ maxWidth: 30 }}
+              />
             </a>
           </div>
         </div>

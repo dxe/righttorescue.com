@@ -21,6 +21,7 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
                 src={props.video}
                 allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                 allowFullScreen
+                loading="lazy"
               ></iframe>
             </Ratio>
           </Col>

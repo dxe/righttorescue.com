@@ -16,6 +16,7 @@ export const Header = (props: HeaderProps) => {
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
                   allowFullScreen
                   style={{ borderRadius: 10 }}
+                  loading="lazy"
                 ></iframe>
               </div>
             </div>

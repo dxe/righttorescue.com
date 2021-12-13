@@ -5,7 +5,11 @@ export const Details = (props: DetailsProps) => {
         <div className="row">
           {props.image && (
             <div className="col-lg-5 order-lg-2 mx-auto">
-              <img className="img-fluid mb-3" src={`img/${props.image}`} alt="" />
+              <img
+                className="img-fluid mb-3"
+                src={`img/${props.image}`}
+                alt=""
+              />
             </div>
           )}
 
