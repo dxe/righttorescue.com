@@ -35,9 +35,10 @@ const RidglanFarms: NextPage = () => {
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
-          When Paul was a roofer in West Virginia, they worked on farms and saw
-          animal abuse up close. Those experiences helped lead them to becoming
-          an animal rights activist.
+          Eva is a researcher with Pax Fauna, a nonprofit that seeks to improve
+          the ways animal advocates organize, take action, and communicate with
+          the public. She currently lives in Boulder, Colorado, where she enjoys
+          hiking, biking, and fostering puppies.
         </Bio>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
           When Paul was a roofer in West Virginia, they worked on farms and saw

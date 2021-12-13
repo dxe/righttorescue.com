@@ -2,7 +2,7 @@
  * Start Bootstrap - Grayscale v5.0.9 (https://startbootstrap.com/template-overviews/grayscale)
  * Copyright 2013-2019 Start Bootstrap
  * Licensed under MIT (https://github.com/BlackrockDigital/startbootstrap-grayscale/blob/master/LICENSE)
- * Modifications made by Jake Hobbs
+ * Modifications made by DxE
  */
 
 .fade-in-first {
@@ -248,11 +248,11 @@
 }
 
 .projects-section {
-  padding: 5rem 0;
+  padding: 3rem 0;
 }
 
 .projects-section .featured-text {
-  padding: 0rem 2rem 2rem 2rem;
+  padding: 1rem 2rem 2rem 2rem;
 }
 
 .projects-section .featured-text-law {
