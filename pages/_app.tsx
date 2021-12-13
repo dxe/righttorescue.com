@@ -5,9 +5,7 @@ import type { AppProps } from "next/app";
 import { useEffect } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
-import { MainNav } from "../components/MainNav";
-import { Support } from "../components/Support";
-import { Footer } from "../components/Footer";
+import Layout from "../components/Layout";
 
 // TODO: maybe don't declare the page layout here since it's also used for things like the 404 page?
 // or maybe just update the 404 page to have a dark background?
@@ -75,10 +73,9 @@ function MyApp({ Component, pageProps }: AppProps) {
           style={{ display: "none", visibility: "hidden" }}
         ></iframe>
       </noscript>
-      <MainNav />
-      <Component {...pageProps} />
-      <Support />
-      <Footer />
+      <Layout>
+        <Component {...pageProps} />
+      </Layout>
     </SSRProvider>
   );
 }

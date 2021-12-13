@@ -26,7 +26,7 @@ export const Support = () => {
                 id="donateButton"
                 className="btn btn-primary mx-auto donateButton"
                 aria-label="Donate"
-                data-formId="8475"
+                data-formid="8475"
               >
                 Donate
               </a>

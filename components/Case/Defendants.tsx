@@ -21,7 +21,6 @@ export const Defendants = (props: DefendantsProps) => {
           </div>
         </div>
 
-        {/* TODO: set the # of columns based on the # of children */}
         <Row
           xs={1}
           md={defendantCount > 1 ? 2 : 1}

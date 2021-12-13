@@ -2,7 +2,7 @@ import { NextPage } from "next";
 import { Header } from "../components/Case/Header";
 import { Details } from "../components/Case/Details";
 import { Defendants } from "../components/Case/Defendants";
-import { Defendant } from "../components/Case/Defendant";
+import { Bio } from "../components/Case/Bio";
 import { Press } from "../components/Case/Press";
 import { Article } from "../components/Case/Article";
 
@@ -33,16 +33,16 @@ const SmithfieldUtah: NextPage = () => {
         take place in 2022.
       </Details>
       <Defendants>
-        <Defendant name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
+        <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
           When Paul was a roofer in West Virginia, they worked on farms and saw
           animal abuse up close. Those experiences helped lead them to becoming
           an animal rights activist.
-        </Defendant>
-        <Defendant name="Wayne Hsiung" image="sf-ut-wayne.jpg">
+        </Bio>
+        <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
           network, Direct Action Everywhere. He has investigated dozens of farms
           and currently faces 16 felonies for rescuing sick animals.
-        </Defendant>
+        </Bio>
       </Defendants>
       <Press>
         <Article

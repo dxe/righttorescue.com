@@ -3,13 +3,22 @@ export const Details = (props: DetailsProps) => {
     <section id="description" className="projects-section bg-light">
       <div className="container">
         <div className="row">
-          <div className="col-lg-5 order-lg-2 mx-auto">
-            {/*TODO: use next image here (dimensions known or unknown?)*/}
-            <img className="img-fluid mb-3" src={`img/${props.image}`} />
-          </div>
+          {props.image && (
+            <div className="col-lg-5 order-lg-2 mx-auto">
+              {/*TODO: use next image here (dimensions known or unknown?)*/}
+              <img className="img-fluid mb-3" src={`img/${props.image}`} />
+            </div>
+          )}
 
-          <div className="col-lg-7 order-lg-1 my-auto mx-auto">
-            <p>{props.children}</p>
+          <div
+            className={`${
+              props.image ? "col-lg-7" : "col-lg-12"
+            } order-lg-1 my-auto mx-auto details-children-wrapper`}
+          >
+            <style>{`
+              .details-children-wrapper h4 { margin-top: 40px; margin-bottom: 10px; }
+          `}</style>
+            <div>{props.children}</div>
           </div>
         </div>
       </div>
@@ -18,6 +27,6 @@ export const Details = (props: DetailsProps) => {
 };
 
 interface DetailsProps {
-  image: string;
+  image?: string;
   children: any;
 }

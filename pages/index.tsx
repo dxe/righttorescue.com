@@ -8,9 +8,6 @@ import { Announcements } from "../components/Home/Announcements";
 import { Announcement } from "../components/Home/Announcement";
 
 const Home: NextPage = () => {
-  {
-    /*TODO: use "layout" next.js function to set normal page layout so you don't need to specify header, footer, etc. */
-  }
   return (
     <>
       <MastHead image="bg-masthead-rain.jpeg" takeActionPage="rain.html" />
