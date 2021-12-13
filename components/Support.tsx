@@ -1,4 +1,7 @@
 import Script from "next/script";
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import { faHeart } from "@fortawesome/free-solid-svg-icons";
+import { Button } from "react-bootstrap";
 
 export const Support = () => {
   return (
@@ -16,20 +19,23 @@ export const Support = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-10 col-lg-8 mx-auto text-center">
-              <i className="far fa-heart fa-2x mb-2 text-white"></i>
               <h2 className="text-white mb-5">
                 Your support allows us to stand up to legal repression and
                 continue our groundbreaking work
               </h2>
-
-              <a
+              <Button
+                style={{ minWidth: 250 }}
                 id="donateButton"
-                className="btn btn-primary mx-auto donateButton"
+                className="donateButton"
                 aria-label="Donate"
                 data-formid="8475"
               >
+                <FontAwesomeIcon
+                  icon={faHeart}
+                  style={{ maxWidth: 20, marginRight: 15 }}
+                />
                 Donate
-              </a>
+              </Button>
             </div>
           </div>
         </div>

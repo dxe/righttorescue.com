@@ -1,26 +1,22 @@
 import { Col } from "react-bootstrap";
-import Image from "next/image";
 import Link from "next/link";
 
 export const Case = (props: CaseProps) => {
   return (
     <Col>
-      <Link href={props.page}>
+      <Link href={`/${props.page}`} passHref>
         <div style={{ position: "relative", cursor: "pointer" }}>
-          <Image src={`/img/${props.image}`} height={500} width={700} alt="" />
+          <img src={`/img/${props.image}`} className="img-fluid" alt="" />
           {props.past && <div className="past-case-text">Past Case</div>}
         </div>
       </Link>
 
-      <div
-        className="featured-text text-center text-lg-left"
-        style={{ marginTop: -7 }}
-      >
-        <Link href={props.page}>
+      <div className="featured-text text-center text-lg-left">
+        <Link href={`/${props.page}`} passHref>
           <h4 style={{ cursor: "pointer" }}>{props.name}</h4>
         </Link>
 
-        <Link href={props.page}>
+        <Link href={`/${props.page}`} passHref>
           <h5 style={{ cursor: "pointer" }}>{props.location}</h5>
         </Link>
       </div>

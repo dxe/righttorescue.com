@@ -1,6 +1,6 @@
 import { NextPage } from "next";
-import { Header } from "../components/Case/Header";
-import { Details } from "../components/Case/Details";
+import { Header } from "../components/CasePage/Header";
+import { Details } from "../components/CasePage/Details";
 
 const Diestel: NextPage = () => {
   return (

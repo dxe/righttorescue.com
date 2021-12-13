@@ -1,7 +1,7 @@
-import { Header } from "../components/Case/Header";
-import { Details } from "../components/Case/Details";
-import { Defendants } from "../components/Case/Defendants";
-import { Bio } from "../components/Case/Bio";
+import { Header } from "../components/CasePage/Header";
+import { Details } from "../components/CasePage/Details";
+import { Defendants } from "../components/CasePage/Defendants";
+import { Bio } from "../components/CasePage/Bio";
 import { NextPage } from "next";
 
 const RidglanFarms: NextPage = () => {

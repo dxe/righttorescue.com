@@ -1,3 +1,10 @@
+import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
+import {
+  faFacebook,
+  faInstagram,
+  faTwitter,
+} from "@fortawesome/free-brands-svg-icons";
+
 export const Footer = () => {
   const currentYear = new Date().getFullYear();
   return (
@@ -12,21 +19,21 @@ export const Footer = () => {
               className="mx-2"
               target="_blank"
             >
-              <i className="fab fa-twitter"></i>
+              <FontAwesomeIcon icon={faTwitter} style={{ maxWidth: 30 }} />
             </a>
             <a
               href="http://facebook.com/directactioneverywhere"
               className="mx-2"
               target="_blank"
             >
-              <i className="fab fa-facebook-f"></i>
+              <FontAwesomeIcon icon={faFacebook} style={{ maxWidth: 30 }} />
             </a>
             <a
               href="http://instagram.com/directactioneverywhere"
               className="mx-2"
               target="_blank"
             >
-              <i className="fab fa-instagram"></i>
+              <FontAwesomeIcon icon={faInstagram} style={{ maxWidth: 30 }} />
             </a>
           </div>
         </div>

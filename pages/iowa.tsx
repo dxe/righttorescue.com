@@ -1,10 +1,10 @@
 import { NextPage } from "next";
-import { Header } from "../components/Case/Header";
-import { Details } from "../components/Case/Details";
-import { Defendants } from "../components/Case/Defendants";
-import { Bio } from "../components/Case/Bio";
-import { Press } from "../components/Case/Press";
-import { Article } from "../components/Case/Article";
+import { Header } from "../components/CasePage/Header";
+import { Details } from "../components/CasePage/Details";
+import { Defendants } from "../components/CasePage/Defendants";
+import { Bio } from "../components/CasePage/Bio";
+import { Press } from "../components/CasePage/Press";
+import { Article } from "../components/CasePage/Article";
 
 const Iowa: NextPage = () => {
   return (

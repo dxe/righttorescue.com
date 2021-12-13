@@ -6,6 +6,7 @@ import { useEffect } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
 import Layout from "../components/Layout";
+import Script from "next/script";
 
 const GTM_CONFIG = "GTM-NCX3NJC";
 
@@ -28,18 +29,16 @@ function MyApp({ Component, pageProps }: AppProps) {
           content="Help the whistleblowers facing prison time for exposing factory farm abuses and rescuing suffering animals"
         />
         <meta property="og:image" content="img/og-image.png" />
-        <link rel="icon" type="image/png" href="img/favicon.png" />
+        <link rel="icon" type="image/png" href="favicon.ico" />
         <title>Right to Rescue</title>
-        <script
-          src={`https://www.googletagmanager.com/gtag/js?id=${GTM_CONFIG}`}
-          defer
-        />
-        <script
-          id="gtm"
-          defer
-          dangerouslySetInnerHTML={{
-            __html: `
-            (function (w, d, s, l, i) {
+      </Head>
+      <Script
+        src={`https://www.googletagmanager.com/gtag/js?id=${GTM_CONFIG}`}
+        strategy="afterInteractive"
+      />
+      <Script id="google-analytics" strategy="afterInteractive">
+        {`
+          (function (w, d, s, l, i) {
               w[l] = w[l] || [];
               w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
               var f = d.getElementsByTagName(s)[0],
@@ -49,19 +48,8 @@ function MyApp({ Component, pageProps }: AppProps) {
               j.src = "https://www.googletagmanager.com/gtm.js?id=" + i + dl;
               f.parentNode.insertBefore(j, f);
             })(window, document, "script", "dataLayer", "${GTM_CONFIG}");
-          `,
-          }}
-        />
-        {/*TODO: add font awesome (ensure it works for petition share buttons too) */}
-        <link
-          href="https://fonts.googleapis.com/css?family=Varela+Round"
-          rel="stylesheet"
-        />
-        <link
-          href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i"
-          rel="stylesheet"
-        />
-      </Head>
+        `}
+      </Script>
       <noscript>
         <iframe
           src={`https://www.googletagmanager.com/ns.html?id=${GTM_CONFIG}`}

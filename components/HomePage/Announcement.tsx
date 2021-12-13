@@ -1,5 +1,4 @@
 import React from "react";
-import Image from "next/image";
 
 export const Announcement = (props: AnnouncementProps) => {
   return (
@@ -12,10 +11,8 @@ export const Announcement = (props: AnnouncementProps) => {
     >
       {props.image && (
         <div style={{ maxWidth: 100, minWidth: 100 }}>
-          <Image
+          <img
             src={`/img/updates/${props.image}`}
-            height={400}
-            width={400}
             alt=""
             className="update-image"
           />

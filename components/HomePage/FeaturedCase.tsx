@@ -28,7 +28,7 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
           <Col lg={6} className="mb-5">
             {props.children}
             <p className="text-white mt-4 mb-5 text-center mx-auto">
-              <Link href={props.page}>
+              <Link href={`/${props.page}`} passHref>
                 <Button>Learn more</Button>
               </Link>
             </p>

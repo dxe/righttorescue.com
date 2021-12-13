@@ -1,11 +1,11 @@
 import type { NextPage } from "next";
-import { MastHead } from "../components/Home/MastHead";
-import { Letter } from "../components/Home/Letter";
-import { CasesSection } from "../components/Home/CasesSection";
+import { MastHead } from "../components/HomePage/MastHead";
+import { Letter } from "../components/HomePage/Letter";
+import { CasesSection } from "../components/HomePage/CasesSection";
 import React from "react";
-import { Case } from "../components/Home/Case";
-import { Announcements } from "../components/Home/Announcements";
-import { Announcement } from "../components/Home/Announcement";
+import { Case } from "../components/HomePage/Case";
+import { Announcements } from "../components/HomePage/Announcements";
+import { Announcement } from "../components/HomePage/Announcement";
 
 const Home: NextPage = () => {
   return (
