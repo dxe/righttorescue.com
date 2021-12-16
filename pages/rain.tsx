@@ -17,8 +17,9 @@ const Rain: NextPage = () => {
         ctaText1="Contact Gov. Cooper"
         ctaLink1="https://governor.nc.gov/contact/contact-governor-cooper"
       >
-        Ask Governor Cooper to issue a pardon and acknowledge the right to rescue animals.
-        </Header>
+        Ask Governor Cooper to issue a pardon and acknowledge the right to
+        rescue animals.
+      </Header>
       <Details image="rain.jpg">
         DxE co-founder Wayne Hsiung was charged with felony counts of breaking
         or entering and larceny for rescuing a sick baby goat from a goat meat

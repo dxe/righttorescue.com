@@ -190,8 +190,8 @@ const Sunrise: NextPage = () => {
         <Article
           href="https://www.pressdemocrat.com/article/news/petaluma-protesters-urge-animal-rights-law/"
           iFramelyUrl="https://cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fwww.pressdemocrat.com%2Farticle%2Fnews%2Fpetaluma-protesters-urge-animal-rights-law%2F&key=f228a120ef238f04c4948018b7d4e843"
-       />
-          </Press>
+        />
+      </Press>
     </>
   );
 };
