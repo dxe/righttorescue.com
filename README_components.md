@@ -105,7 +105,11 @@ A single press article.
 An individual person's (a defendant or a lawyer) bio.
 
 ```
-<Bio name="Name goes here" image="Image name goes here">
+<Bio
+    name="Name goes here"
+    image="Image name goes here"
+    circle
+>
     Bio text goes here.
 </Bio>
 ```
