@@ -35,15 +35,19 @@ const Home: NextPage = () => {
             DxE activists rescued one piglet, named her Gilly, and brought her
             to sanctuary to live out her life in peace. Investigators Matt
             Johnson and Linda Cridge are facing felony burglary charges because
-            of Gilly's rescue. Matt and Linda's trials are scheduled for
-            December 2021. If you are able, please{" "}
-            <a
-              href="https://www.facebook.com/events/252765943398298"
-              target="_blank"
-              rel="noreferrer"
-            >
-              RSVP to join us in court.
-            </a>
+            of Gilly's rescue. Matt's trial is scheduled to begin January 20,
+            2022 at the Wright County Courthouse in Clarion, Iowa.{" "}
+            <strong>
+              If you are able, please{" "}
+              <a
+                href="https://www.facebook.com/events/252765943398298"
+                target="_blank"
+                rel="noreferrer"
+              >
+                RSVP to join us in court
+              </a>
+              .
+            </strong>
           </p>
         </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
