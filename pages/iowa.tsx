@@ -14,8 +14,6 @@ const Iowa: NextPage = () => {
         location="Iowa"
         video="https://www.youtube.com/embed/0Hf1YwIzN-k"
         videoRatio="1x1"
-        ctaText1="Email"
-        ctaLink1="esimonson@co.wright.ia.us"
       >
         Email Wright County Attorney Eric Simonson today to ask him to prosecute animal cruelty at Iowa Select Farms. His email is: esimonson@co.wright.ia.us.
       </Header>
