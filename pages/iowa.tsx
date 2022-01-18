@@ -14,10 +14,10 @@ const Iowa: NextPage = () => {
         location="Iowa"
         video="https://www.youtube.com/embed/0Hf1YwIzN-k"
         videoRatio="1x1"
-        ctaText1="Sign Up"
-        ctaLink1="https://www.directactioneverywhere.com/campaigns/dxe-expose-mass-killings-due-to-covid-19"
+        ctaText1="Email"
+        ctaLink1="esimonson@co.wright.ia.us"
       >
-        Join our campaign to expose the industry and #CancelAnimalAg.
+        Email Wright County Attorney Eric Simonson today to ask him to prosecute animal cruelty at Iowa Select Farms. His email is: esimonson@co.wright.ia.us.
       </Header>
       <Details>
         <h4>
