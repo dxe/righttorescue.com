@@ -33,46 +33,19 @@ const Iowa: NextPage = () => {
 
         <h4>Brutality like this is the result of a corrupt food system.</h4>
         <p>
-          The USDA is handing out millions of dollars to make up for the profit
+          The USDA handed out millions of dollars to make up for the profit
           companies lost from killing off their animals during the pandemic. A
-          producer like Iowa Select Farms can get hundreds of dollars for every
+          producer like Iowa Select Farms could get hundreds of dollars for every
           pig they killed and threw away.
         </p>
         <p>
           Instead of prosecuting the horrific animal cruelty at Iowa Select
           Farms, the state of Iowa came after the whistleblowers who exposed it.
-          In direct response to DxE’s investigations, the governor has signed a
+          In direct response to DxE’s investigations, Governor Kim Reynolds has signed a
           series of “ag-gag” bills into law to protect the industry from public
-          scrutiny. Matt Johnson is the first person to be charged under the new
+          scrutiny. Matt Johnson was the first person to be charged under Iowa's third "ag-gag"
           law, which was enacted less than two weeks after the release of DxE’s
-          exposé.
-        </p>
-
-        <h4>
-          The COVID-19 crisis put a spotlight on the horrors of animal
-          agriculture.
-        </h4>
-        <p>
-          Now more than ever, the world is paying attention to the reality of
-          animal agriculture, from diseases brewing inside factory farms, to the
-          routine endangerment of slaughterhouse workers, to “ventilation
-          shutdown” – the epitome of this industry’s disregard for life.
-        </p>
-        <p>
-          While the industry thinks they’re putting whistleblowers on trial, the
-          tables are being turned to put the industry on trial instead.
-          Activists and journalists are uniting in Iowa for this groundbreaking
-          case. We will show the public what the industry and government are
-          trying so hard to hide.
-        </p>
-        <p>
-          A victory in court could challenge the constitutionality of ag-gag
-          laws and establish a precedent for a new wave of anti-ag-gag
-          legislation. Imagine if instead of covering up animal cruelty, our
-          laws gave ordinary people the right to see inside these places, and
-          even rescue sick and suffering animals. With the victory of this case,
-          a chain reaction will be set to end ag-gag and enshrine the Right to
-          Rescue.
+          exposé. The day before Matt was set to start trial, all charges against him were dropped. This is a victory, but it is not the end. We are calling on Iowa county attorneys to prosecute Iowa Select Farms for animal cruelty and asking Governor Reynolds to end "ag-gag" laws that criminalize whistleblowing. 
         </p>
       </Details>
       <Defendants>
