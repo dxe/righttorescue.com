@@ -111,6 +111,10 @@ const Iowa: NextPage = () => {
           href="https://abcnews.go.com/US/wireStory/industry-foe-charged-iowas-food-trespassing-law-76952661"
           iFramelyUrl="https://cdn.iframe.ly/YEm2tMU?card=small"
         />
+        <Article
+          href="https://www.washingtonpost.com/business/second-case-dropped-against-man-who-exposed-iowa-hog-deaths/2022/01/20/d371fd94-7a1f-11ec-9dce-7313579de434_story.html"
+          iFramelyUrl="https://cdn.iframe.ly/tY7dxuc?card=small"
+        />
       </Press>
     </>
   );
