@@ -33,21 +33,9 @@ const Home: NextPage = () => {
           </p>
           <p>
             DxE activists rescued one piglet, named her Gilly, and brought her
-            to sanctuary to live out her life in peace. Investigators Matt
-            Johnson and Linda Cridge are facing felony burglary charges because
-            of Gilly's rescue. Matt's trial is scheduled to begin January 20,
-            2022 at the Wright County Courthouse in Clarion, Iowa.{" "}
-            <strong>
-              If you are able, please{" "}
-              <a
-                href="https://www.facebook.com/events/252765943398298"
-                target="_blank"
-                rel="noreferrer"
-              >
-                RSVP to join us in court
-              </a>
-              .
-            </strong>
+            to sanctuary to live out her life in peace. DxE investigator Matt
+            Johnson was facing felony burglary, wiretapping, and an "ag-gag" charge because
+            of the investigation and rescue. Matt’s trial was scheduled to begin Jan. 20, 2022, but the day before, all charges against him were dropped. This is a victory, but it is not the end. We are calling on Iowa county attorneys to prosecute Iowa Select Farms for animal cruelty and asking Governor Reynolds to end "ag-gag" laws that criminalize whistleblowing.
           </p>
         </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
