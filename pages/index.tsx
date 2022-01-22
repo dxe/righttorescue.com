@@ -149,6 +149,15 @@ const Home: NextPage = () => {
           .
         </Announcement>
 
+         <Announcement
+          title="Wright County, Iowa"
+          date="Jan. 19, 2022"
+          image="mj.jpg"
+          featured
+        >
+          VICTORY! Just one day before trial was set to begin, all charges against DxE investigator Matt Johnson were DROPPED. International media outlets had requested coverage and people from around the country were planning to attend the trial to support the right to rescue. Could it be that the industry got scared of the public attention? We were going to expose Iowa Select Farms’ gruesome cruelty in court, but instead of going away, we are now using this victory as an opportunity to keep fighting "ag-gag" laws and defending the Right to Rescue.
+        </Announcement>
+       
         <Announcement
           title="Dane County, Wisconsin"
           date="Aug. 18, 2021"
