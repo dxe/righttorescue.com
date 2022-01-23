@@ -34,8 +34,13 @@ const Home: NextPage = () => {
           <p>
             DxE activists rescued one piglet, named her Gilly, and brought her
             to sanctuary to live out her life in peace. DxE investigator Matt
-            Johnson was facing felony burglary, wiretapping, and an "ag-gag" charge because
-            of the investigation and rescue. Matt’s trial was scheduled to begin Jan. 20, 2022, but the day before, all charges against him were dropped. This is a victory, but it is not the end. We are calling on Iowa county attorneys to prosecute Iowa Select Farms for animal cruelty and asking Governor Reynolds to end "ag-gag" laws that criminalize whistleblowing.
+            Johnson was facing felony burglary, wiretapping, and an "ag-gag"
+            charge because of the investigation and rescue. Matt’s trial was
+            scheduled to begin Jan. 20, 2022, but the day before, all charges
+            against him were dropped. This is a victory, but it is not the end.
+            We are calling on Iowa county attorneys to prosecute Iowa Select
+            Farms for animal cruelty and asking Governor Reynolds to end
+            "ag-gag" laws that criminalize whistleblowing.
           </p>
         </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
@@ -112,9 +117,17 @@ const Home: NextPage = () => {
           image="mj.jpg"
           featured
         >
-          VICTORY! Just one day before trial was set to begin, all charges against DxE investigator Matt Johnson were DROPPED. International media outlets had requested coverage and people from around the country were planning to attend the trial to support the right to rescue. Could it be that the industry got scared of the public attention? We were going to expose Iowa Select Farms’ gruesome cruelty in court, but instead of going away, we are now using this victory as an opportunity to keep fighting "ag-gag" laws and defending the Right to Rescue.
+          VICTORY! Just one day before trial was set to begin, all charges
+          against DxE investigator Matt Johnson were DROPPED. International
+          media outlets had requested coverage and people from around the
+          country were planning to attend the trial to support the right to
+          rescue. Could it be that the industry got scared of the public
+          attention? We were going to expose Iowa Select Farms’ gruesome cruelty
+          in court, but instead of going away, we are now using this victory as
+          an opportunity to keep fighting "ag-gag" laws and defending the Right
+          to Rescue.
         </Announcement>
-        
+
         <Announcement
           title="Transylvania County, North Carolina"
           date="Dec. 6, 2021"
@@ -157,7 +170,7 @@ const Home: NextPage = () => {
           </a>
           .
         </Announcement>
-       
+
         <Announcement
           title="Dane County, Wisconsin"
           date="Aug. 18, 2021"
@@ -176,7 +189,6 @@ const Home: NextPage = () => {
           title="Grundy County, Iowa"
           date="Jan. 29, 2021"
           image="mj.jpg"
-          featured
         >
           More charges dropped! Investigator Matt Johnson who exposed pigs being
           roasted alive had his trespass case dismissed, as the company refuses
@@ -187,7 +199,6 @@ const Home: NextPage = () => {
           title="Grundy County, Iowa"
           date="Jan. 11, 2021"
           image="ch.jpg"
-          featured
         >
           Charges dropped! Last year, Cheyanne Holliday chained herself to the
           fence of an Iowa Select Farm during the campaign to end the use of

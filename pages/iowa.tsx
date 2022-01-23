@@ -15,7 +15,9 @@ const Iowa: NextPage = () => {
         video="https://www.youtube.com/embed/0Hf1YwIzN-k"
         videoRatio="1x1"
       >
-        Email Wright County Attorney Eric Simonson today to politely ask him to prosecute animal cruelty at Iowa Select Farms. His email is: esimonson@co.wright.ia.us.
+        Email Wright County Attorney Eric Simonson today to politely ask him to
+        prosecute animal cruelty at Iowa Select Farms. His email is:
+        esimonson@co.wright.ia.us.
       </Header>
       <Details>
         <h4>
@@ -35,17 +37,21 @@ const Iowa: NextPage = () => {
         <p>
           The USDA handed out millions of dollars to make up for the profit
           companies lost from killing off their animals during the pandemic. A
-          producer like Iowa Select Farms could get hundreds of dollars for every
-          pig they killed and threw away.
+          producer like Iowa Select Farms could get hundreds of dollars for
+          every pig they killed and threw away.
         </p>
         <p>
           Instead of prosecuting the horrific animal cruelty at Iowa Select
           Farms, the state of Iowa came after the whistleblowers who exposed it.
-          In direct response to DxE’s investigations, Governor Kim Reynolds has signed a
-          series of “ag-gag” bills into law to protect the industry from public
-          scrutiny. Matt Johnson was the first person to be charged under Iowa's third "ag-gag"
-          law, which was enacted less than two weeks after the release of DxE’s
-          exposé. The day before Matt was set to start trial, all charges against him were dropped. This is a victory, but it is not the end. We are calling on Iowa county attorneys to prosecute Iowa Select Farms for animal cruelty and asking Governor Reynolds to end "ag-gag" laws that criminalize whistleblowing. 
+          In direct response to DxE’s investigations, Governor Kim Reynolds has
+          signed a series of “ag-gag” bills into law to protect the industry
+          from public scrutiny. Matt Johnson was the first person to be charged
+          under Iowa's third "ag-gag" law, which was enacted less than two weeks
+          after the release of DxE’s exposé. The day before Matt was set to
+          start trial, all charges against him were dropped. This is a victory,
+          but it is not the end. We are calling on Iowa county attorneys to
+          prosecute Iowa Select Farms for animal cruelty and asking Governor
+          Reynolds to end "ag-gag" laws that criminalize whistleblowing.
         </p>
       </Details>
       <Defendants>
