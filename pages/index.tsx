@@ -35,12 +35,14 @@ const Home: NextPage = () => {
             DxE activists rescued one piglet, named her Gilly, and brought her
             to sanctuary to live out her life in peace. DxE investigator Matt
             Johnson was facing felony burglary, wiretapping, and an "ag-gag"
-            charge because of the investigation and rescue. Matt’s trial was
-            scheduled to begin Jan. 20, 2022, but the day before, all charges
-            against him were dropped. This is a victory, but it is not the end.
-            We are calling on Iowa county attorneys to prosecute Iowa Select
-            Farms for animal cruelty and asking Governor Reynolds to end
-            "ag-gag" laws that criminalize whistleblowing.
+            charge because of the investigation and rescue.
+          </p>
+          <p>
+            Matt’s trial was scheduled to begin Jan. 20, 2022, but the day
+            before, all charges against him were dropped. This is a victory, but
+            it is not the end. We are calling on Iowa county attorneys to
+            prosecute Iowa Select Farms for animal cruelty and asking Governor
+            Reynolds to end "ag-gag" laws that criminalize whistleblowing.
           </p>
         </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
