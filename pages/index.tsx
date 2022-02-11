@@ -10,7 +10,7 @@ import { Announcement } from "../components/HomePage/Announcement";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="sunrise.jpg" takeActionPage="iowa" />
+      <MastHead image="sf-ut.jpg" takeActionPage="iowa" />
       <Letter />
       <CasesSection>
         <CasesSection.FeaturedCase
