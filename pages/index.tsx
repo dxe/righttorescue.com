@@ -10,41 +10,9 @@ import { Announcement } from "../components/HomePage/Announcement";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="sf-ut.jpg" takeActionPage="iowa" />
+      <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
       <Letter />
       <CasesSection>
-        <CasesSection.FeaturedCase
-          name="Rescuing Gilly from Iowa Select Farms"
-          page="iowa"
-          video="https://www.youtube.com/embed/0Hf1YwIzN-k"
-          videoRatio="1x1"
-        >
-          <p>
-            In May 2020, DxE investigators exposed Iowa Select Farms roasting
-            pigs alive. It’s a process the industry calls “ventilation shutdown”
-            (VSD). It was used to kill thousands of healthy pigs in response to
-            slaughterhouse shutdowns caused by COVID-19.
-          </p>
-          <p>
-            Using hidden cameras, DxE captured pigs shrieking in agony at
-            temperatures of over 140ºF in these gruesome mass killings. Two to
-            three hours into the process, workers with bolt guns were seen
-            shooting any pigs that appeared to still be alive.
-          </p>
-          <p>
-            DxE activists rescued one piglet, named her Gilly, and brought her
-            to sanctuary to live out her life in peace. DxE investigator Matt
-            Johnson was facing felony burglary, wiretapping, and an "ag-gag"
-            charge because of the investigation and rescue.
-          </p>
-          <p>
-            Matt’s trial was scheduled to begin Jan. 20, 2022, but the day
-            before, all charges against him were dropped. This is a victory, but
-            it is not the end. We are calling on Iowa county attorneys to
-            prosecute Iowa Select Farms for animal cruelty and asking Governor
-            Reynolds to end "ag-gag" laws that criminalize whistleblowing.
-          </p>
-        </CasesSection.FeaturedCase>
         <CasesSection.CaseList>
           <Case
             name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
@@ -108,6 +76,14 @@ const Home: NextPage = () => {
             location="Scotland County, North Carolina"
             page="sf-nc"
             image="sf-nc.jpg"
+            past
+          />
+
+          <Case
+            name="Iowa Select Farms"
+            location="Iowa"
+            page="iowa"
+            image="iowa.jpg"
             past
           />
         </CasesSection.CaseList>

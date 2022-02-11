@@ -62,5 +62,5 @@ export const MastHead = (props: MastHeadProps) => {
 
 interface MastHeadProps {
   image: string;
-  takeActionPage: string;
+  takeActionPage?: string;
 }
