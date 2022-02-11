@@ -30,7 +30,7 @@ const SmithfieldUtah: NextPage = () => {
         the piglets, raiding sanctuaries and even cutting off part of a pig’s
         ear to do DNA testing. Two of the rescuers are facing 60 years in
         prison. Their trial was delayed due to the pandemic; it is expected to
-        take place in 2022.
+        take place in 2022 or 2023.
       </Details>
       <Defendants>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
