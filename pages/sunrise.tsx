@@ -31,9 +31,7 @@ const Sunrise: NextPage = () => {
         the government ignored repeated reports of criminal animal cruelty.
         Thirteen activists face criminal charges, including a total of 47
         felonies. Trial was expected to begin in 2020, but the COVID-19 pandemic
-        delayed the court schedule. Four felony defendants have preliminary
-        hearings set for November 2021, and two felony defendants have
-        preliminary hearings set for January 2022.
+        delayed the court schedule. Preliminary hearings are expected to occur in 2022, with trial following.
       </Details>
       <Defendants>
         <Bio name="Almira Tanner" image="almira.jpg">
