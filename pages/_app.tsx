@@ -2,15 +2,35 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../styles/globals.css";
 import "../styles/template.css"; // TODO: clean up styles
 import type { AppProps } from "next/app";
-import { useEffect } from "react";
+import React, { useEffect, useState } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
 import Layout from "../components/Layout";
 import Script from "next/script";
+import { DonateModal } from "../components/DonateModal";
+import { isAfter, isBefore, parseISO } from "date-fns";
 
 const GTM_CONFIG = "GTM-NCX3NJC";
 
+const DONATE_MODAL_START_DATE = parseISO("2022-05-24T15:00:00Z");
+const DONATE_MODAL_END_DATE = parseISO("2022-06-01T19:00:00Z");
+
 function MyApp({ Component, pageProps }: AppProps) {
+  const [isDonateModalOpen, setDonateModalOpen] = useState(false);
+
+  // Show donate modal between start & end date.
+  useEffect(() => {
+    const now = new Date();
+    if (
+      isAfter(now, DONATE_MODAL_START_DATE) &&
+      isBefore(now, DONATE_MODAL_END_DATE)
+    ) {
+      setTimeout(() => {
+        setDonateModalOpen(true);
+      }, 3000);
+    }
+  }, []);
+
   return (
     <SSRProvider>
       <Head>
@@ -55,6 +75,10 @@ function MyApp({ Component, pageProps }: AppProps) {
       </noscript>
       <Layout>
         <Component {...pageProps} />
+        <DonateModal
+          isOpen={isDonateModalOpen}
+          onClose={() => setDonateModalOpen(false)}
+        />
       </Layout>
     </SSRProvider>
   );

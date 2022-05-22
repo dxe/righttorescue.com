@@ -2,10 +2,11 @@ import type { NextPage } from "next";
 import { MastHead } from "../components/HomePage/MastHead";
 import { Letter } from "../components/HomePage/Letter";
 import { CasesSection } from "../components/HomePage/CasesSection";
-import React from "react";
+import React, { useEffect, useState } from "react";
 import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
+import { DonateModal } from "../components/DonateModal";
 
 const Home: NextPage = () => {
   return (
