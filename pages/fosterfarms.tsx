@@ -16,7 +16,7 @@ const FosterFarms: NextPage = () => {
         Share the video with #RightToRescue and stay tuned for more ways you can
         help.
       </Header>
-      <Details image="fj.png">
+      <Details image="Foster Farms rescue shot.png">
         In September 2021, two activists rescued birds from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA.
         They recently received larceny charges in the mail and have a court date in June 2022. Stay tuned for more information.  
       </Details>
