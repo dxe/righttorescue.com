@@ -53,7 +53,7 @@ const Home: NextPage = () => {
           <Case
           name="Foster Farms"
           location="Merced County, California"
-          page="foster farms"
+          page="fosterfarms"
           image="Foster Farms rescue shot.png"
          />
 
