@@ -10,8 +10,8 @@ const FosterFarms: NextPage = () => {
       <Header
         title="Foster Farms"
         location="Livingston, California"
-        video="https://www.youtube.com/watch?v=LxnIwWmFd1E"
-        videoRatio="1x1"
+        video="https://www.youtube.com/embed/LxnIwWmFd1E"
+        videoRatio="16x9"
       >
         Share the video with #RightToRescue and stay tuned for more ways you can
         help.
