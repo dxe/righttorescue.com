@@ -13,7 +13,7 @@ import { isAfter, isBefore, parseISO } from "date-fns";
 const GTM_CONFIG = "GTM-NCX3NJC";
 
 const DONATE_MODAL_START_DATE = parseISO("2022-05-24T15:00:00Z");
-const DONATE_MODAL_END_DATE = parseISO("2022-06-01T19:00:00Z");
+const DONATE_MODAL_END_DATE = parseISO("2022-05-31T17:00:00Z");
 
 function MyApp({ Component, pageProps }: AppProps) {
   const [isDonateModalOpen, setDonateModalOpen] = useState(false);

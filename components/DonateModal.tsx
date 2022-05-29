@@ -20,16 +20,24 @@ export const DonateModal: React.VFC<ModalProps> = ({ isOpen, onClose }) => {
           />
           <Row className="row g-3 text-center">
             <Col xs={12} lg={6} className="py-0 pb-3 py-md-5">
-              <p>We need your help</p>
+              <p>Sign up to be a monthly donor today!</p>
               <h1 className="pb-2 pb-md-4 px-3">
                 Show your support for the right to rescue
               </h1>
               <hr style={{ width: "50%", margin: "auto" }} />
-              <p className="py-3 py-md-5">
-                Sign up to be a monthly donor today to help the whistleblowers
-                facing prison time for exposing factory farm abuses and rescuing
-                suffering animals.
+              <p className="pt-4 mb-0">
+                New monthly donors of $15 a month will receive a limited edition
+                Right to Rescue mug!
               </p>
+              <div className="py-3">
+                <img
+                  src="/img/mug.png"
+                  alt="mug"
+                  height={92.5}
+                  width={100}
+                  style={{ margin: "auto" }}
+                />
+              </div>
               <Button
                 id="donateModalDonateButton"
                 data-formid="8475"
