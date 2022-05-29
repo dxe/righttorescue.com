@@ -42,10 +42,6 @@ const Norbest: NextPage = () => {
       </Defendants>
       <Press>
         <Article
-          href="https://theintercept.com/2018/05/04/six-animal-rights-activists-charged-with-felonies-for-investigation-and-rescue-that-led-to-punishment-of-a-utah-turkey-farm/"
-          iFramelyUrl="https://cdn.iframe.ly/nfH8dIG?card=small"
-        />
-        <Article
           href="https://www.cbsnews.com/news/as-thanksgiving-nears-animal-group-decry-conditions-at-turkey-farm/"
           iFramelyUrl="https://cdn.iframe.ly/WSUW50z?card=small"
         />
@@ -54,8 +50,8 @@ const Norbest: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/goyHan4?card=small"
         />
         <Article
-          href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
-          iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
+          href="https://theintercept.com/2018/05/04/six-animal-rights-activists-charged-with-felonies-for-investigation-and-rescue-that-led-to-punishment-of-a-utah-turkey-farm/"
+          iFramelyUrl="https://cdn.iframe.ly/nfH8dIG?card=small"
         />
       </Press>
     </>
