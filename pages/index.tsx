@@ -97,17 +97,16 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
-        <Announcement title="Beaver County, Utah" date="May 30, 2022">
+         <Announcement title="Beaver County, Utah" date="May 30, 2022">
           Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are organizing a convergence in Utah to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
             target="_blank"
           >
-            dxe.io/utahsignup
+            dxe.io/utahsignup.
           </a>
-          &nbsp;.
+          &nbsp;
         </Announcement>
-        
         <Announcement
           title="Wright County, Iowa"
           date="Jan. 19, 2022"
