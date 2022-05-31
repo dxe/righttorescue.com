@@ -69,6 +69,7 @@ const Home: NextPage = () => {
             location="San Joaquin County, California"
             page="pv"
             image="pv.jpg"
+            past
           />
 
           <Case
