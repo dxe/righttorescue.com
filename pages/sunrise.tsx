@@ -80,17 +80,17 @@ const Sunrise: NextPage = () => {
           </h4>
           <p className="text-white">
             Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Alyssa
-            Landi, Amy Brown, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn,
-            Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad
+            Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn,
+            Cheyanne Holliday, Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad
             de Jesus, Corey Rowland, Daniela Habermehl, Dawn Michelle, Dean
             Wyrzykowski, Efrem Blitz, Emek Echo, Jake H., Jeyrama Robles,
-            Jocelyn Cole, Jorden Ruggles, Katt Cho, Kevin Baker, Kristina
-            Norris, Lauren Fluty, Leni Wasacz, Leslie Goldberg, Linda Cridge,
+            Jocelyn Cole, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker, Kristina
+            Norris, Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge,
             Lucy H., Madhu Anderson, Mandy Washburn, Marika Diaz, Marissa Garam,
             Mary McKee, Michael Goldberg, Michelle L., Monica Martella, Nena
             Salas, Nico Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman,
             Paul Nguyen, Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie
-            R., Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia Moore,
+            R., Sanjeev Deshpande, Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia Moore,
             Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
           </p>
         </Col>
