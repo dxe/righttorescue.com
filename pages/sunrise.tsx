@@ -42,12 +42,6 @@ const Sunrise: NextPage = () => {
           she’s not working, she’s most likely out on a run or going to a
           concert.
         </Bio>
-        <Bio name="Ana Mehl" image="am.jpg">
-          Ana is a plant-based chef who left her kitchen to investigate the
-          criminal animal cruelty rampant in California farms. In her time off,
-          she can be found spending time with her friends, human and nonhuman
-          alike.
-        </Bio>
         <Bio name="Cassie King" image="cassie.jpg">
           Cassie was an English major at UC Berkeley and now leads the
           Communications Committee for Direct Action Everywhere. She spends her
