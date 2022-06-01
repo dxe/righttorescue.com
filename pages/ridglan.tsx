@@ -48,7 +48,7 @@ const RidglanFarms: NextPage = () => {
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
           network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 16 felonies for rescuing sick animals.
+          and currently faces 11 felonies for rescuing sick animals.
         </Bio>
       </Defendants>
     </>
