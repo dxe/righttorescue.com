@@ -104,7 +104,7 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         > 
-          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are organizing a convergence in Utah to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp;
+          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
             target="_blank"
