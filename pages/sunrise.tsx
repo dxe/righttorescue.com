@@ -48,39 +48,10 @@ const Sunrise: NextPage = () => {
           free time writing stories, reading books, and playing with her bunnies
           who were both rescued from slaughter.
         </Bio>
-        <Bio name="Cheyanne Holliday" image="ch.jpg">
-          Cheyanne is the founder and president of the non-profit organization
-          PEACE: Promoting Equality, Acceptance & Compassion Everywhere. Two
-          years after becoming an activist, she opened an animal rights center,
-          vegan restaurant, community event space, art gallery, and theater in
-          the heart of animal agriculture: Fairfield, IA.
-        </Bio>
         <Bio name="Jon Frohnmayer" image="jon.jpg">
           A Stanford graduate and former lawyer with DLA Piper, Jon’s current
           focus is animal advocacy in the legislative system, as well as lots of
           yoga and meditation.
-        </Bio>
-        <Bio name="Kelly Landreth" image="kl.jpg">
-          Kelly is a bartender in Colorado whose personal experiences with
-          sexual harassment led her to sympathize with animals and recognize
-          that all oppression is connected.
-        </Bio>
-        <Bio name="Lance Wilson" image="lw.jpg">
-          Current real estate agent striving to become full-time activist after
-          attending the Animal Liberation Conference. Moved to San Diego from
-          St. Louis to get more involved in animal rights. Loves long, romantic
-          walks to vegan junk food!
-        </Bio>
-        <Bio name="Lawrence Cuneaz" image="lc.jpg">
-          Lawrence is a tech consultant from the Midwest. Being bullied in
-          school helped him recognize the helplessness of animals, and when he’s
-          not fighting for their liberation, he is working out or dancing.
-        </Bio>
-        <Bio name="Lewis Bernier" image="lb.jpg">
-          Lewis is an outdoorsman and bodybuilder who works to investigate
-          cruelty in animal agriculture. Since moving to the Bay Area, they have
-          exposed horrific conditions inside dozens of farms and slaughterhouses
-          across the United States.
         </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
           Growing up in India, Priya witnessed the suffering of countless street
@@ -92,11 +63,6 @@ const Sunrise: NextPage = () => {
           Rachel moved to California because of the thriving animal rights
           movement here. She works in a vegan restaurant, cares for rescued
           pigeons, and organizes protests with Direct Action Everywhere.
-        </Bio>
-        <Bio name="Sanjeev Deshpande" image="sd.jpg">
-          Sanjeev is a Silicon Valley software engineer who loves trying out
-          different adventure sports, learning cultures and languages, spending
-          time with animals in sanctuaries, and reading The New York Times.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
