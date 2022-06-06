@@ -135,6 +135,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/dozens-of-animal-welfare-activists-arrested-after-large-protest-at-petaluma/"
           iFramelyUrl="https://cdn.iframe.ly/cnhos0c?card=small"
         />
+         <Article
+          href="https://www.democracynow.org/2018/5/30/39_arrested_protesting_industrial_farm_supplying"
+          iFramelyUrl="//iframely.net/nkC42xv?card=small"
+        />
         <Article
           href="https://psmag.com/environment/why-did-the-chicken-activists-cross-the-road-to-start-a-debate-about-animal-cruelty"
           iFramelyUrl="https://cdn.iframe.ly/Y3W0uoC?card=small"
@@ -146,6 +150,10 @@ const Sunrise: NextPage = () => {
         <Article
           href="https://www.democracynow.org/2019/6/6/direct_action_everywhere_dxe_duck_farm"
           iFramelyUrl="https://cdn.iframe.ly/PihY1hc?card=small"
+        />
+        <Article
+          href="https://www.democracynow.org/2019/6/7/animal_rights_activists_cops_punish_protesters"
+          iFramelyUrl="//iframely.net/lhQt5Th?card=small"
         />
         <Article
           href="https://www.pressdemocrat.com/article/news/petaluma-protesters-urge-animal-rights-law/"
