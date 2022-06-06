@@ -68,6 +68,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
         />
+         <Article
+          href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
+          iFramelyUrl="https://cdn.iframe.ly.net/E9eGBuX?card=small"
+        />
       </Press>
     </>
   );
