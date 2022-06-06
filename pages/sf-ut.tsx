@@ -70,7 +70,7 @@ const SmithfieldUtah: NextPage = () => {
         />
          <Article
           href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
-          iFramelyUrl="https://cdn.iframe.ly.net/E9eGBuX?card=small"
+          iFramelyUrl="//iframely.net/E9eGBuX?card=small"
         />
       </Press>
     </>
