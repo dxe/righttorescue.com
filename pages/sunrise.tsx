@@ -147,6 +147,10 @@ const Sunrise: NextPage = () => {
           href="https://www.forbes.com/sites/janetwburns/2018/09/29/activists-occupy-amazon-chicken-supplier-to-treat-sick-starving-birds/"
           iFramelyUrl="https://cdn.iframe.ly/5icS5Hr?card=small"
         />
+          <Article
+          href="https://www.pressdemocrat.com/article/news/six-animal-welfare-activists-face-felony-charges-for-petaluma-chicken-farm/"
+          iFramelyUrl="//iframely.net/A2K8dJI?card=small"
+        />
         <Article
           href="https://www.democracynow.org/2019/6/6/direct_action_everywhere_dxe_duck_farm"
           iFramelyUrl="https://cdn.iframe.ly/PihY1hc?card=small"
