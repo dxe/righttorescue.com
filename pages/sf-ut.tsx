@@ -72,6 +72,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://theintercept.com/2022/01/30/animal-rights-activists-dxe-trial-evidence/"
           iFramelyUrl="//iframely.net/VYkJc5O?card=small"
         />
+        <Article
+          href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield"
+          iFramelyUrl="//iframely.net/eNnUV6s?card=small"
+        />
          <Article
           href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
           iFramelyUrl="//iframely.net/E9eGBuX?card=small"
