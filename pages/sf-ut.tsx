@@ -27,7 +27,14 @@ const SmithfieldUtah: NextPage = () => {
         DxE investigators Wayne Hsiung and Paul Darwin Picklesimer are being prosecuted for investigating the world’s largest “pork” producer, Smithfield Foods, and rescuing 2 sick piglets, Lily and Lizzie. In 2017, they infiltrated a massive Smithfield farm in the Utah desert, a facility that raises 1.3 million pigs for slaughter every year. They filmed the conditions inside in 360 degree virtual reality footage. Their footage, titled "Operation Deathstar," documented row after row of mother pigs crammed inside gestation crates barely bigger than their bodies and piles of dead piglets covered in their mothers' feces. They published the whole investigation and rescue online and in the New York Times to show the world the nightmarish cruelty happening inside Smithfield’s farms.  The story went viral when the FBI started hunting for
         the piglets, raiding sanctuaries and even cutting off part of a pig’s
         ear to do DNA testing.
-        Trial dates are finally set for Wayne and Paul in Utah: Sept. 9-16, 2022. DxE is organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at dxe.io/utahsignup. 
+        Trial dates are finally set for Wayne and Paul in Utah: Sept. 9-16, 2022. DxE is organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp; 
+        <a 
+           href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
+           target="_blank"
+           >
+           dxe.io/utahsignup. 
+          </a>
+        &nbsp;
       </Details>
       <Defendants>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
