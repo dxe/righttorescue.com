@@ -12,8 +12,8 @@ const SmithfieldUtah: NextPage = () => {
       <Header
         title="Smithfield"
         location="Utah"
-        video="https://www.youtube.com/embed/HDPTtM3tgEY"
-        videoRatio="1x1"
+        video="https://www.youtube.com/embed/wlSE1X-hSqQ"
+        videoRatio="16x9"
         ctaText1="Call: 435-438-6441"
         ctaLink1="tel:435-438-6441"
         ctaText2="Email"
