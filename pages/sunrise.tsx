@@ -42,51 +42,16 @@ const Sunrise: NextPage = () => {
           she’s not working, she’s most likely out on a run or going to a
           concert.
         </Bio>
-        <Bio name="Ana Mehl" image="am.jpg">
-          Ana is a plant-based chef who left her kitchen to investigate the
-          criminal animal cruelty rampant in California farms. In her time off,
-          she can be found spending time with her friends, human and nonhuman
-          alike.
-        </Bio>
         <Bio name="Cassie King" image="cassie.jpg">
           Cassie was an English major at UC Berkeley and now leads the
           Communications Committee for Direct Action Everywhere. She spends her
           free time writing stories, reading books, and playing with her bunnies
           who were both rescued from slaughter.
         </Bio>
-        <Bio name="Cheyanne Holliday" image="ch.jpg">
-          Cheyanne is the founder and president of the non-profit organization
-          PEACE: Promoting Equality, Acceptance & Compassion Everywhere. Two
-          years after becoming an activist, she opened an animal rights center,
-          vegan restaurant, community event space, art gallery, and theater in
-          the heart of animal agriculture: Fairfield, IA.
-        </Bio>
         <Bio name="Jon Frohnmayer" image="jon.jpg">
           A Stanford graduate and former lawyer with DLA Piper, Jon’s current
           focus is animal advocacy in the legislative system, as well as lots of
           yoga and meditation.
-        </Bio>
-        <Bio name="Kelly Landreth" image="kl.jpg">
-          Kelly is a bartender in Colorado whose personal experiences with
-          sexual harassment led her to sympathize with animals and recognize
-          that all oppression is connected.
-        </Bio>
-        <Bio name="Lance Wilson" image="lw.jpg">
-          Current real estate agent striving to become full-time activist after
-          attending the Animal Liberation Conference. Moved to San Diego from
-          St. Louis to get more involved in animal rights. Loves long, romantic
-          walks to vegan junk food!
-        </Bio>
-        <Bio name="Lawrence Cuneaz" image="lc.jpg">
-          Lawrence is a tech consultant from the Midwest. Being bullied in
-          school helped him recognize the helplessness of animals, and when he’s
-          not fighting for their liberation, he is working out or dancing.
-        </Bio>
-        <Bio name="Lewis Bernier" image="lb.jpg">
-          Lewis is an outdoorsman and bodybuilder who works to investigate
-          cruelty in animal agriculture. Since moving to the Bay Area, they have
-          exposed horrific conditions inside dozens of farms and slaughterhouses
-          across the United States.
         </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
           Growing up in India, Priya witnessed the suffering of countless street
@@ -99,15 +64,10 @@ const Sunrise: NextPage = () => {
           movement here. She works in a vegan restaurant, cares for rescued
           pigeons, and organizes protests with Direct Action Everywhere.
         </Bio>
-        <Bio name="Sanjeev Deshpande" image="sd.jpg">
-          Sanjeev is a Silicon Valley software engineer who loves trying out
-          different adventure sports, learning cultures and languages, spending
-          time with animals in sanctuaries, and reading The New York Times.
-        </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
           network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 16 felonies for rescuing sick animals.
+          and currently faces 11 felonies for rescuing sick animals.
         </Bio>
         <Col
           md={{ span: 12 }}
@@ -120,17 +80,17 @@ const Sunrise: NextPage = () => {
           </h4>
           <p className="text-white">
             Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Alyssa
-            Landi, Amy Brown, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn,
-            Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad
+            Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn,
+            Cheyanne Holliday, Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad
             de Jesus, Corey Rowland, Daniela Habermehl, Dawn Michelle, Dean
             Wyrzykowski, Efrem Blitz, Emek Echo, Jake H., Jeyrama Robles,
-            Jocelyn Cole, Jorden Ruggles, Katt Cho, Kevin Baker, Kristina
-            Norris, Lauren Fluty, Leni Wasacz, Leslie Goldberg, Linda Cridge,
+            Jocelyn Cole, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker, Kristina
+            Norris, Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge,
             Lucy H., Madhu Anderson, Mandy Washburn, Marika Diaz, Marissa Garam,
             Mary McKee, Michael Goldberg, Michelle L., Monica Martella, Nena
             Salas, Nico Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman,
             Paul Nguyen, Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie
-            R., Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia Moore,
+            R., Sanjeev Deshpande, Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia Moore,
             Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
           </p>
         </Col>
@@ -172,20 +132,32 @@ const Sunrise: NextPage = () => {
       </Lawyers>
       <Press>
         <Article
-          href="https://www.forbes.com/sites/janetwburns/2018/09/29/activists-occupy-amazon-chicken-supplier-to-treat-sick-starving-birds/"
-          iFramelyUrl="https://cdn.iframe.ly/5icS5Hr?card=small"
+          href="https://www.pressdemocrat.com/article/news/dozens-of-animal-welfare-activists-arrested-after-large-protest-at-petaluma/"
+          iFramelyUrl="https://cdn.iframe.ly/cnhos0c?card=small"
         />
-        <Article
-          href="https://www.democracynow.org/2019/6/6/direct_action_everywhere_dxe_duck_farm"
-          iFramelyUrl="https://cdn.iframe.ly/PihY1hc?card=small"
+         <Article
+          href="https://www.democracynow.org/2018/5/30/39_arrested_protesting_industrial_farm_supplying"
+          iFramelyUrl="//iframely.net/nkC42xv?card=small"
         />
         <Article
           href="https://psmag.com/environment/why-did-the-chicken-activists-cross-the-road-to-start-a-debate-about-animal-cruelty"
           iFramelyUrl="https://cdn.iframe.ly/Y3W0uoC?card=small"
         />
         <Article
-          href="https://www.pressdemocrat.com/article/news/dozens-of-animal-welfare-activists-arrested-after-large-protest-at-petaluma/"
-          iFramelyUrl="https://cdn.iframe.ly/cnhos0c?card=small"
+          href="https://www.forbes.com/sites/janetwburns/2018/09/29/activists-occupy-amazon-chicken-supplier-to-treat-sick-starving-birds/"
+          iFramelyUrl="https://cdn.iframe.ly/5icS5Hr?card=small"
+        />
+          <Article
+          href="https://www.pressdemocrat.com/article/news/six-animal-welfare-activists-face-felony-charges-for-petaluma-chicken-farm/"
+          iFramelyUrl="//iframely.net/A2K8dJI?card=small"
+        />
+        <Article
+          href="https://www.democracynow.org/2019/6/6/direct_action_everywhere_dxe_duck_farm"
+          iFramelyUrl="https://cdn.iframe.ly/PihY1hc?card=small"
+        />
+        <Article
+          href="https://www.democracynow.org/2019/6/7/animal_rights_activists_cops_punish_protesters"
+          iFramelyUrl="//iframely.net/lhQt5Th?card=small"
         />
         <Article
           href="https://www.pressdemocrat.com/article/news/petaluma-protesters-urge-animal-rights-law/"

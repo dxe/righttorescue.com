@@ -24,13 +24,10 @@ const PleasantValley: NextPage = () => {
         suffering, and the company received widespread public praise for
         committing to selling only cage-free eggs. But DxE’s exposé showed the
         world the horrific reality behind the “cage-free” label, in the
-        Washington Post, New York Times and more. We have appealed the court's
+        Washington Post, New York Times and more. We appealed the court's
         decision, but the Superior Court of California, County of San Joaquin,
         Appellate Division rejected our appeal by affirming the judge's original
-        decision. We have petitioned to transfer the case to the Court of Appeal
-        to see if they will hear it. In this case, the Court of Appeal's role is
-        similar to that of the Supreme Court in that it has discretion to choose
-        what cases to take.
+        decision. So the restitution ruling still stands, but no one is paying. 
       </Details>
     </>
   );

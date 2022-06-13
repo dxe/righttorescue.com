@@ -12,8 +12,8 @@ const SmithfieldUtah: NextPage = () => {
       <Header
         title="Smithfield"
         location="Utah"
-        video="https://www.youtube.com/embed/HDPTtM3tgEY"
-        videoRatio="1x1"
+        video="https://www.youtube.com/embed/wlSE1X-hSqQ"
+        videoRatio="16x9"
         ctaText1="Call: 435-438-6441"
         ctaLink1="tel:435-438-6441"
         ctaText2="Email"
@@ -24,13 +24,24 @@ const SmithfieldUtah: NextPage = () => {
         from Smithfield.
       </Header>
       <Details image="sf-ut-2.jpg">
-        In 2017, activists rescued two piglets, Lily and Lizzie, from a Utah
-        factory farm owned by Smithfield Foods, the largest pig-killing company
-        in the world. Their story went viral when the FBI started hunting for
+In 2017, DxE investigators infiltrated a massive pig farm in the Utah desert, a facility owned by Smithfield/WH Group, the world’s largest pig killing company. This one Smithfield farm is 20 miles long with over 300 barns on site. The investigators filmed the conditions inside in 360 degree virtual reality footage. Their footage, titled "Operation Deathstar," documented row after row of mother pigs crammed inside gestation crates barely bigger than their bodies and piles of dead piglets covered in their mothers' feces. The investigators rescued 2 sick piglets, Lily, who had a severe leg  injury, and Lizzie, who was malnourished and nursing on a shredded nipple. They took Lily and Lizzie to a sanctuary to receive care. Then, they published the whole investigation and rescue online and in the&nbsp;
+        <a
+           href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html" 
+           target="_blank"
+           >
+          New York Times 
+          </a>
+        &nbsp;to show the world the nightmarish cruelty happening inside Smithfield’s farms.  The story went viral when the FBI started hunting for
         the piglets, raiding sanctuaries and even cutting off part of a pig’s
-        ear to do DNA testing. Two of the rescuers are facing 60 years in
-        prison. Their trial was delayed due to the pandemic; it is expected to
-        take place in 2022 or 2023.
+        ear to do DNA testing.
+        Trial dates are finally set for Wayne and Paul in Utah: Sept. 9-16, 2022. DxE is organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp; 
+        <a 
+           href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
+           target="_blank"
+           >
+           dxe.io/utahsignup. 
+          </a>
+        &nbsp;
       </Details>
       <Defendants>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
@@ -41,7 +52,7 @@ const SmithfieldUtah: NextPage = () => {
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
           network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 16 felonies for rescuing sick animals.
+          and currently faces 11 felonies for rescuing sick animals.
         </Bio>
       </Defendants>
       <Press>
@@ -56,6 +67,18 @@ const SmithfieldUtah: NextPage = () => {
          <Article
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
+        />
+         <Article
+          href="https://theintercept.com/2022/01/30/animal-rights-activists-dxe-trial-evidence/"
+          iFramelyUrl="//iframely.net/VYkJc5O?card=small"
+        />
+        <Article
+          href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield"
+          iFramelyUrl="//iframely.net/eNnUV6s?card=small"
+        />
+         <Article
+          href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
+          iFramelyUrl="//iframely.net/E9eGBuX?card=small"
         />
       </Press>
     </>
