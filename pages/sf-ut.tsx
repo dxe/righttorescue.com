@@ -24,24 +24,46 @@ const SmithfieldUtah: NextPage = () => {
         from Smithfield.
       </Header>
       <Details image="sf-ut-2.jpg">
-In 2017, DxE investigators infiltrated a massive pig farm in the Utah desert, a facility owned by Smithfield/WH Group, the world’s largest pig killing company. This one Smithfield farm is 20 miles long with over 300 barns on site. The investigators filmed the conditions inside in 360 degree virtual reality footage. Their footage, titled "Operation Deathstar," documented row after row of mother pigs crammed inside gestation crates barely bigger than their bodies and piles of dead piglets covered in their mothers' feces. The investigators rescued 2 sick piglets, Lily, who had a severe leg  injury, and Lizzie, who was malnourished and nursing on a shredded nipple. They took Lily and Lizzie to a sanctuary to receive care. Then, they published the whole investigation and rescue online and in the&nbsp;
-        <a
-           href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html" 
-           target="_blank"
-           >
-          New York Times 
+        <p>
+          In 2017, DxE investigators infiltrated a massive pig farm in the Utah
+          desert, a facility owned by Smithfield/WH Group, the world’s largest
+          pig killing company. This one Smithfield farm is 20 miles long with
+          over 300 barns on site. The investigators filmed the conditions inside
+          in 360 degree virtual reality footage. Their footage, titled
+          "Operation Deathstar," documented row after row of mother pigs crammed
+          inside gestation crates barely bigger than their bodies and piles of
+          dead piglets covered in their mothers' feces.
+        </p>
+        <p>
+          The investigators rescued 2 sick piglets, Lily, who had a severe leg
+          injury, and Lizzie, who was malnourished and nursing on a shredded
+          nipple. They took Lily and Lizzie to a sanctuary to receive care.
+          Then, they published the whole investigation and rescue online and in
+          the&nbsp;
+          <a
+            href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html"
+            target="_blank"
+          >
+            New York Times
           </a>
-        &nbsp;to show the world the nightmarish cruelty happening inside Smithfield’s farms.  The story went viral when the FBI started hunting for
-        the piglets, raiding sanctuaries and even cutting off part of a pig’s
-        ear to do DNA testing.
-        Trial dates are finally set for Wayne and Paul in Utah: Sept. 9-16, 2022. DxE is organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp; 
-        <a 
-           href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
-           target="_blank"
-           >
-           dxe.io/utahsignup. 
+          &nbsp;to show the world the nightmarish cruelty happening inside
+          Smithfield’s farms.
+        </p>
+        <p>
+          The story went viral when the FBI started hunting for the piglets,
+          raiding sanctuaries and even cutting off part of a pig’s ear to do DNA
+          testing. Trial dates are finally set for Wayne and Paul in Utah: Sept.
+          9-16, 2022. DxE is organizing a convergence in Utah during the trial
+          to show support for animal rescue, build community with one another,
+          and take action together to expose Smithfield’s Deathstar to the
+          world. You can register at&nbsp;
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSekKhKSd8KpIP1C3aVwfZ1GmeUd4VfvwuWtm3QhbN-NXK-HlQ/viewform"
+            target="_blank"
+          >
+            dxe.io/utahsignup.
           </a>
-        &nbsp;
+        </p>
       </Details>
       <Defendants>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
@@ -64,11 +86,11 @@ In 2017, DxE investigators infiltrated a massive pig farm in the Utah desert, a 
           href="https://theintercept.com/2017/10/05/factory-farms-fbi-missing-piglets-animal-rights-glenn-greenwald/"
           iFramelyUrl="https://cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftheintercept.com%2F2017%2F10%2F05%2Ffactory-farms-fbi-missing-piglets-animal-rights-glenn-greenwald%2F&key=89a4a3ff448183aeb0070b28c0c9f3b7&iframe=card-small"
         />
-         <Article
+        <Article
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
         />
-         <Article
+        <Article
           href="https://theintercept.com/2022/01/30/animal-rights-activists-dxe-trial-evidence/"
           iFramelyUrl="//iframely.net/VYkJc5O?card=small"
         />
@@ -76,7 +98,7 @@ In 2017, DxE investigators infiltrated a massive pig farm in the Utah desert, a 
           href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield"
           iFramelyUrl="//iframely.net/eNnUV6s?card=small"
         />
-         <Article
+        <Article
           href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
           iFramelyUrl="//iframely.net/E9eGBuX?card=small"
         />
