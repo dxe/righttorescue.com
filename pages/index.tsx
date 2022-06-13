@@ -7,6 +7,8 @@ import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { DonateModal } from "../components/DonateModal";
+import { FeaturedCase } from "../components/HomePage/FeaturedCase";
+import Link from "next/link";
 
 const Home: NextPage = () => {
   return (
@@ -14,19 +16,51 @@ const Home: NextPage = () => {
       <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
       <Letter />
       <CasesSection>
+        <FeaturedCase
+          name="Rescuing Lily and Lizzie from Smithfield"
+          page="/sf-ut"
+          video="https://www.youtube.com/embed/wlSE1X-hSqQ"
+          videoRatio="16x9"
+        >
+          <p>
+            In 2017, DxE investigators infiltrated a massive pig farm in the
+            Utah desert – a facility owned by Smithfield/WH Group, the world’s
+            largest pig killing company. This single farm is 20 miles long and
+            has over 300 barns on site. The investigators filmed the horrific
+            conditions inside in 360º virtual reality and rescued two piglets:
+            Lily, who had a severe leg injury, and Lizzie, who was malnourished
+            and nursing on a shredded nipple.
+          </p>
+          <p>
+            The entire investigation and rescue was published online and in the
+            New York Times to show the world the nightmarish cruelty happening
+            inside Smithfield’s farms. The story went viral when the FBI started
+            hunting for the piglets, raiding sanctuaries, and even cutting off
+            part of a pig’s ear to do DNA testing.
+          </p>
+          <p>
+            Trial dates are finally set for DxE investigators Wayne Hsiung and
+            Paul Darwin Picklesimer in Beaver, Utah. DxE is organizing a
+            convergence in Utah around the trial to show support for animal
+            rescue, build community with one another, and take action together
+            to expose Smithfield’s Deathstar to the world.
+          </p>
+          <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
+            <Link href="https://dxe.io/utahsignup" passHref>
+              <a target="_blank" rel="noreferrer">
+                Register today
+              </a>
+            </Link>{" "}
+            to join us in Utah September 9-17, 2022, to expose Smithfield’s
+            Deathstar and defend the right to rescue!
+          </p>
+        </FeaturedCase>
         <CasesSection.CaseList>
           <Case
             name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
             location="Sonoma County, California"
             page="sunrise"
             image="sunrise.jpg"
-          />
-
-          <Case
-            name="Smithfield"
-            location="Beaver County, Utah"
-            page="sf-ut"
-            image="sf-ut.jpg"
           />
 
           <Case
@@ -49,13 +83,13 @@ const Home: NextPage = () => {
             page="rain"
             image="rain.jpg"
           />
-          
+
           <Case
-          name="Foster Farms"
-          location="Merced County, California"
-          page="fosterfarms"
-          image="Foster Farms rescue shot.png"
-         />
+            name="Foster Farms"
+            location="Merced County, California"
+            page="fosterfarms"
+            image="Foster Farms rescue shot.png"
+          />
 
           <Case
             name="Diestel Turkey Ranch"
