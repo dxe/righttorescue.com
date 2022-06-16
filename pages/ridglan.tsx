@@ -27,8 +27,7 @@ const RidglanFarms: NextPage = () => {
         entered the facility and documented the filthy conditions and the
         psychological trauma of the dogs spinning endlessly inside small cages.
         The team rescued three beagles. Although the investigation and rescue
-        happened years ago, the charging documents were filed in August 2021. No
-        hearing dates have been set yet, but our legal team is working on the
+        happened years ago, the charging documents were filed in August 2021. Eva, Paul, and Wayne are facing felony and burglary and felony theft charges. Trial dates have not been set yet, but our legal team is working on the
         case. This is an important opportunity to show the world the horrors
         inflicted on humankind’s supposed best friend and to move toward ending
         experimentation on dogs and other animals.
