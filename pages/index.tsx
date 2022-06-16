@@ -31,11 +31,6 @@ const Home: NextPage = () => {
             and nursing on a shredded nipple.
           </p>
           <p>
-            Their footage was published online and in the
-            New York Times to show the world the nightmarish cruelty happening
-            inside Smithfield’s farms.
-          </p>
-          <p>
             Trial dates are finally set for DxE investigators Wayne Hsiung and
             Paul Darwin Picklesimer in Beaver, Utah. DxE is organizing a
             convergence in Utah around the trial to show support for animal
