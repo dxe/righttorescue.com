@@ -25,18 +25,15 @@ const Home: NextPage = () => {
           <p>
             In 2017, DxE investigators infiltrated a massive pig farm in the
             Utah desert – a facility owned by Smithfield/WH Group, the world’s
-            largest pig killing company. This single farm is 20 miles long and
-            has over 300 barns on site. The investigators filmed the horrific
+            largest pig killing company. The investigators filmed the horrific
             conditions inside in 360º virtual reality and rescued two piglets:
             Lily, who had a severe leg injury, and Lizzie, who was malnourished
             and nursing on a shredded nipple.
           </p>
           <p>
-            The entire investigation and rescue was published online and in the
+            Their footage was published online and in the
             New York Times to show the world the nightmarish cruelty happening
-            inside Smithfield’s farms. The story went viral when the FBI started
-            hunting for the piglets, raiding sanctuaries, and even cutting off
-            part of a pig’s ear to do DNA testing.
+            inside Smithfield’s farms.
           </p>
           <p>
             Trial dates are finally set for DxE investigators Wayne Hsiung and
