@@ -32,10 +32,7 @@ const Home: NextPage = () => {
           </p>
           <p>
             Trial dates are finally set for DxE investigators Wayne Hsiung and
-            Paul Darwin Picklesimer in Beaver, Utah. DxE is organizing a
-            convergence in Utah around the trial to show support for animal
-            rescue, build community with one another, and take action together
-            to expose Smithfield’s Deathstar to the world.
+            Paul Darwin Picklesimer in Beaver, Utah. 
           </p>
           <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
             <Link href="https://dxe.io/utahsignup" passHref>
