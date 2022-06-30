@@ -15,7 +15,7 @@ const SmithfieldUtah: NextPage = () => {
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
         videoRatio="16x9"
         ctaText1="Join the chat"
-        ctaLink1="dxe.io/actionteam"
+        ctaLink1="https://signal.group/#CjQKIHIjOMaxq2aT4C_8deHC9qO5ZIX7LjwGH4kY9F7-mZUXEhD-Zti1_L9x670Rl9ovrihs"
       >
         Join our action team on the free messaging app Signal to receive regular calls to action leading up to trial.
       </Header>
