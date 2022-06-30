@@ -14,14 +14,10 @@ const SmithfieldUtah: NextPage = () => {
         location="Utah"
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
         videoRatio="16x9"
-        ctaText1="Call: 435-438-6441"
-        ctaLink1="tel:435-438-6441"
-        ctaText2="Email"
-        ctaLink2="https://beaver.utah.gov/forms.aspx?fid=98"
+        ctaText1="Join the chat"
+        ctaLink1="dxe.io/actionteam"
       >
-        Call and email Beaver County Prosecuting Attorney Von Christensen asking
-        him to drop the charges against the activists who rescued two piglets
-        from Smithfield.
+        Join our action team on the free messaging app Signal to receive regular calls to action leading up to trial.
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
