@@ -18,7 +18,7 @@ const FosterFarms: NextPage = () => {
       </Header>
       <Details image="Foster Farms rescue shot.png">
         In September 2021, two activists rescued birds from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA.
-        They received larceny charges in the mail in Spring 2022 and had their first court date on June 15, 2022 in Merced Superior Court, where they entered not guilty pleas via their attorney. They are due back in court in September. Stay tuned for more information.  
+        They received theft charges in the mail in Spring 2022 and had their first court date on June 15, 2022 in Merced Superior Court, where they entered not guilty pleas via their attorney. They are due back in court in September. Stay tuned for more information.  
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
