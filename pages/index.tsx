@@ -127,7 +127,7 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         > 
-          Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio entered “not guilty” pleas in a new rescue case. In September 2021, activists rescued birds from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. In Spring 2022, Alexandra and Alicia received larceny charges in the mail related to this rescue. 
+          Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio entered “not guilty” pleas in a new rescue case. In September 2021, activists rescued birds from a slaughter truck that was stopped on its way into the Foster Farms slaughterhouse in Livingston, CA. In Spring 2022, Alexandra and Alicia received theft charges in the mail related to this rescue. 
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
