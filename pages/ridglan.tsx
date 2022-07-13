@@ -50,6 +50,16 @@ const RidglanFarms: NextPage = () => {
           and currently faces 11 felonies for rescuing sick animals.
         </Bio>
       </Defendants>
+<Press>
+        <Article
+          href="https://theintercept.com/2020/05/29/pigs-factory-farms-ventilation-shutdown-coronavirus/"
+          iFramelyUrl="https://cdn.iframe.ly/c4vjvkc?iframe=card-small"
+        />
+        <Article
+          href="https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2020/06/19/iowa-agriculture-time-rethink-farming-model-hogs-direct-action/3205639001/"
+          iFramelyUrl="https://cdn.iframe.ly/V9Dw7Qe?card=small"
+        />
+</Press>
     </>
   );
 };
