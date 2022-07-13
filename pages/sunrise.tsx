@@ -42,8 +42,8 @@ const Sunrise: NextPage = () => {
           concert.
         </Bio>
         <Bio name="Cassie King" image="cassie.jpg">
-          Cassie was an English major at UC Berkeley and now leads the
-          Communications Committee for Direct Action Everywhere. She spends her
+          Cassie was an English major at UC Berkeley and is the
+          Communications Director for Direct Action Everywhere. She spends her
           free time writing stories, reading books, and playing with her bunnies
           who were both rescued from slaughter.
         </Bio>
