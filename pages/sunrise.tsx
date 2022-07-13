@@ -29,11 +29,10 @@ const Sunrise: NextPage = () => {
         Over 100 nonviolent activists have been arrested at factory farms in
         Sonoma County for taking direct action to help suffering animals after
         the government ignored repeated reports of criminal animal cruelty.
-        Thirteen activists face criminal charges, including a total of 47
+        Six activists face a total of 47
         felonies. Trial was expected to begin in 2020, but the COVID-19 pandemic
-        delayed the court schedule. Preliminary hearings began for 4 of the
-        felony defendants in November 2021, and will conclude this year. Then
-        trial will be scheduled.
+        delayed the court schedule. Preliminary hearings began for four of the
+         defendants in November 2021, and will conclude this year. Preliminary hearings have not yet begun for the other two defendants. Following preliminary hearings, trial will be scheduled.
       </Details>
       <Defendants>
         <Bio name="Almira Tanner" image="almira.jpg">
