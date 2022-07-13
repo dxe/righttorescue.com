@@ -92,12 +92,8 @@ const Iowa: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/YEm2tMU?card=small"
         />
         <Article
-          href="https://www.washingtonpost.com/business/second-case-dropped-against-man-who-exposed-iowa-hog-deaths/2022/01/20/d371fd94-7a1f-11ec-9dce-7313579de434_story.html"
-          iFramelyUrl="https://cdn.iframe.ly/tY7dxuc?card=small"
-        />
-        <Article
           href="https://www.theguardian.com/world/2022/jan/22/an-animal-rights-activist-was-in-court-on-criminal-charges-why-was-the-case-suddenly-dismissed"
-          iFramelyUrl="https://cdn.iframely.net/UQEk06s?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/UQEk06s?card=small"
         />
       </Press>
     </>
