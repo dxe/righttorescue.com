@@ -56,8 +56,8 @@ const RidglanFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/c4vjvkc?iframe=card-small"
         />
         <Article
-          href="https://www.desmoinesregister.com/story/opinion/columnists/rekha-basu/2020/06/19/iowa-agriculture-time-rethink-farming-model-hogs-direct-action/3205639001/"
-          iFramelyUrl="https://cdn.iframe.ly/V9Dw7Qe?card=small"
+          href="https://madison.com/news/local/crime-and-courts/rescue-of-beagles-from-blue-mounds-animal-testing-facility-leads-to-criminal-charges-against-activists/article_bd74d8d5-758b-53ab-a118-edc1c3619530.html"
+          iFramelyUrl="https://cdn.iframe.ly/GOGr4u0?card=small"
         />
 </Press>
     </>
