@@ -3,6 +3,7 @@ import { Details } from "../components/CasePage/Details";
 import { Defendants } from "../components/CasePage/Defendants";
 import { Bio } from "../components/CasePage/Bio";
 import { Press } from "../components/CasePage/Press";
+import { Article } from "../components/CasePage/Article";
 import { NextPage } from "next";
 
 const RidglanFarms: NextPage = () => {
