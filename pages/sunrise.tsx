@@ -59,9 +59,7 @@ const Sunrise: NextPage = () => {
           farms.
         </Bio>
         <Bio name="Rachel Ziegler" image="rachel.jpg">
-          Rachel moved to California because of the thriving animal rights
-          movement here. She works in a vegan restaurant, cares for rescued
-          pigeons, and organizes protests with Direct Action Everywhere.
+          Rachel moved to California to get more involved in the animal rights movement in Berkeley. She is a full-time photographer, the guardian of two rescued doves, and an activist with Direct Action Everywhere.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
