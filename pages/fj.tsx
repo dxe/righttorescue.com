@@ -87,4 +87,4 @@ const FarmerJohn: NextPage = () => {
   );
 };
 
-export default Farmer John;
+export default FarmerJohn;
