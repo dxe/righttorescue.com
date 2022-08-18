@@ -78,9 +78,21 @@ const FarmerJohn: NextPage = () => {
           href="https://www.latimes.com/california/story/2020-09-26/animal-rights-activists-arrested-rescue-pig-farmer-john-slaughterhouse"
           iFramelyUrl="https://cdn.iframe.ly/XUfVyex?card=small"
         />
+       <Article
+          href="https://www.foxla.com/news/animal-rights-activists-cited-for-attempted-pig-rescue-at-farmer-john-plant"
+          iFramelyUrl="https://cdn.iframe.ly/Wtqu9D3?card=small"
+        />
         <Article
           href="https://www.nbclosangeles.com/news/local/animal-rights-activists-plan-2-day-vigil-outside-farmer-john-slaughterhouse/2434923/"
           iFramelyUrl="https://cdn.iframe.ly/sbAltwv?card=small"
+        />
+         <Article
+          href="https://spectrumnews1.com/ca/la-west/news/2021/02/15/animal-rights-activists-plan-return-to-farmer-john-plant-in-vernon"
+          iFramelyUrl="https://cdn.iframe.ly/2OPQbSt?card=small"
+        />
+         <Article
+          href="https://www.foxla.com/news/farmer-john-meat-packing-plant-in-vernon-to-close-next-year"
+          iFramelyUrl="https://cdn.iframe.ly/7AuTu19?card=small"
         />
       </Press>
     </>
