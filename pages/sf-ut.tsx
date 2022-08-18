@@ -102,6 +102,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.deseret.com/u-s-world/2022/7/5/23195290/nathans-hot-dog-eating-contest-joey-chestnut-attacks-darth-vader-protester-smithfield-deathstar-utah"
           iFramelyUrl="https://cdn.iframe.ly/Eip8qlD?card=small"
         />
+         <Article
+          href="https://www.sltrib.com/news/2022/08/03/utah-police-intimidated-animal/"
+          iFramelyUrl="https://cdn.iframe.ly/l8i6Fff?card=small"
+        />
       </Press>
     </>
   );
