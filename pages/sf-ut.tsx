@@ -98,6 +98,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.fox13now.com/news/local-news/animal-welfare-activists-protest-ruling-on-video-of-factory-farm-break-in"
           iFramelyUrl="//iframely.net/E9eGBuX?card=small"
         />
+        <Article
+          href="https://www.deseret.com/u-s-world/2022/7/5/23195290/nathans-hot-dog-eating-contest-joey-chestnut-attacks-darth-vader-protester-smithfield-deathstar-utah"
+          iFramelyUrl="//iframely.net/Eip8qlD?card=small"
+        />
       </Press>
     </>
   );
