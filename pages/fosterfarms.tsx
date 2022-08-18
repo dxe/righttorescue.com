@@ -36,16 +36,6 @@ const FosterFarms: NextPage = () => {
           with DxE since 2015.
         </Bio>
       </Defendants>
-      <Press>
-        <Article
-          href="https://www.latimes.com/california/story/2020-09-26/animal-rights-activists-arrested-rescue-pig-farmer-john-slaughterhouse"
-          iFramelyUrl="https://cdn.iframe.ly/XUfVyex?card=small"
-        />
-        <Article
-          href="https://www.nbclosangeles.com/news/local/animal-rights-activists-plan-2-day-vigil-outside-farmer-john-slaughterhouse/2434923/"
-          iFramelyUrl="https://sbAltwv?card=small"
-        />
-      </Press>
     </>
   );
 };
