@@ -70,7 +70,7 @@ const FarmerJohn: NextPage = () => {
           slaughterhouses, and she leads the social media team for Direct Action
           Everywhere.
         </Bio>
-           </Defendants>
+      </Defendants>
       <Press>
         <Article
           href="https://www.latimes.com/california/story/2020-09-26/animal-rights-activists-arrested-rescue-pig-farmer-john-slaughterhouse"
