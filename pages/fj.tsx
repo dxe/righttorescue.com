@@ -80,7 +80,7 @@ const FarmerJohn: NextPage = () => {
         />
         <Article
           href="https://www.nbclosangeles.com/news/local/animal-rights-activists-plan-2-day-vigil-outside-farmer-john-slaughterhouse/2434923/"
-          iFramelyUrl="https://sbAltwv?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/sbAltwv?card=small"
         />
       </Press>
     </>
