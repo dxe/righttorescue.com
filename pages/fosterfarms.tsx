@@ -36,6 +36,24 @@ const FosterFarms: NextPage = () => {
           with DxE since 2015.
         </Bio>
       </Defendants>
+      <Press>
+        <Article
+          href="https://theintercept.com/2021/09/29/animal-cruelty-chickens-foster-farms-humane/"
+          iFramelyUrl="https://cdn.iframe.ly/h2dIr7Z?card=small"
+        />
+       <Article
+          href="https://fox40.com/news/california-connection/demonstrators-protest-alleged-worker-animal-abuses-at-foster-farms-facility/"
+          iFramelyUrl="https://cdn.iframe.ly/A8rhXPa?card=small"
+        />
+        <Article
+          href="https://kmph.com/news/local/protesters-gather-some-arrested-outside-foster-farms-plant-in-livingston"
+          iFramelyUrl="https://cdn.iframe.ly/lTyHsNc?card=small"
+        />
+         <Article
+          href="https://www.mercedsunstar.com/news/local/article254599757.html"
+          iFramelyUrl="https://cdn.iframe.ly/M6pcW2H?card=small"
+        />
+      </Press>
     </>
   );
 };
