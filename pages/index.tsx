@@ -40,7 +40,7 @@ const Home: NextPage = () => {
                 Register today
               </a>
             </Link>{" "}
-            to join us in Utah October 3-11, 2022, to expose Smithfield’s
+            to join us in Utah this October to expose Smithfield’s
             Deathstar and defend the right to rescue!
           </p>
         </FeaturedCase>
