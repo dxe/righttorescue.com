@@ -145,7 +145,18 @@ As a result of this change in venue, the trial has also been delayed to October 
           >
            Instagram
           </a>
-          &nbsp;, Facebook,and Twitter.
+          ,&nbsp;
+          <a href="https://www.facebook.com/100064603752737/posts/pfbid07qyn3tUWdXrXNQBvMj5ErtQ6w4tVyBFT7WfXNjmtndvxrES6n5v46VJ4jjhAap6Zl/">
+            Facebook
+          </a>
+          , or&nbsp;
+          <a
+            href="https://twitter.com/dxeverywhere/status/1560828220936638464?s=21&t=Hlgy2rEDKeG3OXNqZ6IyJQ"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
         </Announcement>
         <Announcement
           title="Merced County, California"
