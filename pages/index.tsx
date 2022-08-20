@@ -31,8 +31,8 @@ const Home: NextPage = () => {
             and nursing on a shredded nipple.
           </p>
           <p>
-            Trial dates are finally set for DxE investigators Wayne Hsiung and
-            Paul Darwin Picklesimer in Beaver, Utah. 
+            Trial dates for DxE investigators Wayne Hsiung and
+            Paul Darwin Picklesimer are set for October 3-7, 2022 in Washington County, Utah. 
           </p>
           <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
             <Link href="https://dxe.io/utahsignup" passHref>
@@ -40,7 +40,7 @@ const Home: NextPage = () => {
                 Register today
               </a>
             </Link>{" "}
-            to join us in Utah September 9-17, 2022, to expose Smithfield’s
+            to join us in Utah October 3-11, 2022, to expose Smithfield’s
             Deathstar and defend the right to rescue!
           </p>
         </FeaturedCase>
