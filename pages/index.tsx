@@ -138,7 +138,14 @@ As a result of this change in venue, the trial has also been delayed to October 
           >
             dxe.io/utahsignup.
           </a>
-          &nbsp; 
+          &nbsp; Please share this news on&nbsp;
+          <a
+            href="https://www.instagram.com/p/Chdz3-nrHM-/?igshid=YmMyMTA2M2Y%3D&"
+            target="_blank"
+          >
+           Instagram
+          </a>
+          &nbsp;, Facebook,and Twitter.
         </Announcement>
         <Announcement
           title="Merced County, California"
