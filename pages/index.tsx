@@ -124,7 +124,7 @@ const Home: NextPage = () => {
           <Announcement
           title="Washington County, Utah"
           date= "August 19, 2022"
-          image="FF best.png"
+          image="gavel.jpg"
           featured
         > 
            MOTION GRANTED! Wayne and Paul won their motion for a new jury and trial location because the judge agreed that Smithfield and police had biased people in Beaver County, Utah. 
