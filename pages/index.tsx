@@ -121,7 +121,19 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
-         <Announcement
+          <Announcement
+          title="Washington County, Utah"
+          date= "August 19, 2022"
+          image="FF best.png"
+          featured
+        > 
+           MOTION GRANTED! Wayne and Paul won their motion for a new jury and trial location because the judge agreed that Smithfield and police had biased people in Beaver County, Utah. 
+
+The #SmithfieldTrial will now take place in Washington County, Utah. This is a win for the legal case, as the jury pool in Washington County is less financially dependent on Smithfield. 
+
+As a result of this change in venue, the trial has also been delayed to October 3-7 (and we anticipate it may last into the following week). Our trial support convergence will now be October 3-11. If you can join us in Utah in October, please register at dxe.io/utahsignup. 
+        </Announcement>
+        <Announcement
           title="Merced County, California"
           date= "June 15, 2022"
           image="FF best.png"
