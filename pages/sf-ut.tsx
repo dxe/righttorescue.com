@@ -48,8 +48,8 @@ const SmithfieldUtah: NextPage = () => {
         <p>
           The story went viral when the FBI started hunting for the piglets,
           raiding sanctuaries and even cutting off part of a pig’s ear to do DNA
-          testing. Trial dates are finally set for Wayne and Paul in Utah: Sept.
-          9-16, 2022. DxE is organizing a convergence in Utah during the trial
+          testing. Trial dates are set for Wayne and Paul in Washington County, Utah: October
+          3-7, 2022 (and we anticipate it could last into the following week). DxE is organizing a convergence in Utah during the trial
           to show support for animal rescue, build community with one another,
           and take action together to expose Smithfield’s Deathstar to the
           world. You can register at&nbsp;
