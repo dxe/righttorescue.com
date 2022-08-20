@@ -54,7 +54,7 @@ const SmithfieldUtah: NextPage = () => {
           and take action together to expose Smithfield’s Deathstar to the
           world. You can register at&nbsp;
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScoxaUoINhTfo7660RokEGK9uhKd3hC9NhE2DUjUTDcoVo9cA/viewform"
+            href="https://dxe.io/utahsignup"
             target="_blank"
           >
             dxe.io/utahsignup.
