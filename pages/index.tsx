@@ -131,7 +131,14 @@ const Home: NextPage = () => {
 
 The #SmithfieldTrial will now take place in Washington County, Utah. This is a win for the legal case, as the jury pool in Washington County is less financially dependent on Smithfield. 
 
-As a result of this change in venue, the trial has also been delayed to October 3-7 (and we anticipate it may last into the following week). Our trial support convergence will now be October 3-11. If you can join us in Utah in October, please register at dxe.io/utahsignup. 
+As a result of this change in venue, the trial has also been delayed to October 3-7 (and we anticipate it may last into the following week). Our trial support convergence will now be October 3-11. If you can join us in Utah in October, please register at&nbsp;
+          <a
+            href="https://dxe.io/utahsignup"
+            target="_blank"
+          >
+            dxe.io/utahsignup.
+          </a>
+          &nbsp; 
         </Announcement>
         <Announcement
           title="Merced County, California"
