@@ -114,6 +114,14 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.fox13now.com/news/local-news/animal-rights-activists-sue-beaver-county-for-allegedly-violating-first-amendment-rights"
           iFramelyUrl="https://cdn.iframe.ly/GbKOV6l?card=small"
         />
+         <Article
+          href="https://www.sltrib.com/news/2022/08/29/heres-how-trial-activists-who/"
+          iFramelyUrl="https://cdn.iframe.ly/WFVjtc8?card=small"
+        />
+         <Article
+          href="https://www.sltrib.com/opinion/commentary/2022/09/01/jonathan-frohnmayer-big-pork-is/"
+          iFramelyUrl="https://cdn.iframe.ly/H2v6T3T?card=small"
+        />
       </Press>
     </>
   );
