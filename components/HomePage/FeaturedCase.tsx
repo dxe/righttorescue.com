@@ -1,10 +1,10 @@
-import { Button, Col, Ratio, Row } from "react-bootstrap";
+import { Button, Col, Container, Ratio, Row } from "react-bootstrap";
 import React from "react";
 import Link from "next/link";
 
 export const FeaturedCase = (props: FeaturedCaseProps) => {
   return (
-    <Row className="mb-5">
+    <Container className="mt-5">
       <Col lg={12}>
         <Col lg={8} className="mx-auto">
           <h5 className="mb-1" style={{ color: "#777777" }}>
@@ -36,7 +36,7 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
           </Col>
         </Row>
       </Col>
-    </Row>
+    </Container>
   );
 };
 FeaturedCase.displayName = "FeaturedCase";

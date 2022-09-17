@@ -14,36 +14,36 @@ const Home: NextPage = () => {
   return (
     <>
       <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
+      <FeaturedCase
+        name="Rescuing Lily and Lizzie from Smithfield"
+        page="/sf-ut"
+        video="https://www.youtube.com/embed/wlSE1X-hSqQ"
+        videoRatio="16x9"
+      >
+        <p>
+          In 2017, DxE investigators infiltrated a massive pig farm in the Utah
+          desert – a facility owned by Smithfield/WH Group, the world’s largest
+          pig killing company. The investigators filmed the horrific conditions
+          inside in 360º virtual reality and rescued two piglets: Lily, who had
+          a severe leg injury, and Lizzie, who was malnourished and nursing on a
+          shredded nipple.
+        </p>
+        <p>
+          Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
+          Picklesimer are set for October 3-7, 2022 in Washington County, Utah.
+        </p>
+        <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
+          <Link href="https://dxe.io/utahsignup" passHref>
+            <a target="_blank" rel="noreferrer">
+              Register today
+            </a>
+          </Link>{" "}
+          to join us in Utah this October to expose Smithfield’s Deathstar and
+          defend the right to rescue!
+        </p>
+      </FeaturedCase>
       <Letter />
       <CasesSection>
-        <FeaturedCase
-          name="Rescuing Lily and Lizzie from Smithfield"
-          page="/sf-ut"
-          video="https://www.youtube.com/embed/wlSE1X-hSqQ"
-          videoRatio="16x9"
-        >
-          <p>
-            In 2017, DxE investigators infiltrated a massive pig farm in the
-            Utah desert – a facility owned by Smithfield/WH Group, the world’s
-            largest pig killing company. The investigators filmed the horrific
-            conditions inside in 360º virtual reality and rescued two piglets:
-            Lily, who had a severe leg injury, and Lizzie, who was malnourished
-            and nursing on a shredded nipple.
-          </p>
-          <p>
-            Trial dates for DxE investigators Wayne Hsiung and
-            Paul Darwin Picklesimer are set for October 3-7, 2022 in Washington County, Utah. 
-          </p>
-          <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-            <Link href="https://dxe.io/utahsignup" passHref>
-              <a target="_blank" rel="noreferrer">
-                Register today
-              </a>
-            </Link>{" "}
-            to join us in Utah this October to expose Smithfield’s
-            Deathstar and defend the right to rescue!
-          </p>
-        </FeaturedCase>
         <CasesSection.CaseList>
           <Case
             name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
@@ -121,21 +121,23 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
-          <Announcement
+        <Announcement
           title="Washington County, Utah"
-          date= "August 19, 2022"
+          date="August 19, 2022"
           image="gavel1.png"
           featured
-        > 
-           MOTION GRANTED! Wayne and Paul won their motion for a new jury and trial location because the judge agreed that Smithfield and police had biased people in Beaver County, Utah. 
-
-The #SmithfieldTrial will now take place in Washington County, Utah. This is a win for the legal case, as the jury pool in Washington County is less financially dependent on Smithfield. 
-
-As a result of this change in venue, the trial has also been delayed to October 3-7 (and we anticipate it may last into the following week). Our trial support convergence will now be October 3-11. If you can join us in Utah in October, please register at&nbsp;
-          <a
-            href="https://dxe.io/utahsignup"
-            target="_blank"
-          >
+        >
+          MOTION GRANTED! Wayne and Paul won their motion for a new jury and
+          trial location because the judge agreed that Smithfield and police had
+          biased people in Beaver County, Utah. The #SmithfieldTrial will now
+          take place in Washington County, Utah. This is a win for the legal
+          case, as the jury pool in Washington County is less financially
+          dependent on Smithfield. As a result of this change in venue, the
+          trial has also been delayed to October 3-7 (and we anticipate it may
+          last into the following week). Our trial support convergence will now
+          be October 3-11. If you can join us in Utah in October, please
+          register at&nbsp;
+          <a href="https://dxe.io/utahsignup" target="_blank">
             dxe.io/utahsignup.
           </a>
           &nbsp; Please share this news on&nbsp;
@@ -143,7 +145,7 @@ As a result of this change in venue, the trial has also been delayed to October 
             href="https://www.instagram.com/p/Chdz3-nrHM-/?igshid=YmMyMTA2M2Y%3D&"
             target="_blank"
           >
-           Instagram
+            Instagram
           </a>
           ,&nbsp;
           <a href="https://www.facebook.com/100064603752737/posts/pfbid07qyn3tUWdXrXNQBvMj5ErtQ6w4tVyBFT7WfXNjmtndvxrES6n5v46VJ4jjhAap6Zl/">
@@ -160,23 +162,29 @@ As a result of this change in venue, the trial has also been delayed to October 
         </Announcement>
         <Announcement
           title="Merced County, California"
-          date= "June 15, 2022"
+          date="June 15, 2022"
           image="FF best.png"
           featured
-        > 
-          Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio entered “not guilty” pleas in a new rescue case. In September 2021, activists rescued birds from a slaughter truck that was stopped on its way into the Foster Farms slaughterhouse in Livingston, CA. In Spring 2022, Alexandra and Alicia received theft charges in the mail related to this rescue. 
+        >
+          Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio
+          entered “not guilty” pleas in a new rescue case. In September 2021,
+          activists rescued birds from a slaughter truck that was stopped on its
+          way into the Foster Farms slaughterhouse in Livingston, CA. In Spring
+          2022, Alexandra and Alicia received theft charges in the mail related
+          to this rescue.
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
-          date= "May 30, 2022"
+          date="May 30, 2022"
           image="sf-ut.jpeg"
           featured
-        > 
-          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are organizing a convergence in Utah during the trial to show support for animal rescue, build community with one another, and take action together to expose Smithfield’s Deathstar to the world. You can register at&nbsp;
-          <a
-            href="https://dxe.io/utahsignup"
-            target="_blank"
-          >
+        >
+          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are
+          organizing a convergence in Utah during the trial to show support for
+          animal rescue, build community with one another, and take action
+          together to expose Smithfield’s Deathstar to the world. You can
+          register at&nbsp;
+          <a href="https://dxe.io/utahsignup" target="_blank">
             dxe.io/utahsignup.
           </a>
           &nbsp;
