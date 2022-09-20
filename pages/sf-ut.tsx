@@ -83,6 +83,10 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftheintercept.com%2F2017%2F10%2F05%2Ffactory-farms-fbi-missing-piglets-animal-rights-glenn-greenwald%2F&key=89a4a3ff448183aeb0070b28c0c9f3b7&iframe=card-small"
         />
         <Article
+          href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/TlhwI9d?card=small"
+        />
+        <Article
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
         />
