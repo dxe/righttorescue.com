@@ -87,6 +87,10 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/TlhwI9d?card=small"
         />
         <Article
+          href="https://www.wired.com/story/get-wired-podcast-5-wayne-hsiung-direct-action-everywhere/"
+          iFramelyUrl="https://cdn.iframe.ly/c6LnF2B?card=small"
+        />
+        <Article
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
         />
