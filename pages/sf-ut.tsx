@@ -130,6 +130,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/opinion/commentary/2022/09/01/jonathan-frohnmayer-big-pork-is/"
           iFramelyUrl="https://cdn.iframe.ly/H2v6T3T?card=small"
         />
+        <Article
+          href="https://www.foxnews.com/sports/animal-rights-activists-interrupt-bills-rams-game-carry-smoke-flare-across-field"
+          iFramelyUrl="https://cdn.iframe.ly/rz0NKsc?card=small"
+        />
       </Press>
     </>
   );
