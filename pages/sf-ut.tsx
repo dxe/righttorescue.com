@@ -134,6 +134,14 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.foxnews.com/sports/animal-rights-activists-interrupt-bills-rams-game-carry-smoke-flare-across-field"
           iFramelyUrl="https://cdn.iframe.ly/rz0NKsc?card=small"
         />
+        <Article
+          href="https://www.usatoday.com/story/sports/nfl/2022/09/09/animal-rights-activists-interrupt-nfl-opener-between-bills-rams/8032257001/"
+          iFramelyUrl="https://cdn.iframe.ly/wWK0byk?card=small"
+        />
+        <Article
+          href="https://nypost.com/2022/09/09/animal-activists-emek-echo-and-katia-shokrai-disrupt-bills-rams-game/"
+          iFramelyUrl="https://cdn.iframe.ly/Li5Qqq2?card=small"
+        />
       </Press>
     </>
   );
