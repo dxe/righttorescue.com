@@ -95,6 +95,10 @@ const Iowa: NextPage = () => {
           href="https://www.theguardian.com/world/2022/jan/22/an-animal-rights-activist-was-in-court-on-criminal-charges-why-was-the-case-suddenly-dismissed"
           iFramelyUrl="https://cdn.iframe.ly/UQEk06s?card=small"
         />
+         <Article
+          href="https://www.theguardian.com/world/2022/jan/22/an-animal-rights-activist-was-in-court-on-criminal-charges-why-was-the-case-suddenly-dismissed"
+          iFramelyUrl="https://cdn.iframe.ly/TlhwI9d?card=small"
+        />
       </Press>
     </>
   );
