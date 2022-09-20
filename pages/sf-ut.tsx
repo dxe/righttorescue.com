@@ -21,7 +21,7 @@ const SmithfieldUtah: NextPage = () => {
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
-          In 2017, DxE investigators infiltrated a massive pig farm in the Utah
+          In 2017, DxE investigators <a href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms//resolution" style="color: white; text-decoration: underline;" target="_blank">infiltrated a massive pig farm</a> in the Utah
           desert, a facility owned by Smithfield/WH Group, the world’s largest
           pig killing company. This one Smithfield farm is 20 miles long with
           over 300 barns on site. The investigators filmed the conditions inside
