@@ -33,7 +33,12 @@ const Home: NextPage = () => {
           &nbsp;&nbsp;
           <a href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield" target="_blank">
             The New Republic,
-          </a> and The New York Times
+          </a>
+          &nbsp;and&nbsp;
+          <a href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html" target="_blank">
+            The New York Times.
+          </a>
+          &nbsp; 
         </p>
         <p>
           Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
