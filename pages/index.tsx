@@ -26,7 +26,11 @@ const Home: NextPage = () => {
           pig killing company. The investigators filmed the horrific conditions
           inside in 360º virtual reality and rescued two piglets: Lily, who had
           a severe leg injury, and Lizzie, who was malnourished and nursing on a
-          shredded nipple.
+          shredded nipple. The case has been covered by&nbsp;
+          <a href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/" target="_blank">
+            WIRED.
+          </a>
+          &nbsp;, The New Republic, and The New York Times
         </p>
         <p>
           Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
