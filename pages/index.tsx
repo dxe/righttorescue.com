@@ -28,9 +28,12 @@ const Home: NextPage = () => {
           a severe leg injury, and Lizzie, who was malnourished and nursing on a
           shredded nipple. The case has been covered by&nbsp;
           <a href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/" target="_blank">
-            WIRED.
+            WIRED,
           </a>
-          &nbsp;, The New Republic, and The New York Times
+          &nbsp;&nbsp;
+          <a href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield" target="_blank">
+            The New Republic,
+          </a> and The New York Times
         </p>
         <p>
           Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
