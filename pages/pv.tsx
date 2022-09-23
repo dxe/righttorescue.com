@@ -1,6 +1,8 @@
 import { NextPage } from "next";
 import { Header } from "../components/CasePage/Header";
 import { Details } from "../components/CasePage/Details";
+import { Press } from "../components/CasePage/Press";
+import { Article } from "../components/CasePage/Article";
 
 const PleasantValley: NextPage = () => {
   return (
