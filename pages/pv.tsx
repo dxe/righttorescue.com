@@ -44,6 +44,10 @@ const PleasantValley: NextPage = () => {
           href="https://www.sfgate.com/news/article/Animal-activist-charged-after-taking-hen-from-10907963.php"
           iFramelyUrl="https://cdn.iframe.ly/H6afFBH?card=small"
         />
+        <Article
+          href="https://www.abc10.com/article/news/local/california/video-from-cage-free-chicken-farm-documents-alleged-abuses/103-340887507"
+          iFramelyUrl="https://cdn.iframe.ly/vgrbByx?card=small"
+        />
       </Press>
     </>
   );
