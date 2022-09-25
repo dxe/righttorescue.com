@@ -6,7 +6,6 @@ import React, { useEffect, useState } from "react";
 import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
-import { DonateModal } from "../components/DonateModal";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 import Link from "next/link";
 

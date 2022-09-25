@@ -19,7 +19,7 @@ export const Support = () => {
         <div className="container">
           <div className="row">
             <div className="col-md-10 col-lg-8 mx-auto text-center">
-              <h2 className="text-white mb-5">
+              <h2 className="text-white my-3">
                 Your support allows us to stand up to legal repression and
                 continue our groundbreaking work
               </h2>
@@ -37,6 +37,18 @@ export const Support = () => {
                 />
                 Donate
               </Button>
+              {/*Donation thermometer START*/}
+              <link
+                href="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.css"
+                rel="stylesheet"
+              />
+              <div
+                className="dxe-donation-thermometer my-3"
+                data-start-date="2022-09-21"
+                data-goal="25000"
+              />
+              <Script src="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.js"></Script>
+              {/*Donation thermometer END*/}
             </div>
           </div>
         </div>

@@ -11,8 +11,6 @@ export const Footer = () => {
     <>
       <section id="social" className="contact-section bg-black">
         <div className="container">
-          {/*TODO: get font awesome icons working*/}
-
           <div className="social d-flex justify-content-center">
             <a
               href="http://twitter.com/dxeverywhere"
