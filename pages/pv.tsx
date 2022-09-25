@@ -1,6 +1,8 @@
 import { NextPage } from "next";
 import { Header } from "../components/CasePage/Header";
 import { Details } from "../components/CasePage/Details";
+import { Press } from "../components/CasePage/Press";
+import { Article } from "../components/CasePage/Article";
 
 const PleasantValley: NextPage = () => {
   return (
@@ -29,6 +31,32 @@ const PleasantValley: NextPage = () => {
         Appellate Division rejected our appeal by affirming the judge's original
         decision. So the restitution ruling still stands, but no one is paying. 
       </Details>
+      <Press>
+        <Article
+          href="https://www.nytimes.com/2016/10/21/business/video-reveals-how-cage-free-hens-live-animal-advocates-say.html"
+          iFramelyUrl="https://cdn.iframe.ly/tDwUC0Z?card=small&media=0"
+        />
+        <Article
+          href="/https://www.washingtonpost.com/news/animalia/wp/2016/10/20/her-head-has-been-torn-off-activists-film-alleges-abuse-at-costco-linked-cage-free-egg-farm/"
+          iFramelyUrl="https://cdn.iframe.ly/b6ncpT6?card=small"
+        />
+        <Article
+          href="https://www.sfgate.com/news/article/Animal-activist-charged-after-taking-hen-from-10907963.php"
+          iFramelyUrl="https://cdn.iframe.ly/H6afFBH?card=small"
+        />
+        <Article
+          href="https://www.abc10.com/article/news/local/california/video-from-cage-free-chicken-farm-documents-alleged-abuses/103-340887507"
+          iFramelyUrl="https://cdn.iframe.ly/vgrbByx?card=small"
+        />
+        <Article
+          href="https://www.ktvu.com/news/animal-rights-activists-stage-protest-at-san-francisco-costco"
+          iFramelyUrl="https://cdn.iframe.ly/78AT5nb?card=small"
+        />
+       <Article
+          href="https://www.modbee.com/news/business/agriculture/article223446735.html"
+          iFramelyUrl="https://cdn.iframe.ly/Zof2Gm9?card=small"
+        />
+      </Press>
     </>
   );
 };

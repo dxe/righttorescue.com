@@ -21,7 +21,12 @@ const SmithfieldUtah: NextPage = () => {
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
-          In 2017, DxE investigators infiltrated a massive pig farm in the Utah
+          In 2017, DxE investigators&nbsp;
+          <a
+            href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
+            target="_blank"
+          >infiltrated a massive pig farm</a>
+          &nbsp; in the Utah
           desert, a facility owned by Smithfield/WH Group, the world’s largest
           pig killing company. This one Smithfield farm is 20 miles long with
           over 300 barns on site. The investigators filmed the conditions inside
@@ -83,6 +88,14 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/api/iframe?url=https%3A%2F%2Ftheintercept.com%2F2017%2F10%2F05%2Ffactory-farms-fbi-missing-piglets-animal-rights-glenn-greenwald%2F&key=89a4a3ff448183aeb0070b28c0c9f3b7&iframe=card-small"
         />
         <Article
+          href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/TlhwI9d?card=small"
+        />
+        <Article
+          href="https://www.wired.com/story/get-wired-podcast-5-wayne-hsiung-direct-action-everywhere/"
+          iFramelyUrl="https://cdn.iframe.ly/c6LnF2B?card=small"
+        />
+        <Article
           href="https://www.fox13now.com/news/local-news/utah-seeks-to-block-animal-rights-activists-from-justifying-factory-farm-break-in"
           iFramelyUrl="https://cdn.iframe.ly/H7fdGZ1?card=small"
         />
@@ -121,6 +134,18 @@ const SmithfieldUtah: NextPage = () => {
          <Article
           href="https://www.sltrib.com/opinion/commentary/2022/09/01/jonathan-frohnmayer-big-pork-is/"
           iFramelyUrl="https://cdn.iframe.ly/H2v6T3T?card=small"
+        />
+        <Article
+          href="https://www.foxnews.com/sports/animal-rights-activists-interrupt-bills-rams-game-carry-smoke-flare-across-field"
+          iFramelyUrl="https://cdn.iframe.ly/rz0NKsc?card=small"
+        />
+        <Article
+          href="https://www.usatoday.com/story/sports/nfl/2022/09/09/animal-rights-activists-interrupt-nfl-opener-between-bills-rams/8032257001/"
+          iFramelyUrl="https://cdn.iframe.ly/wWK0byk?card=small"
+        />
+        <Article
+          href="https://nypost.com/2022/09/09/animal-activists-emek-echo-and-katia-shokrai-disrupt-bills-rams-game/"
+          iFramelyUrl="https://cdn.iframe.ly/Li5Qqq2?card=small"
         />
       </Press>
     </>
