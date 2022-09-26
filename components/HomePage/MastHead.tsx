@@ -44,7 +44,7 @@ export const MastHead = (props: MastHeadProps) => {
             duration={500}
             style={{ cursor: "pointer" }}
           >
-            Sign Now
+            Sign + Receive Action Alerts
           </ScrollLink>
 
           {props.takeActionPage && (
