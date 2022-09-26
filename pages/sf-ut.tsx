@@ -14,10 +14,10 @@ const SmithfieldUtah: NextPage = () => {
         location="Utah"
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
         videoRatio="16x9"
-        ctaText1="Join the chat"
-        ctaLink1="https://signal.group/#CjQKIHIjOMaxq2aT4C_8deHC9qO5ZIX7LjwGH4kY9F7-mZUXEhD-Zti1_L9x670Rl9ovrihs"
+        ctaText1="Sample messages + images here"
+        ctaLink1="https://docs.google.com/document/d/10H2yOIeO4XicPl7Ad--LqJ1R0ejYem6vC8vt3KPuRMQ/edit?usp=sharing"
       >
-        Join our action team on the free messaging app Signal to receive regular calls to action leading up to trial.
+        Help us defend the right to rescue and share the story of the #SmithfieldTrial today by tweeting or making a different social media post with the hashtag #SmithfieldTrial.
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
