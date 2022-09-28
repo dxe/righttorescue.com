@@ -59,7 +59,7 @@ const RidglanFarms: NextPage = () => {
         />
         <Article
           href="https://madison.com/news/local/crime-and-courts/rescue-of-beagles-from-blue-mounds-animal-testing-facility-leads-to-criminal-charges-against-activists/article_bd74d8d5-758b-53ab-a118-edc1c3619530.html"
-          iFramelyUrl="https://cdn.iframe.ly/GOGr4u0?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/QbnLF8Z?card=small"
         />
 </Press>
     </>
