@@ -50,7 +50,11 @@ const Home: NextPage = () => {
             </a>
           </Link>{" "}
           to join us in Utah this October to expose Smithfield’s Deathstar and
-          defend the right to rescue!
+          defend the right to rescue! You can see the schedule and more info about DxE’s trial support convergence&nbsp;
+          <a href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing" target="_blank">
+            here.
+          </a>
+          &nbsp; 
         </p>
       </FeaturedCase>
       <Letter />
