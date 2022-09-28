@@ -64,6 +64,11 @@ const SmithfieldUtah: NextPage = () => {
           >
             dxe.io/utahsignup.
           </a>
+          You can see the schedule and more info about DxE’s trial support convergence&nbsp;
+          <a href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing" target="_blank">
+            here.
+          </a>
+          &nbsp;
         </p>
       </Details>
       <Defendants>
