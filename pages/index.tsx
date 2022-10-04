@@ -8,6 +8,8 @@ import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 import Link from "next/link";
+import Script from "next/script";
+import { TwitterTimeline } from "../components/Twitter";
 
 const Home: NextPage = () => {
   return (
@@ -26,18 +28,27 @@ const Home: NextPage = () => {
           inside in 360º virtual reality and rescued two piglets: Lily, who had
           a severe leg injury, and Lizzie, who was malnourished and nursing on a
           shredded nipple. The case has been covered by&nbsp;
-          <a href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/" target="_blank">
+          <a
+            href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
+            target="_blank"
+          >
             WIRED,
           </a>
           &nbsp;&nbsp;
-          <a href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield" target="_blank">
+          <a
+            href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield"
+            target="_blank"
+          >
             The New Republic,
           </a>
           &nbsp;and&nbsp;
-          <a href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html" target="_blank">
+          <a
+            href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html"
+            target="_blank"
+          >
             The New York Times.
           </a>
-          &nbsp; 
+          &nbsp;
         </p>
         <p>
           Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
@@ -50,11 +61,15 @@ const Home: NextPage = () => {
             </a>
           </Link>{" "}
           to join us in Utah this October to expose Smithfield’s Deathstar and
-          defend the right to rescue! You can see the schedule and more info about DxE’s trial support convergence&nbsp;
-          <a href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing" target="_blank">
+          defend the right to rescue! You can see the schedule and more info
+          about DxE’s trial support convergence&nbsp;
+          <a
+            href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing"
+            target="_blank"
+          >
             here.
           </a>
-          &nbsp; 
+          &nbsp;
         </p>
       </FeaturedCase>
       <Letter />
@@ -357,6 +372,7 @@ const Home: NextPage = () => {
           and community service. Arwen is continuing with the case.
         </Announcement>
       </Announcements>
+      <TwitterTimeline />
     </>
   );
 };
