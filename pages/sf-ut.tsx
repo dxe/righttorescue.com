@@ -153,6 +153,14 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/Li5Qqq2?card=small"
         />
         <Article
+          href="https://www.stgeorgeutah.com/news/archive/2022/10/04/mgk-elevate-the-message-animal-rights-activists-protest-in-st-george-ahead-of-circle-four-farm-trial/#.Y0G0k-yZNqP"
+          iFramelyUrl="https://cdn.iframe.ly/2QgBVLu?card=small"
+        />
+        <Article
+          href="https://www.foxnews.com/sports/defendant-highlighted-rams-49ers-demonstration-swipes-bobby-wagner-protester-tackle"
+          iFramelyUrl="https://cdn.iframe.ly/5J9d2Ul?card=small"
+        />
+        <Article
           href="https://www.ksl.com/article/50491244/jury-deliberating-case-of-animal-activists-charged-with-taking-pigs-from-utah-farm"
           iFramelyUrl="https://cdn.iframe.ly/qgHn41o?card=small"
         />
