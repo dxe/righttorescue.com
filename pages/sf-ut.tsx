@@ -152,6 +152,14 @@ const SmithfieldUtah: NextPage = () => {
           href="https://nypost.com/2022/09/09/animal-activists-emek-echo-and-katia-shokrai-disrupt-bills-rams-game/"
           iFramelyUrl="https://cdn.iframe.ly/Li5Qqq2?card=small"
         />
+        <Article
+          href="https://www.ksl.com/article/50491244/jury-deliberating-case-of-animal-activists-charged-with-taking-pigs-from-utah-farm"
+          iFramelyUrl="https://cdn.iframe.ly/qgHn41o?card=small"
+        />
+        <Article
+          href="https://www.sltrib.com/news/2022/10/08/animal-rights-activists-charged/"
+          iFramelyUrl="https://cdn.iframe.ly/GkRikFy?card=small"
+        />
       </Press>
     </>
   );
