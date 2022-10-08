@@ -97,6 +97,10 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/TlhwI9d?card=small"
         />
         <Article
+          href="https://www.sltrib.com/news/politics/2020/07/18/animal-welfare-activists/"
+          iFramelyUrl="https://cdn.iframe.ly/6k3SEbJ?card=small"
+        />
+        <Article
           href="https://www.wired.com/story/get-wired-podcast-5-wayne-hsiung-direct-action-everywhere/"
           iFramelyUrl="https://cdn.iframe.ly/c6LnF2B?card=small"
         />
@@ -151,6 +155,10 @@ const SmithfieldUtah: NextPage = () => {
         <Article
           href="https://nypost.com/2022/09/09/animal-activists-emek-echo-and-katia-shokrai-disrupt-bills-rams-game/"
           iFramelyUrl="https://cdn.iframe.ly/Li5Qqq2?card=small"
+        />
+        <Article
+          href="https://www.ourhenhouse.org/alp88/"
+          iFramelyUrl="https://cdn.iframe.ly/yg8rHVf?card=small"
         />
         <Article
           href="https://kslnewsradio.com/1976167/nations-largest-pig-farm-exposed-two-face-criminal-charges/"
