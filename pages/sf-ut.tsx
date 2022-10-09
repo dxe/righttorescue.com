@@ -53,22 +53,9 @@ const SmithfieldUtah: NextPage = () => {
         <p>
           The story went viral when the FBI started hunting for the piglets,
           raiding sanctuaries and even cutting off part of a pig’s ear to do DNA
-          testing. Trial dates are set for Wayne and Paul in Washington County, Utah: October
-          3-7, 2022 (and we anticipate it could last into the following week). DxE is organizing a convergence in Utah during the trial
-          to show support for animal rescue, build community with one another,
-          and take action together to expose Smithfield’s Deathstar to the
-          world. You can register at&nbsp;
-          <a
-            href="https://dxe.io/utahsignup"
-            target="_blank"
-          >
-            dxe.io/utahsignup.
-          </a>
-          You can see the schedule and more info about DxE’s trial support convergence&nbsp;
-          <a href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing" target="_blank">
-            here.
-          </a>
-          &nbsp;
+          testing. 
+         <p>
+          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to trial October 3-7, 2022 in Washington County, Utah. On Saturday, October 8, after a full day of deliberations, the jury of 8 people unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. Together, we have just set a powerful precedent for the legal right to rescue animals from abuse.
         </p>
       </Details>
       <Defendants>
@@ -80,7 +67,7 @@ const SmithfieldUtah: NextPage = () => {
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
           Wayne was a lawyer with DLA Piper before co-founding the animal rights
           network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 11 felonies for rescuing sick animals.
+          and currently faces 9 felonies for rescuing sick animals.
         </Bio>
       </Defendants>
       <Press>
