@@ -16,7 +16,7 @@ const Home: NextPage = () => {
     <>
       <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
       <FeaturedCase
-        name="Rescuing Lily and Lizzie from Smithfield"
+        name="Jury Finds Wayne and Paul Not Guilty for Rescuing Lily and Lizzie from Smithfield"
         page="/sf-ut"
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
         videoRatio="16x9"
@@ -51,25 +51,11 @@ const Home: NextPage = () => {
           &nbsp;
         </p>
         <p>
-          Trial dates for DxE investigators Wayne Hsiung and Paul Darwin
-          Picklesimer are set for October 3-7, 2022 in Washington County, Utah.
+         DxE investigators Wayne Hsiung and Paul Darwin
+          Picklesimer went to trial October 3-7, 2022 in Washington County, Utah.
         </p>
         <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-          <Link href="https://dxe.io/utahsignup" passHref>
-            <a target="_blank" rel="noreferrer">
-              Register today
-            </a>
-          </Link>{" "}
-          to join us in Utah this October to expose Smithfield’s Deathstar and
-          defend the right to rescue! You can see the schedule and more info
-          about DxE’s trial support convergence&nbsp;
-          <a
-            href="https://docs.google.com/document/d/1V3VnI4pu0F7ZyFztGrWx4gSmEi7lfnmfNHqpjk1LgOk/edit?usp=sharing"
-            target="_blank"
-          >
-            here.
-          </a>
-          &nbsp;
+          On October 8, after a full day of deliberations, the jury unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. Together, we have just set a powerful precedent for the legal right to rescue animals from abuse.
         </p>
       </FeaturedCase>
       <Letter />
