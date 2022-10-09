@@ -10,14 +10,14 @@ const SmithfieldUtah: NextPage = () => {
   return (
     <>
       <Header
-        title="Smithfield"
+        title="Rescuing Lily and Lizzie from Smithfield"
         location="Utah"
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
         videoRatio="16x9"
-        ctaText1="Sample messages + images here"
-        ctaLink1="https://docs.google.com/document/d/10H2yOIeO4XicPl7Ad--LqJ1R0ejYem6vC8vt3KPuRMQ/edit?usp=sharing"
+        ctaText1="SPREAD THE WORD"
+        ctaLink1="https://twitter.com/DxEverywhere/status/1578885463279927297"
       >
-        Help us defend the right to rescue and share the story of the #SmithfieldTrial today by tweeting or making a different social media post with the hashtag #SmithfieldTrial.
+        The #SmithfieldTrial ended with a full acquittal for Paul and Wayne. Help us share this historic victory for the right to rescue animals from abuse by making a post today.
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
