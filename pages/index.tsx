@@ -55,7 +55,7 @@ const Home: NextPage = () => {
           Picklesimer went to trial October 3-7, 2022 in Washington County, Utah.
         </p>
         <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-          On October 8, after a full day of deliberations, the jury unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. Together, we have just set a powerful precedent for the legal right to rescue animals from abuse.
+          On October 8, after a full day of deliberations, the jury unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. This case set a powerful precedent for the legal right to rescue animals from abuse.
         </p>
       </FeaturedCase>
       <Letter />
