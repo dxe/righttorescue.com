@@ -169,6 +169,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/news/2022/10/08/animal-rights-activists-charged/"
           iFramelyUrl="https://cdn.iframe.ly/GkRikFy?card=small"
         />
+        <Article
+          href="https://www.nytimes.com/2022/10/08/science/animals-rights-piglets-smithfield.html"
+          iFramelyUrl="https://cdn.iframe.ly/ga6DLK6?card=small&media=0"
+        />
       </Press>
     </>
   );
