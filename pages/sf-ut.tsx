@@ -48,13 +48,11 @@ const SmithfieldUtah: NextPage = () => {
             New York Times
           </a>
           &nbsp;to show the world the nightmarish cruelty happening inside
-          Smithfield’s farms.
-        </p>
-        <p>
-          The story went viral when the FBI started hunting for the piglets,
+          Smithfield’s farms. The story went viral when the FBI started hunting for the piglets,
           raiding sanctuaries and even cutting off part of a pig’s ear to do DNA
           testing. 
-         <p>
+        </p>
+        <p>
           DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to trial October 3-7, 2022 in Washington County, Utah. On Saturday, October 8, after a full day of deliberations, the jury of 8 people unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. Together, we have just set a powerful precedent for the legal right to rescue animals from abuse.
         </p>
       </Details>
