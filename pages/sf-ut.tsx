@@ -17,7 +17,7 @@ const SmithfieldUtah: NextPage = () => {
         ctaText1="SPREAD THE WORD"
         ctaLink1="https://twitter.com/DxEverywhere/status/1578885463279927297"
       >
-        The #SmithfieldTrial ended with a full acquittal for Paul and Wayne. Help us share this historic victory for the right to rescue animals from abuse by making a post today.
+        The #SmithfieldTrial ended with a full acquittal for Paul and Wayne. Help us share this historic victory for the right to rescue by retweeting or making your own post today.
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
