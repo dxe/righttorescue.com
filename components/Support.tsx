@@ -45,7 +45,7 @@ export const Support = () => {
               <div
                 className="dxe-donation-thermometer my-3"
                 data-start-date="2022-09-21"
-                data-goal="30000"
+                data-goal="50000"
               />
               <Script src="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.js"></Script>
               {/*Donation thermometer END*/}
