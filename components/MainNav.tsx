@@ -1,5 +1,5 @@
 import { Navbar, Container, Nav } from "react-bootstrap";
-import { useEffect, useState } from "react";
+import { useEffect, useLayoutEffect, useRef, useState } from "react";
 //@ts-ignore
 import { Link as ScrollLink } from "react-scroll";
 import { useRouter } from "next/router";
@@ -7,7 +7,15 @@ import PageLink from "next/link";
 
 const SHRINK_OFFSET = 15;
 
-export const MainNav = () => {
+export const MainNav = ({
+  announcement,
+  announcementPage,
+  onPaddingUpdate,
+}: {
+  announcement?: string;
+  announcementPage?: string;
+  onPaddingUpdate: (paddingTop: number) => void;
+}) => {
   const [shrink, setShrink] = useState(false);
   const [expanded, setExpanded] = useState(false);
 
@@ -24,6 +32,19 @@ export const MainNav = () => {
     setExpanded(false);
   };
 
+  const [navbarTopPadding, setNavbarTopPadding] = useState(0);
+  const announcementBarRef = useRef<null | HTMLAnchorElement>(null);
+  useEffect(() => {
+    const updatePadding = () => {
+      const newValue = announcementBarRef.current?.clientHeight ?? 0;
+      setNavbarTopPadding(newValue);
+      onPaddingUpdate(newValue);
+    };
+    updatePadding();
+    window.addEventListener("resize", updatePadding);
+    return () => window.removeEventListener("resize", updatePadding);
+  }, [announcementBarRef.current?.clientHeight, onPaddingUpdate]);
+
   return (
     <>
       <Navbar
@@ -32,7 +53,29 @@ export const MainNav = () => {
         className={`fixed-top ${shrink ? "navbar-shrink" : ""}`}
         id="mainNav"
         expanded={expanded}
+        style={{ paddingTop: navbarTopPadding }}
       >
+        {announcement && (
+          <PageLink href={`/${announcementPage}`} passHref>
+            <a
+              style={{
+                backgroundColor: "#3974bd",
+                color: "white",
+                position: "absolute",
+                fontSize: "0.9rem",
+                width: "100%",
+                textAlign: "center",
+                fontWeight: "700",
+                top: 0,
+                left: 0,
+                padding: "5px 2px 5px 2px",
+              }}
+              ref={announcementBarRef}
+            >
+              {announcement}
+            </a>
+          </PageLink>
+        )}
         <Container>
           <Navbar.Brand>
             <Link to="/" isNavLink={false}>

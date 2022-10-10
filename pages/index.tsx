@@ -7,9 +7,6 @@ import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
-import Link from "next/link";
-import Script from "next/script";
-import { TwitterTimeline } from "../components/Twitter";
 
 const Home: NextPage = () => {
   return (
@@ -51,11 +48,14 @@ const Home: NextPage = () => {
           &nbsp;
         </p>
         <p>
-         DxE investigators Wayne Hsiung and Paul Darwin
-          Picklesimer went to trial October 3-7, 2022 in Washington County, Utah.
+          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to
+          trial October 3-7, 2022 in Washington County, Utah.
         </p>
         <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-          On October 8, after a full day of deliberations, the jury unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. This case set a powerful precedent for the legal right to rescue animals from abuse.
+          On October 8, after a full day of deliberations, the jury unanimously
+          found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and
+          Lizzie from Smithfield. This case set a powerful precedent for the
+          legal right to rescue animals from abuse.
         </p>
       </FeaturedCase>
       <Letter />
@@ -358,7 +358,6 @@ const Home: NextPage = () => {
           and community service. Arwen is continuing with the case.
         </Announcement>
       </Announcements>
-      <TwitterTimeline />
     </>
   );
 };
