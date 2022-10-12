@@ -173,6 +173,14 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.nytimes.com/2022/10/08/science/animals-rights-piglets-smithfield.html"
           iFramelyUrl="https://cdn.iframe.ly/ga6DLK6?card=small&media=0"
         />
+        <Article
+          href="https://theintercept.com/2022/10/08/smithfield-animal-rights-piglets-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/SmSrSdl?card=small"
+        />
+        <Article
+          href="https://www.democracynow.org/2022/10/11/the_right_to_rescue_jury_acquits"
+          iFramelyUrl="https://cdn.iframe.ly/dItM00D?card=small"
+        />
       </Press>
     </>
   );
