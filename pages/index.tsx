@@ -149,14 +149,7 @@ const Home: NextPage = () => {
           take place in Washington County, Utah. This is a win for the legal
           case, as the jury pool in Washington County is less financially
           dependent on Smithfield. As a result of this change in venue, the
-          trial has also been delayed to October 3-7 (and we anticipate it may
-          last into the following week). Our trial support convergence will now
-          be October 3-11. If you can join us in Utah in October, please
-          register at&nbsp;
-          <a href="https://dxe.io/utahsignup" target="_blank">
-            dxe.io/utahsignup.
-          </a>
-          &nbsp; Please share this news on&nbsp;
+          trial has also been delayed to October 3-7. Please share this news on&nbsp;
           <a
             href="https://www.instagram.com/p/Chdz3-nrHM-/?igshid=YmMyMTA2M2Y%3D&"
             target="_blank"
