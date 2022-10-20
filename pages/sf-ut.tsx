@@ -53,7 +53,7 @@ const SmithfieldUtah: NextPage = () => {
           testing. 
         </p>
         <p>
-          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to trial October 3-7, 2022 in Washington County, Utah. On Saturday, October 8, after a full day of deliberations, the jury of 8 people unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. Together, we have just set a powerful precedent for the legal right to rescue animals from abuse.
+          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to trial October 3-7, 2022 in Washington County, Utah. On Saturday, October 8, after a full day of deliberations, the jury of 8 people unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. This is a groundbreaking verdict and a major win for the right to rescue animals from abuse.
         </p>
       </Details>
       <Defendants>
