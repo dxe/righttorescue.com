@@ -54,8 +54,7 @@ const Home: NextPage = () => {
         <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
           On October 8, after a full day of deliberations, the jury unanimously
           found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and
-          Lizzie from Smithfield. This case set a powerful precedent for the
-          legal right to rescue animals from abuse.
+          Lizzie from Smithfield. This is a groundbreaking verdict and a major win for the right to rescue animals from abuse.
         </p>
       </FeaturedCase>
       <Letter />
