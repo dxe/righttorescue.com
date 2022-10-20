@@ -178,12 +178,12 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/SmSrSdl?card=small"
         />
         <Article
-          href="https://www.democracynow.org/2022/10/11/the_right_to_rescue_jury_acquits"
-          iFramelyUrl="https://cdn.iframe.ly/dItM00D?card=small"
-        />
-        <Article
           href="https://www.salon.com/2022/10/10/activists-saved-piglets-from-a-factory-farm-have-been-acquitted_partner/"
           iFramelyUrl="https://cdn.iframe.ly/Txl6xF0?card=small"
+        />
+        <Article
+          href="https://www.democracynow.org/2022/10/11/the_right_to_rescue_jury_acquits"
+          iFramelyUrl="https://cdn.iframe.ly/dItM00D?card=small"
         />
         <Article
           href="https://www.nytimes.com/2022/10/18/opinion/animal-rights-factory-farming.html"
