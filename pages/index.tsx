@@ -139,6 +139,18 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Washington County, Utah"
+          date="October 8, 2022"
+          image="sf-ut.jpeg"
+          featured
+        >
+          Victory! The jury in the #SmithfieldTrial unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield's Circle Four Farms. This groundbreaking verdict shows that the public supports the right to rescue animals from abuse. Please&nbsp;
+          <a href="https://twitter.com/DxEverywhere/status/1578885463279927297" target="_blank">
+            spread the word!
+          </a>
+          &nbsp;
+        </Announcement>
+        <Announcement
+          title="Washington County, Utah"
           date="August 19, 2022"
           image="gavel1.png"
           featured
