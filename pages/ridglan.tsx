@@ -55,7 +55,7 @@ const RidglanFarms: NextPage = () => {
 <Press>
         <Article
           href="https://theintercept.com/2018/05/17/inside-the-barbaric-u-s-industry-of-dog-experimentation/"
-          iFramelyUrl="https://cdn.iframe.ly/Wm2cuP2?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/nQsNmzM?card=small"
         />
         <Article
           href="https://madison.com/news/local/crime-and-courts/rescue-of-beagles-from-blue-mounds-animal-testing-facility-leads-to-criminal-charges-against-activists/article_bd74d8d5-758b-53ab-a118-edc1c3619530.html"
