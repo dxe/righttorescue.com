@@ -37,6 +37,12 @@ export const Support = () => {
                 />
                 Donate
               </Button>
+              <p
+                style={{ fontSize: "0.9rem" }}
+                className="my-2 text-uppercase text-white"
+              >
+                All donations doubled
+              </p>
             </div>
           </div>
         </div>
