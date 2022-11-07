@@ -189,6 +189,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.nytimes.com/2022/10/18/opinion/animal-rights-factory-farming.html"
           iFramelyUrl="https://cdn.iframe.ly/Jfptbbz?card=small&media=0"
         />
+        <Article
+          href="https://www.vox.com/future-perfect/2022/10/25/23412945/farm-animal-welfare-humane-meat-eggs-vote"
+          iFramelyUrl="https://cdn.iframe.ly/r0tUhfK?card=small"
+        />
       </Press>
     </>
   );
