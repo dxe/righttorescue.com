@@ -42,6 +42,10 @@ const Norbest: NextPage = () => {
       </Defendants>
       <Press>
         <Article
+          href="https://www.sltrib.com/news/2017/11/20/animal-rights-group-shares-this-undercover-video-of-diseased-and-mistreated-turkeys-at-utah-barns/"
+          iFramelyUrl="https://cdn.iframe.ly/H7xAFBg?card=small"
+        />
+        <Article
           href="https://www.cbsnews.com/news/as-thanksgiving-nears-animal-group-decry-conditions-at-turkey-farm/"
           iFramelyUrl="https://cdn.iframe.ly/WSUW50z?card=small"
         />
