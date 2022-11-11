@@ -8,8 +8,8 @@ export default function Layout({ children }: any) {
   return (
     <>
       <MainNav
-        announcement="BREAKING: Jury finds Wayne and Paul NOT GUILTY on all charges in the #SmithfieldTrial"
-        announcementPage="sf-ut"
+        announcement={undefined}
+        announcementPage={undefined}
         onPaddingUpdate={(paddingTop) => setMainTopPadding(paddingTop)}
       />
       <main style={{ paddingTop: mainTopPadding }}>{children}</main>

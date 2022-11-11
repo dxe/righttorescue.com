@@ -13,48 +13,23 @@ const Home: NextPage = () => {
     <>
       <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
       <FeaturedCase
-        name="Jury Finds Wayne and Paul Not Guilty for Rescuing Lily and Lizzie from Smithfield"
-        page="/sf-ut"
-        video="https://www.youtube.com/embed/wlSE1X-hSqQ"
-        videoRatio="16x9"
+        name="Sunrise Farms & Reichardt Duck Farm"
+        page="sunrise"
+        video="https://www.youtube.com/embed/pV4LCWJaa18"
+        videoRatio="1x1"
       >
         <p>
-          In 2017, DxE investigators infiltrated a massive pig farm in the Utah
-          desert – a facility owned by Smithfield/WH Group, the world’s largest
-          pig killing company. The investigators filmed the horrific conditions
-          inside in 360º virtual reality and rescued two piglets: Lily, who had
-          a severe leg injury, and Lizzie, who was malnourished and nursing on a
-          shredded nipple. The case has been covered by&nbsp;
-          <a
-            href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
-            target="_blank"
-          >
-            WIRED,
-          </a>
-          &nbsp;&nbsp;
-          <a
-            href="https://newrepublic.com/article/165468/animal-rights-dxe-smithfield"
-            target="_blank"
-          >
-            The New Republic,
-          </a>
-          &nbsp;and&nbsp;
-          <a
-            href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html"
-            target="_blank"
-          >
-            The New York Times.
-          </a>
-          &nbsp;
+          Over 100 nonviolent activists have been arrested at factory farms in
+          Sonoma County for taking direct action to help suffering animals after
+          the government ignored repeated reports of criminal animal cruelty.
+          Six activists face a total of 47 felonies.
         </p>
         <p>
-          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to
-          trial October 3-7, 2022 in Washington County, Utah.
-        </p>
-        <p style={{ fontSize: "1.1rem", fontWeight: 600 }}>
-          On October 8, after a full day of deliberations, the jury unanimously
-          found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and
-          Lizzie from Smithfield. This is a groundbreaking verdict and a major win for the right to rescue animals from abuse.
+          Trial was expected to begin in 2020, but the COVID-19 pandemic delayed
+          the court schedule. Preliminary hearings began for four of the
+          defendants in November 2021, and will conclude this year. Preliminary
+          hearings have not yet begun for the other two defendants. Following
+          preliminary hearings, trial will be scheduled.
         </p>
       </FeaturedCase>
       <Letter />
@@ -133,6 +108,14 @@ const Home: NextPage = () => {
             image="iowa.jpg"
             past
           />
+
+          <Case
+            name="Smithfield"
+            location="Beaver County, Utah"
+            page="sf-ut"
+            image="sf-ut.jpg"
+            past
+          />
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
@@ -142,8 +125,15 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         >
-          Victory! The jury in the #SmithfieldTrial unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield's Circle Four Farms. This groundbreaking verdict shows that the public supports the right to rescue animals from abuse. Please&nbsp;
-          <a href="https://twitter.com/DxEverywhere/status/1578885463279927297" target="_blank">
+          Victory! The jury in the #SmithfieldTrial unanimously found Wayne and
+          Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from
+          Smithfield's Circle Four Farms. This groundbreaking verdict shows that
+          the public supports the right to rescue animals from abuse.
+          Please&nbsp;
+          <a
+            href="https://twitter.com/DxEverywhere/status/1578885463279927297"
+            target="_blank"
+          >
             spread the word!
           </a>
           &nbsp;
@@ -160,7 +150,8 @@ const Home: NextPage = () => {
           take place in Washington County, Utah. This is a win for the legal
           case, as the jury pool in Washington County is less financially
           dependent on Smithfield. As a result of this change in venue, the
-          trial has also been delayed to October 3-7. Please share this news on&nbsp;
+          trial has also been delayed to October 3-7. Please share this news
+          on&nbsp;
           <a
             href="https://www.instagram.com/p/Chdz3-nrHM-/?igshid=YmMyMTA2M2Y%3D&"
             target="_blank"
