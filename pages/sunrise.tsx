@@ -161,7 +161,7 @@ const Sunrise: NextPage = () => {
         />
         <Article
           href="https://www.pressdemocrat.com/article/news/delays-continue-in-case-of-activists-who-removed-chickens-from-local-poultr/"
-          iFramelyUrl="https://cdn.iframe.ly/api/iframe?card=small&url=https://www.pressdemocrat.com/article/news/delays-continue-in-case-of-activists-who-removed-chickens-from-local-poultr/"
+          iFramelyUrl="https://cdn.iframe.ly/vD6oEaA?card=small"
         />
       </Press>
     </>
