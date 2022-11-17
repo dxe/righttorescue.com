@@ -30,9 +30,8 @@ const Sunrise: NextPage = () => {
         Sonoma County for taking direct action to help suffering animals after
         the government ignored repeated reports of criminal animal cruelty.
         Six activists face a total of 47
-        felonies. Trial was expected to begin in 2020, but the COVID-19 pandemic
-        delayed the court schedule. Preliminary hearings began for four of the
-         defendants in November 2021, and will conclude this year. Preliminary hearings have not yet begun for the other two defendants. Following preliminary hearings, trial will be scheduled.
+        felonies stemming from 3 nonviolent direct actions at factory farms which occurred in May 2018, September 2018, and June 2019. Preliminary hearings began for four of the
+         defendants in November 2021, and are scheduled to conclude Jan 18-19, 2023. Preliminary hearings have not yet begun for the other two defendants. They are scheduled for Dec. 5-7, 2022. Following preliminary hearings, trial will be scheduled.
       </Details>
       <Defendants>
         <Bio name="Almira Tanner" image="almira.jpg">
@@ -159,6 +158,10 @@ const Sunrise: NextPage = () => {
         <Article
           href="https://www.pressdemocrat.com/article/news/petaluma-protesters-urge-animal-rights-law/"
           iFramelyUrl="https://cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fwww.pressdemocrat.com%2Farticle%2Fnews%2Fpetaluma-protesters-urge-animal-rights-law%2F&key=f228a120ef238f04c4948018b7d4e843"
+        />
+        <Article
+          href="https://www.pressdemocrat.com/article/news/delays-continue-in-case-of-activists-who-removed-chickens-from-local-poultr/"
+          iFramelyUrl="https://cdn.iframe.ly/api/iframe?card=small&url=https://www.pressdemocrat.com/article/news/delays-continue-in-case-of-activists-who-removed-chickens-from-local-poultr/"
         />
       </Press>
     </>
