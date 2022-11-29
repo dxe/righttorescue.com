@@ -8,8 +8,8 @@ export default function Layout({ children }: any) {
   return (
     <>
       <MainNav
-        announcement={undefined}
-        announcementPage={undefined}
+        announcement="Support the Right to Rescue on Giving Tuesday - All Donations Doubled"
+        announcementPage="#support"
         onPaddingUpdate={(paddingTop) => setMainTopPadding(paddingTop)}
       />
       <main style={{ paddingTop: mainTopPadding }}>{children}</main>
