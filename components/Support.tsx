@@ -43,6 +43,18 @@ export const Support = () => {
               >
                 All donations doubled until January 1
               </p>
+              {/*Donation thermometer START*/}
+              <link
+                href="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.css"
+                rel="stylesheet"
+              />
+              <div
+                className="dxe-donation-thermometer my-3"
+                data-start-date="2022-11-30"
+                data-goal="0"
+              />
+              <Script src="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.js"></Script>
+              {/*Donation thermometer END*/}
             </div>
           </div>
         </div>
