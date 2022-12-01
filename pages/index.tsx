@@ -137,7 +137,7 @@ const Home: NextPage = () => {
         <Announcement
           title="Beaver County, Utah"
           date="September 8, 2022"
-          image="anonymousjurors.jpeg"
+          image="gavel1.png"
           featured
         >
          Judge Wilcox ruled, over the defense's objection, to make the jury anonymous. It’s a move typically reserved for trials involving violent organized crime, with only one known use in Utah history, before now. This decision could indicate to jurors that the defendants are violent people to be feared, instead of compassionate individuals trying to protect the most vulnerable. 
