@@ -202,7 +202,7 @@ const Home: NextPage = () => {
                 <Announcement
           title="Beaver County, Utah"
           date="Feb. 24, 2022"
-          image="sf-ut.jpeg"
+          image="gavel1.png"
           featured
         >
           Utah Judge Jeffrey C. Wilcox, who will preside over the #SmithfieldTrial, granted the State’s request to exclude the Operation Deathstar video and all evidence of “inhumane animal conditions” at trial, except to prove the value of the specific piglets who were rescued, Lily and Lizzie. The State argued that the footage would be prejudicial because it would arouse horror in the jury, but that is exactly why the jury should be allowed to see it.  
