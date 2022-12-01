@@ -135,6 +135,14 @@ const Home: NextPage = () => {
           &nbsp;
         </Announcement>
         <Announcement
+          title="Beaver County, Utah"
+          date="September 8, 2022"
+          image="sf-ut.jpeg"
+          featured
+        >
+         Judge Wilcox ruled, over the defense's objection, to make the jury anonymous. It’s a move typically reserved for trials involving violent organized crime, with only one known use in Utah history, before now. This decision could indicate to jurors that the defendants are violent people to be feared, instead of compassionate individuals trying to protect the most vulnerable. 
+        </Announcement>
+        <Announcement
           title="Washington County, Utah"
           date="August 19, 2022"
           image="gavel1.png"
@@ -186,15 +194,10 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         >
-          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. We are
+          Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. DxE is
           organizing a convergence in Utah during the trial to show support for
           animal rescue, build community with one another, and take action
-          together to expose Smithfield’s Deathstar to the world. You can
-          register at&nbsp;
-          <a href="https://dxe.io/utahsignup" target="_blank">
-            dxe.io/utahsignup.
-          </a>
-          &nbsp;
+          together to expose Smithfield’s Deathstar to the world. 
         </Announcement>
         <Announcement
           title="Wright County, Iowa"
