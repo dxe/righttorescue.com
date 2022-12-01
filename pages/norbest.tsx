@@ -58,8 +58,16 @@ const Norbest: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/nfH8dIG?card=small"
         />
         <Article
+          href="https://www.sltrib.com/news/politics/2018/05/22/a-utah-farm-saw-a-video-of-its-hogs-being-stolen-months-earlier-it-wasnt-the-first-time-the-activists-were-accused-of-livestock-larceny/"
+          iFramelyUrl="https://cdn.iframe.ly/dPvjfJX?card=small"
+        />
+        <Article
           href="https://sanpetemessenger.com/animal-activists-seek-compassion-in-6th-district-court/"
           iFramelyUrl="https://cdn.iframe.ly/QtPitIQ?card=small"
+        />
+        <Article
+          href="https://www.fox13now.com/2018/11/19/animal-rights-activists-facing-60-years-in-prison-release-turkeys-to-local-sanctuaries"
+          iFramelyUrl="https://cdn.iframe.ly/R6MUHbe?card=small"
         />
       </Press>
     </>
