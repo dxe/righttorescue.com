@@ -117,7 +117,7 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Washington County, Utah"
-          date="October 8, 2022"
+          date="Oct. 8, 2022"
           image="sf-ut.jpeg"
           featured
         >
@@ -136,7 +136,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
-          date="September 8, 2022"
+          date="Sept. 8, 2022"
           image="gavel1.png"
           featured
         >
@@ -144,7 +144,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Washington County, Utah"
-          date="August 19, 2022"
+          date="Aug. 19, 2022"
           image="gavel1.png"
           featured
         >
@@ -198,6 +198,14 @@ const Home: NextPage = () => {
           organizing a convergence in Utah during the trial to show support for
           animal rescue, build community with one another, and take action
           together to expose Smithfield’s Deathstar to the world. 
+        </Announcement>
+                <Announcement
+          title="Beaver County, Utah"
+          date="Feb. 24, 2022"
+          image="sf-ut.jpeg"
+          featured
+        >
+          Utah Judge Jeffrey C. Wilcox, who will preside over the #SmithfieldTrial, granted the State’s request to exclude the Operation Deathstar video and all evidence of “inhumane animal conditions” at trial, except to prove the value of the specific piglets who were rescued, Lily and Lizzie. The State argued that the footage would be prejudicial because it would arouse horror in the jury, but that is exactly why the jury should be allowed to see it.  
         </Announcement>
         <Announcement
           title="Wright County, Iowa"
