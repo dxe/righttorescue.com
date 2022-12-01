@@ -57,6 +57,10 @@ const Norbest: NextPage = () => {
           href="https://theintercept.com/2018/05/04/six-animal-rights-activists-charged-with-felonies-for-investigation-and-rescue-that-led-to-punishment-of-a-utah-turkey-farm/"
           iFramelyUrl="https://cdn.iframe.ly/nfH8dIG?card=small"
         />
+        <Article
+          href="https://sanpetemessenger.com/animal-activists-seek-compassion-in-6th-district-court/"
+          iFramelyUrl="https://cdn.iframe.ly/QtPitIQ?card=small"
+        />
       </Press>
     </>
   );
