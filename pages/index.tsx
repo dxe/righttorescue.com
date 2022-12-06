@@ -22,12 +22,12 @@ const Home: NextPage = () => {
           Over 100 nonviolent activists have been arrested at factory farms in
           Sonoma County for taking nonviolent direct action to help suffering
           animals after the government ignored repeated reports of criminal
-          animal cruelty. Six activists face a total of 47 felonies stemming
+          animal cruelty. Six activists face felony charges stemming
           from three actions at three different factory farms which occurred in
           May 2018, September 2018, and June 2019.
         </p>
         <p>
-          Preliminary hearings finally happened on Dec. 5, 2022 for Rachel and Jon. Preliminary hearings began in November 2021 for the other four defendants, and are scheduled to conclude Jan 18-19, 2023. 
+          Preliminary hearings finally happened on Dec. 5, 2022 for two of the defendants, Rachel and Jon. The judge ruled that there was enough evidence for the case to continue to trial. Preliminary hearings began in November 2021 for the other four defendants, and are scheduled to conclude Jan 18-19, 2023. Trial is expected to happen in 2023. 
         </p>
       </FeaturedCase>
       <Letter />
