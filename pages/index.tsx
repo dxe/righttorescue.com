@@ -27,7 +27,7 @@ const Home: NextPage = () => {
           May 2018, September 2018, and June 2019.
         </p>
         <p>
-          Preliminary hearings finally happened on Dec. 5, 2022 for two of the defendants, Rachel and Jon. The judge ruled that there was enough evidence for the case to continue to trial. Preliminary hearings began in November 2021 for the other four defendants, and are scheduled to conclude Jan 18-19, 2023. Trial is expected to happen in 2023. 
+          Preliminary hearings finally happened on December 5, 2022 for two of the defendants, Rachel and Jon. The judge ruled that there was enough evidence for the case to continue to trial. Preliminary hearings began in November 2021 for the other four defendants, and are scheduled to conclude January 18-19, 2023. Trial is expected to happen in 2023 for all six defendants. 
         </p>
       </FeaturedCase>
       <Letter />
