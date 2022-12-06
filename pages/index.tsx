@@ -18,14 +18,20 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
       >
-        <p>   
-        Over 100 nonviolent activists have been arrested at factory farms in
-        Sonoma County for taking nonviolent direct action to help suffering animals after
-        the government ignored repeated reports of criminal animal cruelty.
-        Six activists face a total of 47 felonies stemming from three actions at three different factory farms which occurred in May 2018, September 2018, and June 2019. 
+        <p>
+          Over 100 nonviolent activists have been arrested at factory farms in
+          Sonoma County for taking nonviolent direct action to help suffering
+          animals after the government ignored repeated reports of criminal
+          animal cruelty. Six activists face a total of 47 felonies stemming
+          from three actions at three different factory farms which occurred in
+          May 2018, September 2018, and June 2019.
         </p>
         <p>
-         Preliminary hearings began for four of the defendants in November 2021, and are scheduled to conclude Jan 18-19, 2023. Preliminary hearings have not yet begun for the other two defendants. They are scheduled for Dec. 5-7, 2022. Following preliminary hearings, trial will be scheduled.
+          Preliminary hearings began for four of the defendants in November
+          2021, and are scheduled to conclude Jan 18-19, 2023. Preliminary
+          hearings have not yet begun for the other two defendants. They are
+          scheduled for Dec. 5-7, 2022. Following preliminary hearings, trial
+          will be scheduled.
         </p>
       </FeaturedCase>
       <Letter />
@@ -63,7 +69,7 @@ const Home: NextPage = () => {
             name="Foster Farms"
             location="Merced County, California"
             page="fosterfarms"
-            image="Foster Farms rescue shot.png"
+            image="ff.png"
           />
 
           <Case
@@ -140,7 +146,12 @@ const Home: NextPage = () => {
           image="gavel1.png"
           featured
         >
-         Judge Wilcox ruled, over the defense's objection, to make the jury anonymous. It’s a move typically reserved for trials involving violent organized crime, with only one known use in Utah history, before now. This decision could indicate to jurors that the defendants are violent people to be feared, instead of compassionate individuals trying to protect the most vulnerable. 
+          Judge Wilcox ruled, over the defense's objection, to make the jury
+          anonymous. It’s a move typically reserved for trials involving violent
+          organized crime, with only one known use in Utah history, before now.
+          This decision could indicate to jurors that the defendants are violent
+          people to be feared, instead of compassionate individuals trying to
+          protect the most vulnerable.
         </Announcement>
         <Announcement
           title="Washington County, Utah"
@@ -197,15 +208,21 @@ const Home: NextPage = () => {
           Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. DxE is
           organizing a convergence in Utah during the trial to show support for
           animal rescue, build community with one another, and take action
-          together to expose Smithfield’s Deathstar to the world. 
+          together to expose Smithfield’s Deathstar to the world.
         </Announcement>
-                <Announcement
+        <Announcement
           title="Beaver County, Utah"
           date="Feb. 24, 2022"
           image="gavel1.png"
           featured
         >
-          Utah Judge Jeffrey C. Wilcox, who will preside over the #SmithfieldTrial, granted the State’s request to exclude the Operation Deathstar video and all evidence of “inhumane animal conditions” at trial, except to prove the value of the specific piglets who were rescued, Lily and Lizzie. The State argued that the footage would be prejudicial because it would arouse horror in the jury, but that is exactly why the jury should be allowed to see it.  
+          Utah Judge Jeffrey C. Wilcox, who will preside over the
+          #SmithfieldTrial, granted the State’s request to exclude the Operation
+          Deathstar video and all evidence of “inhumane animal conditions” at
+          trial, except to prove the value of the specific piglets who were
+          rescued, Lily and Lizzie. The State argued that the footage would be
+          prejudicial because it would arouse horror in the jury, but that is
+          exactly why the jury should be allowed to see it.
         </Announcement>
         <Announcement
           title="Wright County, Iowa"

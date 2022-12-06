@@ -18,17 +18,23 @@ const FosterFarms: NextPage = () => {
         Share the video with #RightToRescue and stay tuned for more ways you can
         help.
       </Header>
-      <Details image="Foster Farms rescue shot.png">
-        In September 2021, two activists rescued birds from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA.
-        They received theft charges in the mail in Spring 2022 and had their first court date on June 15, 2022 in Merced Superior Court, where they entered not guilty pleas via their attorney. Their next court date is December 6. It is a readiness hearing to either confirm or delay a December 13 trial date; most likely the trial will be pushed back a month or more. 
+      <Details image="ff.png">
+        In September 2021, two activists rescued birds from a stopped slaughter
+        truck that was heading into the Foster Farms slaughterhouse in
+        Livingston, CA. They received theft charges in the mail in Spring 2022
+        and had their first court date on June 15, 2022 in Merced Superior
+        Court, where they entered not guilty pleas via their attorney. Their
+        next court date is December 6. It is a readiness hearing to either
+        confirm or delay a December 13 trial date; most likely the trial will be
+        pushed back a month or more.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
-          Alexandra is a longtime actress who lives in Oregon with her
-          human partner of 25+ years and their two felines. With other DxE
-          activists, she has rescued pigs, chickens and calves from factory
-          farms and has been arrested 5 times at DxE actions peacefully
-          advocating for animals.
+          Alexandra is a longtime actress who lives in Oregon with her human
+          partner of 25+ years and their two felines. With other DxE activists,
+          she has rescued pigs, chickens and calves from factory farms and has
+          been arrested 5 times at DxE actions peacefully advocating for
+          animals.
         </Bio>
         <Bio name="Alicia Santurio" image="as.jpg">
           Alicia is a factory farm investigator and experienced animal caretaker
@@ -41,7 +47,7 @@ const FosterFarms: NextPage = () => {
           href="https://theintercept.com/2021/09/29/animal-cruelty-chickens-foster-farms-humane/"
           iFramelyUrl="https://cdn.iframe.ly/h2dIr7Z?card=small"
         />
-       <Article
+        <Article
           href="https://fox40.com/news/california-connection/demonstrators-protest-alleged-worker-animal-abuses-at-foster-farms-facility/"
           iFramelyUrl="https://cdn.iframe.ly/A8rhXPa?card=small"
         />
@@ -49,7 +55,7 @@ const FosterFarms: NextPage = () => {
           href="https://kmph.com/news/local/protesters-gather-some-arrested-outside-foster-farms-plant-in-livingston"
           iFramelyUrl="https://cdn.iframe.ly/lTyHsNc?card=small"
         />
-         <Article
+        <Article
           href="https://www.mercedsunstar.com/news/local/article254599757.html"
           iFramelyUrl="https://cdn.iframe.ly/M6pcW2H?card=small"
         />

@@ -52,6 +52,7 @@ export const Support = () => {
                 className="dxe-donation-thermometer my-3"
                 data-start-date="2022-11-30"
                 data-goal="0"
+                data-offset="83400"
               />
               <Script src="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.js"></Script>
               {/*Donation thermometer END*/}
