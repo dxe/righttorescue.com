@@ -117,6 +117,31 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
+        
+        <Announcement
+          title="Sonoma County, California"
+          date="Dec. 5, 2022"
+          image="sunrise.jpeg"
+          featured
+        >
+          Rachel and Jon finally had their preliminary hearings today, four years after the nonviolent mass open rescues that led to this felony case. Although the prosecution failed to provide evidence that Rachel or Jon engaged in the alleged crimes including conspiracy and burglary, Judge Urioste nonetheless ruled that the case would proceed to trial on all charges. Trial dates have not been set yet. You can read more about what happened at the hearing in&nbsp;
+          <a
+            href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
+            target="_blank"
+          >
+            this press article
+          </a>
+          &nbsp; or&nbsp;
+          <a
+            href="https://www.directactioneverywhere.com/dxe-in-the-news/court-update-the-sonomatrial-is-finally-on-the-horizon"
+            target="_blank"
+          >
+            this DxE blog.
+          </a>
+          &nbsp;
+    
+        </Announcement>
+        
         <Announcement
           title="Washington County, Utah"
           date="Oct. 8, 2022"
