@@ -121,7 +121,7 @@ const Home: NextPage = () => {
         <Announcement
           title="Sonoma County, California"
           date="Dec. 5, 2022"
-          image="sunrise.png"
+          image="Sunrise.png"
           featured
         >
           Rachel and Jon finally had their preliminary hearings today, four years after the nonviolent mass open rescues that led to this felony case. Although the prosecution failed to provide evidence that Rachel or Jon engaged in the alleged crimes including conspiracy and burglary, Judge Urioste nonetheless ruled that the case would proceed to trial on all charges. Trial dates have not been set yet. You can read more about what happened at the hearing in&nbsp;
@@ -131,7 +131,7 @@ const Home: NextPage = () => {
           >
             this press article
           </a>
-          &nbsp; or&nbsp;
+          &nbsp;or&nbsp;
           <a
             href="https://www.directactioneverywhere.com/dxe-in-the-news/court-update-the-sonomatrial-is-finally-on-the-horizon"
             target="_blank"
