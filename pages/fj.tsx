@@ -22,14 +22,12 @@ const FarmerJohn: NextPage = () => {
         Seven activists were arrested while attempting to rescue a pig they
         named Greta from inside Farmer John slaughterhouse in Los Angeles.
         Farmer John is Smithfield’s largest West Coast slaughterhouse where more
-        than 7,000 pigs are killed every day. It is also the site of a massive
-        COVID outbreak. 1 in 2 workers at the facility have been infected. A few
+        than 7,000 pigs are killed every day. It was also the site of a massive
+        COVID outbreak in 2020 where 1 in 2 workers at the facility were infected. A few
         days after the attempted rescue, around 200 people united at the
         slaughterhouse to protest Smithfield’s abuse of animals and workers.
         Dozens more people were arrested during a lockdown at the facility. Most
-        have had no charges filed against them, but some are still awaiting
-        charging decisions. The seven people who tried to save Greta are also
-        waiting to receive their charges.
+        had no charges filed against them. The police filed felony charges against the seven people who tried to save Greta, but the District Attorney has so far chosen not to pursue the case.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
