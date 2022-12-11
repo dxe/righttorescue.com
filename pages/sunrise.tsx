@@ -172,6 +172,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/delays-continue-in-case-of-activists-who-removed-chickens-from-local-poultr/"
           iFramelyUrl="https://cdn.iframe.ly/vD6oEaA?card=small"
         />
+        <Article
+          href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
+          iFramelyUrl="https://cdn.iframe.ly/O3PV9IR?card=small"
+        />
       </Press>
     </>
   );
