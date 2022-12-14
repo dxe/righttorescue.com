@@ -117,7 +117,16 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
-        
+        <Announcement
+          title="Merced County, California"
+          date="December 13, 2022"
+          image="FF best.png"
+          featured
+        >
+          Trial dates were set today for the Foster Farms rescue case. Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio
+          are being charged with misdemeanor theft for rescuing two birds from a slaughter truck that was stopped on its
+          way into the Foster Farms slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March 7, 2023 and it is expected to last 4-5 days.
+        </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="Dec. 5, 2022"
