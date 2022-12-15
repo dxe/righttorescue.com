@@ -11,7 +11,7 @@ import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="sf-ut.jpg" takeActionPage={undefined} />
+      <MastHead image="alexandra2.jpg" takeActionPage={undefined} />
       <FeaturedCase
         name="Sunrise Farms & Reichardt Duck Farm"
         page="sunrise"
