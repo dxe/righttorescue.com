@@ -56,6 +56,10 @@ const FosterFarms: NextPage = () => {
           href="https://www.mercedsunstar.com/news/local/article254599757.html"
           iFramelyUrl="https://cdn.iframe.ly/M6pcW2H?card=small"
         />
+        <Article
+          href="https://kmph.com/news/local/baywatch-star-who-saved-chickens-from-slaughterhouse-gets-trial-date-for-chicken-theft#"
+          iFramelyUrl="https://cdn.iframe.ly/CXPmLbj?card=small"
+        />
       </Press>
     </>
   );
