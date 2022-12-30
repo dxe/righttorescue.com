@@ -22,12 +22,17 @@ const Home: NextPage = () => {
           Over 100 nonviolent activists have been arrested at factory farms in
           Sonoma County for taking nonviolent direct action to help suffering
           animals after the government ignored repeated reports of criminal
-          animal cruelty. Six activists face felony charges stemming
-          from three actions at three different factory farms which occurred in
-          May 2018, September 2018, and June 2019.
+          animal cruelty. Six activists face felony charges stemming from three
+          actions at three different factory farms which occurred in May 2018,
+          September 2018, and June 2019.
         </p>
         <p>
-          Preliminary hearings finally happened on December 5, 2022 for two of the defendants, Rachel and Jon. The judge ruled that there was enough evidence for the case to continue to trial. Preliminary hearings began in November 2021 for the other four defendants, and are scheduled to conclude January 18-19, 2023. Trial is expected to happen in 2023 for all six defendants. 
+          Preliminary hearings finally happened on December 5, 2022 for two of
+          the defendants, Rachel and Jon. The judge ruled that there was enough
+          evidence for the case to continue to trial. Preliminary hearings began
+          in November 2021 for the other four defendants, and are scheduled to
+          conclude January 18-19, 2023. Trial is expected to happen in 2023 for
+          all six defendants.
         </p>
       </FeaturedCase>
       <Letter />
@@ -123,9 +128,12 @@ const Home: NextPage = () => {
           image="FF best.png"
           featured
         >
-          Trial dates were set today for the Foster Farms rescue case. Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio
-          are being charged with misdemeanor theft for rescuing two birds from a slaughter truck that was stopped on its
-          way into the Foster Farms slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March 7, 2023 and it is expected to last 4-5 days.
+          Trial dates were set today for the Foster Farms rescue case. Former
+          Baywatch star Alexandra Paul and co-defendant Alicia Santurio are
+          being charged with misdemeanor theft for rescuing two birds from a
+          slaughter truck that was stopped on its way into the Foster Farms
+          slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March
+          7, 2023 and it is expected to last 4-5 days.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -133,7 +141,13 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          Rachel and Jon finally had their preliminary hearings today, four years after the nonviolent mass open rescues that led to this felony case. Although the prosecution failed to provide evidence that Rachel or Jon engaged in the alleged crimes including conspiracy and burglary, Judge Urioste nonetheless ruled that the case would proceed to trial on all charges. Trial dates have not been set yet. You can read more about what happened at the hearing in&nbsp;
+          Rachel and Jon finally had their preliminary hearings today, four
+          years after the nonviolent mass open rescues that led to this felony
+          case. Although the prosecution failed to provide evidence that Rachel
+          or Jon engaged in the alleged crimes including conspiracy and
+          burglary, Judge Urioste nonetheless ruled that the case would proceed
+          to trial on all charges. Trial dates have not been set yet. You can
+          read more about what happened at the hearing in&nbsp;
           <a
             href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
             target="_blank"

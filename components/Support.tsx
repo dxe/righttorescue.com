@@ -41,7 +41,7 @@ export const Support = () => {
                 style={{ fontSize: "0.9rem" }}
                 className="my-2 text-uppercase text-white"
               >
-                All donations doubled until January 1
+                All donations tripled until January 1
               </p>
               {/*Donation thermometer START*/}
               <link

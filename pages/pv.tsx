@@ -29,7 +29,7 @@ const PleasantValley: NextPage = () => {
         Washington Post, New York Times and more. We appealed the court's
         decision, but the Superior Court of California, County of San Joaquin,
         Appellate Division rejected our appeal by affirming the judge's original
-        decision. So the restitution ruling still stands, but no one is paying. 
+        decision. So the restitution ruling still stands, but no one is paying.
       </Details>
       <Press>
         <Article
@@ -52,7 +52,7 @@ const PleasantValley: NextPage = () => {
           href="https://www.sfgate.com/news/article/Animal-activist-charged-after-taking-hen-from-10907963.php"
           iFramelyUrl="https://cdn.iframe.ly/H6afFBH?card=small"
         />
-       <Article
+        <Article
           href="https://www.modbee.com/news/business/agriculture/article223446735.html"
           iFramelyUrl="https://cdn.iframe.ly/Zof2Gm9?card=small"
         />

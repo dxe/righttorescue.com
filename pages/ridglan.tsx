@@ -29,10 +29,12 @@ const RidglanFarms: NextPage = () => {
         entered the facility and documented the filthy conditions and the
         psychological trauma of the dogs spinning endlessly inside small cages.
         The team rescued three beagles. Although the investigation and rescue
-        happened years ago, the charging documents were filed in August 2021. Eva, Paul, and Wayne are facing felony burglary and felony theft charges. Trial dates have not been set yet, but our legal team is working on the
-        case. This is an important opportunity to show the world the horrors
-        inflicted on humankind’s supposed best friend and to move toward ending
-        experimentation on dogs and other animals.
+        happened years ago, the charging documents were filed in August 2021.
+        Eva, Paul, and Wayne are facing felony burglary and felony theft
+        charges. Trial dates have not been set yet, but our legal team is
+        working on the case. This is an important opportunity to show the world
+        the horrors inflicted on humankind’s supposed best friend and to move
+        toward ending experimentation on dogs and other animals.
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
@@ -52,7 +54,7 @@ const RidglanFarms: NextPage = () => {
           and currently faces 10 felonies for rescuing sick animals.
         </Bio>
       </Defendants>
-<Press>
+      <Press>
         <Article
           href="https://theintercept.com/2018/05/17/inside-the-barbaric-u-s-industry-of-dog-experimentation/"
           iFramelyUrl="https://cdn.iframe.ly/nQsNmzM?card=small"
@@ -61,7 +63,7 @@ const RidglanFarms: NextPage = () => {
           href="https://madison.com/news/local/crime-and-courts/rescue-of-beagles-from-blue-mounds-animal-testing-facility-leads-to-criminal-charges-against-activists/article_bd74d8d5-758b-53ab-a118-edc1c3619530.html"
           iFramelyUrl="https://cdn.iframe.ly/QbnLF8Z?card=small"
         />
-</Press>
+      </Press>
     </>
   );
 };

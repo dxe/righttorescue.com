@@ -17,7 +17,9 @@ const SmithfieldUtah: NextPage = () => {
         ctaText1="SPREAD THE WORD"
         ctaLink1="https://twitter.com/DxEverywhere/status/1578885463279927297"
       >
-        The #SmithfieldTrial ended with a full acquittal for Paul and Wayne. Help us share this historic victory for the right to rescue by retweeting or making your own post today.
+        The #SmithfieldTrial ended with a full acquittal for Paul and Wayne.
+        Help us share this historic victory for the right to rescue by
+        retweeting or making your own post today.
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
@@ -25,15 +27,16 @@ const SmithfieldUtah: NextPage = () => {
           <a
             href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
             target="_blank"
-          >infiltrated a massive pig farm</a>
-          &nbsp; in the Utah
-          desert, a facility owned by Smithfield/WH Group, the world’s largest
-          pig killing company. This one Smithfield farm is 20 miles long with
-          over 300 barns on site. The investigators filmed the conditions inside
-          in 360 degree virtual reality footage. Their footage, titled
-          "Operation Deathstar," documented row after row of mother pigs crammed
-          inside gestation crates barely bigger than their bodies and piles of
-          dead piglets covered in their mothers' feces.
+          >
+            infiltrated a massive pig farm
+          </a>
+          &nbsp; in the Utah desert, a facility owned by Smithfield/WH Group,
+          the world’s largest pig killing company. This one Smithfield farm is
+          20 miles long with over 300 barns on site. The investigators filmed
+          the conditions inside in 360 degree virtual reality footage. Their
+          footage, titled "Operation Deathstar," documented row after row of
+          mother pigs crammed inside gestation crates barely bigger than their
+          bodies and piles of dead piglets covered in their mothers' feces.
         </p>
         <p>
           The investigators rescued 2 sick piglets, Lily, who had a severe leg
@@ -48,12 +51,17 @@ const SmithfieldUtah: NextPage = () => {
             New York Times
           </a>
           &nbsp;to show the world the nightmarish cruelty happening inside
-          Smithfield’s farms. The story went viral when the FBI started hunting for the piglets,
-          raiding sanctuaries and even cutting off part of a pig’s ear to do DNA
-          testing. 
+          Smithfield’s farms. The story went viral when the FBI started hunting
+          for the piglets, raiding sanctuaries and even cutting off part of a
+          pig’s ear to do DNA testing.
         </p>
         <p>
-          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to trial October 3-7, 2022 in Washington County, Utah. On Saturday, October 8, after a full day of deliberations, the jury of 8 people unanimously found Wayne and Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from Smithfield. This is a groundbreaking verdict and a major win for the right to rescue animals from abuse.
+          DxE investigators Wayne Hsiung and Paul Darwin Picklesimer went to
+          trial October 3-7, 2022 in Washington County, Utah. On Saturday,
+          October 8, after a full day of deliberations, the jury of 8 people
+          unanimously found Wayne and Paul NOT GUILTY on all charges for
+          rescuing Lily and Lizzie from Smithfield. This is a groundbreaking
+          verdict and a major win for the right to rescue animals from abuse.
         </p>
       </Details>
       <Defendants>
@@ -113,19 +121,19 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.usatoday.com/story/sports/2022/07/05/joey-chestnut-hot-dog-eating-contest-protester-reaction-regret/7816840001/"
           iFramelyUrl="https://cdn.iframe.ly/l2nKLW6?card=small"
         />
-         <Article
+        <Article
           href="https://www.sltrib.com/news/2022/08/03/utah-police-intimidated-animal/"
           iFramelyUrl="https://cdn.iframe.ly/l8i6Fff?card=small"
         />
-         <Article
+        <Article
           href="https://www.fox13now.com/news/local-news/animal-rights-activists-sue-beaver-county-for-allegedly-violating-first-amendment-rights"
           iFramelyUrl="https://cdn.iframe.ly/GbKOV6l?card=small"
         />
-         <Article
+        <Article
           href="https://www.sltrib.com/news/2022/08/29/heres-how-trial-activists-who/"
           iFramelyUrl="https://cdn.iframe.ly/WFVjtc8?card=small"
         />
-         <Article
+        <Article
           href="https://www.sltrib.com/opinion/commentary/2022/09/01/jonathan-frohnmayer-big-pork-is/"
           iFramelyUrl="https://cdn.iframe.ly/H2v6T3T?card=small"
         />

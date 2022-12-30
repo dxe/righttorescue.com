@@ -23,11 +23,13 @@ const FarmerJohn: NextPage = () => {
         named Greta from inside Farmer John slaughterhouse in Los Angeles.
         Farmer John is Smithfield’s largest West Coast slaughterhouse where more
         than 7,000 pigs are killed every day. It was also the site of a massive
-        COVID outbreak in 2020 where 1 in 2 workers at the facility were infected. A few
-        days after the attempted rescue, around 200 people united at the
-        slaughterhouse to protest Smithfield’s abuse of animals and workers.
-        Dozens more people were arrested during a lockdown at the facility. Most
-        had no charges filed against them. The police filed felony charges against the seven people who tried to save Greta, but the District Attorney has so far chosen not to pursue the case.
+        COVID outbreak in 2020 where 1 in 2 workers at the facility were
+        infected. A few days after the attempted rescue, around 200 people
+        united at the slaughterhouse to protest Smithfield’s abuse of animals
+        and workers. Dozens more people were arrested during a lockdown at the
+        facility. Most had no charges filed against them. The police filed
+        felony charges against the seven people who tried to save Greta, but the
+        District Attorney has so far chosen not to pursue the case.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
@@ -76,7 +78,7 @@ const FarmerJohn: NextPage = () => {
           href="https://www.latimes.com/california/story/2020-09-26/animal-rights-activists-arrested-rescue-pig-farmer-john-slaughterhouse"
           iFramelyUrl="https://cdn.iframe.ly/XUfVyex?card=small"
         />
-       <Article
+        <Article
           href="https://www.foxla.com/news/animal-rights-activists-cited-for-attempted-pig-rescue-at-farmer-john-plant"
           iFramelyUrl="https://cdn.iframe.ly/Wtqu9D3?card=small"
         />
@@ -84,11 +86,11 @@ const FarmerJohn: NextPage = () => {
           href="https://www.nbclosangeles.com/news/local/animal-rights-activists-plan-2-day-vigil-outside-farmer-john-slaughterhouse/2434923/"
           iFramelyUrl="https://cdn.iframe.ly/sbAltwv?card=small"
         />
-         <Article
+        <Article
           href="https://spectrumnews1.com/ca/la-west/news/2021/02/15/animal-rights-activists-plan-return-to-farmer-john-plant-in-vernon"
           iFramelyUrl="https://cdn.iframe.ly/2OPQbSt?card=small"
         />
-         <Article
+        <Article
           href="https://www.foxla.com/news/farmer-john-meat-packing-plant-in-vernon-to-close-next-year"
           iFramelyUrl="https://cdn.iframe.ly/7AuTu19?card=small"
         />

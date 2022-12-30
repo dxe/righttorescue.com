@@ -23,7 +23,9 @@ const FosterFarms: NextPage = () => {
         truck that was heading into the Foster Farms slaughterhouse in
         Livingston, CA. They received theft charges in the mail in spring 2022
         and had their first court date on June 15, 2022 in Merced Superior
-        Court, where they entered not guilty pleas via their attorney. At a hearing on December 13, 2022, their trial was scheduled for March 7, 2023 and it is expected to last 4-5 days.
+        Court, where they entered not guilty pleas via their attorney. At a
+        hearing on December 13, 2022, their trial was scheduled for March 7,
+        2023 and it is expected to last 4-5 days.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
