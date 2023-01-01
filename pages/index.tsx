@@ -245,7 +245,6 @@ const Home: NextPage = () => {
           title="Beaver County, Utah"
           date="May 30, 2022"
           image="sf-ut.jpeg"
-          featured
         >
           Trial dates are set for Wayne and Paul in Utah: Sept. 9-16. DxE is
           organizing a convergence in Utah during the trial to show support for
@@ -256,7 +255,6 @@ const Home: NextPage = () => {
           title="Beaver County, Utah"
           date="Feb. 24, 2022"
           image="gavel1.png"
-          featured
         >
           Utah Judge Jeffrey C. Wilcox, who will preside over the
           #SmithfieldTrial, granted the State’s request to exclude the Operation
@@ -270,7 +268,6 @@ const Home: NextPage = () => {
           title="Wright County, Iowa"
           date="Jan. 19, 2022"
           image="mj.jpg"
-          featured
         >
           VICTORY! Just one day before trial was set to begin, all charges
           against DxE investigator Matt Johnson were DROPPED. International
@@ -287,7 +284,6 @@ const Home: NextPage = () => {
           title="Transylvania County, North Carolina"
           date="Dec. 6, 2021"
           image="rain.jpg"
-          featured
         >
           GUILTY: The jury found Wayne guilty on both counts: felony breaking or
           entering and felony larceny. The Judge issued a suspended sentence.
@@ -298,7 +294,6 @@ const Home: NextPage = () => {
           title="Sanpete County, Utah"
           date="Nov. 24, 2021"
           image="turkey.jpg"
-          featured
         >
           Case dismissed! The felony case against Wayne Hsiung and Paul Darwin
           Picklesimer for rescuing turkeys from a Utah farm in 2017 was just
@@ -330,7 +325,6 @@ const Home: NextPage = () => {
           title="Dane County, Wisconsin"
           date="Aug. 18, 2021"
           image="dog.jpg"
-          featured
         >
           We got a new case! Eva Hamer, Paul Darwin Picklesimer, and Wayne
           Hsiung were charged for rescuing three beagles from Ridglan Farms, a
