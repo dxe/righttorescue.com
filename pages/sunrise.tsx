@@ -19,9 +19,9 @@ const Sunrise: NextPage = () => {
         ctaText1="Call: 707-565-2311"
         ctaLink1="tel:707-565-2311"
         ctaText2="Email"
-        ctaLink2="mailto:jill.ravitch@sonoma-county.org"
+        ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
-        Call and email Sonoma County District Attorney Jill Ravitch politely
+        Call and email Sonoma County District Attorney Carla Rodriguez politely
         asking her to drop the charges against the activists who exposed animal
         cruelty and rescued suffering animals.
       </Header>
