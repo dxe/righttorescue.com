@@ -35,7 +35,7 @@ const Sunrise: NextPage = () => {
         of the defendants, Rachel and Jon. The judge ruled that there was enough
         evidence for the case to continue to trial. Preliminary hearings began
         in November 2021 for the other four defendants, and are scheduled to
-        conclude January 18-19, 2023. Trial is expected in 2023 for all six
+        conclude January 19, 2023. Trial is expected in 2023 for all six
         defendants.
       </Details>
       <Defendants>
