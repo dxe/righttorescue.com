@@ -13,27 +13,12 @@ const Home: NextPage = () => {
     <>
       <MastHead image="alexandra 2.jpeg" takeActionPage={undefined} />
       <FeaturedCase
-        name="Sunrise Farms & Reichardt Duck Farm"
-        page="sunrise"
-        video="https://www.youtube.com/embed/pV4LCWJaa18"
-        videoRatio="1x1"
+        name="Rescuing Ethan and Jax from Foster Farms"
+        page="fosterfarms"
+        video="https://www.youtube.com/watch?v=LxnIwWmFd1E"
+        videoRatio="16x9"
       >
-        <p>
-          Over 100 nonviolent activists have been arrested at factory farms in
-          Sonoma County for taking nonviolent direct action to help suffering
-          animals after the government ignored repeated reports of criminal
-          animal cruelty. Six activists face felony charges stemming from three
-          actions at three different factory farms which occurred in May 2018,
-          September 2018, and June 2019.
-        </p>
-        <p>
-          Preliminary hearings finally happened on December 5, 2022 for two of
-          the defendants, Rachel and Jon. The judge ruled that there was enough
-          evidence for the case to continue to trial. Preliminary hearings began
-          in November 2021 for the other four defendants, and are scheduled to
-          conclude January 18-19, 2023. Trial is expected to happen in 2023 for
-          all six defendants.
-        </p>
+        In September 2021, two activists rescued birds from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. They received theft charges in the mail in spring 2022 and had their first court date on June 15, 2022 in Merced Superior Court, where they entered not guilty pleas via their attorney. At a hearing on December 13, 2022, their trial was scheduled for March 7, 2023 and it is expected to last 4-5 days.
       </FeaturedCase>
       <Letter />
       <CasesSection>
