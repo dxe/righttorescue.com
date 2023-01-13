@@ -31,11 +31,11 @@ const Sunrise: NextPage = () => {
         the government ignored repeated reports of criminal animal cruelty. Six
         activists face felony charges stemming from 3 nonviolent direct actions
         at factory farms which occurred in May 2018, September 2018, and June
-        2019. Preliminary hearings finally happened on December 5, 2022 for two
+        2019. The preliminary hearing finally happened on December 5, 2022 for two
         of the defendants, Rachel and Jon. The judge ruled that there was enough
-        evidence for the case to continue to trial. Preliminary hearings began
-        in November 2021 for the other four defendants, and are scheduled to
-        conclude January 19, 2023. Trial is expected in 2023 for all six
+        evidence for the case to continue to trial. The preliminary hearing began
+        in November 2021 for the other four defendants, and is scheduled to
+        finally conclude January 19, 2023. Trial is expected in 2023 for all six
         defendants.
       </Details>
       <Defendants>
