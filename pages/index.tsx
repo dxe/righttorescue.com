@@ -124,7 +124,13 @@ const Home: NextPage = () => {
           being charged with misdemeanor theft for rescuing two birds from a
           slaughter truck that was stopped on its way into the Foster Farms
           slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March
-          7, 2023 and it is expected to last 4-5 days.
+          7, 2023 and it is expected to last 4-5 days. DxE is organizing a court support convergence around the trial. Register to join us at the trial by&nbsp;
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfFCBAf-uw5ahBSgZcdUQZpr1eoMNlMzQQSoRTBTN7HGuX1Xw/viewform"
+            target="_blank"
+          > 
+            filling out this form.</a>
+          &nbsp;
         </Announcement>
         <Announcement
           title="Sonoma County, California"
