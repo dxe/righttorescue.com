@@ -25,7 +25,13 @@ const FosterFarms: NextPage = () => {
         and had their first court date on June 15, 2022 in Merced Superior
         Court, where they entered not guilty pleas via their attorney. At a
         hearing on December 13, 2022, their trial was scheduled for March 7,
-        2023 and it is expected to last 4-5 days.
+        2023 and it is expected to last 4-5 days. Direct Action Everywhere (DxE) is organizing a court support convergence around the trial. Register to join us at the trial by&nbsp;
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSfFCBAf-uw5ahBSgZcdUQZpr1eoMNlMzQQSoRTBTN7HGuX1Xw/viewform"
+            target="_blank"
+          > 
+            filling out this form.</a>
+          &nbsp;
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
