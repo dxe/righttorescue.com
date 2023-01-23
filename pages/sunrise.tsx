@@ -29,11 +29,11 @@ const Sunrise: NextPage = () => {
         Over 100 nonviolent activists have been arrested at factory farms in
         Sonoma County for taking direct action to help suffering animals after
         the government ignored repeated reports of criminal animal cruelty. Five
-        activists face felony charges stemming from 3 nonviolent direct actions
-        at factory farms which occurred in May 2018, September 2018, and June
-        2019. The preliminary hearing finally happened on December 5, 2022 for two
-        of the defendants, Rachel and Jon. The judge ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but the judge said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors). They have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
+        activists face four felony charges each, stemming from two nonviolent direct actions
+        at factory farms which occurred in May 2018 (at Sunrise Farms) and June
+        2019 (at Reichardt Duck Farm). The preliminary hearing finally happened on December 5, 2022 for two
+        of the defendants, Rachel and Jon. Judge Urioste ruled that there was enough
+        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors). They have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
         defendants.
       </Details>
       <Defendants>
