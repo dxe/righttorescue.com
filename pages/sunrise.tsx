@@ -28,23 +28,15 @@ const Sunrise: NextPage = () => {
       <Details image="sunrise.jpg">
         Over 100 nonviolent activists have been arrested at factory farms in
         Sonoma County for taking direct action to help suffering animals after
-        the government ignored repeated reports of criminal animal cruelty. Six
+        the government ignored repeated reports of criminal animal cruelty. Five
         activists face felony charges stemming from 3 nonviolent direct actions
         at factory farms which occurred in May 2018, September 2018, and June
         2019. The preliminary hearing finally happened on December 5, 2022 for two
         of the defendants, Rachel and Jon. The judge ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing began
-        in November 2021 for the other four defendants, and is scheduled to
-        finally conclude January 19, 2023. Trial is expected in 2023 for all six
+        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but the judge said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors). They have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
         defendants.
       </Details>
       <Defendants>
-        <Bio name="Almira Tanner" image="almira.jpg">
-          A former occupational therapist, Almira is currently a full-time
-          activist with the SF Bay Chapter of Direct Action Everywhere. When
-          she’s not working, she’s most likely out on a run or going to a
-          concert.
-        </Bio>
         <Bio name="Cassie King" image="cassie.jpg">
           Cassie was an English major at UC Berkeley and is the Communications
           Director for Direct Action Everywhere. She spends her free time
@@ -82,7 +74,7 @@ const Sunrise: NextPage = () => {
             taking nonviolent direct action to expose animal cruelty:
           </h4>
           <p className="text-white">
-            Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Alyssa
+            Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira Tanner, Alyssa
             Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer,
             Camilla Hahn, Cheyanne Holliday, Chris Tarzan Hayward, Christina
             Brown, Christopher Bleichner, Conrad de Jesus, Corey Rowland,
