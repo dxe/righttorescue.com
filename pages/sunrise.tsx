@@ -28,12 +28,11 @@ const Sunrise: NextPage = () => {
       <Details image="sunrise.jpg">
         Over 100 nonviolent activists have been arrested at factory farms in
         Sonoma County for taking direct action to help suffering animals after
-        the government ignored repeated reports of criminal animal cruelty. Five
+        the government ignored repeated reports of criminal animal cruelty. Four
         activists face four felony charges each, stemming from two nonviolent direct actions
         at factory farms which occurred in May 2018 (at Sunrise Farms) and June
-        2019 (at Reichardt Duck Farm). The preliminary hearing finally happened on December 5, 2022 for two
-        of the defendants, Rachel and Jon. Judge Urioste ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors). They have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
+        2019 (at Reichardt Duck Farm). There were also charges related to an action at McCoys Poultry but those charges were removed by the prosecution during preliminary hearings. The preliminary hearings for Rachel Ziegler happened on December 5, 2022, and Judge Urioste ruled that there was enough
+        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
         defendants.
       </Details>
       <Defendants>
@@ -103,11 +102,6 @@ const Sunrise: NextPage = () => {
           national expert in the defense of political activists, particularly
           those in the climate, environmental, indigenous and animal rights
           movements.
-        </Bio>
-        <Bio name="Omar Figueroa" image="sof.jpg" circle>
-          Omar has represented hundreds of peaceful individuals facing
-          incarceration for cannabis-related felonies. He's a graduate of Yale
-          and Stanford Law School, and a purple belt in Brazilian Jiu-Jitsu.
         </Bio>
         <Bio name="Orchid Vaghti" image="sov.jpg" circle>
           Orchid started her career in criminal defense law at the age of
