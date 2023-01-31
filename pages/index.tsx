@@ -119,7 +119,13 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         >
-          The University of Denver Animal Activist Defense Project hosted a “Smithfield Trial Summit” from Jan. 13-15 featuring panels and presentations by the defendants, lawyers, and jurors from this historic trial. Five of eight jurors attended and spoke about what motivated them to acquit Wayne and Paul. You can read more about the event in the press article.
+          The University of Denver Animal Activist Defense Project hosted a “Smithfield Trial Summit” from Jan. 13-15 featuring panels and presentations by the defendants, lawyers, and jurors from this historic trial. Five of eight jurors attended and spoke about what motivated them to acquit Wayne and Paul. You can read more about the event in&nbsp;
+          <a
+            href="https://www.stgeorgeutah.com/?p=977195#.Y9hmkeyZOWo"
+            target="_blank"
+          > 
+            this press article.</a>
+          &nbsp;
         </Announcement>
         <Announcement
           title="Merced County, California"
