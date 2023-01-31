@@ -114,6 +114,14 @@ const Home: NextPage = () => {
       </CasesSection>
       <Announcements>
         <Announcement
+          title="Beaver County, Utah"
+          date="Jan. 20, 2023"
+          image="sf-ut.jpeg"
+          featured
+        >
+          The University of Denver Animal Activist Defense Project hosted a “Smithfield Trial Summit” from Jan. 13-15 featuring panels and presentations by the defendants, lawyers, and jurors from this historic trial. Five of eight jurors attended and spoke about what motivated them to acquit Wayne and Paul. You can read more about the event in the press article.
+        </Announcement>
+        <Announcement
           title="Merced County, California"
           date="December 13, 2022"
           image="FF best.png"
