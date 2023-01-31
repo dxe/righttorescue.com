@@ -201,6 +201,18 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.vox.com/future-perfect/2022/10/25/23412945/farm-animal-welfare-humane-meat-eggs-vote"
           iFramelyUrl="https://cdn.iframe.ly/r0tUhfK?card=small"
         />
+        <Article
+          href="https://sfstandard.com/business/video-of-pigs-thrashing-as-they-die-audio-of-their-screams-haunts-soma-costco/"
+          iFramelyUrl="https://cdn.iframe.ly/kqG4FTS?card=small"
+        />
+        <Article
+          href="https://www.fox13now.com/news/local-news/bill-would-remove-defense-in-animal-welfare-cases"
+          iFramelyUrl="https://cdn.iframe.ly/KfxcwEB?card=small"
+        />
+        <Article
+          href="https://www.stgeorgeutah.com/?p=977195#.Y9hjJeyZOWr"
+          iFramelyUrl="https://cdn.iframe.ly/Ppaq5lP?card=small"
+        />
       </Press>
     </>
   );
