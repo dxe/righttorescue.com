@@ -129,7 +129,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Merced County, California"
-          date="December 13, 2022"
+          date="Dec. 13, 2022"
           image="FF best.png"
           featured
         >
