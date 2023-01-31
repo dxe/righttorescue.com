@@ -43,11 +43,6 @@ const Sunrise: NextPage = () => {
           writing stories, reading books, and playing with her bunnies who were
           both rescued from slaughter.
         </Bio>
-        <Bio name="Jon Frohnmayer" image="jon.jpg">
-          A Stanford graduate and former lawyer with DLA Piper, Jon’s current
-          focus is animal advocacy in the legislative system, as well as lots of
-          yoga and meditation.
-        </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
           Growing up in India, Priya witnessed the suffering of countless street
           animals. As an investigator with Direct Action Everywhere, she has
@@ -60,9 +55,8 @@ const Sunrise: NextPage = () => {
           two rescued doves, and an activist with Direct Action Everywhere.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne was a lawyer with DLA Piper before co-founding the animal rights
-          network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 10 felonies for rescuing sick animals.
+          Wayne was a lawyer before co-founding the animal rights
+          network, Direct Action Everywhere. He has been a community organizer for over 20 years.
         </Bio>
         <Col
           md={{ span: 12 }}
@@ -79,7 +73,7 @@ const Sunrise: NextPage = () => {
             Camilla Hahn, Cheyanne Holliday, Chris Tarzan Hayward, Christina
             Brown, Christopher Bleichner, Conrad de Jesus, Corey Rowland,
             Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem Blitz,
-            Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jorden Ruggles,
+            Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jon Frohnmayer, Jorden Ruggles,
             Katt Cho, Kelly Landreth, Kevin Baker, Kristina Norris, Lance
             Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg,
             Lewis Bernier, Linda Cridge, Lucy H., Madhu Anderson, Mandy
