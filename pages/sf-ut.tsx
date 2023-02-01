@@ -213,6 +213,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.stgeorgeutah.com/?p=977195#.Y9hjJeyZOWr"
           iFramelyUrl="https://cdn.iframe.ly/Ppaq5lP?card=small"
         />
+        <Article
+          href="https://www.sltrib.com/opinion/commentary/2023/01/31/r-lynn-carlson-bill-would/"
+          iFramelyUrl="https://cdn.iframe.ly/OqA5ItI?card=small"
+        />
       </Press>
     </>
   );
