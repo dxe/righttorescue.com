@@ -27,12 +27,12 @@ const Sunrise: NextPage = () => {
       </Header>
       <Details image="sunrise.jpg">
         Over 100 nonviolent activists have been arrested at factory farms in
-        Sonoma County for taking direct action to help suffering animals after
-        the government ignored repeated reports of criminal animal cruelty. Four
-        activists face four felony charges each, stemming from two nonviolent direct actions
-        at factory farms which occurred in May 2018 (at Sunrise Farms) and June
-        2019 (at Reichardt Duck Farm). There were also charges related to an action at McCoys Poultry but those charges were removed by the prosecution during preliminary hearings. The preliminary hearings for Rachel Ziegler happened on December 5, 2022, and Judge Urioste ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne have another court date on February 6, 2023 to hear the judge's ruling. Trial is expected in 2023 for all 
+        Sonoma County for taking nonviolent direct action to help suffering animals after
+        the government ignored repeated reports of criminal animal cruelty. In October 2018, six activists were charged with 7 felonies each for two actions
+        at factory farms which occurred in May 2018 (at Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to Petaluma Poultry). Five of the defendants received additional charges following a third action in June
+        2019 (at Reichardt Duck Farm). Since then, the prosecution has dismissed all of the charges related to the action at McCoys and a felony charge from Sunrise, and two of the activists, Almira and Jon, have taken plea deals. Now, four
+        activists remain in the case. The preliminary hearings for Rachel Ziegler happened on December 5, 2022, and Judge Urioste ruled that there was enough
+        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne have went back to court on February 6, 2023 to hear the judge's ruling. He granted the 17b motion for Cassie, saying that in his review of the livestreams, he had not seen her seeming to be in a leadership role at the actions. He denied the motions for Priya and Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face four felonies and four misdemeanors each, including Rachel. Trial is expected in 2023 for all 
         defendants.
       </Details>
       <Defendants>
