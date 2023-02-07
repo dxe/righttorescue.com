@@ -157,7 +157,7 @@ const Home: NextPage = () => {
           case. Although the prosecution failed to provide evidence that Rachel
           or Jon engaged in the alleged crimes including conspiracy and
           burglary, Judge Urioste nonetheless ruled that the case would proceed
-          to trial on all charges. Trial dates have not been set yet. You can
+          to trial on all charges, except those the prosecution dismissed before the hearing began, including one the felony theft charge from Sunrise and all charges relating to the McCoys Poultry action. Sonoma County’s own animal services department referred McCoy's as a suspect for animal cruelty, after examining the birds removed by activists from the farm. So it seems like DA Waner simply doesn't want the judge or jury to see this evidence of animal cruelty, including birds with necrotic wounds so deep that muscle and bone were exposed. He also dropped the felony theft charge from Sunrise Farms. Rachel and Jon are now facing 4 felonies and 4 misdemeanors. You can
           read more about what happened at the hearing in&nbsp;
           <a
             href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
