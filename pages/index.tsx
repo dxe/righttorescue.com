@@ -120,21 +120,6 @@ const Home: NextPage = () => {
           featured
         >
           Preliminary hearings finally concluded for Cassie, Priya, and Wayne (and Almira took a plea deal) on Jan. 19. Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne went back to court on February 6, 2023 to hear the judge's ruling. He granted the 17b motion for Cassie, saying that in his review of the livestreams, he had not seen her seeming to be in a leadership role at the actions. He denied the motions for Priya and Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face four felonies and four misdemeanors each, including Rachel. Trial is expected in 2023 for all four remaining defendants. Jon took the same plea deal as Almira.
-in&nbsp;
-          <a
-            href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
-            target="_blank"
-          >
-            this press article
-          </a>
-          &nbsp;or&nbsp;
-          <a
-            href="https://www.directactioneverywhere.com/dxe-in-the-news/court-update-the-sonomatrial-is-finally-on-the-horizon"
-            target="_blank"
-          >
-            this DxE blog.
-          </a>
-          &nbsp;
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
