@@ -217,6 +217,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/opinion/commentary/2023/01/31/r-lynn-carlson-bill-would/"
           iFramelyUrl="https://cdn.iframe.ly/OqA5ItI?card=small"
         />
+        <Article
+          href="https://www.sltrib.com/news/business/2023/02/06/bill-would-narrow-animal/"
+          iFramelyUrl="https://cdn.iframe.ly/1HvkrA7?card=small"
+        />
       </Press>
     </>
   );
