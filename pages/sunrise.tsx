@@ -54,7 +54,7 @@ const Sunrise: NextPage = () => {
           two rescued doves, and an activist with Direct Action Everywhere.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne was a lawyer before co-founding the animal rights
+          Wayne is an attorney and co-founder of the animal rights
           network, Direct Action Everywhere. He has been a community organizer for over 20 years.
         </Bio>
         <Col
