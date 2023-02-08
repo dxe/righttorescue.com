@@ -71,9 +71,8 @@ const SmithfieldUtah: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne was a lawyer with DLA Piper before co-founding the animal rights
-          network, Direct Action Everywhere. He has investigated dozens of farms
-          and currently faces 10 felonies for rescuing sick animals.
+          Wayne is an attorney and co-founder of the animal rights
+          network, Direct Action Everywhere. He has been a community organizer for over 20 years.
         </Bio>
       </Defendants>
       <Press>
