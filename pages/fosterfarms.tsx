@@ -68,6 +68,10 @@ const FosterFarms: NextPage = () => {
           href="https://kmph.com/news/local/baywatch-star-who-saved-chickens-from-slaughterhouse-gets-trial-date-for-chicken-theft#"
           iFramelyUrl="https://cdn.iframe.ly/CXPmLbj?card=small"
         />
+        <Article
+          href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
+          iFramelyUrl="https://cdn.iframe.ly/pVL4kSS?card=small"
+        />
       </Press>
     </>
   );
