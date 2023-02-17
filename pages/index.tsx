@@ -129,6 +129,13 @@ const Home: NextPage = () => {
             href="https://www.instagram.com/p/CopbWGFLABE/"
             target="_blank"
           >Instagram,</a>
+          &nbsp;&nbsp;
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid027Yphug1WyWaEqNFqesmQToFwaPEE3UmkV4AcdszFLbYNURX9TGBLxQWbweDugBrZl"
+            target="_blank"
+          >
+            Facebook,
+          </a>
           &nbsp;and&nbsp;
           <a
             href="https://twitter.com/fmanjoo/status/1625468222828081152"
