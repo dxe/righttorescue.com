@@ -124,11 +124,18 @@ const Home: NextPage = () => {
             href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
             target="_blank"
           >piece</a>
-          &nbsp; powerfully titled, “Rescuing Farm Animals From Cruelty Should Be Legal.” Manjoo describes the routine cruelty at Foster Farms and examines the strategy behind the “Right to Rescue” cases before concluding that the defendants, Alexandra Paul and Alicia Santurio, “should be praised, not punished.”  Help us elevate this incredible coverage by sharing it on&nbsp;
+          &nbsp;powerfully titled, “Rescuing Farm Animals From Cruelty Should Be Legal.” Manjoo describes the routine cruelty at Foster Farms and examines the strategy behind the “Right to Rescue” cases before concluding that the defendants, Alexandra Paul and Alicia Santurio, “should be praised, not punished.”  Help us elevate this incredible coverage by sharing it on&nbsp;
           <a
             href="https://www.instagram.com/p/CopbWGFLABE/"
             target="_blank"
-          > Instagram.</a>
+          >Instagram,</a>
+          &nbsp;and&nbsp;
+          <a
+            href="https://twitter.com/fmanjoo/status/1625468222828081152"
+            target="_blank"
+          >
+            Twitter.
+          </a>
           &nbsp;
         </Announcement>
                 <Announcement
