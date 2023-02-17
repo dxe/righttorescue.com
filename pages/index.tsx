@@ -119,16 +119,16 @@ const Home: NextPage = () => {
           image="FF best.png"
           featured
         >
-          New York Times columnist Farhad Manjoo just wrote about the #FosterFarmsTrial in a piece&nbsp;
+          New York Times columnist Farhad Manjoo just wrote about the #FosterFarmsTrial in a&nbsp;
           <a
             href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
             target="_blank"
-          ></a>
-          &nbsp; powerfully titled, “Rescuing Farm Animals From Cruelty Should Be Legal.” Manjoo describes the routine cruelty at Foster Farms and examines the strategy behind the “Right to Rescue” cases before concluding that the defendants, Alexandra Paul and Alicia Santurio, “should be praised, not punished.”  Help us elevate this incredible coverage by sharing it on Instagram&nbsp;
+          >piece</a>
+          &nbsp; powerfully titled, “Rescuing Farm Animals From Cruelty Should Be Legal.” Manjoo describes the routine cruelty at Foster Farms and examines the strategy behind the “Right to Rescue” cases before concluding that the defendants, Alexandra Paul and Alicia Santurio, “should be praised, not punished.”  Help us elevate this incredible coverage by sharing it on&nbsp;
           <a
             href="https://www.instagram.com/p/CopbWGFLABE/"
             target="_blank"
-          >.</a>
+          > Instagram.</a>
           &nbsp;
         </Announcement>
                 <Announcement
