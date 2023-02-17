@@ -18,7 +18,14 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        In September 2021, two activists rescued chickens from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released hidden camera footage filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges in the mail for the rescue and pleaded not guilty. Their trial has been scheduled for March 7, 2023. It is expected to last 4-5 days. DxE is organizing a court support convergence around the trial. Register to join us by&nbsp;
+        In September 2021, two activists rescued chickens from a stopped slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
+          <a
+            href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
+            target="_blank"
+          >
+            hidden camera footage
+          </a>
+          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial has been scheduled for March 7, 2023. It is expected to last 4-5 days. DxE is organizing a court support convergence around the trial. Register to join us by&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSfFCBAf-uw5ahBSgZcdUQZpr1eoMNlMzQQSoRTBTN7HGuX1Xw/viewform"
             target="_blank"
