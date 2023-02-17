@@ -133,8 +133,7 @@ const Home: NextPage = () => {
           <a
             href="https://www.facebook.com/directactioneverywhere/posts/pfbid027Yphug1WyWaEqNFqesmQToFwaPEE3UmkV4AcdszFLbYNURX9TGBLxQWbweDugBrZl"
             target="_blank"
-          >
-            Facebook,
+          >Facebook,
           </a>
           &nbsp;and&nbsp;
           <a
