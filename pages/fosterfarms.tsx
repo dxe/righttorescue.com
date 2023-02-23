@@ -19,11 +19,11 @@ const FosterFarms: NextPage = () => {
         help.
       </Header>
       <Details image="ff.png">
-        In September 2021, two activists rescued birds from a stopped slaughter
+        In September 2021, activists Alexandra Paul and Alicia Santurio rescued two birds, Jax and Ethan, from a stopped slaughter
         truck that was heading into the Foster Farms slaughterhouse in
-        Livingston, CA. They received theft charges in the mail in spring 2022
+        Livingston, CA. Alexandra and Alicia received theft charges in the mail in spring 2022
         and had their first court date on June 15, 2022 in Merced Superior
-        Court, where they entered not guilty pleas via their attorney. At a
+        Court, where they entered not guilty pleas. At a
         hearing on December 13, 2022, their trial was scheduled for March 7,
         2023 and it is expected to last 4-5 days. Direct Action Everywhere (DxE) is organizing a court support convergence around the trial. Register to join us at the trial by&nbsp;
           <a
@@ -32,6 +32,7 @@ const FosterFarms: NextPage = () => {
           > 
             filling out this form.</a>
           &nbsp;
+        At a pre-trial hearing on Feb. 21, Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of that flock of chickens! Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. This is an important victory that will certainly impact the trial, and future legal efforts. 
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
