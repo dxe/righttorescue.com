@@ -122,6 +122,19 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Merced County, California"
+          date="Feb. 21, 2023"
+          image="FF best.png"
+          featured
+        >
+          Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of the group of chickens that included the two who were rescued.  Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. This is an important victory that will certainly impact the trial, and future legal efforts. Read more about in the press&nbsp;
+          <a
+            href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
+            target="_blank"
+          >here.</a>
+          &nbsp;
+        </Announcement>
+        <Announcement
+          title="Merced County, California"
           date="Feb. 14, 2023"
           image="FF best.png"
           featured
