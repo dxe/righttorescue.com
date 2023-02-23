@@ -126,7 +126,7 @@ const Home: NextPage = () => {
           image="FF best.png"
           featured
         >
-          Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of the group of chickens that included the two who were rescued.  Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. This is an important victory that will certainly impact the trial, and future legal efforts. Read more about in the press&nbsp;
+          Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of the group of chickens that included the two who were rescued. Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. Previous attempts to obtain this kind of evidence were completely denied in North Carolina and Utah. This is an important victory that will certainly impact the trial, and future legal efforts. Read more in the press&nbsp;
           <a
             href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
             target="_blank"
