@@ -15,8 +15,19 @@ const FosterFarms: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        Share the video with #RightToRescue and stay tuned for more ways you can
-        help.
+        Share&nbsp;
+          <a
+            href="https://www.instagram.com/reel/Cmo2GNoJ1yM/"
+            target="_blank"
+          > 
+            this video</a>
+          &nbsp; and follow the&nbsp;
+          <a
+            href="https://twitter.com/FosterFarmTrial"
+            target="_blank"
+          > 
+            Foster Farms Trial Twitter account</a>
+          &nbsp; to help elevate news about the trial.
       </Header>
       <Details image="ff.png">
         In September 2021, activists Alexandra Paul and Alicia Santurio rescued two birds, Jax and Ethan, from a stopped slaughter
