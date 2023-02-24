@@ -257,7 +257,6 @@ const Home: NextPage = () => {
           title="Beaver County, Utah"
           date="Sept. 8, 2022"
           image="gavel1.png"
-          featured
         >
           Judge Wilcox ruled, over the defense's objection, to make the jury
           anonymous. It’s a move typically reserved for trials involving violent
@@ -270,7 +269,6 @@ const Home: NextPage = () => {
           title="Washington County, Utah"
           date="Aug. 19, 2022"
           image="gavel1.png"
-          featured
         >
           MOTION GRANTED! Wayne and Paul won their motion for a new jury and
           trial location because the judge agreed that Smithfield and police had
@@ -303,7 +301,6 @@ const Home: NextPage = () => {
           title="Merced County, California"
           date="June 15, 2022"
           image="FF best.png"
-          featured
         >
           Former Baywatch star Alexandra Paul and co-defendant Alicia Santurio
           entered “not guilty” pleas in a new rescue case. In September 2021,
