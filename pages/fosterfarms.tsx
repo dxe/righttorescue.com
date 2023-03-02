@@ -32,7 +32,14 @@ const FosterFarms: NextPage = () => {
       <Details image="ff.png">
         In September 2021, activists Alexandra Paul and Alicia Santurio rescued two birds, Jax and Ethan, from a stopped slaughter
         truck that was heading into the Foster Farms slaughterhouse in
-        Livingston, CA. Alexandra and Alicia received theft charges in the mail in spring 2022
+        Livingston, CA. The same day, DxE released&nbsp;
+          <a
+            href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
+            target="_blank"
+          >
+            hidden camera footage
+          </a>
+          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. Alexandra and Alicia received theft charges in the mail in spring 2022
         and had their first court date on June 15, 2022 in Merced Superior
         Court, where they entered not guilty pleas. At a
         hearing on December 13, 2022, their trial was scheduled for March 7,
