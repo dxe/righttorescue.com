@@ -95,6 +95,10 @@ const FosterFarms: NextPage = () => {
           href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
           iFramelyUrl="https://cdn.iframe.ly/9fQTBNP?card=small"
         />
+        <Article
+          href="https://www.davisvanguard.org/2023/03/merced-trial-over-rescue-of-slaughterhouse-bound-chickens-features-baywatch-star-as-accused-and-maybe-other-hollywood-actors/"
+          iFramelyUrl="https://cdn.iframe.ly/VxFLFdL?card=small"
+        />
       </Press>
     </>
   );
