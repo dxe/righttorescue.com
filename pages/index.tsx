@@ -30,8 +30,8 @@ const Home: NextPage = () => {
             href="https://twitter.com/FosterFarmTrial"
             target="_blank"
           > 
-            Foster Farms Trial Twitter account </a>
-          &nbsp; for updates.
+            Foster Farms Trial Twitter account</a>
+          &nbsp;for updates.
       </FeaturedCase>
       <Letter />
       <CasesSection>
