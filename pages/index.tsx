@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        The #FosterFarmsTrial is happening this week. In September 2021, two activists rescued chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
+        The #FosterFarmsTrial is happening this week. In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
           <a
             href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
             target="_blank"
