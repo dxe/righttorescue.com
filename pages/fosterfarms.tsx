@@ -90,6 +90,10 @@ const FosterFarms: NextPage = () => {
           href="https://www.davisvanguard.org/2023/03/merced-trial-over-rescue-of-slaughterhouse-bound-chickens-features-baywatch-star-as-accused-and-maybe-other-hollywood-actors/"
           iFramelyUrl="https://cdn.iframe.ly/VxFLFdL?card=small"
         />
+        <Article
+          href="https://abc30.com/foster-farms-stolen-chickens-activist-group-jury-selection-begins/12927353/"
+          iFramelyUrl="https://cdn.iframe.ly/5glvoGW?card=small"
+        />
       </Press>
     </>
   );
