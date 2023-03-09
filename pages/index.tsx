@@ -18,14 +18,14 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        The #FosterFarmsTrial is happening this week. In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
+        The #FosterFarmsTrial is happening now in Merced, California. In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
           <a
             href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
             target="_blank"
           >
             hidden camera footage
           </a>
-          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 in Merced, CA. Follow the&nbsp;
+          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 and it is expected to last into the following week. Follow the&nbsp;
           <a
             href="https://twitter.com/FosterFarmTrial"
             target="_blank"
