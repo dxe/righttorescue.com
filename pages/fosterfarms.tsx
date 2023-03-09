@@ -94,6 +94,10 @@ const FosterFarms: NextPage = () => {
           href="https://abc30.com/foster-farms-stolen-chickens-activist-group-jury-selection-begins/12927353/"
           iFramelyUrl="https://cdn.iframe.ly/5glvoGW?card=small"
         />
+        <Article
+          href="https://www.latimes.com/california/story/2023-03-09/baywatch-star-alexandra-paul-to-go-on-trail-for-taking-chickens-from-foster-farms-truck"
+          iFramelyUrl="https://cdn.iframe.ly/nMJho8G?card=small"
+        />
       </Press>
     </>
   );
