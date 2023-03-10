@@ -99,6 +99,10 @@ const FosterFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/nMJho8G?card=small"
         />
         <Article
+          href="https://www.davisvanguard.org/2023/03/judge-axes-necessity-defense-in-chicken-rescue-case-but-rules-in-defense-favor-otherwise/"
+          iFramelyUrl="https://cdn.iframe.ly/XhiMQVI?card=small"
+        />
+        <Article
           href="https://plantbasednews.org/news/activism/foster-farms-trial/"
           iFramelyUrl="https://cdn.iframe.ly/pMLy3ZS?card=small"
         />
