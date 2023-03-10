@@ -98,6 +98,10 @@ const FosterFarms: NextPage = () => {
           href="https://www.latimes.com/california/story/2023-03-09/baywatch-star-alexandra-paul-to-go-on-trail-for-taking-chickens-from-foster-farms-truck"
           iFramelyUrl="https://cdn.iframe.ly/nMJho8G?card=small"
         />
+        <Article
+          href="https://plantbasednews.org/news/activism/foster-farms-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/pMLy3ZS?card=small"
+        />
       </Press>
     </>
   );
