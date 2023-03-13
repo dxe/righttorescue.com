@@ -41,7 +41,7 @@ const FosterFarms: NextPage = () => {
           </a>
           &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. Alexandra and Alicia received theft charges in the mail in spring 2022
         and had their first court date on June 15, 2022 in Merced Superior
-        Court, where they entered not guilty pleas. At a pre-trial hearing on Feb. 21, Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of that flock of chickens! Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. The #FosterFarmsTrial began on March 7, 2023 in Merced, CA. It is expected to last into next week. 
+        Court, where they entered not guilty pleas. At a pre-trial hearing on Feb. 21, Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of that flock of chickens! Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. The #FosterFarmsTrial began on March 7, 2023, a full jury was selected on March 10, and the trial is continuing this week. 
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">
