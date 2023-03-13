@@ -80,7 +80,7 @@ const FosterFarms: NextPage = () => {
         />
         <Article
           href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
-          iFramelyUrl="https://cdn.iframe.ly/pVL4kSS?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/DbCd0Ps?card=small"
         />
         <Article
           href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
