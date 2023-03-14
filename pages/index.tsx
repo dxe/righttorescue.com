@@ -7,6 +7,7 @@ import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
+import { About } from "../components/HomePage/About";
 
 const Home: NextPage = () => {
   return (
@@ -34,6 +35,13 @@ const Home: NextPage = () => {
           &nbsp;
       </FeaturedCase>
       <Letter />
+      <About
+        name="About the Right to Rescue"
+        video="https://www.youtube.com/embed/BgOHTQy6SEU"
+        videoRatio="16x9"
+      >
+        The Right to Rescue refers to every animal's right to be rescued from situations of distress and exploitation. 14 US states have laws that allow the rescue of dogs from hot cars, and <a href="http://directactioneverywhere.com">Direct Action Everywhere</a> (DxE) is leading a campaign to extend these laws to apply to animals of any species in need of rescue, including in factory farms and animal experimentation facilities. The Right to Rescue campaign seeks to build support for animal rescue and ultimately, to establish a legal right to rescue animals from distress and exploitation. This would open the door to a new view of animals under the law - as people deserving of rights, rather than "property.”
+      </About>
       <CasesSection>
         <CasesSection.CaseList>
           <Case
