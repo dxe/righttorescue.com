@@ -40,8 +40,7 @@ const RidglanFarms: NextPage = () => {
         <Bio name="Eva Hamer" image="eh.jpg">
           Eva is a researcher with Pax Fauna, a nonprofit that seeks to improve
           the ways animal advocates organize, take action, and communicate with
-          the public. She currently lives in Boulder, Colorado, where she enjoys
-          hiking, biking, and fostering puppies.
+          the public. She currently lives in Portland, Oregon.
         </Bio>
         <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
           When Paul was a roofer in West Virginia, they worked on farms and saw
@@ -49,7 +48,9 @@ const RidglanFarms: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne is an attorney and co-founder of the animal rights network, Direct Action Everywhere. He has been a community organizer for over 20 years.
+          Wayne is an attorney and co-founder of the animal rights network,
+          Direct Action Everywhere. He has been a community organizer for over
+          20 years.
         </Bio>
       </Defendants>
       <Press>
