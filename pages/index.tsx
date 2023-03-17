@@ -139,6 +139,33 @@ const Home: NextPage = () => {
         </CasesSection.CaseList>
       </CasesSection>
       <Announcements>
+         <Announcement
+          title="Merced County, California"
+          date="Mar. 17, 2022"
+          image="FF best.png"
+          featured
+        >
+          VICTORY! The jury found Alicia and Alexandra NOT GUILTY of theft for rescuing Ethan and Jax! This is a major win for the Right to Rescue! Please share the news on&nbsp;
+          <a
+            href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y="
+            target="_blank"
+          >Instagram,</a>
+          &nbsp;
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
+            target="_blank"
+          >
+            Facebook,
+          </a>
+          &nbsp;and&nbsp;
+          <a
+            href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
+            target="_blank"
+          >
+            Twitter.
+          </a>
+          &nbsp;
+        </Announcement>
         <Announcement
           title="Merced County, California"
           date="Feb. 21, 2023"
