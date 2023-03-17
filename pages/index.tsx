@@ -22,8 +22,20 @@ const Home: NextPage = () => {
           <a
             href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
             target="_blank"
+           >Instagram,</a>
+          &nbsp;
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
+            target="_blank"
           >
-            Instagram.
+            Facebook,
+          </a>
+          &nbsp;and&nbsp;
+          <a
+            href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
+            target="_blank"
+          >
+            Twitter.
           </a>
           &nbsp;In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
           <a
