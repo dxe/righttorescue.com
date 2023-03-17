@@ -18,7 +18,14 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17! In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
+        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17! This is a historic victory for the Right to Rescue. Please share this news on&nbsp;
+          <a
+            href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
+            target="_blank"
+          >
+            Instagram.
+          </a>
+          &nbsp;In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
           <a
             href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
             target="_blank"
