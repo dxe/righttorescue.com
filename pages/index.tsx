@@ -44,13 +44,7 @@ const Home: NextPage = () => {
           >
             hidden camera footage
           </a>
-          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 and concluded on March 17, 2023 after six hours of jury deliberation. Visit the&nbsp;
-          <a
-            href="https://twitter.com/FosterFarmTrial"
-            target="_blank"
-          > 
-            Foster Farms Trial Twitter account</a>
-          &nbsp;for more information.
+          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 and concluded on March 17, 2023 after six hours of jury deliberation.
       </FeaturedCase>
       <Letter />
       <CasesSection>
