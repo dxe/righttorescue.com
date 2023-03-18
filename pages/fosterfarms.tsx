@@ -127,6 +127,22 @@ const FosterFarms: NextPage = () => {
           href="https://plantbasednews.org/news/activism/foster-farms-trial/"
           iFramelyUrl="https://cdn.iframe.ly/pMLy3ZS?card=small"
         />
+        <Article
+          href="https://www.fresnobee.com/news/local/article273295350.html"
+          iFramelyUrl="https://cdn.iframe.ly/9F8rLXF?card=small"
+        />
+        <Article
+          href="https://abc30.com/12970842/"
+          iFramelyUrl="https://cdn.iframe.ly/Z3CRkAU?card=small"
+        />
+        <Article
+          href="https://www.turlockjournal.com/news/crime/foster-farms-chicken-rescuers-found-not-guilty/"
+          iFramelyUrl="https://cdn.iframe.ly/QIeaMJ5?card=small"
+        />
+        <Article
+          href="https://www.davisvanguard.org/2023/03/jury-finds-baywatch-actress-and-bay-advocate-not-guilty-of-theft-for-rescuing-injured-chickens-from-outside-foster-farms-slaughterhouse/"
+          iFramelyUrl="https://cdn.iframe.ly/WjoGseX?card=small"
+        />
       </Press>
     </>
   );
