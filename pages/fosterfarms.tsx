@@ -49,7 +49,7 @@ const FosterFarms: NextPage = () => {
           >
             Twitter.
         </a>
-          &nbsp; Alexandra Paul and Alicia Santurio were facing theft charges for rescuing two sick birds, Jax and Ethan, from a stopped slaughter
+          &nbsp;Alexandra Paul and Alicia Santurio were facing theft charges for rescuing two sick birds, Jax and Ethan, from a stopped slaughter
         truck that was heading into the Foster Farms slaughterhouse in
         Livingston, CA. The same day, DxE released&nbsp;
           <a
