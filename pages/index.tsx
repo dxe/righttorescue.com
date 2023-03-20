@@ -7,6 +7,7 @@ import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
+import { About } from "../components/HomePage/About";
 
 const Home: NextPage = () => {
   return (
@@ -47,6 +48,13 @@ const Home: NextPage = () => {
           &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 and concluded on March 17, 2023 after six hours of jury deliberation.
       </FeaturedCase>
       <Letter />
+      <About
+        name="About the Right to Rescue"
+        video="https://www.youtube.com/embed/BgOHTQy6SEU"
+        videoRatio="16x9"
+      >
+        The Right to Rescue refers to every animal's right to be rescued from situations of distress and exploitation. 14 US states have laws that allow the rescue of dogs from hot cars, and <a href="http://directactioneverywhere.com">Direct Action Everywhere</a> (DxE) is leading a campaign to extend these laws to apply to animals of any species in need of rescue, including in factory farms and animal experimentation facilities. The Right to Rescue campaign seeks to build support for animal rescue and ultimately, to establish a legal right to rescue animals from distress and exploitation. This would open the door to a new view of animals under the law - as people deserving of rights, rather than "property.”
+      </About>
       <CasesSection>
         <CasesSection.CaseList>
           <Case
