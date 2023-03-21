@@ -144,6 +144,10 @@ const FosterFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/WjoGseX?card=small"
         />
         <Article
+          href="https://www.latimes.com/california/story/2023-03-20/former-tv-star-now-a-chicken-rescuer-found-not-guilty-of-foster-farms-theft"
+          iFramelyUrl="https://cdn.iframe.ly/7EX9yJe?card=small"
+        />
+        <Article
           href="https://www.vox.com/future-perfect/23647682/factory-farming-dxe-criminal-trial-rescue"
           iFramelyUrl="https://cdn.iframe.ly/u08RTNa?card=small"
         />
