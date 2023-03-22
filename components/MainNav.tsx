@@ -96,12 +96,14 @@ export const MainNav = ({
               <Link to="sign" isNavLink={true} onClick={collapseNavbar}>
                 Sign
               </Link>
-              <Link to="cases" isNavLink={true} onClick={collapseNavbar}>
-                Cases
-              </Link>
               <Link to="support" isNavLink={true} onClick={collapseNavbar}>
                 Donate
               </Link>
+              <PageLink href="/cases">
+                <a className={"nav-link"}>
+                  Cases
+                </a>
+              </PageLink>
             </Nav>
           </Navbar.Collapse>
         </Container>
@@ -114,7 +116,7 @@ export const MainNav = ({
 
 // Link returns a ScrollLink (Link from "react-scroll") if on the homepage (to scroll within the page)
 // or a PageLink (Link from "next/link") if not on the homepage (to go back to the homepage).
-const Link = ({ to, isNavLink, children, onClick }: any) => {
+const Link = ({ to, isNavLink, children, onClick, forcePageLink }: any) => {
   const router = useRouter();
   const [onHomepage, setOnHomepage] = useState(false);
 
@@ -122,7 +124,7 @@ const Link = ({ to, isNavLink, children, onClick }: any) => {
     setOnHomepage(router.pathname === "/");
   }, [router.pathname]);
 
-  if (onHomepage)
+  if (onHomepage && !forcePageLink)
     return (
       <ScrollLink
         to={to === "/" ? "after-nav" : to}
