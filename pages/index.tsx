@@ -86,17 +86,18 @@ const Home: NextPage = () => {
           />
 
           <Case
-            name="Foster Farms"
-            location="Merced County, California"
-            page="fosterfarms"
-            image="ff.png"
-          />
-
-          <Case
             name="Diestel Turkey Ranch"
             location="Alameda County, California"
             page="diestel"
             image="diestel.jpg"
+          />
+
+          <Case
+            name="Foster Farms"
+            location="Merced County, California"
+            page="fosterfarms"
+            image="ff.png"
+            past
           />
 
           <Case
