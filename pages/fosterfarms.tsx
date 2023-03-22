@@ -143,6 +143,14 @@ const FosterFarms: NextPage = () => {
           href="https://www.davisvanguard.org/2023/03/jury-finds-baywatch-actress-and-bay-advocate-not-guilty-of-theft-for-rescuing-injured-chickens-from-outside-foster-farms-slaughterhouse/"
           iFramelyUrl="https://cdn.iframe.ly/WjoGseX?card=small"
         />
+        <Article
+          href="https://www.latimes.com/california/story/2023-03-20/former-tv-star-now-a-chicken-rescuer-found-not-guilty-of-foster-farms-theft"
+          iFramelyUrl="https://cdn.iframe.ly/7EX9yJe?card=small"
+        />
+        <Article
+          href="https://www.vox.com/future-perfect/23647682/factory-farming-dxe-criminal-trial-rescue"
+          iFramelyUrl="https://cdn.iframe.ly/u08RTNa?card=small"
+        />
       </Press>
     </>
   );
