@@ -160,6 +160,10 @@ const FosterFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/u08RTNa?card=small"
         />
         <Article
+          href="https://www.insideedition.com/media/videos/baywatch-actress-alexandra-paul-found-not-guilty-in-chickens-theft-case-80475?amp"
+          iFramelyUrl="https://cdn.iframe.ly/VUZa4ol?card=small"
+        />
+        <Article
           href="https://www.onegreenplanet.org/animals/california-jury-acquits-animal-rescuers-historic-case/"
           iFramelyUrl="https://cdn.iframe.ly/xx7Scx6?card=small"
         />
