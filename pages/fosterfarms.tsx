@@ -148,8 +148,20 @@ const FosterFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/7EX9yJe?card=small"
         />
         <Article
+          href="https://www.sacbee.com/news/politics-government/capitol-alert/article273287100.html"
+          iFramelyUrl="https://cdn.iframe.ly/xmpkfts?card=small"
+        />
+        <Article
+          href="https://www.fresnobee.com/news/local/article273382640.html"
+          iFramelyUrl="https://cdn.iframe.ly/fWIcBuA?card=small"
+        />
+        <Article
           href="https://www.vox.com/future-perfect/23647682/factory-farming-dxe-criminal-trial-rescue"
           iFramelyUrl="https://cdn.iframe.ly/u08RTNa?card=small"
+        />
+        <Article
+          href="https://www.onegreenplanet.org/animals/california-jury-acquits-animal-rescuers-historic-case/"
+          iFramelyUrl="https://cdn.iframe.ly/xx7Scx6?card=small"
         />
       </Press>
     </>
