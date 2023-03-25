@@ -100,9 +100,7 @@ export const MainNav = ({
                 Donate
               </Link>
               <PageLink href="/cases">
-                <a className={"nav-link"}>
-                  Cases
-                </a>
+                <a className={"nav-link"}>Cases</a>
               </PageLink>
             </Nav>
           </Navbar.Collapse>

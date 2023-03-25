@@ -35,8 +35,9 @@ const Norbest: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne is an attorney and co-founder of the animal rights
-          network, Direct Action Everywhere. He has been a community organizer for over 20 years.
+          Wayne is an attorney and co-founder of the animal rights network,
+          Direct Action Everywhere. He has been a community organizer for over
+          20 years.
         </Bio>
       </Defendants>
       <Press>

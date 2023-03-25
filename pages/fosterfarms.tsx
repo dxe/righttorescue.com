@@ -16,49 +16,54 @@ const FosterFarms: NextPage = () => {
         videoRatio="16x9"
       >
         Share&nbsp;
-          <a
-            href="https://www.instagram.com/reel/Cmo2GNoJ1yM/"
-            target="_blank"
-          > 
-            this video</a>
-          &nbsp; and follow the&nbsp;
-          <a
-            href="https://twitter.com/FosterFarmTrial"
-            target="_blank"
-          > 
-            Foster Farms Trial Twitter account</a>
-          &nbsp; to help elevate news about the trial.
+        <a href="https://www.instagram.com/reel/Cmo2GNoJ1yM/" target="_blank">
+          this video
+        </a>
+        &nbsp; and follow the&nbsp;
+        <a href="https://twitter.com/FosterFarmTrial" target="_blank">
+          Foster Farms Trial Twitter account
+        </a>
+        &nbsp; to help elevate news about the trial.
       </Header>
       <Details image="ff.png">
-        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17! This is a historic victory for the Right to Rescue. Please share this news on&nbsp;
-          <a
-            href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
-            target="_blank"
-           >Instagram,</a>
-          &nbsp;
-          <a
-            href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
-            target="_blank"
-          >
-            Facebook,
-          </a>
-          &nbsp;and&nbsp;
-          <a
-            href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
-            target="_blank"
-          >
-            Twitter.
+        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17!
+        This is a historic victory for the Right to Rescue. Please share this
+        news on&nbsp;
+        <a
+          href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
+          target="_blank"
+        >
+          Instagram,
         </a>
-          &nbsp;Alexandra Paul and Alicia Santurio were facing theft charges for rescuing two sick birds, Jax and Ethan, from a stopped slaughter
-        truck that was heading into the Foster Farms slaughterhouse in
-        Livingston, CA. The same day, DxE released&nbsp;
-          <a
-            href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
-            target="_blank"
-          >
-            hidden camera footage
-          </a>
-          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. Alexandra and Alicia received theft charges in the mail in spring 2022 and pleaded not guilty. The #FosterFarmsTrial began on March 7, 2023, a full jury was selected on March 10, and the trial concluded March 17 after six hours of jury deliberation. 
+        &nbsp;
+        <a
+          href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
+          target="_blank"
+        >
+          Facebook,
+        </a>
+        &nbsp;and&nbsp;
+        <a
+          href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
+          target="_blank"
+        >
+          Twitter.
+        </a>
+        &nbsp;Alexandra Paul and Alicia Santurio were facing theft charges for
+        rescuing two sick birds, Jax and Ethan, from a stopped slaughter truck
+        that was heading into the Foster Farms slaughterhouse in Livingston, CA.
+        The same day, DxE released&nbsp;
+        <a href="https://www.youtube.com/watch?v=qWdJst8f7Sk" target="_blank">
+          hidden camera footage
+        </a>
+        &nbsp;filmed inside the slaughterhouse showing chickens routinely
+        missing the stun bath and a device designed to cut their necks, leaving
+        it to workers to identify conscious birds before their evisceration, at
+        a speed of 140 birds per minute. Alexandra and Alicia received theft
+        charges in the mail in spring 2022 and pleaded not guilty. The
+        #FosterFarmsTrial began on March 7, 2023, a full jury was selected on
+        March 10, and the trial concluded March 17 after six hours of jury
+        deliberation.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">

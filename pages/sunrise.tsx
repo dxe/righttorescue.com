@@ -27,13 +27,29 @@ const Sunrise: NextPage = () => {
       </Header>
       <Details image="sunrise.jpg">
         Over 100 nonviolent activists have been arrested at factory farms in
-        Sonoma County for taking nonviolent direct action to help suffering animals after
-        the government ignored repeated reports of criminal animal cruelty. In October 2018, six activists were charged with 7 felonies each for two actions
-        at factory farms which occurred in May 2018 (at Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to Petaluma Poultry). Five of the defendants received additional charges following a third action in June
-        2019 (at Reichardt Duck Farm). Since then, the prosecution has dismissed all of the charges related to the action at McCoys and a felony charge from Sunrise, and two of the activists, Almira and Jon, have taken plea deals. Now, four
-        activists remain in the case. The preliminary hearings for Rachel Ziegler happened on December 5, 2022, and Judge Urioste ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing for the other defendants began in November 2021 and concluded on January 19, 2023, but Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne went back to court on February 6, 2023 to hear the judge's ruling. He granted the 17b motion for Cassie, saying that in his review of the livestreams, he had not seen her seeming to be in a leadership role at the actions. He denied the motions for Priya and Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face four felonies and four misdemeanors each, including Rachel. Trial is expected in 2023 for all 
-        defendants.
+        Sonoma County for taking nonviolent direct action to help suffering
+        animals after the government ignored repeated reports of criminal animal
+        cruelty. In October 2018, six activists were charged with 7 felonies
+        each for two actions at factory farms which occurred in May 2018 (at
+        Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to
+        Petaluma Poultry). Five of the defendants received additional charges
+        following a third action in June 2019 (at Reichardt Duck Farm). Since
+        then, the prosecution has dismissed all of the charges related to the
+        action at McCoys and a felony charge from Sunrise, and two of the
+        activists, Almira and Jon, have taken plea deals. Now, four activists
+        remain in the case. The preliminary hearings for Rachel Ziegler happened
+        on December 5, 2022, and Judge Urioste ruled that there was enough
+        evidence for the case to continue to trial. The preliminary hearing for
+        the other defendants began in November 2021 and concluded on January 19,
+        2023, but Judge Honigsberg said he needed some time to consider the
+        defense attorneys' 17b motions (motions to reduce the felony counts to
+        misdemeanors), so Cassie, Priya, and Wayne went back to court on
+        February 6, 2023 to hear the judge's ruling. He granted the 17b motion
+        for Cassie, saying that in his review of the livestreams, he had not
+        seen her seeming to be in a leadership role at the actions. He denied
+        the motions for Priya and Wayne. Cassie now faces 8 misdemeanors,
+        whereas her co-defendants face four felonies and four misdemeanors each,
+        including Rachel. Trial is expected in 2023 for all defendants.
       </Details>
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
@@ -54,8 +70,9 @@ const Sunrise: NextPage = () => {
           two rescued doves, and an activist with Direct Action Everywhere.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne is an attorney and co-founder of the animal rights
-          network, Direct Action Everywhere. He has been a community organizer for over 20 years.
+          Wayne is an attorney and co-founder of the animal rights network,
+          Direct Action Everywhere. He has been a community organizer for over
+          20 years.
         </Bio>
         <Col
           md={{ span: 12 }}
@@ -67,21 +84,21 @@ const Sunrise: NextPage = () => {
             taking nonviolent direct action to expose animal cruelty:
           </h4>
           <p className="text-white">
-            Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira Tanner, Alyssa
-            Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer,
-            Camilla Hahn, Cheyanne Holliday, Chris Tarzan Hayward, Christina
-            Brown, Christopher Bleichner, Conrad de Jesus, Corey Rowland,
-            Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem Blitz,
-            Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jon Frohnmayer, Jorden Ruggles,
-            Katt Cho, Kelly Landreth, Kevin Baker, Kristina Norris, Lance
-            Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg,
-            Lewis Bernier, Linda Cridge, Lucy H., Madhu Anderson, Mandy
-            Washburn, Marika Diaz, Marissa Garam, Mary McKee, Michael Goldberg,
-            Michelle L., Monica Martella, Nena Salas, Nico Stubler, Nikki
-            Symanovich, Noah Bristol, Ora Goldman, Paul Nguyen, Peter Lecki,
-            Rachel Arima, Rev. Robert Yamada, Ronnie R., Sanjeev Deshpande,
-            Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia Moore, Vanessa
-            Marsot, Vero Z., Vicky Stewart, Virginia Fior
+            Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira
+            Tanner, Alyssa Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V.,
+            Brianna Baer, Camilla Hahn, Cheyanne Holliday, Chris Tarzan Hayward,
+            Christina Brown, Christopher Bleichner, Conrad de Jesus, Corey
+            Rowland, Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem
+            Blitz, Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jon
+            Frohnmayer, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker,
+            Kristina Norris, Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni
+            Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge, Lucy H., Madhu
+            Anderson, Mandy Washburn, Marika Diaz, Marissa Garam, Mary McKee,
+            Michael Goldberg, Michelle L., Monica Martella, Nena Salas, Nico
+            Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman, Paul Nguyen,
+            Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie R., Sanjeev
+            Deshpande, Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia
+            Moore, Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
           </p>
         </Col>
       </Defendants>
