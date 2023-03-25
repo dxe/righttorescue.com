@@ -19,33 +19,41 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
         videoRatio="16x9"
       >
-        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17! This is a historic victory for the Right to Rescue. Please share this news on&nbsp;
-          <a
-            href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
-            target="_blank"
-           >Instagram,</a>
-          &nbsp;
-          <a
-            href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
-            target="_blank"
-          >
-            Facebook,
-          </a>
-          &nbsp;and&nbsp;
-          <a
-            href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
-            target="_blank"
-          >
-            Twitter.
-          </a>
-          &nbsp;In September 2021, activists Alexandra Paul and Alicia Santurio rescued two chickens from a slaughter truck that was heading into the Foster Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
-          <a
-            href="https://www.youtube.com/watch?v=qWdJst8f7Sk"
-            target="_blank"
-          >
-            hidden camera footage
-          </a>
-          &nbsp;filmed inside the slaughterhouse showing chickens routinely missing the stun bath and a device designed to cut their necks, leaving it to workers to identify conscious birds before their evisceration, at a speed of 140 birds per minute. The activists received theft charges for the rescue and pleaded not guilty. Their trial began on March 7, 2023 and concluded on March 17, 2023 after six hours of jury deliberation.
+        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17!
+        This is a historic victory for the Right to Rescue. Please share this
+        news on{" "}
+        <a
+          href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
+          target="_blank"
+        >
+          Instagram,
+        </a>{" "}
+        <a
+          href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
+          target="_blank"
+        >
+          Facebook,
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
+          target="_blank"
+        >
+          Twitter.
+        </a>{" "}
+        In September 2021, activists Alexandra Paul and Alicia Santurio rescued
+        two chickens from a slaughter truck that was heading into the Foster
+        Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
+        <a href="https://www.youtube.com/watch?v=qWdJst8f7Sk" target="_blank">
+          hidden camera footage
+        </a>
+        &nbsp;filmed inside the slaughterhouse showing chickens routinely
+        missing the stun bath and a device designed to cut their necks, leaving
+        it to workers to identify conscious birds before their evisceration, at
+        a speed of 140 birds per minute. The activists received theft charges
+        for the rescue and pleaded not guilty. Their trial began on March 7,
+        2023 and concluded on March 17, 2023 after six hours of jury
+        deliberation.
       </FeaturedCase>
       <Letter />
       <About
@@ -53,36 +61,46 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/BgOHTQy6SEU"
         videoRatio="16x9"
       >
-        14 US states have laws that allow the rescue of dogs from hot cars, and <a href="http://directactioneverywhere.com">Direct Action Everywhere</a> (DxE) is leading a campaign to extend these laws to apply to animals of any species in need of rescue, including in factory farms and animal experimentation facilities. The Right to Rescue campaign seeks to build support for animal rescue and ultimately, to establish a legal right to rescue animals from distress and exploitation. This would open the door to a new view of animals under the law - as people deserving of rights, rather than "property.”
+        14 US states have laws that allow the rescue of dogs from hot cars, and{" "}
+        <a href="http://directactioneverywhere.com">Direct Action Everywhere</a>{" "}
+        (DxE) is leading a campaign to extend these laws to apply to animals of
+        any species in need of rescue, including in factory farms and animal
+        experimentation facilities. The Right to Rescue campaign seeks to build
+        support for animal rescue and ultimately, to establish a legal right to
+        rescue animals from distress and exploitation. This would open the door
+        to a new view of animals under the law - as people deserving of rights,
+        rather than "property.”
       </About>
 
       <Announcements>
-         <Announcement
+        <Announcement
           title="Merced County, California"
           date="Mar. 17, 2022"
           image="FF best.png"
           featured
         >
-          VICTORY! The jury found Alicia and Alexandra NOT GUILTY of theft for rescuing Ethan and Jax! This is a major win for the Right to Rescue! Please share the news on&nbsp;
+          VICTORY! The jury found Alicia and Alexandra NOT GUILTY of theft for
+          rescuing Ethan and Jax! This is a major win for the Right to Rescue!
+          Please share the news on{" "}
           <a
             href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y="
             target="_blank"
-          >Instagram,</a>
-          &nbsp;
+          >
+            Instagram,
+          </a>{" "}
           <a
             href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
             target="_blank"
           >
             Facebook,
-          </a>
-          &nbsp;and&nbsp;
+          </a>{" "}
+          and{" "}
           <a
             href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
             target="_blank"
           >
             Twitter.
           </a>
-          &nbsp;
         </Announcement>
         <Announcement
           title="Merced County, California"
@@ -90,52 +108,79 @@ const Home: NextPage = () => {
           image="FF best.png"
           featured
         >
-          Merced County Judge Paul Lo granted the defense’s subpoena of Foster Farms’ records regarding the health conditions of the group of chickens that included the two who were rescued. Foster Farms will be compelled to provide evidence regarding diseased, deceased, and condemned birds from the flock that included Jax and Ethan. Previous attempts to obtain this kind of evidence were completely denied in North Carolina and Utah. This is an important victory that will certainly impact the trial, and future legal efforts. Read more in the press&nbsp;
+          Merced County Judge Paul Lo granted the defense’s subpoena of Foster
+          Farms’ records regarding the health conditions of the group of
+          chickens that included the two who were rescued. Foster Farms will be
+          compelled to provide evidence regarding diseased, deceased, and
+          condemned birds from the flock that included Jax and Ethan. Previous
+          attempts to obtain this kind of evidence were completely denied in
+          North Carolina and Utah. This is an important victory that will
+          certainly impact the trial, and future legal efforts. Read more in the
+          press&nbsp;
           <a
             href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
             target="_blank"
-          >here.</a>
+          >
+            here.
+          </a>
           &nbsp;
         </Announcement>
+
         <Announcement
           title="Merced County, California"
           date="Feb. 14, 2023"
           image="FF best.png"
           featured
         >
-          New York Times columnist Farhad Manjoo just wrote about the #FosterFarmsTrial in a&nbsp;
+          New York Times columnist Farhad Manjoo just wrote about the
+          #FosterFarmsTrial in a&nbsp;
           <a
             href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
             target="_blank"
-          >piece</a>
-          &nbsp;powerfully titled, “Rescuing Farm Animals From Cruelty Should Be Legal.” Manjoo describes the routine cruelty at Foster Farms and examines the strategy behind the “Right to Rescue” cases before concluding that the defendants, Alexandra Paul and Alicia Santurio, “should be praised, not punished.”  Help us elevate this incredible coverage by sharing it on&nbsp;
-          <a
-            href="https://www.instagram.com/p/CopbWGFLABE/"
-            target="_blank"
-          >Instagram,</a>
-          &nbsp;
+          >
+            piece
+          </a>{" "}
+          powerfully titled, “Rescuing Farm Animals From Cruelty Should Be
+          Legal.” Manjoo describes the routine cruelty at Foster Farms and
+          examines the strategy behind the “Right to Rescue” cases before
+          concluding that the defendants, Alexandra Paul and Alicia Santurio,
+          “should be praised, not punished.” Help us elevate this incredible
+          coverage by sharing it on&nbsp;
+          <a href="https://www.instagram.com/p/CopbWGFLABE/" target="_blank">
+            Instagram,
+          </a>{" "}
           <a
             href="https://www.facebook.com/directactioneverywhere/posts/pfbid027Yphug1WyWaEqNFqesmQToFwaPEE3UmkV4AcdszFLbYNURX9TGBLxQWbweDugBrZl"
             target="_blank"
           >
             Facebook,
-          </a>
-          &nbsp;and&nbsp;
+          </a>{" "}
+          and{" "}
           <a
             href="https://twitter.com/fmanjoo/status/1625468222828081152"
             target="_blank"
           >
             Twitter.
           </a>
-          &nbsp;
         </Announcement>
-                <Announcement
+        <Announcement
           title="Sonoma County, California"
           date="Feb. 6, 2023"
           image="Sunrise.png"
           featured
         >
-          Preliminary hearings finally concluded for Cassie, Priya, and Wayne (and Almira took a plea deal) on Jan. 19. Judge Honigsberg said he needed some time to consider the defense attorneys' 17b motions (motions to reduce the felony counts to misdemeanors), so Cassie, Priya, and Wayne went back to court on February 6, 2023 to hear the judge's ruling. He granted the 17b motion for Cassie, saying that in his review of the livestreams, he had not seen her seeming to be in a leadership role at the actions. He denied the motions for Priya and Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face four felonies and four misdemeanors each, including Rachel. Trial is expected in 2023 for all four remaining defendants. Jon took the same plea deal as Almira.
+          Preliminary hearings finally concluded for Cassie, Priya, and Wayne
+          (and Almira took a plea deal) on Jan. 19. Judge Honigsberg said he
+          needed some time to consider the defense attorneys' 17b motions
+          (motions to reduce the felony counts to misdemeanors), so Cassie,
+          Priya, and Wayne went back to court on February 6, 2023 to hear the
+          judge's ruling. He granted the 17b motion for Cassie, saying that in
+          his review of the livestreams, he had not seen her seeming to be in a
+          leadership role at the actions. He denied the motions for Priya and
+          Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face
+          four felonies and four misdemeanors each, including Rachel. Trial is
+          expected in 2023 for all four remaining defendants. Jon took the same
+          plea deal as Almira.
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
@@ -143,12 +188,18 @@ const Home: NextPage = () => {
           image="sf-ut.jpeg"
           featured
         >
-          The University of Denver Animal Activist Defense Project hosted a “Smithfield Trial Summit” from Jan. 13-15 featuring panels and presentations by the defendants, lawyers, and jurors from this historic trial. Five of eight jurors attended and spoke about what motivated them to acquit Wayne and Paul. You can read more about the event in&nbsp;
+          The University of Denver Animal Activist Defense Project hosted a
+          “Smithfield Trial Summit” from Jan. 13-15 featuring panels and
+          presentations by the defendants, lawyers, and jurors from this
+          historic trial. Five of eight jurors attended and spoke about what
+          motivated them to acquit Wayne and Paul. You can read more about the
+          event in&nbsp;
           <a
             href="https://www.stgeorgeutah.com/?p=977195#.Y9hmkeyZOWo"
             target="_blank"
-          > 
-            this press article.</a>
+          >
+            this press article.
+          </a>
           &nbsp;
         </Announcement>
         <Announcement
@@ -162,12 +213,15 @@ const Home: NextPage = () => {
           being charged with misdemeanor theft for rescuing two birds from a
           slaughter truck that was stopped on its way into the Foster Farms
           slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March
-          7, 2023 and it is expected to last 4-5 days. DxE is organizing a court support convergence around the trial. Register to join us at the trial by&nbsp;
+          7, 2023 and it is expected to last 4-5 days. DxE is organizing a court
+          support convergence around the trial. Register to join us at the trial
+          by&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSfFCBAf-uw5ahBSgZcdUQZpr1eoMNlMzQQSoRTBTN7HGuX1Xw/viewform"
             target="_blank"
-          > 
-            filling out this form.</a>
+          >
+            filling out this form.
+          </a>
           &nbsp;
         </Announcement>
         <Announcement
@@ -181,8 +235,17 @@ const Home: NextPage = () => {
           case. Although the prosecution failed to provide evidence that Rachel
           or Jon engaged in the alleged crimes including conspiracy and
           burglary, Judge Urioste nonetheless ruled that the case would proceed
-          to trial on all charges, except those the prosecution dismissed before the hearing began, including one the felony theft charge from Sunrise and all charges relating to the McCoys Poultry action. Sonoma County’s own animal services department referred McCoy's as a suspect for animal cruelty, after examining the birds removed by activists from the farm. So it seems like DA Waner simply doesn't want the judge or jury to see this evidence of animal cruelty, including birds with necrotic wounds so deep that muscle and bone were exposed. He also dropped the felony theft charge from Sunrise Farms. Rachel and Jon are now facing 4 felonies and 4 misdemeanors. You can
-          read more about what happened at the hearing in&nbsp;
+          to trial on all charges, except those the prosecution dismissed before
+          the hearing began, including one the felony theft charge from Sunrise
+          and all charges relating to the McCoys Poultry action. Sonoma County’s
+          own animal services department referred McCoy's as a suspect for
+          animal cruelty, after examining the birds removed by activists from
+          the farm. So it seems like DA Waner simply doesn't want the judge or
+          jury to see this evidence of animal cruelty, including birds with
+          necrotic wounds so deep that muscle and bone were exposed. He also
+          dropped the felony theft charge from Sunrise Farms. Rachel and Jon are
+          now facing 4 felonies and 4 misdemeanors. You can read more about what
+          happened at the hearing in&nbsp;
           <a
             href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
             target="_blank"
