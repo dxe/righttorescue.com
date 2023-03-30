@@ -221,6 +221,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/news/business/2023/02/06/bill-would-narrow-animal/"
           iFramelyUrl="https://cdn.iframe.ly/1HvkrA7?card=small"
         />
+        <Article
+          href="https://www.sltrib.com/opinion/commentary/2023/03/30/paul-darwin-picklesimer-utah/"
+          iFramelyUrl="https://cdn.iframe.ly/tcLXQiv?card=small"
+        />
       </Press>
     </>
   );
