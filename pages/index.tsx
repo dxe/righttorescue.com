@@ -12,7 +12,7 @@ import { About } from "../components/HomePage/About";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="Sunrise.png" takeActionPage={undefined} />
+      <MastHead image="Sunrise.jpg" takeActionPage={undefined} />
       <FeaturedCase
         name="Mass Open Rescues in Sonoma County"
         page="sunrise"
