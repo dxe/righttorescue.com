@@ -12,48 +12,14 @@ import { About } from "../components/HomePage/About";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="alexandra 2.jpeg" takeActionPage={undefined} />
+      <MastHead image="Sunrise.png" takeActionPage={undefined} />
       <FeaturedCase
-        name="Rescuing Ethan and Jax from Foster Farms"
-        page="fosterfarms"
-        video="https://www.youtube.com/embed/LxnIwWmFd1E"
+        name="Mass Open Rescues in Sonoma County"
+        page="sunrise"
+        video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="16x9"
       >
-        The #FosterFarmsTrial ended with a "not guilty" verdict on March 17!
-        This is a historic victory for the Right to Rescue. Please share this
-        news on{" "}
-        <a
-          href="https://www.instagram.com/p/Cp55h4tytyW/?igshid=YmMyMTA2M2Y%3D"
-          target="_blank"
-        >
-          Instagram,
-        </a>{" "}
-        <a
-          href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
-          target="_blank"
-        >
-          Facebook,
-        </a>{" "}
-        and{" "}
-        <a
-          href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
-          target="_blank"
-        >
-          Twitter.
-        </a>{" "}
-        In September 2021, activists Alexandra Paul and Alicia Santurio rescued
-        two chickens from a slaughter truck that was heading into the Foster
-        Farms slaughterhouse in Livingston, CA. The same day, DxE released&nbsp;
-        <a href="https://www.youtube.com/watch?v=qWdJst8f7Sk" target="_blank">
-          hidden camera footage
-        </a>
-        &nbsp;filmed inside the slaughterhouse showing chickens routinely
-        missing the stun bath and a device designed to cut their necks, leaving
-        it to workers to identify conscious birds before their evisceration, at
-        a speed of 140 birds per minute. The activists received theft charges
-        for the rescue and pleaded not guilty. Their trial began on March 7,
-        2023 and concluded on March 17, 2023 after six hours of jury
-        deliberation.
+        Over 100 nonviolent activists have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. Four activists, Cassie, Priya, Rachel, and Wayne, are facing a total of 32 criminal charges, including multiple counts of conspiracy, burglary, trespass, and unlawful assembly. Trial is expected in 2023 for all defendants.
       </FeaturedCase>
       <Letter />
       <About
