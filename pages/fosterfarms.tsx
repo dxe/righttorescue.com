@@ -172,6 +172,10 @@ const FosterFarms: NextPage = () => {
           href="https://www.onegreenplanet.org/animals/california-jury-acquits-animal-rescuers-historic-case/"
           iFramelyUrl="https://cdn.iframe.ly/xx7Scx6?card=small"
         />
+        <Article
+          href="https://ladyfreethinker.org/activists-who-rescued-sick-chickens-from-slaughterhouse-truck-not-guilty/"
+          iFramelyUrl="https://cdn.iframe.ly/iOGN10S?card=small"
+        />
       </Press>
     </>
   );
