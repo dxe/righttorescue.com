@@ -51,7 +51,7 @@ const AshasSanctuary: NextPage = () => {
 <Press>
   <Article
           href="https://www.niagara-gazette.com/gagged-protesters-argue-against-order-for-animal-sanctuary-owner/image_c1f15210-a774-550d-ace1-ed47819a29b2.html"
-          iFramelyUrl="https://cdn.iframe.ly/OEcSWawcard=small"
+          iFramelyUrl="https://cdn.iframe.ly/OEcSWaw?card=small"
         />
       </Press>
     </>
