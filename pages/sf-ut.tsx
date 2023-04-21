@@ -225,6 +225,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/opinion/commentary/2023/03/30/paul-darwin-picklesimer-utah/"
           iFramelyUrl="https://cdn.iframe.ly/tcLXQiv?card=small"
         />
+        <Article
+          href="https://www.stgeorgeutah.com/news/archive/2023/04/20/cdr-beaver-officials-say-animal-activist-should-go-to-jail-for-approaching-people-at-park-during-event/"
+          iFramelyUrl="https://cdn.iframe.ly/djgk2KL?card=small"
+        />
       </Press>
     </>
   );
