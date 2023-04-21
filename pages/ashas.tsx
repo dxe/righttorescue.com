@@ -50,7 +50,7 @@ const AshasSanctuary: NextPage = () => {
       </Defendants>
 <Press>
   <Article
-          href="https://ladyfreethinker.org/activists-who-rescued-sick-chickens-from-slaughterhouse-truck-not-guilty/"
+          href="https://www.niagara-gazette.com/gagged-protesters-argue-against-order-for-animal-sanctuary-owner/image_c1f15210-a774-550d-ace1-ed47819a29b2.html"
           iFramelyUrl="https://cdn.iframe.ly/iOGN10S?card=small"
         />
       </Press>
