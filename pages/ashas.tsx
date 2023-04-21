@@ -48,6 +48,8 @@ const AshasSanctuary: NextPage = () => {
           rehabilitation, care and refuge under the protection of the sanctuary.
         </Bio>
       </Defendants>
+<Press>
+      </Press>
     </>
   );
 };
