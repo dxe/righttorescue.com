@@ -49,6 +49,10 @@ const AshasSanctuary: NextPage = () => {
         </Bio>
       </Defendants>
 <Press>
+  <Article
+          href="https://ladyfreethinker.org/activists-who-rescued-sick-chickens-from-slaughterhouse-truck-not-guilty/"
+          iFramelyUrl="https://cdn.iframe.ly/iOGN10S?card=small"
+        />
       </Press>
     </>
   );
