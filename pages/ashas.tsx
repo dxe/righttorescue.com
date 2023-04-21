@@ -53,6 +53,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.niagara-gazette.com/gagged-protesters-argue-against-order-for-animal-sanctuary-owner/image_c1f15210-a774-550d-ace1-ed47819a29b2.html"
           iFramelyUrl="https://cdn.iframe.ly/OEcSWaw?card=small"
         />
+  <Article
+          href="https://www.lockportjournal.com/news/local_news/show-of-support-for-farm-animal-sanctuary-owner/article_7f2820be-da50-11ed-ba18-8f78a2fefd68.html"
+          iFramelyUrl="https://cdn.iframe.ly/xdXyN3u?card=small"
+        />
       </Press>
     </>
   );
