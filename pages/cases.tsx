@@ -50,6 +50,13 @@ const Cases: NextPage = () => {
           />
 
           <Case
+            name="Asha's Farm Sanctuary"
+            location="Niagara County, New York"
+            page="ashas"
+            image="ashas.jpg"
+          />
+
+          <Case
             name="Foster Farms"
             location="Merced County, California"
             page="fosterfarms"
