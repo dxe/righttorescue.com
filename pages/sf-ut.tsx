@@ -229,6 +229,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.stgeorgeutah.com/news/archive/2023/04/20/cdr-beaver-officials-say-animal-activist-should-go-to-jail-for-approaching-people-at-park-during-event/"
           iFramelyUrl="https://cdn.iframe.ly/djgk2KL?card=small"
         />
+         <Article
+          href="https://www.sltrib.com/opinion/commentary/2023/04/23/curtis-vollmar-is-free-speech-dead/"
+          iFramelyUrl="https://cdn.iframe.ly/HKtwWz7?card=small"
+        />
       </Press>
     </>
   );
