@@ -231,8 +231,13 @@ const SmithfieldUtah: NextPage = () => {
         />
          <Article
           href="https://www.sltrib.com/opinion/commentary/2023/04/23/curtis-vollmar-is-free-speech-dead/"
-          iFramelyUrl="https://cdn.iframe.ly/HKtwWz7?card=small"
+          iFramelyUrl="https://cdn.iframe.ly/HKtwWz7?card=small"          
         />
+         <Article
+          href="https://www.stgeorgeutah.com/news/archive/2023/04/25/cdr-beaver-judge-finds-animal-activist-guilty-of-trespassing-disorderly-conduct-during-pioneer-day-event/#.ZErBt-yZOhw"
+          iFramelyUrl="https://cdn.iframe.ly/EshATL0?card=small"          
+        />
+        
       </Press>
     </>
   );
