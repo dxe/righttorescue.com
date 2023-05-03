@@ -45,7 +45,7 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          Last night, the Sebastopol City Council passed a historic resolution to support the activists facing charges in Sonoma County for peaceful actions at factory farms where animals were openly rescued from abuse. Sebastopol is the third city to pass a resolution condemning the prosecution of animal rescuers, following Berkeley and San Francisco -- and it is the first city to do so in Sonoma County! Please help us elevate this important victory by sharing the video on<a
+          Last night, the Sebastopol City Council passed a historic resolution to support the activists facing charges in Sonoma County for peaceful actions at factory farms where animals were openly rescued from abuse. Sebastopol is the third city to pass a resolution condemning the prosecution of animal rescuers, following Berkeley and San Francisco -- and it is the first city to do so in Sonoma County! Please help us elevate this important victory by sharing the video on&nbsp;<a
             href="https://www.instagram.com/reel/CryxH9GgS3v/?igshid=YmMyMTA2M2Y="
             target="_blank"
           >
