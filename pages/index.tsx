@@ -57,12 +57,12 @@ const Home: NextPage = () => {
           >
             Facebook,
           </a>
-          &nbsp;&nbsp;
+          &nbsp;and&nbsp;
           <a
             href="https://twitter.com/DxEverywhere/status/1653850742430793728?t=d_eRHLXpMEmChfOlQoN4Sw&s=19"
             target="_blank"
           >
-            and Twitter.
+            Twitter.
           </a>
           &nbsp;
         </Announcement>
