@@ -2,7 +2,7 @@ import { Col } from "react-bootstrap";
 
 export const Bio = (props: BioProps) => {
   return (
-    <Col style={{ maxWidth: 600 }}>
+    <Col xs={12} md={6}  style={{ maxWidth: 600 }}>
       <img
         className={`mb-3 mb-lg-0 ${props.circle ? "lawyer" : ""}`}
         style={{ width: "100%" }}

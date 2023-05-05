@@ -108,11 +108,6 @@ const Sunrise: NextPage = () => {
           trial lawyers. He has litigated in over 150 jury trials and
           represented Grateful Dead guitarist Jerry Garcia.
         </Bio>
-        <Bio name="Gabriela Lopez" image="sgl.jpg" circle>
-          Gabriela is an Oakland based criminal defense attorney who focuses on
-          criminal defense for immigrants and activists. She also serves on the
-          National Executive Committee of the National Lawyers Guild.
-        </Bio>
         <Bio name="Lauren Regan" image="slr.jpg" circle>
           Lauren is the executive director of the Civil Liberties Defense
           Center, which has defended over 3000 activists for free. She is a
@@ -125,11 +120,10 @@ const Sunrise: NextPage = () => {
           sixteen, and she has successfully handled hundreds of felony and
           misdemeanor cases.
         </Bio>
-        <Bio name="Izaak Schwaiger" image="sis.jpg" circle>
-          Izaak has devoted his practice to defending the civil rights of those
-          who have been wronged by police, and his accomplishments in police
-          brutality cases have made national headlines. In law school he was
-          named "most likely to become a rockstar," and we think he has.
+        <Bio name="Chris Carraway" image="chris_carraway.jpg" circle>
+          Chris is a staff attorney with the Animal Activist Legal Defense
+          Project at the University of Denver, Sturm College of Law. Before
+          that, Chris was a lead attorney for the Colorado State Public Defender.
         </Bio>
       </Lawyers>
       <Press>

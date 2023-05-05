@@ -17,7 +17,7 @@ export const Lawyers = (props: LawyersProps) => {
           </div>
         </div>
 
-        <Row xs={1} md={2} lg={3}>
+        <Row>
           {props.children}
         </Row>
       </div>
