@@ -14,7 +14,7 @@ const AshasSanctuary: NextPage = () => {
         location="New York"
         video="https://www.youtube.com/embed/PgJGdh4b0MQ"
         videoRatio="1x1"
-        ctaText1="Call: (716) 439-7000"
+        ctaText1="Call: (716) 439-7085"
         ctaLink1="tel:716-439-7000"
         ctaText2="Email"
         ctaLink2="mailto:ncda@niagaracounty.com"
