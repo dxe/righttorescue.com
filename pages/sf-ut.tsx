@@ -237,6 +237,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.stgeorgeutah.com/news/archive/2023/04/25/cdr-beaver-judge-finds-animal-activist-guilty-of-trespassing-disorderly-conduct-during-pioneer-day-event/#.ZErBt-yZOhw"
           iFramelyUrl="https://cdn.iframe.ly/EshATL0?card=small"          
         />
+        <Article
+          href="https://www.sltrib.com/opinion/commentary/2023/05/05/heath-smithfield-has-stranglehold/"
+          iFramelyUrl="https://cdn.iframe.ly/loFZ4z1?card=small"          
+        />
         
       </Press>
     </>
