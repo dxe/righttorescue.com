@@ -102,30 +102,6 @@ const Sunrise: NextPage = () => {
           </p>
         </Col>
       </Defendants>
-      <Lawyers>
-        <Bio name="Chris Andrian" image="sca.jpg" circle>
-          For almost 40 years, Chris has been one of Sonoma County's pre-eminent
-          trial lawyers. He has litigated in over 150 jury trials and
-          represented Grateful Dead guitarist Jerry Garcia.
-        </Bio>
-        <Bio name="Lauren Regan" image="slr.jpg" circle>
-          Lauren is the executive director of the Civil Liberties Defense
-          Center, which has defended over 3000 activists for free. She is a
-          national expert in the defense of political activists, particularly
-          those in the climate, environmental, indigenous and animal rights
-          movements.
-        </Bio>
-        <Bio name="Orchid Vaghti" image="sov.jpg" circle>
-          Orchid started her career in criminal defense law at the age of
-          sixteen, and she has successfully handled hundreds of felony and
-          misdemeanor cases.
-        </Bio>
-        <Bio name="Chris Carraway" image="chris_carraway.jpg" circle>
-          Chris is a staff attorney with the Animal Activist Legal Defense
-          Project at the University of Denver, Sturm College of Law. Before
-          that, Chris was a lead attorney for the Colorado State Public Defender.
-        </Bio>
-      </Lawyers>
       <Press>
         <Article
           href="https://www.pressdemocrat.com/article/news/dozens-of-animal-welfare-activists-arrested-after-large-protest-at-petaluma/"
