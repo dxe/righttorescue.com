@@ -102,6 +102,9 @@ export const MainNav = ({
               <PageLink href="/cases">
                 <a className={"nav-link"}>Cases</a>
               </PageLink>
+              <PageLink href="/supporters">
+                <a className={"nav-link"}>Supporters</a>
+              </PageLink>
             </Nav>
           </Navbar.Collapse>
         </Container>
