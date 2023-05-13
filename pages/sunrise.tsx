@@ -143,6 +143,10 @@ const Sunrise: NextPage = () => {
           href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
           iFramelyUrl="https://cdn.iframe.ly/O3PV9IR?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/sebastopol-city-council-urges-leniency-in-criminal-case-against-animal-acti/"
+          iFramelyUrl="https://cdn.iframe.ly/yYN7QD6?card=small"
+        />
       </Press>
     </>
   );
