@@ -147,6 +147,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/sebastopol-city-council-urges-leniency-in-criminal-case-against-animal-acti/"
           iFramelyUrl="https://cdn.iframe.ly/yYN7QD6?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/animal-rights-activists-still-dont-know-when-theyre-going-to-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/MBt5VPS?card=small"
+        />
       </Press>
     </>
   );
