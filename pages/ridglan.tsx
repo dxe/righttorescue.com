@@ -62,6 +62,10 @@ const RidglanFarms: NextPage = () => {
           href="https://madison.com/news/local/crime-and-courts/rescue-of-beagles-from-blue-mounds-animal-testing-facility-leads-to-criminal-charges-against-activists/article_bd74d8d5-758b-53ab-a118-edc1c3619530.html"
           iFramelyUrl="https://cdn.iframe.ly/QbnLF8Z?card=small"
         />
+        <Article
+          href="https://www.seehafernews.com/2023/05/14/activists-put-spotlight-on-treatment-of-dogs-at-dane-county-research-facility/"
+          iFramelyUrl="https://cdn.iframe.ly/6NnfFyy?card=small"
+        />
       </Press>
     </>
   );
