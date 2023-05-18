@@ -76,6 +76,21 @@ const Supporters: NextPage = () => {
             name="utv"
             image="logos/utv.jpg"
           />
+
+          <Supporter
+            name="alt"
+            image="logos/animal_liberation_temple.png"
+          />
+
+          <Supporter
+            name="happyhen"
+            image="logos/happy_hen.png"
+          />
+
+          <Supporter
+            name="sepastopol"
+            image="logos/sebastopol.png"
+          />
       </SupportersSection>
     </>
   );
