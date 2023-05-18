@@ -16,7 +16,7 @@ export const SupportersSection = (props: SupportersProps) => {
       <Container>
         <Row className="mb-5">
           <Col lg={12}>
-            <h2 className="mb-5 text-center" style={{ marginTop: 55 }}>DxE's Right to Rescue campaign is supported by the following coalition groups:</h2>
+            <h2 className="mb-5 text-center" style={{ marginTop: 55 }}>DxE's Right to Rescue campaign is supported by the following cities and coalition groups:</h2>
             <Row xs={1} md={2} lg={3}>
               {supportersList}
             </Row>
