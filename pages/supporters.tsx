@@ -7,11 +7,51 @@ const Supporters: NextPage = () => {
   return (
     <>
       <SupportersSection>
+           <Supporter
+            name="sf"
+            image="logos/sf.jpg"
+          />
+        
+        <Supporter
+            name="sepastopol"
+            image="logos/sebastopol.png"
+          />
+        
+           <Supporter
+            name="cob"
+            image="logos/cob.jpg"
+          />
+        
+        <Supporter
+            name="nlg"
+            image="logos/nlg.jpg"
+          />
+        
+           <Supporter
+            name="save"
+            image="logos/save.jpg"
+          />
+        
+          <Supporter
+            name="utv"
+            image="logos/utv.jpg"
+          />
+        
           <Supporter
             name="ap"
             image="logos/ap.jpg"
           />
-
+        
+          <Supporter
+            name="cb"
+            image="logos/cb.jpg"
+          />
+        
+         <Supporter
+            name="gafs"
+            image="logos/gafs.jpg"
+          />
+        
           <Supporter
             name="apex"
             image="logos/apex.jpg"
@@ -23,23 +63,8 @@ const Supporters: NextPage = () => {
           />
 
           <Supporter
-            name="cb"
-            image="logos/cb.jpg"
-          />
-
-          <Supporter
-            name="cob"
-            image="logos/cob.jpg"
-          />
-
-          <Supporter
             name="dva"
             image="logos/dva.jpg"
-          />
-
-          <Supporter
-            name="gafs"
-            image="logos/gafs.jpg"
           />
 
           <Supporter
@@ -48,33 +73,13 @@ const Supporters: NextPage = () => {
           />
 
           <Supporter
-            name="nlg"
-            image="logos/nlg.jpg"
-          />
-
-          <Supporter
             name="peta"
             image="logos/peta.jpg"
           />
 
           <Supporter
-            name="save"
-            image="logos/save.jpg"
-          />
-
-          <Supporter
-            name="sf"
-            image="logos/sf.jpg"
-          />
-
-          <Supporter
             name="uarc"
             image="logos/uarc.jpg"
-          />
-
-          <Supporter
-            name="utv"
-            image="logos/utv.jpg"
           />
 
           <Supporter
@@ -87,10 +92,6 @@ const Supporters: NextPage = () => {
             image="logos/happy_hen.png"
           />
 
-          <Supporter
-            name="sepastopol"
-            image="logos/sebastopol.png"
-          />
       </SupportersSection>
     </>
   );
