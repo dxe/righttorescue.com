@@ -93,11 +93,6 @@ const Supporters: NextPage = () => {
           />
 
           <Supporter
-            name="sepastopol"
-            image="logos/sebastopol.png"
-          />
-
-          <Supporter
             name="animal alliance network"
             image="logos/animal_alliance_network.png"
           />
