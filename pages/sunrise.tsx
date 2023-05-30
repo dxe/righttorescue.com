@@ -37,19 +37,7 @@ const Sunrise: NextPage = () => {
         then, the prosecution has dismissed all of the charges related to the
         action at McCoys and a felony charge from Sunrise, and two of the
         activists, Almira and Jon, have taken plea deals. Now, four activists
-        remain in the case. The preliminary hearings for Rachel Ziegler happened
-        on December 5, 2022, and Judge Urioste ruled that there was enough
-        evidence for the case to continue to trial. The preliminary hearing for
-        the other defendants began in November 2021 and concluded on January 19,
-        2023, but Judge Honigsberg said he needed some time to consider the
-        defense attorneys' 17b motions (motions to reduce the felony counts to
-        misdemeanors), so Cassie, Priya, and Wayne went back to court on
-        February 6, 2023 to hear the judge's ruling. He granted the 17b motion
-        for Cassie, saying that in his review of the livestreams, he had not
-        seen her seeming to be in a leadership role at the actions. He denied
-        the motions for Priya and Wayne. Cassie now faces 8 misdemeanors,
-        whereas her co-defendants face four felonies and four misdemeanors each,
-        including Rachel. Trial is expected in 2023 for all defendants.
+        remain in the case. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer). Rachel's case is continuing to move forward separately, with her next hearing on June 27, 2023.
       </Details>
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
