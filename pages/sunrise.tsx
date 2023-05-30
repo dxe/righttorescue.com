@@ -26,7 +26,7 @@ const Sunrise: NextPage = () => {
         cruelty and rescued suffering animals.
       </Header>
       <Details image="sunrise.jpg">
-        Over 100 nonviolent activists have been arrested at factory farms in
+        Over 100 people have been arrested at factory farms in
         Sonoma County for taking nonviolent direct action to help suffering
         animals after the government ignored repeated reports of criminal animal
         cruelty. In October 2018, six activists were charged with 7 felonies
