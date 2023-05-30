@@ -19,7 +19,8 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="16x9"
       >
-        Over 100 nonviolent activists have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. Four activists, Cassie, Priya, Rachel, and Wayne, are facing a total of 32 criminal charges, including multiple counts of conspiracy, burglary, trespass, and unlawful assembly. Trial is expected in 2023 for all defendants.
+        Over 100 people have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. Four activists are facing a total of 32 criminal charges, including multiple counts of conspiracy, burglary, trespass, and unlawful assembly. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer). Rachel's case is continuing to move forward separately, with her next hearing on June 27, 2023. Stay tuned for details about a trial convergence that DxE will be organizing to support the defendants and the right to rescue. 
+
       </FeaturedCase>
       <Letter />
       <About
