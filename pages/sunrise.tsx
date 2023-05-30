@@ -35,7 +35,7 @@ const Sunrise: NextPage = () => {
         Petaluma Poultry). Five of the defendants received additional charges
         following a third action in June 2019 (at Reichardt Duck Farm). Since
         then, the prosecution has dismissed all of the charges related to the
-        action at McCoy's and a felony charge from Sunrise, and two of the
+        action at McCoy's and a felony charge from the Sunrise action, and two of the
         activists, Almira and Jon, have taken plea deals. Now, four activists
         remain in the case. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer). Rachel's case is continuing to move forward separately, with her next hearing on June 27, 2023.
       </Details>
