@@ -46,7 +46,14 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          This morning, trial dates were set for Cassie, Priya, and Wayne. The #SonomaRescueTrial will start September 8, 2023 and it is expected to last two weeks or longer. Please share the news on Twitter! DxE will be planning a convergence in Sonoma around the trial, so stay tuned for more details. Rachel's case is continuing to move forward separately at this time.
+          This morning, trial dates were set for Cassie, Priya, and Wayne. The #SonomaRescueTrial will start September 8, 2023 and it is expected to last two weeks or longer. Please&nbsp;
+          <a
+            href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
+            target="_blank"
+          >
+            share the news on Twitter!
+          </a>
+          &nbsp;DxE will be planning a convergence in Sonoma around the trial, so stay tuned for more details. Rachel's case is continuing to move forward separately at this time.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
