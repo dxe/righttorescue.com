@@ -48,7 +48,7 @@ const Home: NextPage = () => {
         >
           This morning, trial dates were set for Cassie, Priya, and Wayne. The #SonomaRescueTrial will start September 8, 2023 and it is expected to last two weeks or longer. Please&nbsp;
           <a
-            href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
+            href="https://twitter.com/sonomatrial/status/1663588382620958721?s=46&t=6SpLSYRobB6D-yt7fd4cbQ"
             target="_blank"
           >
             share the news on Twitter!
