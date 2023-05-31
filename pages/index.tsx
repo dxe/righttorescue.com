@@ -42,6 +42,14 @@ const Home: NextPage = () => {
       <Announcements>
                <Announcement
           title="Sonoma County, California"
+          date="May 30, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          This morning, trial dates were set for Cassie, Priya, and Wayne. The #SonomaRescueTrial will start September 8, 2023 and it is expected to last two weeks or longer. Please share the news on Twitter! DxE will be planning a convergence in Sonoma around the trial, so stay tuned for more details. Rachel's case is continuing to move forward separately at this time.
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
           date="May 3, 2023"
           image="Sunrise.png"
           featured
