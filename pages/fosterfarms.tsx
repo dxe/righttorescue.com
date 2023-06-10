@@ -176,6 +176,10 @@ const FosterFarms: NextPage = () => {
           href="https://ladyfreethinker.org/activists-who-rescued-sick-chickens-from-slaughterhouse-truck-not-guilty/"
           iFramelyUrl="https://cdn.iframe.ly/iOGN10S?card=small"
         />
+        <Article
+          href="https://thebusinessjournal.com/sheriff-shares-alert-about-possible-animal-activist-action-over-next-few-days/"
+          iFramelyUrl="https://cdn.iframe.ly/9IIINmR?card=small"
+        />
       </Press>
     </>
   );
