@@ -31,8 +31,7 @@ const RidglanFarms: NextPage = () => {
         The team rescued three beagles. Although the investigation and rescue
         happened years ago, the charging documents were filed in August 2021.
         Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Trial dates have not been set yet, but our legal team is
-        working on the case. This is an important opportunity to show the world
+        charges. Trial is currently scheduled for November 6-10, 2023. This Right to Rescue case is an important opportunity to show the world
         the horrors inflicted on humankind’s supposed best friend and to move
         toward ending experimentation on dogs and other animals.
       </Details>
@@ -48,8 +47,7 @@ const RidglanFarms: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne is an attorney and co-founder of the animal rights network,
-          Direct Action Everywhere. He has been a community organizer for over
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
           20 years.
         </Bio>
       </Defendants>
