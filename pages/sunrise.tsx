@@ -42,8 +42,7 @@ const Sunrise: NextPage = () => {
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
           Cassie was an English major at UC Berkeley and is the Communications
-          Director for Direct Action Everywhere. She spends her free time
-          writing stories, reading books, and playing with her bunnies who were
+          Director for Direct Action Everywhere. She is the guardian of two bunnies who were
           both rescued from slaughter.
         </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
