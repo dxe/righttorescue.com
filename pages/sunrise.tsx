@@ -53,13 +53,11 @@ const Sunrise: NextPage = () => {
           farms.
         </Bio>
         <Bio name="Rachel Ziegler" image="rachel.jpg">
-          Rachel moved to California to get more involved in the animal rights
-          movement in Berkeley. She is a full-time photographer, the guardian of
-          two rescued doves, and an activist with Direct Action Everywhere.
+          Rachel is a full-time photographer and the guardian of
+          two rescued doves.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne is an attorney and co-founder of the animal rights network,
-          Direct Action Everywhere. He has been a community organizer for over
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
           20 years.
         </Bio>
         <Col
