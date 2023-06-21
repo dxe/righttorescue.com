@@ -136,6 +136,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/animal-rights-activists-still-dont-know-when-theyre-going-to-trial/"
           iFramelyUrl="https://cdn.iframe.ly/MBt5VPS?card=small"
         />
+         <Article
+          href="https://theintercept.com/2023/06/13/perdue-chicken-slaughterhouse-animal-cruelty-dxe/"
+          iFramelyUrl="https://cdn.iframe.ly/bA6f35V?card=small"
+        />
       </Press>
     </>
   );
