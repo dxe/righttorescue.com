@@ -140,6 +140,10 @@ const Sunrise: NextPage = () => {
           href="https://theintercept.com/2023/06/13/perdue-chicken-slaughterhouse-animal-cruelty-dxe/"
           iFramelyUrl="https://cdn.iframe.ly/bA6f35V?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/"
+          iFramelyUrl="https://cdn.iframe.ly/IZoGSGa?card=small"
+        />
       </Press>
     </>
   );
