@@ -37,7 +37,7 @@ const Sunrise: NextPage = () => {
         then, the prosecution has dismissed all of the charges related to the
         action at McCoy's and a felony charge from the Sunrise action, and two of the
         activists, Almira and Jon, have taken plea deals. Now, four activists
-        remain in the case. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer). Rachel's case is continuing to move forward separately, with her next hearing on June 27, 2023.
+        remain in the case. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer).
       </Details>
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
@@ -50,10 +50,6 @@ const Sunrise: NextPage = () => {
           animals. As an investigator with Direct Action Everywhere, she has
           seen the same kind of suffering on a systemic scale inside of factory
           farms.
-        </Bio>
-        <Bio name="Rachel Ziegler" image="rachel.jpg">
-          Rachel is a full-time photographer and the guardian of
-          two rescued doves.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
