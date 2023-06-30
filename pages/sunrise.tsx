@@ -29,15 +29,14 @@ const Sunrise: NextPage = () => {
         Over 100 people have been arrested at factory farms in
         Sonoma County for taking nonviolent direct action to help suffering
         animals after the government ignored repeated reports of criminal animal
-        cruelty. In October 2018, six activists were charged with seven felonies
+        cruelty. In October 2018, a small group of activists were charged with seven felonies
         each for two actions at factory farms which occurred in May 2018 (at
         Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to
-        Petaluma Poultry). Five of the defendants received additional charges
+        Petaluma Poultry). The DA filed additional charges
         following a third action in June 2019 (at Reichardt Duck Farm). Since
         then, the prosecution has dismissed all of the charges related to the
         action at McCoy's and a felony charge from the Sunrise action, and two of the
-        activists, Almira and Jon, have taken plea deals. Now, four activists
-        remain in the case. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer).
+        activists, Almira and Jon, have taken plea deals. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer).
       </Details>
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
