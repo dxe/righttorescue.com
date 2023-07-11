@@ -146,6 +146,14 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/"
           iFramelyUrl="https://cdn.iframe.ly/IZoGSGa?card=small"
         />
+        <Article
+          href="https://www.alternet.org/problem-humanely-raised-poultry-eggs/"
+          iFramelyUrl="https://cdn.iframe.ly/Aig86fY?card=small"
+        />
+        <Article
+          href="https://norcalpublicmedia.org/2023070689509/news-feed/animal-rights-activists-call-for-action-from-county-da"
+          iFramelyUrl="https://cdn.iframe.ly/dodQdch?card=small"
+        />
       </Press>
     </>
   );
