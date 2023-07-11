@@ -36,7 +36,7 @@ const Sunrise: NextPage = () => {
         following a third action in June 2019 (at Reichardt Duck Farm). Since
         then, the prosecution has dismissed all of the charges related to the
         action at McCoy's and a felony charge from the Sunrise action, and two of the
-        activists, Almira and Jon, have taken plea deals. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer). after the government ignored repeated reports of criminal animal cruelty. On September 8th, three activists -- Cassie, Priya, and Wayne -- are going on trial for their roles in these actions. They are facing charges of conspiracy, burglary, and theft, including 8 felonies. Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
+        activists, Almira and Jon, have taken plea deals. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer). Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
