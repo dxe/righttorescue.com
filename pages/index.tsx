@@ -24,9 +24,9 @@ const Home: NextPage = () => {
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
           >
-            here
+            here.
           </a>
-          &nbsp;.
+          &nbsp;
 
       </FeaturedCase>
       <Letter />
@@ -60,17 +60,15 @@ const Home: NextPage = () => {
           >
             share the news on Twitter!
           </a>
-          &nbsp;DxE is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the convergence&nbsp;
+          &nbsp;
+          DxE is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the convergence&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
           >
-            here
+            here.
           </a>
-          &nbsp;.
-
-      </FeaturedCase>
-      <Letter />
+          &nbsp;
         </Announcement>
         <Announcement
           title="Sonoma County, California"
