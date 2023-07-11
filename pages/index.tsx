@@ -60,7 +60,17 @@ const Home: NextPage = () => {
           >
             share the news on Twitter!
           </a>
-          &nbsp;DxE will be planning a convergence in Sonoma around the trial, so stay tuned for more details. Rachel's case is continuing to move forward separately at this time.
+          &nbsp;DxE is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the convergence&nbsp;
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
+            target="_blank"
+          >
+            here
+          </a>
+          &nbsp;.
+
+      </FeaturedCase>
+      <Letter />
         </Announcement>
         <Announcement
           title="Sonoma County, California"
