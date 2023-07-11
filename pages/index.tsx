@@ -19,7 +19,14 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="16x9"
       >
-        Over 100 people have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. Four activists are facing a total of 32 criminal charges, including multiple counts of conspiracy, burglary, trespass, and unlawful assembly. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to take two weeks (or longer). Stay tuned for details about a trial convergence that DxE will be organizing to support the defendants and the right to rescue. 
+        Over 100 people have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. On September 8th, three activists -- Cassie, Priya, and Wayne -- are going on trial for their roles in these actions. They are facing charges of conspiracy, burglary, and theft, including 8 felonies. Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
+            target="_blank"
+          >
+            here
+          </a>
+          &nbsp;.
 
       </FeaturedCase>
       <Letter />
