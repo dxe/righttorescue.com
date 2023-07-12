@@ -143,7 +143,7 @@ const Sunrise: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/bA6f35V?card=small"
         />
          <Article
-          href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/
+          href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/"
           iFramelyUrl="https://cdn.iframe.ly/IZoGSGa?card=small"
         />
         <Article
