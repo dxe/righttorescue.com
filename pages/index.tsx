@@ -202,7 +202,7 @@ const Home: NextPage = () => {
           his review of the livestreams, he had not seen her seeming to be in a
           leadership role at the actions. He denied the motions for Priya and
           Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face
-          four felonies and four misdemeanors each, including Rachel. Trial is
+          four felonies and four misdemeanors each. Trial is
           expected in 2023 for all four remaining defendants. Jon took the same
           plea deal as Almira.
         </Announcement>
@@ -245,43 +245,6 @@ const Home: NextPage = () => {
             target="_blank"
           >
             filling out this form.
-          </a>
-          &nbsp;
-        </Announcement>
-        <Announcement
-          title="Sonoma County, California"
-          date="Dec. 5, 2022"
-          image="Sunrise.png"
-          featured
-        >
-          Rachel and Jon finally had their preliminary hearings today, four
-          years after the nonviolent mass open rescues that led to this felony
-          case. Although the prosecution failed to provide evidence that Rachel
-          or Jon engaged in the alleged crimes including conspiracy and
-          burglary, Judge Urioste nonetheless ruled that the case would proceed
-          to trial on all charges, except those the prosecution dismissed before
-          the hearing began, including one the felony theft charge from Sunrise
-          and all charges relating to the McCoys Poultry action. Sonoma County’s
-          own animal services department referred McCoy's as a suspect for
-          animal cruelty, after examining the birds removed by activists from
-          the farm. So it seems like DA Waner simply doesn't want the judge or
-          jury to see this evidence of animal cruelty, including birds with
-          necrotic wounds so deep that muscle and bone were exposed. He also
-          dropped the felony theft charge from Sunrise Farms. Rachel and Jon are
-          now facing 4 felonies and 4 misdemeanors. You can read more about what
-          happened at the hearing in&nbsp;
-          <a
-            href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
-            target="_blank"
-          >
-            this press article
-          </a>
-          &nbsp;or&nbsp;
-          <a
-            href="https://www.directactioneverywhere.com/dxe-in-the-news/court-update-the-sonomatrial-is-finally-on-the-horizon"
-            target="_blank"
-          >
-            this DxE blog.
           </a>
           &nbsp;
         </Announcement>
