@@ -112,6 +112,11 @@ const Supporters: NextPage = () => {
           image="logos/extinction_rebellion.png"
         />
 
+        <Supporter
+          name="rowdy girl"
+          image="logos/rowdy girl logo-modified.png"
+        />
+
       </SupportersSection>
     </>
   );
