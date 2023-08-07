@@ -237,8 +237,8 @@ const SmithfieldUtah: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/EshATL0?card=small"          
         />
         <Article
-          href="https://www.sltrib.com/opinion/commentary/2023/05/05/heath-smithfield-has-stranglehold/"
-          iFramelyUrl="https://cdn.iframe.ly/loFZ4z1?card=small"          
+          href="https://www.nationalgeographic.com/animals/article/activists-call-it-rescue-farms-call-it-stealing-what-is-open-rescue"
+          iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"          
         />
         
       </Press>
