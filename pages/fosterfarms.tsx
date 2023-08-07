@@ -180,6 +180,10 @@ const FosterFarms: NextPage = () => {
           href="https://thebusinessjournal.com/sheriff-shares-alert-about-possible-animal-activist-action-over-next-few-days/"
           iFramelyUrl="https://cdn.iframe.ly/9IIINmR?card=small"
         />
+         <Article
+          href="https://www.nationalgeographic.com/animals/article/activists-call-it-rescue-farms-call-it-stealing-what-is-open-rescue"
+          iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"
+        />
       </Press>
     </>
   );
