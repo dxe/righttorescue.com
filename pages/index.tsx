@@ -99,7 +99,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Merced County, California"
-          date="Mar. 17, 2022"
+          date="Mar. 17, 2023"
           image="FF best.png"
           featured
         >
@@ -250,7 +250,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Washington County, Utah"
-          date="Oct. 8, 2023"
+          date="Oct. 8, 2022"
           image="sf-ut.jpeg"
           featured
         >
