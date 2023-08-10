@@ -250,7 +250,7 @@ const Home: NextPage = () => {
         </Announcement>
         <Announcement
           title="Washington County, Utah"
-          date="Oct. 8, 2022"
+          date="Oct. 8, 2023"
           image="sf-ut.jpeg"
           featured
         >
