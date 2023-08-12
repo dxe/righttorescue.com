@@ -57,6 +57,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.lockportjournal.com/news/local_news/show-of-support-for-farm-animal-sanctuary-owner/article_7f2820be-da50-11ed-ba18-8f78a2fefd68.html"
           iFramelyUrl="https://cdn.iframe.ly/xdXyN3u?card=small"
         />
+  <Article
+          href="https://www.lockportjournal.com/opinion/empathy-with-animals-represents-the-best-in-humanity/article_6c296950-e2ca-11ed-add6-a79bebf3f317.html"
+          iFramelyUrl="https://cdn.iframe.ly/DSe1RMi?card=small"
+        />
       </Press>
     </>
   );
