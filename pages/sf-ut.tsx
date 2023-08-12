@@ -240,6 +240,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.nationalgeographic.com/animals/article/activists-call-it-rescue-farms-call-it-stealing-what-is-open-rescue"
           iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"          
         />
+        <Article
+          href="https://www.sltrib.com/opinion/commentary/2023/08/10/max-corwin-government-is-trying/"
+          iFramelyUrl="https://cdn.iframe.ly/2gjsoVB?card=small"          
+         />
         
       </Press>
     </>
