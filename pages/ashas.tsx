@@ -61,6 +61,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.lockportjournal.com/opinion/empathy-with-animals-represents-the-best-in-humanity/article_6c296950-e2ca-11ed-add6-a79bebf3f317.html"
           iFramelyUrl="https://cdn.iframe.ly/DSe1RMi?card=small"
         />
+  <Article
+          href="https://unchainedtv.com/2023/05/01/prosecuted-for-compassion-tracy-murphys-cow-case/"
+          iFramelyUrl="https://cdn.iframe.ly/ffIC7DQ?card=small"
+        />
       </Press>
     </>
   );
