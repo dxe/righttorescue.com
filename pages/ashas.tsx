@@ -69,10 +69,6 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.lockportjournal.com/news/local_news/farm-sanctuary-operator-charged-with-theft-sues-over-court-imposed-gag-order/article_c2660110-1534-11ee-907a-abd0200377b8.html"
           iFramelyUrl="https://cdn.iframe.ly/BTBZZnx?card=small"
         />
-   <Article
-          href="https://www.lockportjournal.com/news/local_news/farm-sanctuary-operator-charged-with-theft-sues-over-court-imposed-gag-order/article_c2660110-1534-11ee-907a-abd0200377b8.html"
-          iFramelyUrl="https://cdn.iframe.ly/ffIBTBZZnx?card=small"
-        />
       </Press>
     </>
   );
