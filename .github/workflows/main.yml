@@ -27,6 +27,11 @@ jobs:
           AWS_SECRET_ACCESS_KEY: ${{ secrets.AWS_SECRET_ACCESS_KEY }}
           AWS_REGION: "us-west-2"
           SOURCE_DIR: "out"
+      - name: Wait for S3 update
+        # S3 sync will not be live immediately due to its eventual consistency, so wait before
+        # invalidating CloudFronts cache so it doesn't re-cache the old version.
+        run: sleep 30s
+        shell: bash
       - uses: chetan/invalidate-cloudfront-action@master
         env:
           DISTRIBUTION: ${{ secrets.CLOUDFRONT_DISTRIBUTION }}
