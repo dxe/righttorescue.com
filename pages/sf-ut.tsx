@@ -244,7 +244,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/opinion/commentary/2023/08/10/max-corwin-government-is-trying/"
           iFramelyUrl="https://cdn.iframe.ly/2gjsoVB?card=small"          
          />
-        
+        <Article
+          href="https://www.sltrib.com/news/2023/08/15/utah-officers-shut-down-animal/"
+          iFramelyUrl="https://cdn.iframe.ly/aynWMph?card=small"          
+         />
       </Press>
     </>
   );
