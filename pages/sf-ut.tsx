@@ -248,6 +248,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.sltrib.com/news/2023/08/15/utah-officers-shut-down-animal/"
           iFramelyUrl="https://cdn.iframe.ly/aynWMph?card=small"          
          />
+         <Article
+          href="https://www.stgeorgeutah.com/news/archive/2023/08/14/cdr-beaver-county-pays-pig-farm-pioneer-day-protesters-more-than-52k-in-federal-civil-rights-settlement/"
+          iFramelyUrl="https://cdn.iframe.ly/X19KSdX?card=small"          
+         />
       </Press>
     </>
   );
