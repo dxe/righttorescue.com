@@ -162,6 +162,10 @@ const Sunrise: NextPage = () => {
           href="https://wagingnonviolence.org/2023/08/proud-to-stand-trial-defending-right-to-rescue-animals/"
           iFramelyUrl="https://cdn.iframe.ly/rgIHv1M?card=small"
         />
+         <Article
+          href="https://dailycal.org/2023/08/30/direct-action-everywhere-activists-face-felony-and-misdemeanor-charges"
+          iFramelyUrl="https://cdn.iframe.ly/oeIZ9r0?card=small"
+        />
       </Press>
     </>
   );
