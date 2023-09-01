@@ -158,6 +158,10 @@ const Sunrise: NextPage = () => {
           href="https://norcalpublicmedia.org/2023070689509/news-feed/animal-rights-activists-call-for-action-from-county-da"
           iFramelyUrl="https://cdn.iframe.ly/dodQdch?card=small"
         />
+        <Article
+          href="https://wagingnonviolence.org/2023/08/proud-to-stand-trial-defending-right-to-rescue-animals/"
+          iFramelyUrl="https://cdn.iframe.ly/rgIHv1M?card=small"
+        />
       </Press>
     </>
   );
