@@ -53,7 +53,7 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          In the pre-trial readiness hearing today, the prosecutor made a surprising announcement -- the DA's office is amending the charges against the defendants. We think it's in an effort to keep evidence of animal cruelty away from the jury. They are removing all mention of burglary and theft from the charges, leaving only trespass and conspiracy to commit trespass. This comes after over four years in which the prosecution has zealously argued that the defendants took "something" of "value" from the factory farms, and it comes on the heels of the defense filing its exhibits showing the actual condition of the animals inside Sunrise Farms and Reichardt Duck Farm. They know the animals are treated like garbage, even at humane certified, cage-free farms -- and they don't want the jury or public to see that truth. Please&nbsp;
+          In the pre-trial readiness hearing today, the prosecutor made a surprising announcement -- the DA's office is amending the charges against the defendants to remove all mention of burglary and theft, leaving only trespass and conspiracy to commit trespass. This might seem like good news, but we think it's a strategic cover-up of evidence relating to the "value" of the rescued animals. This comes after over four years in which the prosecution has zealously argued that the defendants took "something" of "value" from the factory farms, and it comes on the heels of the defense filing its exhibits showing the actual condition of the animals inside Sunrise Farms and Reichardt Duck Farm. They know the animals are treated like garbage, even at "humane certified," "cage-free" farms -- and they don't want the jury or public to see that truth. Please&nbsp;
           <a
             href="https://www.instagram.com/directactioneverywhere/"
             target="_blank"
@@ -61,6 +61,7 @@ const Home: NextPage = () => {
             share this video about the amended charges.
           </a>
           &nbsp;
+          Today, the court also issued a gag-order prohibiting Cassie, Priya, and Wayne from speaking to the media about their case. Now it's even more important that you help us elevate this historic trial.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
