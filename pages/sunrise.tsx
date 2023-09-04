@@ -26,17 +26,15 @@ const Sunrise: NextPage = () => {
         cruelty and rescued suffering animals.
       </Header>
       <Details image="sunrise.jpg">
-        Over 100 people have been arrested at factory farms in
-        Sonoma County for taking nonviolent direct action to help suffering
-        animals after the government ignored repeated reports of criminal animal
+        Over 100 people have been arrested on felony charges for taking nonviolent direct action to help suffering
+        animals at factory farms in Sonoma County, after the government ignored repeated reports of criminal animal
         cruelty. In October 2018, a small group of activists were charged with seven felonies
         each for two actions at factory farms which occurred in May 2018 (at
         Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to
         Petaluma Poultry). The DA filed additional charges
         following a third action in June 2019 (at Reichardt Duck Farm). Since
         then, the prosecution has dismissed all of the charges related to the
-        action at McCoy's and a felony charge from the Sunrise action, and two of the
-        activists, Almira and Jon, have taken plea deals. On May 30, trial was scheduled for September 8, 2023 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer). Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
+        action at McCoy's and amended the charges to remove all mention of burglary and theft, leaving only conspiracy to commit trespass and trespass. Trial starts September 8 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer). Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
