@@ -7,6 +7,8 @@ import PageLink from "next/link";
 
 const SHRINK_OFFSET = 15;
 
+const PAGES_TO_ALWAYS_SHRINK_NAVBAR = ["/cases", "/supporters"];
+
 export const MainNav = ({
   announcement,
   announcementPage,
@@ -16,17 +18,27 @@ export const MainNav = ({
   announcementPage?: string;
   onPaddingUpdate: (paddingTop: number) => void;
 }) => {
-  const [shrink, setShrink] = useState(false);
+  const router = useRouter();
+  const [shrink, setShrink] = useState(
+    PAGES_TO_ALWAYS_SHRINK_NAVBAR.includes(router.pathname)
+  );
   const [expanded, setExpanded] = useState(false);
 
-  const handleScroll = (event: any) => {
-    setShrink(window.scrollY > SHRINK_OFFSET);
-  };
+  useEffect(() => {
+    if (window.scrollY !== 0) return;
+    setShrink(PAGES_TO_ALWAYS_SHRINK_NAVBAR.includes(router.pathname));
+  }, [router.pathname]);
 
   useEffect(() => {
+    const handleScroll = () => {
+      setShrink(
+        PAGES_TO_ALWAYS_SHRINK_NAVBAR.includes(router.pathname) ||
+          window.scrollY > SHRINK_OFFSET
+      );
+    };
     window.addEventListener("scroll", handleScroll);
     return () => window.removeEventListener("scroll", handleScroll);
-  }, []);
+  }, [router.pathname]);
 
   const collapseNavbar = () => {
     setExpanded(false);

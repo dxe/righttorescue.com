@@ -89,7 +89,6 @@
 }
 
 #mainNav .navbar-nav .nav-item:hover {
-  color: fade(white, 80%);
   outline: none;
   background-color: transparent;
 }
@@ -110,16 +109,15 @@
   }
   #mainNav .navbar-brand {
     padding: 0.5rem 0;
-    color: rgba(255, 255, 255, 0.5);
-    filter: invert(1);
+    filter: invert(1) brightness(1.15);
   }
   #mainNav .nav-link {
     transition: none;
     padding: 2rem 1.5rem;
-    color: rgba(255, 255, 255, 0.5);
+    color: rgba(255, 255, 255, 0.8);
   }
   #mainNav .nav-link:hover {
-    color: rgba(255, 255, 255, 0.75);
+    color: rgba(255, 255, 255, 1);
   }
   #mainNav .nav-link:active {
     color: white;
@@ -128,7 +126,6 @@
     background-color: #fff !important;
   }
   #mainNav.navbar-shrink .navbar-brand {
-    color: #161616;
     filter: invert(0);
   }
   #mainNav.navbar-shrink .nav-link {

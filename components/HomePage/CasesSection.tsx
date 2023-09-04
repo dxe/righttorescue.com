@@ -16,7 +16,7 @@ export const CasesSection = (props: CasesProps) => {
     <section
       id="cases"
       className="projects-section bg-light"
-      style={{ paddingBottom: 40 }}
+      style={{ paddingBottom: 40, paddingTop: 120 }}
     >
       <Container>
         {featuredCase}
