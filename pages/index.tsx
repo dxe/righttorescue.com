@@ -14,12 +14,12 @@ const Home: NextPage = () => {
     <>
       <MastHead image="Mass Open Rescue at Sunrise Farms in 2018.png" takeActionPage={undefined} />
       <FeaturedCase
-        name="Mass Open Rescues in Sonoma County"
+        name="The #SonomaRescueTrial Starts September 8th"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="16x9"
       >
-        Over 100 people have been arrested at factory farms in Sonoma County for taking nonviolent direct action to help suffering animals after the government ignored repeated reports of criminal animal cruelty. On September 8th, three activists -- Cassie, Priya, and Wayne -- are going on trial for their roles in these actions. They are facing charges of conspiracy, burglary, and theft, including 8 felonies. Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
+        Over 100 people have been arrested on felony charges for taking nonviolent direct action to help suffering animals at factory farms in Sonoma County, after the government ignored repeated reports of criminal animal cruelty. On September 8th, three activists -- Cassie, Priya, and Wayne -- are going on trial facing conspiracy charges for their roles in these actions. Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
@@ -48,6 +48,21 @@ const Home: NextPage = () => {
 
       <Announcements>
                <Announcement
+          title="Sonoma County, California"
+          date="Sept. 1, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          In the pre-trial readiness hearing today, the prosecutor made a surprising announcement -- the DA's office is amending the charges against the defendants. We think it's in an effort to keep evidence of animal cruelty away from the jury. They are removing all mention of burglary and theft from the charges, leaving only trespass and conspiracy to commit trespass. This comes after over four years in which the prosecution has zealously argued that the defendants took "something" of "value" from the factory farms, and it comes on the heels of the defense filing its exhibits showing the actual condition of the animals inside Sunrise Farms and Reichardt Duck Farm. They know the animals are treated like garbage, even at humane certified, cage-free farms -- and they don't want the jury or public to see that truth. Please&nbsp;
+          <a
+            href="https://www.instagram.com/directactioneverywhere/"
+            target="_blank"
+          >
+            share this video about the amended charges.
+          </a>
+          &nbsp;
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="May 30, 2023"
           image="Sunrise.png"
