@@ -61,7 +61,7 @@ const Home: NextPage = () => {
             share this video about the amended charges.
           </a>
           &nbsp;
-          Today, the court also issued a gag-order prohibiting Cassie, Priya, and Wayne from speaking to the media about their case. Now it's even more important that you help us elevate this historic trial.
+          Today, the court also issued a gag order prohibiting Cassie, Priya, and Wayne from speaking to the media about their case. Now it's even more important that you help us elevate this historic trial.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
