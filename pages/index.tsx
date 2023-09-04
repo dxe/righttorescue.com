@@ -26,14 +26,14 @@ const Home: NextPage = () => {
         Wayne -- are going on trial facing conspiracy charges for their roles in
         these actions. Direct Action Everywhere (DxE) is organizing a
         convergence during the trial to support the defendants and the right to
-        rescue. Register for the trial support convergence&nbsp;
+        rescue. Register for the trial support convergence{" "}
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
           target="_blank"
         >
-          here.
+          here
         </a>
-        &nbsp;
+        .
       </FeaturedCase>
       <Letter />
       <About
@@ -71,16 +71,16 @@ const Home: NextPage = () => {
           showing the actual condition of the animals inside Sunrise Farms and
           Reichardt Duck Farm. They know the animals are treated like garbage,
           even at "humane certified," "cage-free" farms -- and they don't want
-          the jury or public to see that truth. Please&nbsp;
+          the jury or public to see that truth. Please{" "}
           <a
             href="https://www.instagram.com/directactioneverywhere/"
             target="_blank"
           >
             share this video about the amended charges.
           </a>
-          &nbsp; Today, the court also issued a gag order prohibiting Cassie,
-          Priya, and Wayne from speaking to the media about their case. Now it's
-          even more important that you help us elevate this historic trial.
+          Today, the court also issued a gag order prohibiting Cassie, Priya,
+          and Wayne from speaking to the media about their case. Now it's even
+          more important that you help us elevate this historic trial.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -90,7 +90,7 @@ const Home: NextPage = () => {
         >
           This morning, trial dates were set for Cassie, Priya, and Wayne. The
           #SonomaRescueTrial will start September 8, 2023 and it is expected to
-          last two weeks or longer. Please&nbsp;
+          last two weeks or longer. Please{" "}
           <a
             href="https://twitter.com/sonomatrial/status/1663588382620958721?s=46&t=6SpLSYRobB6D-yt7fd4cbQ"
             target="_blank"
@@ -119,28 +119,27 @@ const Home: NextPage = () => {
           Sebastopol is the third city to pass a resolution condemning the
           prosecution of animal rescuers, following Berkeley and San Francisco
           -- and it is the first city to do so in Sonoma County! Please help us
-          elevate this important victory by sharing the video on&nbsp;
+          elevate this important victory by sharing the video on{" "}
           <a
             href="https://www.instagram.com/reel/CryxH9GgS3v/?igshid=YmMyMTA2M2Y="
             target="_blank"
           >
             Instagram,
-          </a>
-          &nbsp;
+          </a>{" "}
           <a
             href="https://www.facebook.com/reel/789836859460299?mibextid=9drbnH&s=yWDuG2&fs=e"
             target="_blank"
           >
             Facebook,
-          </a>
-          &nbsp;and&nbsp;
+          </a>{" "}
+          and{" "}
           <a
             href="https://twitter.com/DxEverywhere/status/1653850742430793728?t=d_eRHLXpMEmChfOlQoN4Sw&s=19"
             target="_blank"
           >
-            Twitter.
+            Twitter
           </a>
-          &nbsp;
+          .
         </Announcement>
         <Announcement
           title="Merced County, California"
@@ -168,8 +167,9 @@ const Home: NextPage = () => {
             href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
             target="_blank"
           >
-            Twitter.
+            Twitter
           </a>
+          .
         </Announcement>
         <Announcement
           title="Merced County, California"
@@ -185,14 +185,14 @@ const Home: NextPage = () => {
           attempts to obtain this kind of evidence were completely denied in
           North Carolina and Utah. This is an important victory that will
           certainly impact the trial, and future legal efforts. Read more in the
-          press&nbsp;
+          press{" "}
           <a
             href="https://kmph.com/news/local/judge-grants-subpoena-of-foster-farms-after-activist-chicken-rescue"
             target="_blank"
           >
-            here.
+            here
           </a>
-          &nbsp;
+          .
         </Announcement>
 
         <Announcement
@@ -202,7 +202,7 @@ const Home: NextPage = () => {
           featured
         >
           New York Times columnist Farhad Manjoo just wrote about the
-          #FosterFarmsTrial in a&nbsp;
+          #FosterFarmsTrial in a{" "}
           <a
             href="https://www.nytimes.com/2023/02/14/opinion/foster-farms-chicken-slaughterhouse-animal-cruelty.html"
             target="_blank"
@@ -214,7 +214,7 @@ const Home: NextPage = () => {
           examines the strategy behind the “Right to Rescue” cases before
           concluding that the defendants, Alexandra Paul and Alicia Santurio,
           “should be praised, not punished.” Help us elevate this incredible
-          coverage by sharing it on&nbsp;
+          coverage by sharing it on{" "}
           <a href="https://www.instagram.com/p/CopbWGFLABE/" target="_blank">
             Instagram,
           </a>{" "}
@@ -229,8 +229,9 @@ const Home: NextPage = () => {
             href="https://twitter.com/fmanjoo/status/1625468222828081152"
             target="_blank"
           >
-            Twitter.
+            Twitter
           </a>
+          .
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -262,14 +263,14 @@ const Home: NextPage = () => {
           presentations by the defendants, lawyers, and jurors from this
           historic trial. Five of eight jurors attended and spoke about what
           motivated them to acquit Wayne and Paul. You can read more about the
-          event in&nbsp;
+          event in{" "}
           <a
             href="https://www.stgeorgeutah.com/?p=977195#.Y9hmkeyZOWo"
             target="_blank"
           >
-            this press article.
+            this press article
           </a>
-          &nbsp;
+          .
         </Announcement>
         <Announcement
           title="Merced County, California"
@@ -284,14 +285,14 @@ const Home: NextPage = () => {
           slaughterhouse in Livingston, CA in 2021. Trial is scheduled for March
           7, 2023 and it is expected to last 4-5 days. DxE is organizing a court
           support convergence around the trial. Register to join us at the trial
-          by&nbsp;
+          by{" "}
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSfFCBAf-uw5ahBSgZcdUQZpr1eoMNlMzQQSoRTBTN7HGuX1Xw/viewform"
             target="_blank"
           >
-            filling out this form.
+            filling out this form
           </a>
-          &nbsp;
+          .
         </Announcement>
         <Announcement
           title="Washington County, Utah"
@@ -302,15 +303,14 @@ const Home: NextPage = () => {
           Victory! The jury in the #SmithfieldTrial unanimously found Wayne and
           Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from
           Smithfield's Circle Four Farms. This groundbreaking verdict shows that
-          the public supports the right to rescue animals from abuse.
-          Please&nbsp;
+          the public supports the right to rescue animals from abuse. Please{" "}
           <a
             href="https://twitter.com/DxEverywhere/status/1578885463279927297"
             target="_blank"
           >
-            spread the word!
+            spread the word
           </a>
-          &nbsp;
+          !
         </Announcement>
         <Announcement
           title="Beaver County, Utah"
@@ -335,19 +335,18 @@ const Home: NextPage = () => {
           take place in Washington County, Utah. This is a win for the legal
           case, as the jury pool in Washington County is less financially
           dependent on Smithfield. As a result of this change in venue, the
-          trial has also been delayed to October 3-7. Please share this news
-          on&nbsp;
+          trial has also been delayed to October 3-7. Please share this news on{" "}
           <a
             href="https://www.instagram.com/p/Chdz3-nrHM-/?igshid=YmMyMTA2M2Y%3D&"
             target="_blank"
           >
             Instagram
           </a>
-          ,&nbsp;
+          ,{" "}
           <a href="https://www.facebook.com/100064603752737/posts/pfbid07qyn3tUWdXrXNQBvMj5ErtQ6w4tVyBFT7WfXNjmtndvxrES6n5v46VJ4jjhAap6Zl/">
             Facebook
           </a>
-          , or&nbsp;
+          , or{" "}
           <a
             href="https://twitter.com/dxeverywhere/status/1560828220936638464?s=21&t=Hlgy2rEDKeG3OXNqZ6IyJQ"
             target="_blank"
@@ -427,18 +426,18 @@ const Home: NextPage = () => {
           dismissed because the company and prosecutor agreed that "the
           criminalization of this nonviolent investigation and rescue is
           unnecessary." This is a step toward the #RightToRescue! Please share
-          this important news on&nbsp;
+          this important news on{" "}
           <a
             href="https://www.facebook.com/directactioneverywhere/photos/a.655305621166457/4951083394921970/"
             target="_blank"
           >
             Facebook
           </a>
-          ,&nbsp;
+          ,{" "}
           <a href="https://www.instagram.com/p/CWqcoq5JP40/" target="_blank">
             Instagram
           </a>
-          , or&nbsp;
+          , or{" "}
           <a
             href="https://twitter.com/DxEverywhere/status/1463538888140599298"
             target="_blank"
@@ -483,14 +482,14 @@ const Home: NextPage = () => {
         </Announcement>
 
         <Announcement title="San Francisco, CA" date="June 9, 2020">
-          The San Francisco Board of Supervisors voted unanimously to&nbsp;
+          The San Francisco Board of Supervisors voted unanimously to{" "}
           <a
             href="https://www.directactioneverywhere.com/theliberationist/2020-6-9-sf-board-of-supervisors-votes-to-support-factory-farm-whistleblowers-facing-prison-time"
             target="_blank"
           >
             pass a resolution
-          </a>
-          &nbsp;in support of the Right to Rescue. Now, both Berkeley and San
+          </a>{" "}
+          in support of the Right to Rescue. Now, both Berkeley and San
           Francisco have condemned the prosecution of DxE activists who exposed
           animal cruelty in Sonoma County. The public support for animal rescue
           is growing!
@@ -510,15 +509,14 @@ const Home: NextPage = () => {
           THE RESOLUTION PASSED. The Berkeley City Council became the first
           legislative body in history (that we are aware of) to support the
           #RightToRescue – and the activists facing serious criminal charges for
-          giving animals aid in factory farms. Please&nbsp;
+          giving animals aid in factory farms. Please{" "}
           <a
             href="https://www.cityofberkeley.info/Clerk/City_Council/City_Council__Roster.aspx"
             target="_blank"
           >
             write to the City Council
-          </a>
-          &nbsp;to thank them for their support. Your support made the
-          difference!
+          </a>{" "}
+          to thank them for their support. Your support made the difference!
         </Announcement>
 
         <Announcement title="Utah" date="Nov. 25, 2019">
@@ -526,7 +524,7 @@ const Home: NextPage = () => {
           turkeys to DxE activists days before Thanksgiving, for the second year
           in a row! He has condemned the prosecution that DxE investigators are
           facing and he is actively helping us rescue more animals. See the
-          video at&nbsp;
+          video at{" "}
           <a href="http://dxe.io/turkeyrescue" target="_blank">
             dxe.io/turkeyrescue
           </a>
