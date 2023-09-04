@@ -12,28 +12,37 @@ import { About } from "../components/HomePage/About";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="Mass Open Rescue at Sunrise Farms in 2018.png" takeActionPage={undefined} />
+      <MastHead
+        image="Mass Open Rescue at Sunrise Farms in 2018.png"
+        takeActionPage={undefined}
+      />
       <FeaturedCase
         name="The #SonomaRescueTrial Starts September 8th"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
-        videoRatio="16x9"
+        videoRatio="1x1"
       >
-        Over 100 people have been arrested on felony charges for taking nonviolent direct action to help suffering animals at factory farms in Sonoma County, after the government ignored repeated reports of criminal animal cruelty. On September 8th, three activists -- Cassie, Priya, and Wayne -- are going on trial facing conspiracy charges for their roles in these actions. Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
-            target="_blank"
-          >
-            here.
-          </a>
-          &nbsp;
-
+        Over 100 people have been arrested on felony charges for taking
+        nonviolent direct action to help suffering animals at factory farms in
+        Sonoma County, after the government ignored repeated reports of criminal
+        animal cruelty. On September 8th, three activists -- Cassie, Priya, and
+        Wayne -- are going on trial facing conspiracy charges for their roles in
+        these actions. Direct Action Everywhere (DxE) is organizing a
+        convergence during the trial to support the defendants and the right to
+        rescue. Register for the trial support convergence&nbsp;
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
+          target="_blank"
+        >
+          here.
+        </a>
+        &nbsp;
       </FeaturedCase>
       <Letter />
       <About
         name="About the Right to Rescue"
         video="https://www.youtube.com/embed/BgOHTQy6SEU"
-        videoRatio="16x9"
+        videoRatio="1x1"
       >
         14 US states have laws that allow the rescue of dogs from hot cars, and{" "}
         <a href="http://directactioneverywhere.com">Direct Action Everywhere</a>{" "}
@@ -47,21 +56,34 @@ const Home: NextPage = () => {
       </About>
 
       <Announcements>
-               <Announcement
+        <Announcement
           title="Sonoma County, California"
           date="Sept. 1, 2023"
           image="Sunrise.png"
           featured
         >
-          In the pre-trial readiness hearing today, the prosecutor made a surprising announcement -- the DA's office is amending the charges against the defendants to remove all mention of burglary and theft, leaving only trespass and conspiracy to commit trespass. This might seem like good news, but we think it's a strategic cover-up of evidence relating to the "value" of the rescued animals. This comes after over four years in which the prosecution has zealously argued that the defendants took "something" of "value" from the factory farms, and it comes on the heels of the defense filing its exhibits showing the actual condition of the animals inside Sunrise Farms and Reichardt Duck Farm. They know the animals are treated like garbage, even at "humane certified," "cage-free" farms -- and they don't want the jury or public to see that truth. Please&nbsp;
+          In the pre-trial readiness hearing today, the prosecutor made a
+          surprising announcement -- the DA's office is amending the charges
+          against the defendants to remove all mention of burglary and theft,
+          leaving only trespass and conspiracy to commit trespass. This might
+          seem like good news, but we think it's a strategic cover-up of
+          evidence relating to the "value" of the rescued animals. This comes
+          after over four years in which the prosecution has zealously argued
+          that the defendants took "something" of "value" from the factory
+          farms, and it comes on the heels of the defense filing its exhibits
+          showing the actual condition of the animals inside Sunrise Farms and
+          Reichardt Duck Farm. They know the animals are treated like garbage,
+          even at "humane certified," "cage-free" farms -- and they don't want
+          the jury or public to see that truth. Please&nbsp;
           <a
             href="https://www.instagram.com/directactioneverywhere/"
             target="_blank"
           >
             share this video about the amended charges.
           </a>
-          &nbsp;
-          Today, the court also issued a gag order prohibiting Cassie, Priya, and Wayne from speaking to the media about their case. Now it's even more important that you help us elevate this historic trial.
+          &nbsp; Today, the court also issued a gag order prohibiting Cassie,
+          Priya, and Wayne from speaking to the media about their case. Now it's
+          even more important that you help us elevate this historic trial.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -69,15 +91,17 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          This morning, trial dates were set for Cassie, Priya, and Wayne. The #SonomaRescueTrial will start September 8, 2023 and it is expected to last two weeks or longer. Please&nbsp;
+          This morning, trial dates were set for Cassie, Priya, and Wayne. The
+          #SonomaRescueTrial will start September 8, 2023 and it is expected to
+          last two weeks or longer. Please&nbsp;
           <a
             href="https://twitter.com/sonomatrial/status/1663588382620958721?s=46&t=6SpLSYRobB6D-yt7fd4cbQ"
             target="_blank"
           >
             share the news on Twitter!
           </a>
-          &nbsp;
-          DxE is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the convergence&nbsp;
+          &nbsp; DxE is organizing a convergence during the trial to support the
+          defendants and the right to rescue. Register for the convergence&nbsp;
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
@@ -92,13 +116,21 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          Last night, the Sebastopol City Council passed a historic resolution to support the activists facing charges in Sonoma County for peaceful actions at factory farms where animals were openly rescued from abuse. Sebastopol is the third city to pass a resolution condemning the prosecution of animal rescuers, following Berkeley and San Francisco -- and it is the first city to do so in Sonoma County! Please help us elevate this important victory by sharing the video on&nbsp;<a
+          Last night, the Sebastopol City Council passed a historic resolution
+          to support the activists facing charges in Sonoma County for peaceful
+          actions at factory farms where animals were openly rescued from abuse.
+          Sebastopol is the third city to pass a resolution condemning the
+          prosecution of animal rescuers, following Berkeley and San Francisco
+          -- and it is the first city to do so in Sonoma County! Please help us
+          elevate this important victory by sharing the video on&nbsp;
+          <a
             href="https://www.instagram.com/reel/CryxH9GgS3v/?igshid=YmMyMTA2M2Y="
             target="_blank"
           >
             Instagram,
           </a>
-          &nbsp;<a
+          &nbsp;
+          <a
             href="https://www.facebook.com/reel/789836859460299?mibextid=9drbnH&s=yWDuG2&fs=e"
             target="_blank"
           >
@@ -218,9 +250,9 @@ const Home: NextPage = () => {
           his review of the livestreams, he had not seen her seeming to be in a
           leadership role at the actions. He denied the motions for Priya and
           Wayne. Cassie now faces 8 misdemeanors, whereas her co-defendants face
-          four felonies and four misdemeanors each. Trial is
-          expected in 2023 for all four remaining defendants. Jon took the same
-          plea deal as Almira.
+          four felonies and four misdemeanors each. Trial is expected in 2023
+          for all four remaining defendants. Jon took the same plea deal as
+          Almira.
         </Announcement>
         <Announcement
           title="Beaver County, Utah"

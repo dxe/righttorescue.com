@@ -45,6 +45,6 @@ interface FeaturedCaseProps {
   name: string;
   page: string;
   video: string;
-  videoRatio: string;
+  videoRatio: "1x1" | "16x9";
   children: any;
 }

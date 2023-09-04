@@ -1,6 +1,4 @@
-import { Button, Col, Container, Ratio, Row } from "react-bootstrap";
-import React from "react";
-import Link from "next/link";
+import { Col, Container, Ratio, Row } from "react-bootstrap";
 
 export const About = (props: AboutProps) => {
   return (
@@ -28,11 +26,11 @@ export const About = (props: AboutProps) => {
     </Container>
   );
 };
-About.displayName = "Case";
+About.displayName = "About";
 
 interface AboutProps {
   name: string;
   video: string;
-  videoRatio: string;
+  videoRatio: "1x1" | "16x9";
   children: any;
 }
