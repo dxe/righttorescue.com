@@ -26,8 +26,11 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
             </Ratio>
           </Col>
 
-          <Col lg={6} className="mb-5">
-            {props.children}
+          <Col
+            lg={6}
+            className="mb-5 d-flex flex-column justify-content-center"
+          >
+            <div>{props.children}</div>
             <p className="text-white mt-4 mb-5 text-center mx-auto">
               <Link href={`/${props.page}`} passHref>
                 <Button>Learn more</Button>

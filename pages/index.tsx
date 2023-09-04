@@ -42,7 +42,9 @@ const Home: NextPage = () => {
         videoRatio="1x1"
       >
         14 US states have laws that allow the rescue of dogs from hot cars, and{" "}
-        <a href="http://directactioneverywhere.com">Direct Action Everywhere</a>{" "}
+        <a href="https://directactioneverywhere.com">
+          Direct Action Everywhere
+        </a>{" "}
         (DxE) is leading a campaign to extend these laws to apply to animals of
         any species in need of rescue, including in factory farms and animal
         experimentation facilities. The Right to Rescue campaign seeks to build
@@ -525,7 +527,7 @@ const Home: NextPage = () => {
           in a row! He has condemned the prosecution that DxE investigators are
           facing and he is actively helping us rescue more animals. See the
           video at{" "}
-          <a href="http://dxe.io/turkeyrescue" target="_blank">
+          <a href="https://dxe.io/turkeyrescue" target="_blank">
             dxe.io/turkeyrescue
           </a>
           .

@@ -1,5 +1,5 @@
-import { Navbar, Container, Nav } from "react-bootstrap";
-import { useEffect, useLayoutEffect, useRef, useState } from "react";
+import { Container, Nav, Navbar } from "react-bootstrap";
+import { useEffect, useRef, useState } from "react";
 //@ts-ignore
 import { Link as ScrollLink } from "react-scroll";
 import { useRouter } from "next/router";
@@ -100,10 +100,14 @@ export const MainNav = ({
                 Donate
               </Link>
               <PageLink href="/cases">
-                <a className={"nav-link"}>Cases</a>
+                <a className={"nav-link"} onClick={collapseNavbar}>
+                  Cases
+                </a>
               </PageLink>
               <PageLink href="/supporters">
-                <a className={"nav-link"}>Supporters</a>
+                <a className={"nav-link"} onClick={collapseNavbar}>
+                  Supporters
+                </a>
               </PageLink>
             </Nav>
           </Navbar.Collapse>

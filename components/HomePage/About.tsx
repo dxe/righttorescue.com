@@ -6,10 +6,9 @@ export const About = (props: AboutProps) => {
       <Col lg={12}>
         <h2 className="mb-5 text-center">About the Right to Rescue</h2>
         <Row>
-          <Col lg={6} className="mb-5">
-            {props.children}
+          <Col lg={6} className="mb-5 d-flex align-items-center">
+            <div>{props.children}</div>
           </Col>
-
           <Col lg={6} className="mb-5">
             <Ratio aspectRatio={props.videoRatio}>
               <iframe
