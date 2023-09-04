@@ -20,7 +20,7 @@ jobs:
       - name: build
         run: |
           node --version
-          pnpm i
+          pnpm install --frozen-lockfile
           pnpm export
       - uses: jakejarvis/s3-sync-action@master
         with:

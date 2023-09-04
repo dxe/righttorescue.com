@@ -2,7 +2,7 @@ import "bootstrap/dist/css/bootstrap.css";
 import "../styles/globals.css";
 import "../styles/template.css"; // TODO: clean up styles
 import type { AppProps } from "next/app";
-import React, { useEffect, useState } from "react";
+import { useEffect, useState } from "react";
 import SSRProvider from "react-bootstrap/SSRProvider";
 import Head from "next/head";
 import Layout from "../components/Layout";
@@ -53,7 +53,7 @@ function MyApp({ Component, pageProps }: AppProps) {
       />
       <Script id="google-analytics" strategy="afterInteractive">
         {`
-          (function (w, d, s, l, i) {
+          (function (w, d, s, l, i) { 
               w[l] = w[l] || [];
               w[l].push({ "gtm.start": new Date().getTime(), event: "gtm.js" });
               var f = d.getElementsByTagName(s)[0],

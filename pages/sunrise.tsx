@@ -6,7 +6,6 @@ import { Bio } from "../components/CasePage/Bio";
 import { Press } from "../components/CasePage/Press";
 import { Article } from "../components/CasePage/Article";
 import { Col } from "react-bootstrap";
-import { Lawyers } from "../components/CasePage/Lawyers";
 
 const Sunrise: NextPage = () => {
   return (
@@ -26,28 +25,34 @@ const Sunrise: NextPage = () => {
         cruelty and rescued suffering animals.
       </Header>
       <Details image="sunrise.jpg">
-        Over 100 people have been arrested on felony charges for taking nonviolent direct action to help suffering
-        animals at factory farms in Sonoma County, after the government ignored repeated reports of criminal animal
-        cruelty. In October 2018, a small group of activists were charged with seven felonies
-        each for two actions at factory farms which occurred in May 2018 (at
-        Sunrise Farms) and September 2018 (at McCoy's Poultry, a supplier to
-        Petaluma Poultry). The DA filed additional charges
-        following a third action in June 2019 (at Reichardt Duck Farm). Since
-        then, the prosecution has dismissed all of the charges related to the
-        action at McCoy's and amended the charges to remove all mention of burglary and theft, leaving only conspiracy to commit trespass and trespass. Trial starts September 8 for Cassie, Priya, and Wayne, and it is expected to last two weeks (or longer). Direct Action Everywhere (DxE) is organizing a convergence during the trial to support the defendants and the right to rescue. Register for the trial support convergence&nbsp;
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
-            target="_blank"
-          >
-            here.
-          </a>
-          &nbsp;
+        Over 100 people have been arrested on felony charges for taking
+        nonviolent direct action to help suffering animals at factory farms in
+        Sonoma County, after the government ignored repeated reports of criminal
+        animal cruelty. In October 2018, a small group of activists were charged
+        with seven felonies each for two actions at factory farms which occurred
+        in May 2018 (at Sunrise Farms) and September 2018 (at McCoy's Poultry, a
+        supplier to Petaluma Poultry). The DA filed additional charges following
+        a third action in June 2019 (at Reichardt Duck Farm). Since then, the
+        prosecution has dismissed all of the charges related to the action at
+        McCoy's and amended the charges to remove all mention of burglary and
+        theft, leaving only conspiracy to commit trespass and trespass. Trial
+        starts September 8 for Cassie, Priya, and Wayne, and it is expected to
+        last two weeks (or longer). Direct Action Everywhere (DxE) is organizing
+        a convergence during the trial to support the defendants and the right
+        to rescue. Register for the trial support convergence&nbsp;
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
+          target="_blank"
+        >
+          here.
+        </a>
+        &nbsp;
       </Details>
       <Defendants>
         <Bio name="Cassie King" image="cassie.jpg">
           Cassie was an English major at UC Berkeley and is the Communications
-          Director for Direct Action Everywhere. She is the guardian of two bunnies who were
-          both rescued from slaughter.
+          Director for Direct Action Everywhere. She is the guardian of two
+          bunnies who were both rescued from slaughter.
         </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
           Growing up in India, Priya witnessed the suffering of countless street
@@ -56,8 +61,8 @@ const Sunrise: NextPage = () => {
           farms.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
-          20 years.
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a
+          community organizer for over 20 years.
         </Bio>
         <Col
           md={{ span: 12 }}
@@ -128,19 +133,19 @@ const Sunrise: NextPage = () => {
           href="https://www.petaluma360.com/article/news/animal-rights-activists-to-stand-trial-in-2018-19-petaluma-protest-burglary/"
           iFramelyUrl="https://cdn.iframe.ly/O3PV9IR?card=small"
         />
-         <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/sebastopol-city-council-urges-leniency-in-criminal-case-against-animal-acti/"
           iFramelyUrl="https://cdn.iframe.ly/yYN7QD6?card=small"
         />
-         <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/animal-rights-activists-still-dont-know-when-theyre-going-to-trial/"
           iFramelyUrl="https://cdn.iframe.ly/MBt5VPS?card=small"
         />
-         <Article
+        <Article
           href="https://theintercept.com/2023/06/13/perdue-chicken-slaughterhouse-animal-cruelty-dxe/"
           iFramelyUrl="https://cdn.iframe.ly/bA6f35V?card=small"
         />
-         <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/"
           iFramelyUrl="https://cdn.iframe.ly/IZoGSGa?card=small"
         />
@@ -160,7 +165,7 @@ const Sunrise: NextPage = () => {
           href="https://wagingnonviolence.org/2023/08/proud-to-stand-trial-defending-right-to-rescue-animals/"
           iFramelyUrl="https://cdn.iframe.ly/rgIHv1M?card=small"
         />
-         <Article
+        <Article
           href="https://dailycal.org/2023/08/30/direct-action-everywhere-activists-face-felony-and-misdemeanor-charges"
           iFramelyUrl="https://cdn.iframe.ly/oeIZ9r0?card=small"
         />

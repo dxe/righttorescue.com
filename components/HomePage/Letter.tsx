@@ -1,7 +1,4 @@
-import Script from "next/script";
-import React, { useEffect, useState } from "react";
-import * as Scroll from "react-scroll";
-import { useInterval } from "@restart/hooks";
+import { useEffect, useState } from "react";
 
 export const Letter = () => {
   const [expanded, setExpanded] = useState(false);
