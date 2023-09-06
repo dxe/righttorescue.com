@@ -57,6 +57,34 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Sonoma County, California"
+          date="Sept. 6, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          Yesterday, Sonoma County District Attorney Robert Waner told Cassie's lawyer that he will be dismissing her from the case on Friday. We can only speculate as to why he’s dropping Cassie's charges. Maybe he wants her brilliant attorney Izaak Schwaiger out of the case. Maybe he's too overwhelmed with the mountains of evidence of animal cruelty the defense submitted to them as trial exhibits. Watch and share today's video with this news on{" "}
+          <a
+            href="https://www.instagram.com/p/Cw20gX8xetA/"
+            target="_blank"
+          >
+            Instagram,
+          </a>{" "}
+          <a
+            href="https://www.facebook.com/reel/596480139365399"
+            target="_blank"
+          >
+            Facebook,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://twitter.com/DxEverywhere/status/1699457058880491984"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
           date="Sept. 1, 2023"
           image="Sunrise.png"
           featured
