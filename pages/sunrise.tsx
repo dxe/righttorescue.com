@@ -37,7 +37,7 @@ const Sunrise: NextPage = () => {
         McCoy's and amended the charges to remove all mention of burglary and
         theft, leaving only conspiracy to commit trespass and trespass. Trial
         starts September 8 for Cassie, Priya, and Wayne, and it is expected to
-        last two weeks (or longer). Direct Action Everywhere (DxE) is organizing
+        last three weeks. Direct Action Everywhere (DxE) is organizing
         a convergence during the trial to support the defendants and the right
         to rescue. Register for the trial support convergence&nbsp;
         <a
