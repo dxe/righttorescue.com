@@ -106,8 +106,9 @@ const Home: NextPage = () => {
             href="https://www.instagram.com/directactioneverywhere/"
             target="_blank"
           >
-            share this video about the amended charges.
+            share this video about the amended charges
           </a>
+          .
           Today, the court also issued a gag order prohibiting Cassie, Priya,
           and Wayne from speaking to the media about their case. Now it's even
           more important that you help us elevate this historic trial.
