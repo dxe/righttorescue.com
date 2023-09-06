@@ -103,7 +103,7 @@ const Home: NextPage = () => {
           even at "humane certified," "cage-free" farms -- and they don't want
           the jury or public to see that truth. Please{" "}
           <a
-            href="https://www.instagram.com/directactioneverywhere/"
+            href="https://www.instagram.com/p/CwqHnyyJigc/"
             target="_blank"
           >
             share this video about the amended charges
@@ -112,6 +112,43 @@ const Home: NextPage = () => {
           Today, the court also issued a gag order prohibiting Cassie, Priya,
           and Wayne from speaking to the media about their case. Now it's even
           more important that you help us elevate this historic trial.
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
+          date="Aug. 30, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          Harvard’s Animal Law and Policy Program Director and Law Professor Kristen Stilt submitted an amicus brief in the Sonoma rescue case asserting that animals are “someone,” and that ordinary citizens therefore can use the necessity defense when they are charged in connection with animal rescue. It might seem obvious to many of us that an animal is someone, but prosecutors defending animal agriculture have tried to argue that they aren’t and that laws like the necessity defense can’t be used to defend the rescue of animals from abuse.
+
+This new amicus brief supports what we already know: that animals are individuals and they have the right to be rescued from situations of neglect and cruelty. You can read the full amicus brief{" "}
+          <a
+            href="https://animal.law.harvard.edu/wp-content/uploads/DxE-Amicus-Brief.pdf"
+            target="_blank"
+          >
+            here
+          </a>
+          . Share this important news on{" "}
+          <a
+            href="https://www.instagram.com/p/CwnrZ82Ppuz/"
+            target="_blank"
+          >
+            Instagram,
+          </a>{" "}
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid0AyG77eKSeygpvYJbRBEr8RRsAMSrnFDC8bPp8KJJ31WA1berMwmZ7eS1ipdPuwjzl"
+            target="_blank"
+          >
+            Facebook,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://twitter.com/DxEverywhere/status/1697324975382999121"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
         </Announcement>
         <Announcement
           title="Sonoma County, California"
