@@ -1,3 +1,8 @@
+declare global {
+  interface Window {
+    twttr: any;
+  }
+}
 import Script from "next/script";
 import React from "react";
 import { Container } from "react-bootstrap";
