@@ -175,6 +175,10 @@ const Sunrise: NextPage = () => {
           href="https://dailycal.org/2023/08/30/direct-action-everywhere-activists-face-felony-and-misdemeanor-charges"
           iFramelyUrl="https://cdn.iframe.ly/oeIZ9r0?card=small"
         />
+         <Article
+          href="https://sentientmedia.org/sonoma-open-rescue-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/BK3a37D?card=small"
+        />
       </Press>
     </>
   );
