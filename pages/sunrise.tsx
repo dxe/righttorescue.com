@@ -6,6 +6,8 @@ import { Bio } from "../components/CasePage/Bio";
 import { Press } from "../components/CasePage/Press";
 import { Article } from "../components/CasePage/Article";
 import { Col } from "react-bootstrap";
+import { Lawyers } from "../components/CasePage/Lawyers";
+import TwitterTimeline from "../components/Twitter";
 
 const Sunrise: NextPage = () => {
   return (
@@ -24,6 +26,7 @@ const Sunrise: NextPage = () => {
         asking her to drop the charges against the activists who exposed animal
         cruelty and rescued suffering animals.
       </Header>
+
       <Details image="sunrise.jpg">
         Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in
@@ -92,6 +95,9 @@ const Sunrise: NextPage = () => {
           </p>
         </Col>
       </Defendants>
+
+      <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
+
       <Press>
         <Article
           href="https://www.pressdemocrat.com/article/news/dozens-of-animal-welfare-activists-arrested-after-large-protest-at-petaluma/"

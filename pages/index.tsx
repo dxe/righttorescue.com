@@ -1,10 +1,15 @@
 import type { NextPage } from "next";
 import { MastHead } from "../components/HomePage/MastHead";
 import { Letter } from "../components/HomePage/Letter";
+import { CasesSection } from "../components/HomePage/CasesSection";
+import React, { useEffect, useState } from "react";
+import { Container, Row, Col } from "react-bootstrap";
+import { Case } from "../components/HomePage/Case";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 import { About } from "../components/HomePage/About";
+import TwitterTimeline from "../components/Twitter";
 
 const Home: NextPage = () => {
   return (
@@ -53,6 +58,8 @@ const Home: NextPage = () => {
         to a new view of animals under the law - as people deserving of rights,
         rather than "property.”
       </About>
+
+      <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
 
       <Announcements>
         <Announcement
