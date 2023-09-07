@@ -18,11 +18,23 @@ export const Support = () => {
       >
         <div className="container">
           <div className="row">
-            <div className="col-md-10 col-lg-8 mx-auto text-center">
-              <h2 className="text-white my-3">
-                Your support allows us to stand up to legal repression and
-                continue our groundbreaking work
+            <div
+              className="col-md-10 col-lg-8 mx-auto text-center"
+              style={{ marginTop: '90px' }}
+            >
+              <h2
+                className="text-white my-3"
+                style={{
+                  textShadow: '6px 6px 12px rgba(0, 0, 0, 1)'
+                }}
+              >
+                Your support allows us to stand up to legal repression and continue our groundbreaking work.
+                <br />
+                <span style={{ fontSize: '0.6em' }}>
+                  Monthly donations in ANY amount will be boosted by an additional $100 donation from an animal liberation supporter.
+                </span>
               </h2>
+
               <Button
                 style={{ minWidth: 250 }}
                 id="donateButton"
