@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         takeActionPage={undefined}
       />
       <FeaturedCase
-        name="The #SonomaRescueTrial Starts September 8th"
+        name="The #SonomaRescueTrial is happening now"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
@@ -27,8 +27,8 @@ const Home: NextPage = () => {
         Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in
         Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. On September 8th, three activists -- Cassie, Priya, and
-        Wayne -- are going on trial facing conspiracy charges for their roles in
+        animal cruelty. Two activists, Priya Sawhney and
+        Wayne Hsiung, started trial on Sept. 8, facing conspiracy charges for their roles in
         these actions. Direct Action Everywhere (DxE) is organizing a
         convergence during the trial to support the defendants and the right to
         rescue. Register for the trial support convergence{" "}
