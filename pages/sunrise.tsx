@@ -39,7 +39,7 @@ const Sunrise: NextPage = () => {
         prosecution has dismissed all of the charges related to the action at
         McCoy's and amended the charges to remove all mention of burglary and
         theft, leaving only conspiracy to commit trespass and trespass. Trial
-        started September 8 for Priya Sawhney and Wayne Hisung, and it is expected to
+        started September 8 for Priya Sawhney and Wayne Hsiung, and it is expected to
         last three weeks. Direct Action Everywhere (DxE) is organizing
         a convergence during the trial to support the defendants and the right
         to rescue. Register for the trial support convergence&nbsp;
@@ -74,7 +74,7 @@ const Sunrise: NextPage = () => {
           <p className="text-white">
             Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira
             Tanner, Alyssa Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V.,
-            Brianna Baer, Camilla Hahn, Cheyanne Holliday, Chris Tarzan Hayward,
+            Brianna Baer, Camilla Hahn, Cassie King, Cheyanne Holliday, Chris Tarzan Hayward,
             Christina Brown, Christopher Bleichner, Conrad de Jesus, Corey
             Rowland, Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem
             Blitz, Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jon
