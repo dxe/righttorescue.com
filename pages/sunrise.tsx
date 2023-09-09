@@ -39,7 +39,7 @@ const Sunrise: NextPage = () => {
         prosecution has dismissed all of the charges related to the action at
         McCoy's and amended the charges to remove all mention of burglary and
         theft, leaving only conspiracy to commit trespass and trespass. Trial
-        starts September 8 for Cassie, Priya, and Wayne, and it is expected to
+        started September 8 for Priya Sawhney and Wayne Hisung, and it is expected to
         last three weeks. Direct Action Everywhere (DxE) is organizing
         a convergence during the trial to support the defendants and the right
         to rescue. Register for the trial support convergence&nbsp;
@@ -52,11 +52,6 @@ const Sunrise: NextPage = () => {
         &nbsp;
       </Details>
       <Defendants>
-        <Bio name="Cassie King" image="cassie.jpg">
-          Cassie was an English major at UC Berkeley and is the Communications
-          Director for Direct Action Everywhere. She is the guardian of two
-          bunnies who were both rescued from slaughter.
-        </Bio>
         <Bio name="Priya Sawhney" image="priya.jpg">
           Growing up in India, Priya witnessed the suffering of countless street
           animals. As an investigator with Direct Action Everywhere, she has
