@@ -174,6 +174,10 @@ const Sunrise: NextPage = () => {
           href="https://sentientmedia.org/sonoma-open-rescue-trial/"
           iFramelyUrl="https://cdn.iframe.ly/BK3a37D?card=small"
         />
+          <Article
+          href="https://www.pressdemocrat.com/article/news/animal-welfare-group-rallies-outside-sonoma-county-courthouse-as-criminal-c/?artslide=0"
+          iFramelyUrl="https://cdn.iframe.ly/fEoRmha?card=small"
+        />
       </Press>
     </>
   );
