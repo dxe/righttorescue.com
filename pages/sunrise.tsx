@@ -178,6 +178,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/animal-welfare-group-rallies-outside-sonoma-county-courthouse-as-criminal-c/?artslide=0"
           iFramelyUrl="https://cdn.iframe.ly/fEoRmha?card=small"
         />
+         <Article
+          href="https://www.cbsnews.com/sanfrancisco/video/animal-rights-protesters-go-on-trial-in-sonoma-county/"
+          iFramelyUrl="https://cdn.iframe.ly/jOPWrAf?card=small"
+        />
       </Press>
     </>
   );
