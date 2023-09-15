@@ -182,6 +182,10 @@ const Sunrise: NextPage = () => {
           href="https://www.cbsnews.com/sanfrancisco/video/animal-rights-protesters-go-on-trial-in-sonoma-county/"
           iFramelyUrl="https://cdn.iframe.ly/jOPWrAf?card=small"
         />
+        <Article
+          href="https://norcalpublicmedia.org/2023090991417/news-feed/awaited-trial-of-bay-area-animal-rights-activists-begins"
+          iFramelyUrl="https://cdn.iframe.ly/qSYnbkH?card=small"
+        />
       </Press>
     </>
   );
