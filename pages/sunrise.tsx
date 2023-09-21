@@ -186,6 +186,10 @@ const Sunrise: NextPage = () => {
           href="https://norcalpublicmedia.org/2023090991417/news-feed/awaited-trial-of-bay-area-animal-rights-activists-begins"
           iFramelyUrl="https://cdn.iframe.ly/qSYnbkH?card=small"
         />
+          <Article
+          href="https://dailycal.org/2023/09/19/gag-order-on-dxe-activists-upheld-despite-calls-to-vacate-from-berkeley-law-dean-aclu"
+          iFramelyUrl="https://cdn.iframe.ly/er2ViUB?card=small"
+        />
       </Press>
     </>
   );
