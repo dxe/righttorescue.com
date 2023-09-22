@@ -27,11 +27,10 @@ const Home: NextPage = () => {
         Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in
         Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. Two activists, Priya Sawhney and
-        Wayne Hsiung, started trial on Sept. 8, facing conspiracy charges for their roles in
+        animal cruelty. Trial is underway for DxE co-founder Wayne Hsiung, who faces felony conspiracy charges for his role in
         these actions. Direct Action Everywhere (DxE) is organizing a
-        convergence during the trial to support the defendants and the right to
-        rescue. Register for the trial support convergence{" "}
+        convergence during the trial to support the right to
+        rescue animals from abuse. Register for the trial support convergence{" "}
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
           target="_blank"
@@ -62,6 +61,14 @@ const Home: NextPage = () => {
       <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
 
       <Announcements>
+                <Announcement
+          title="Sonoma County, California"
+          date="Sept. 21, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          Today, defendant Priya Sawhney took a deferred entry of judgment plea deal, meaning charges will not be filed against her if she completes the terms of the agreement which include community service and two years of probation. She said, “There were some strategic disagreements between my attorneys and me about prioritizing my best interests versus the interests of the animals. This case is bigger than me or any of us. It’s about suffering animals who deserve to be rescued. I trust Wayne to represent them as well as anyone could.”
+        </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="Sept. 6, 2023"
