@@ -23,7 +23,7 @@ const Sunrise: NextPage = () => {
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez politely
-        asking her to drop the charges against the activists who exposed animal
+        asking her to stop prosecuting activists who exposed animal
         cruelty and rescued suffering animals.
       </Header>
 
@@ -39,9 +39,9 @@ const Sunrise: NextPage = () => {
         prosecution has dismissed all of the charges related to the action at
         McCoy's and amended the charges to remove all mention of burglary and
         theft, leaving only conspiracy to commit trespass and trespass. Trial
-        started September 8 for Priya Sawhney and Wayne Hsiung, and it is expected to
-        last three weeks. Direct Action Everywhere (DxE) is organizing
-        a convergence during the trial to support the defendants and the right
+        is underway for the only remaining defendant, Wayne Hsiung, and it is expected to
+        last until mid-late October. Direct Action Everywhere (DxE) is hosting
+        a convergence during the trial to support the right
         to rescue. Register for the trial support convergence&nbsp;
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
@@ -52,12 +52,6 @@ const Sunrise: NextPage = () => {
         &nbsp;
       </Details>
       <Defendants>
-        <Bio name="Priya Sawhney" image="priya.jpg">
-          Growing up in India, Priya witnessed the suffering of countless street
-          animals. As an investigator with Direct Action Everywhere, she has
-          seen the same kind of suffering on a systemic scale inside of factory
-          farms.
-        </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne is an attorney and co-founder of The Simple Heart. He has been a
           community organizer for over 20 years.
