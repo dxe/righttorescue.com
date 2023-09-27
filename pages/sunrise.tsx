@@ -183,6 +183,10 @@ const Sunrise: NextPage = () => {
           <Article
           href="https://dailycal.org/2023/09/19/gag-order-on-dxe-activists-upheld-despite-calls-to-vacate-from-berkeley-law-dean-aclu"
           iFramelyUrl="https://cdn.iframe.ly/er2ViUB?card=small"
+              />
+          <Article
+          href="https://www.northbaybusinessjournal.com/article/news/1-of-2-activists-accused-of-stealing-livestock-from-petaluma-farms-reaches/"
+          iFramelyUrl="https://cdn.iframe.ly/9XLRIPW?card=small"
         />
       </Press>
     </>
