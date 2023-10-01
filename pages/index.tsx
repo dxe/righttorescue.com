@@ -27,7 +27,7 @@ const Home: NextPage = () => {
         Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in
         Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. Trial is underway for DxE co-founder Wayne Hsiung, who faces felony conspiracy charges for his role in
+        animal cruelty. Trial is underway for Wayne Hsiung, who faces two felony conspiracy charges for his role in
         these actions. Direct Action Everywhere (DxE) is organizing a
         convergence during the trial to support the right to
         rescue animals from abuse. Register for the trial support convergence{" "}
