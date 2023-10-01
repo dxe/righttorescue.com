@@ -188,6 +188,10 @@ const Sunrise: NextPage = () => {
           href="https://www.northbaybusinessjournal.com/article/news/1-of-2-activists-accused-of-stealing-livestock-from-petaluma-farms-reaches/"
           iFramelyUrl="https://cdn.iframe.ly/9XLRIPW?card=small"
         />
+        <Article
+          href="https://www.davisvanguard.org/2023/09/court-watch-2nd-california-animal-rights-trial-involving-open-rescue-ongoing-in-santa-rosa-defense-said-hopes-to-open-floodgates-to-new-view-of/"
+          iFramelyUrl="https://cdn.iframe.ly/XH95tzr?card=small"
+        />
       </Press>
     </>
   );
