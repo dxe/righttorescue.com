@@ -21,13 +21,6 @@ const Cases: NextPage = () => {
         />
 
         <Case
-          name="Farmer John"
-          location="Los Angeles County, California"
-          page="fj"
-          image="fj.png"
-        />
-
-        <Case
           name="Sospiro Ranch"
           location="North Carolina"
           page="rain"
@@ -46,6 +39,14 @@ const Cases: NextPage = () => {
           location="Niagara County, New York"
           page="ashas"
           image="ashas.jpg"
+        />
+
+        <Case
+          name="Farmer John"
+          location="Los Angeles County, California"
+          page="fj"
+          image="fj.png"
+          past
         />
 
         <Case
