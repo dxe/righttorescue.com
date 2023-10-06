@@ -196,6 +196,10 @@ const Sunrise: NextPage = () => {
           href="https://dailyillini.com/opinions-stories/2023/10/04/letter-to-the-editor-its-time-to-confront-animal-violence/"
           iFramelyUrl="https://cdn.iframe.ly/xn79VKF?card=small"
         />
+        <Article
+          href="https://www.davisvanguard.org/2023/10/court-watch-open-rescue-trial-underway-lawyer-activist-faces-felonies-insists-ca-law-allows-rescue-of-injured-animals-in-factory-farms-judge-guts-defense-imposes-gag-ord/"
+          iFramelyUrl="https://cdn.iframe.ly/3twgXY9?card=small"
+        />
       </Press>
     </>
   );
