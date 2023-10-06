@@ -192,6 +192,10 @@ const Sunrise: NextPage = () => {
           href="https://www.davisvanguard.org/2023/09/court-watch-2nd-california-animal-rights-trial-involving-open-rescue-ongoing-in-santa-rosa-defense-said-hopes-to-open-floodgates-to-new-view-of/"
           iFramelyUrl="https://cdn.iframe.ly/XH95tzr?card=small"
         />
+         <Article
+          href="https://dailyillini.com/opinions-stories/2023/10/04/letter-to-the-editor-its-time-to-confront-animal-violence/"
+          iFramelyUrl="https://cdn.iframe.ly/xn79VKF?card=small"
+        />
       </Press>
     </>
   );
