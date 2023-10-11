@@ -200,6 +200,10 @@ const Sunrise: NextPage = () => {
           href="https://www.davisvanguard.org/2023/10/court-watch-open-rescue-trial-underway-lawyer-activist-faces-felonies-insists-ca-law-allows-rescue-of-injured-animals-in-factory-farms-judge-guts-defense-imposes-gag-ord/"
           iFramelyUrl="https://cdn.iframe.ly/3twgXY9?card=small"
         />
+           <Article
+          href="https://www.northbaybusinessjournal.com/article/news/opening-statements-begin-in-trial-of-activist-accused-of-taking-animals-fro/"
+          iFramelyUrl="https://cdn.iframe.ly/rCTpUM9?card=small"
+        />
       </Press>
     </>
   );
