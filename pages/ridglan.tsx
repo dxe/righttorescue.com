@@ -31,7 +31,7 @@ const RidglanFarms: NextPage = () => {
         The team rescued three beagles. Although the investigation and rescue
         happened years ago, the charging documents were filed in August 2021.
         Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Trial is currently scheduled for November 6-10, 2023. This Right to Rescue case is an important opportunity to show the world
+        charges. Trial is currently scheduled for March 18-22, 2024. This Right to Rescue case is an important opportunity to show the world
         the horrors inflicted on humankind’s supposed best friend and to move
         toward ending experimentation on dogs and other animals.
       </Details>
