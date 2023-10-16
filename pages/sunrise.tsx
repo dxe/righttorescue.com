@@ -204,6 +204,10 @@ const Sunrise: NextPage = () => {
           href="https://www.northbaybusinessjournal.com/article/news/opening-statements-begin-in-trial-of-activist-accused-of-taking-animals-fro/"
           iFramelyUrl="https://cdn.iframe.ly/rCTpUM9?card=small"
         />
+         <Article
+          href="https://www.davisvanguard.org/2023/10/court-watch-prosecution-rests-in-california-farm-animal-open-rescue-trial-celebrity-others-called-by-defense-to-explain-actions-to-save-sick-injured-animals/"
+          iFramelyUrl="https://cdn.iframe.ly/U0lHaDo?card=small"
+        />
       </Press>
     </>
   );
