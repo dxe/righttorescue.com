@@ -27,17 +27,8 @@ const Home: NextPage = () => {
         Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in
         Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. Trial is underway for Wayne Hsiung, who faces two felony conspiracy charges for his role in
-        these actions. Direct Action Everywhere (DxE) is organizing a
-        convergence during the trial to support the right to
-        rescue animals from abuse. Register for the trial support convergence{" "}
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
-          target="_blank"
-        >
-          here
-        </a>
-        .
+        animal cruelty. Trial is underway for Wayne Hsiung, who faces two felony conspiracy charges and two misdemeanor trespass charges for his role in
+        these actions. The jury is deliberating now. We could have a verdict at any time.
       </FeaturedCase>
       <Letter />
       <About
