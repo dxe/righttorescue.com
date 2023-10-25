@@ -13,7 +13,7 @@ const Sunrise: NextPage = () => {
   return (
     <>
       <Header
-        title="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
+        title="Sunrise Farms and Reichardt Duck Farm"
         location="Sonoma County, California"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
@@ -22,34 +22,13 @@ const Sunrise: NextPage = () => {
         ctaText2="Email"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
-        Call and email Sonoma County District Attorney Carla Rodriguez politely
-        asking her to stop prosecuting activists who exposed animal
-        cruelty and rescued suffering animals.
+        Call and email Sonoma County District Attorney Carla Rodriguez and ask her to finally prosecute Sunrise Farms and Reichardt Duck Farm for years of criminal animal cruelty.
       </Header>
 
       <Details image="sunrise.jpg">
-        Over 100 people have been arrested on felony charges for taking
-        nonviolent direct action to help suffering animals at factory farms in
-        Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. In October 2018, a small group of activists were charged
-        with seven felonies each for two actions at factory farms which occurred
-        in May 2018 (at Sunrise Farms) and September 2018 (at McCoy's Poultry, a
-        supplier to Petaluma Poultry). The DA filed additional charges following
-        a third action in June 2019 (at Reichardt Duck Farm). Since then, the
-        prosecution has dismissed all of the charges related to the action at
-        McCoy's and amended the charges to remove all mention of burglary and
-        theft, leaving only conspiracy to commit trespass and trespass. Trial
-        is underway for the only remaining defendant, Wayne Hsiung, and it is expected to
-        last until mid-late October. Direct Action Everywhere (DxE) is hosting
-        a convergence during the trial to support the right
-        to rescue. Register for the trial support convergence&nbsp;
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
-          target="_blank"
-        >
-          here.
-        </a>
-        &nbsp;
+        For years, investigators with Direct Action Everywhere have been exposing violations of animal cruelty law at factory farms in Sonoma County, including Sunrise Farms and Reichardt Duck Farm. Instead of prosecuting these companies, the Sonoma County District Attorney has gone after the whistleblowers and animal rescuers. Over 100 people have been arrested on felony charges for taking
+        nonviolent direct action to help suffering animals at factory farms in the county, after the government ignored repeated reports of criminal
+        animal cruelty. These charges resulted in the five-year prosecution of a handful of activists and ultimately, the seven-week trial of one remaining defendant, Wayne Hsiung, in September to October 2023. We need your help to elevate the #SonomaRescueTrial and demand that the District Attorney finally prosecute the real crimes that are happening to animals. 
       </Details>
       <Defendants>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
