@@ -192,6 +192,12 @@ const Sunrise: NextPage = () => {
          <Article
           href="https://www.davisvanguard.org/2023/10/court-watch-prosecution-rests-in-california-farm-animal-open-rescue-trial-celebrity-others-called-by-defense-to-explain-actions-to-save-sick-injured-animals/"
           iFramelyUrl="https://cdn.iframe.ly/U0lHaDo?card=small"
+         
+        />
+         <Article
+          href="https://sentientmedia.org/open-rescue-movement/"
+          iFramelyUrl="https://cdn.iframe.ly/RVy9o5Y?card=small"
+           
         />
       </Press>
     </>
