@@ -5,7 +5,7 @@ import { Defendants } from "../components/CasePage/Defendants";
 import { Bio } from "../components/CasePage/Bio";
 import { Press } from "../components/CasePage/Press";
 import { Article } from "../components/CasePage/Article";
-import { Col } from "react-bootstrap";
+import { Col, Row } from "react-bootstrap";
 import { Lawyers } from "../components/CasePage/Lawyers";
 import TwitterTimeline from "../components/Twitter";
 
@@ -29,39 +29,46 @@ const Sunrise: NextPage = () => {
         For years, investigators with Direct Action Everywhere have been exposing violations of animal cruelty law at factory farms in Sonoma County, including Sunrise Farms and Reichardt Duck Farm. Instead of prosecuting these companies, the Sonoma County District Attorney has gone after the whistleblowers and animal rescuers. Over 100 people have been arrested on felony charges for taking
         nonviolent direct action to help suffering animals at factory farms in the county. These charges resulted in the five-year prosecution of a handful of activists and ultimately, the seven-week trial of one remaining defendant, Wayne Hsiung, in September to October 2023. We need your help to elevate the #SonomaRescueTrial and demand that the District Attorney finally prosecute the real crimes that are happening to animals. 
       </Details>
+
       <Defendants>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne is an attorney and co-founder of The Simple Heart. He has been a
           community organizer for over 20 years.
         </Bio>
-        <Col
-          md={{ span: 12 }}
-          lg={{ span: 8 }}
-          className="px-4 py-5 more-defendants"
-        >
-          <h4 className="text-center text-white pb-4">
-            The following people have also been arrested in Sonoma County for
-            taking nonviolent direct action to expose animal cruelty:
-          </h4>
-          <p className="text-white">
-            Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira
-            Tanner, Alyssa Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V.,
-            Brianna Baer, Camilla Hahn, Cassie King, Cheyanne Holliday, Chris Tarzan Hayward,
-            Christina Brown, Christopher Bleichner, Conrad de Jesus, Corey
-            Rowland, Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem
-            Blitz, Emek Echo, Jake H., Jeyrama Robles, Jocelyn Cole, Jon
-            Frohnmayer, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker,
-            Kristina Norris, Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni
-            Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge, Lucy H., Madhu
-            Anderson, Mandy Washburn, Marika Diaz, Marissa Garam, Mary McKee,
-            Michael Goldberg, Michelle L., Monica Martella, Nena Salas, Nico
-            Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman, Paul Nguyen,
-            Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie R., Sanjeev
-            Deshpande, Sarah Hewson, Samantha Walsch, Sharon Claitor, Tonia
-            Moore, Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
-          </p>
-        </Col>
       </Defendants>
+
+      <div className="container">
+        <Row
+          xs={1}
+          md={2}
+          lg={3}
+          className="justify-content-center"
+        >
+          <Col
+            md={{ span: 12 }}
+            lg={{ span: 10 }}
+            className="px-4 py-5 more-defendants"
+          >
+            <h4 className="text-center text-white pb-4">
+              The following people have also been arrested in Sonoma County for
+              taking nonviolent direct action to expose animal cruelty:
+            </h4>
+            <p className="text-white">
+              Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira Tanner, Alyssa Landi, Amy Brown,
+              Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn, Cassie King, Cheyanne Holliday,
+              Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad de Jesus, Corey Rowland,
+              Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem Blitz, Emek Echo, Jake H., Jeyrama Robles,
+              Jocelyn Cole, Jon Frohnmayer, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker, Kristina Norris,
+              Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge,
+              Lucy H., Madhu Anderson, Mandy Washburn, Marika Diaz, Marissa Garam, Mary McKee, Michael Goldberg,
+              Michelle L., Monica Martella, Nena Salas, Nico Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman,
+              Paul Nguyen, Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie R., Sanjeev Deshpande, Sarah Hewson,
+              Samantha Walsch, Sharon Claitor, Tonia Moore, Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
+            </p>
+          </Col>
+        </Row>
+      </div>
+
 
       <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
 
