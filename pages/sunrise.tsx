@@ -199,6 +199,10 @@ const Sunrise: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/RVy9o5Y?card=small"
            
         />
+         />
+         <Article
+          href="https://www.davisvanguard.org/2023/10/court-watch-jury-in-deliberation-after-closing-arguments-in-open-rescue-case-at-california-factory-farms-lawyer-faces-felony-charges/"
+          iFramelyUrl="https://cdn.iframe.ly/1LvLd75?card=small"
       </Press>
     </>
   );
