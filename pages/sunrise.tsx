@@ -15,7 +15,7 @@ const Sunrise: NextPage = () => {
       <Header
         title="Sunrise Farms and Reichardt Duck Farm"
         location="Sonoma County, California"
-        video="<iframe width="560" height="315" src="https://www.youtube.com/embed/IqiC8MQcjiM?si=EgU_nEVBTw46msz8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>"
+        video="https://www.youtube.com/embed/IqiC8MQcjiM?si=EgU_nEVBTw46msz8"
         videoRatio="1x1"
         ctaText1="Call: 707-565-2311"
         ctaLink1="tel:707-565-2311"
