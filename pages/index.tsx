@@ -19,7 +19,7 @@ const Home: NextPage = () => {
         takeActionPage={undefined}
       />
       <FeaturedCase
-        name="Animal Rescuer Wayne Hsiung Was Convicted of Felony Conspiracy and Jailed After the #SonomaRescueTrial"
+        name="Animal Rescuer Wayne Hsiung Jailed After Guilty Verdict in the #SonomaRescueTrial"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
