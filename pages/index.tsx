@@ -19,16 +19,12 @@ const Home: NextPage = () => {
         takeActionPage={undefined}
       />
       <FeaturedCase
-        name="The #SonomaRescueTrial is happening now"
+        name="Animal Rescuer Wayne Hsiung Was Convicted of Felony Conspiracy and Jailed After the #SonomaRescueTrial"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
       >
-        Over 100 people have been arrested on felony charges for taking
-        nonviolent direct action to help suffering animals at factory farms in
-        Sonoma County, after the government ignored repeated reports of criminal
-        animal cruelty. Trial is underway for Wayne Hsiung, who faces two felony conspiracy charges and two misdemeanor trespass charges for his role in
-        these actions. The jury is deliberating now. We could have a verdict at any time.
+        After 6 days of deliberation, the jury has found animal rescuer Wayne Hsiung GUILTY on three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on the felony conspiracy charge from the Reichardt action, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. We will be mobilizing at the sentencing hearing on November 30th to support Wayne and defend the #RightToRescue. Please join us then in Santa Rosa.
       </FeaturedCase>
       <Letter />
       <About
