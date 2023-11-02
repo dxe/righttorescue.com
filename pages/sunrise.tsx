@@ -6,7 +6,6 @@ import { Bio } from "../components/CasePage/Bio";
 import { Press } from "../components/CasePage/Press";
 import { Article } from "../components/CasePage/Article";
 import { Col, Row } from "react-bootstrap";
-import { Lawyers } from "../components/CasePage/Lawyers";
 import TwitterTimeline from "../components/Twitter";
 
 const Sunrise: NextPage = () => {
@@ -22,12 +21,24 @@ const Sunrise: NextPage = () => {
         ctaText2="Email"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
-        Call and email Sonoma County District Attorney Carla Rodriguez and ask her to finally prosecute Sunrise Farms and Reichardt Duck Farm for years of criminal animal cruelty.
+        Call and email Sonoma County District Attorney Carla Rodriguez and ask
+        her to finally prosecute Sunrise Farms and Reichardt Duck Farm for years
+        of criminal animal cruelty.
       </Header>
 
       <Details image="sunrise.jpg">
-        For years, investigators with Direct Action Everywhere have been exposing violations of animal cruelty law at factory farms in Sonoma County, including Sunrise Farms and Reichardt Duck Farm. Instead of prosecuting these companies, the Sonoma County District Attorney has gone after the whistleblowers and animal rescuers. Over 100 people have been arrested on felony charges for taking
-        nonviolent direct action to help suffering animals at factory farms in the county. These charges resulted in the five-year prosecution of a handful of activists and ultimately, the seven-week trial of one remaining defendant, Wayne Hsiung, in September to October 2023. We need your help to elevate the #SonomaRescueTrial and demand that the District Attorney finally prosecute the real crimes that are happening to animals. 
+        For years, investigators with Direct Action Everywhere have been
+        exposing violations of animal cruelty law at factory farms in Sonoma
+        County, including Sunrise Farms and Reichardt Duck Farm. Instead of
+        prosecuting these companies, the Sonoma County District Attorney has
+        gone after the whistleblowers and animal rescuers. Over 100 people have
+        been arrested on felony charges for taking nonviolent direct action to
+        help suffering animals at factory farms in the county. These charges
+        resulted in the five-year prosecution of a handful of activists and
+        ultimately, the seven-week trial of one remaining defendant, Wayne
+        Hsiung, in September to October 2023. We need your help to elevate the
+        #SonomaRescueTrial and demand that the District Attorney finally
+        prosecute the real crimes that are happening to animals.
       </Details>
 
       <Defendants>
@@ -38,12 +49,7 @@ const Sunrise: NextPage = () => {
       </Defendants>
 
       <div className="container">
-        <Row
-          xs={1}
-          md={2}
-          lg={3}
-          className="justify-content-center"
-        >
+        <Row xs={1} md={2} lg={3} className="justify-content-center">
           <Col
             md={{ span: 12 }}
             lg={{ span: 10 }}
@@ -54,23 +60,31 @@ const Sunrise: NextPage = () => {
               taking nonviolent direct action to expose animal cruelty:
             </h4>
             <p className="text-white">
-              Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira Tanner, Alyssa Landi, Amy Brown,
-              Ana Mehl, Ariel Ryan, Balaji V., Brianna Baer, Camilla Hahn, Cassie King, Cheyanne Holliday,
-              Chris Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad de Jesus, Corey Rowland,
-              Daniela Habermehl, Dawn Michelle, Dean Wyrzykowski, Efrem Blitz, Emek Echo, Jake H., Jeyrama Robles,
-              Jocelyn Cole, Jon Frohnmayer, Jorden Ruggles, Katt Cho, Kelly Landreth, Kevin Baker, Kristina Norris,
-              Lance Wilson, Lauren Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg, Lewis Bernier, Linda Cridge,
-              Lucy H., Madhu Anderson, Mandy Washburn, Marika Diaz, Marissa Garam, Mary McKee, Michael Goldberg,
-              Michelle L., Monica Martella, Nena Salas, Nico Stubler, Nikki Symanovich, Noah Bristol, Ora Goldman,
-              Paul Nguyen, Peter Lecki, Rachel Arima, Rev. Robert Yamada, Ronnie R., Sanjeev Deshpande, Sarah Hewson,
-              Samantha Walsch, Sharon Claitor, Tonia Moore, Vanessa Marsot, Vero Z., Vicky Stewart, Virginia Fior
+              Aidan Cook, Alex Santurio, Alexandra Paul, Alicia Santurio, Almira
+              Tanner, Alyssa Landi, Amy Brown, Ana Mehl, Ariel Ryan, Balaji V.,
+              Brianna Baer, Camilla Hahn, Cassie King, Cheyanne Holliday, Chris
+              Tarzan Hayward, Christina Brown, Christopher Bleichner, Conrad de
+              Jesus, Corey Rowland, Daniela Habermehl, Dawn Michelle, Dean
+              Wyrzykowski, Efrem Blitz, Emek Echo, Jake H., Jeyrama Robles,
+              Jocelyn Cole, Jon Frohnmayer, Jorden Ruggles, Katt Cho, Kelly
+              Landreth, Kevin Baker, Kristina Norris, Lance Wilson, Lauren
+              Fluty, Lawrence Cuneaz, Leni Wasacz, Leslie Goldberg, Lewis
+              Bernier, Linda Cridge, Lucy H., Madhu Anderson, Mandy Washburn,
+              Marika Diaz, Marissa Garam, Mary McKee, Michael Goldberg, Michelle
+              L., Monica Martella, Nena Salas, Nico Stubler, Nikki Symanovich,
+              Noah Bristol, Ora Goldman, Paul Nguyen, Peter Lecki, Rachel Arima,
+              Rev. Robert Yamada, Ronnie R., Sanjeev Deshpande, Sarah Hewson,
+              Samantha Walsch, Sharon Claitor, Tonia Moore, Vanessa Marsot, Vero
+              Z., Vicky Stewart, Virginia Fior
             </p>
           </Col>
         </Row>
       </div>
 
-
-      <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
+      <TwitterTimeline
+        twitterHandle="SonomaTrial"
+        title="View the latest updates on the Sonoma Trial Twitter:"
+      />
 
       <Press>
         <Article
@@ -149,15 +163,15 @@ const Sunrise: NextPage = () => {
           href="https://dailycal.org/2023/08/30/direct-action-everywhere-activists-face-felony-and-misdemeanor-charges"
           iFramelyUrl="https://cdn.iframe.ly/oeIZ9r0?card=small"
         />
-         <Article
+        <Article
           href="https://sentientmedia.org/sonoma-open-rescue-trial/"
           iFramelyUrl="https://cdn.iframe.ly/BK3a37D?card=small"
         />
-          <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/animal-welfare-group-rallies-outside-sonoma-county-courthouse-as-criminal-c/?artslide=0"
           iFramelyUrl="https://cdn.iframe.ly/fEoRmha?card=small"
         />
-         <Article
+        <Article
           href="https://www.cbsnews.com/sanfrancisco/video/animal-rights-protesters-go-on-trial-in-sonoma-county/"
           iFramelyUrl="https://cdn.iframe.ly/jOPWrAf?card=small"
         />
@@ -165,11 +179,11 @@ const Sunrise: NextPage = () => {
           href="https://norcalpublicmedia.org/2023090991417/news-feed/awaited-trial-of-bay-area-animal-rights-activists-begins"
           iFramelyUrl="https://cdn.iframe.ly/qSYnbkH?card=small"
         />
-          <Article
+        <Article
           href="https://dailycal.org/2023/09/19/gag-order-on-dxe-activists-upheld-despite-calls-to-vacate-from-berkeley-law-dean-aclu"
           iFramelyUrl="https://cdn.iframe.ly/er2ViUB?card=small"
-              />
-          <Article
+        />
+        <Article
           href="https://www.northbaybusinessjournal.com/article/news/1-of-2-activists-accused-of-stealing-livestock-from-petaluma-farms-reaches/"
           iFramelyUrl="https://cdn.iframe.ly/9XLRIPW?card=small"
         />
@@ -177,7 +191,7 @@ const Sunrise: NextPage = () => {
           href="https://www.davisvanguard.org/2023/09/court-watch-2nd-california-animal-rights-trial-involving-open-rescue-ongoing-in-santa-rosa-defense-said-hopes-to-open-floodgates-to-new-view-of/"
           iFramelyUrl="https://cdn.iframe.ly/XH95tzr?card=small"
         />
-         <Article
+        <Article
           href="https://dailyillini.com/opinions-stories/2023/10/04/letter-to-the-editor-its-time-to-confront-animal-violence/"
           iFramelyUrl="https://cdn.iframe.ly/xn79VKF?card=small"
         />
@@ -185,21 +199,22 @@ const Sunrise: NextPage = () => {
           href="https://www.davisvanguard.org/2023/10/court-watch-open-rescue-trial-underway-lawyer-activist-faces-felonies-insists-ca-law-allows-rescue-of-injured-animals-in-factory-farms-judge-guts-defense-imposes-gag-ord/"
           iFramelyUrl="https://cdn.iframe.ly/3twgXY9?card=small"
         />
-           <Article
+        <Article
           href="https://www.northbaybusinessjournal.com/article/news/opening-statements-begin-in-trial-of-activist-accused-of-taking-animals-fro/"
           iFramelyUrl="https://cdn.iframe.ly/rCTpUM9?card=small"
         />
-         <Article
+        <Article
           href="https://www.davisvanguard.org/2023/10/court-watch-prosecution-rests-in-california-farm-animal-open-rescue-trial-celebrity-others-called-by-defense-to-explain-actions-to-save-sick-injured-animals/"
           iFramelyUrl="https://cdn.iframe.ly/U0lHaDo?card=small"
         />
-         <Article
+        <Article
           href="https://sentientmedia.org/open-rescue-movement/"
           iFramelyUrl="https://cdn.iframe.ly/RVy9o5Y?card=small"
         />
-         <Article
+        <Article
           href="https://www.davisvanguard.org/2023/10/court-watch-jury-in-deliberation-after-closing-arguments-in-open-rescue-case-at-california-factory-farms-lawyer-faces-felony-charges/"
           iFramelyUrl="https://cdn.iframe.ly/1LvLd75?card=small"
+        />
       </Press>
     </>
   );
