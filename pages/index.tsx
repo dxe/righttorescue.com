@@ -24,7 +24,16 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
       >
-        After 6 days of deliberation, the jury has found animal rescuer Wayne Hsiung GUILTY on three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on the felony conspiracy charge from the Reichardt action, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. We will be mobilizing at the sentencing hearing on November 30th to support Wayne and defend the #RightToRescue. Share this important news on{" "}
+        After 6 days of deliberation, the jury has found animal rescuer Wayne Hsiung GUILTY on
+        three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and
+        misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm.
+        The jury could not reach a unanimous verdict on the felony conspiracy charge from the
+        Reichardt action, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed
+        and immediately taken into custody. He has a sentencing hearing set for November 30th.
+        He will be in jail until then, without bail. We will be mobilizing at the sentencing
+        hearing on November 30th to support Wayne and defend the #RightToRescue.
+        <a href="https://www.facebook.com/events/1055213158842795" target="_blank">Please join us then in Santa Rosa.</a>
+        Share this important news on{" "}
           <a
             href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg==“
             target="_blank"
