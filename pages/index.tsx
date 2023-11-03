@@ -32,7 +32,7 @@ const Home: NextPage = () => {
         and immediately taken into custody. He has a sentencing hearing set for November 30th.
         He will be in jail until then, without bail. We will be mobilizing at the sentencing
         hearing on November 30th to support Wayne and defend the #RightToRescue.
-        <a href="https://www.facebook.com/events/1055213158842795" target="_blank">Please join us then in Santa Rosa.</a>
+        <a href="https://www.facebook.com/events/1055213158842795" target="_blank">Please join us then in Santa Rosa. The event page is at: dxe.io/sentencing.</a>
         Share this important news on{" "}
           <a
             href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg==“
