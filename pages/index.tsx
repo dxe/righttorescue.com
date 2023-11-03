@@ -61,7 +61,7 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-           Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4 charges in the Sonoma Rescue Trial, including one count of felony conspiracy and two counts of misdemeanor trespass. He is in jail awaiting sentencing on November 30. We will be appealing this conviction to a higher court that could set groundbreaking caselaw for animal rights. Please share this important news on{" "}
+           JAILED: Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4 charges in the Sonoma Rescue Trial, including one count of felony conspiracy and two counts of misdemeanor trespass. He is in jail awaiting sentencing on November 30. We will be appealing this conviction to a higher court. If we win the appeal, it could set groundbreaking caselaw for animal rights. Please share this important news on{" "}
           <a
             href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg=="
             target="_blank"
@@ -81,6 +81,7 @@ const Home: NextPage = () => {
           >
             Twitter
           </a>
+                 And please join us at Wayne's sentencing hearing at 9am on November 30th at the Sonoma County Courthouse, at 600 Administration Drive. The event page is at dxe.io/sentencing.
           .
         </Announcement>
         <Announcement
