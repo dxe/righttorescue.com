@@ -80,9 +80,7 @@ const Home: NextPage = () => {
             target="_blank"
           >
             Twitter
-          </a>
-                 And please join us at Wayne's sentencing hearing at 9am on November 30th at the Sonoma County Courthouse, at 600 Administration Drive. The event page is at dxe.io/sentencing.
-          .
+          </a>. And please join us at Wayne's sentencing hearing at 9am on November 30th at the Sonoma County Courthouse, at 600 Administration Drive. The event page is at dxe.io/sentencing.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
