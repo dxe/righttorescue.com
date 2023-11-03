@@ -55,7 +55,35 @@ const Home: NextPage = () => {
       <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
 
       <Announcements>
-                <Announcement
+               <Announcement
+          title="Sonoma County, California"
+          date="Nov. 2, 2023"
+          image="Sunrise.png"
+          featured
+        >
+           Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4 charges in the Sonoma Rescue Trial, including one count of felony conspiracy and two counts of misdemeanor trespass. He is in jail awaiting sentencing on November 30. We will be appealing this conviction to a higher court that could set groundbreaking caselaw for animal rights. Please share this important news on{" "}
+          <a
+            href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg=="
+            target="_blank"
+          >
+            Instagram,
+          </a>{" "}
+          <a
+            href="https://www.facebook.com/100064603752737/posts/pfbid033CFutDAADZVtFyUAMThuMTCuP2w1EzWLNtKiq6GK5aPCiyijufWsB8C27zwEVD1l/?mibextid=cr9u03"
+            target="_blank"
+          >
+            Facebook,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://x.com/dxeverywhere/status/1720202405298802911?s=46&t=mK6p7qnRBbynjfH2dPse7w"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Sept. 21, 2023"
           image="Sunrise.png"
