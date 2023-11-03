@@ -31,28 +31,7 @@ const Home: NextPage = () => {
         Reichardt action, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed
         and immediately taken into custody. He has a sentencing hearing set for November 30th.
         He will be in jail until then, without bail. We will be mobilizing at the sentencing
-        hearing on November 30th to support Wayne and defend the #RightToRescue.
-        <a href="https://www.facebook.com/events/1055213158842795" target="_blank">Please join us then in Santa Rosa. The event page is at: dxe.io/sentencing.</a>
-        Share this important news on{" "}
-          <a
-            href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg==“
-            target="_blank"
-          >
-            Instagram,
-          </a>{" "}
-          <a
-            href="https://www.facebook.com/100064603752737/posts/pfbid033CFutDAADZVtFyUAMThuMTCuP2w1EzWLNtKiq6GK5aPCiyijufWsB8C27zwEVD1l/?mibextid=cr9u03"
-            target="_blank"
-          >
-            Facebook,
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://x.com/dxeverywhere/status/1720202405298802911?s=46&t=mK6p7qnRBbynjfH2dPse7w"
-            target="_blank"
-          >
-            Twitter
-          </a>.
+        hearing on November 30th to support Wayne and defend the #RightToRescue. Please join us then in Santa Rosa. The event page is at: dxe.io/sentencing.
       </FeaturedCase>
       <Letter />
       <About
