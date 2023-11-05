@@ -38,7 +38,7 @@ const Sunrise: NextPage = () => {
         ultimately, the eight-week trial of one remaining defendant, Wayne
         Hsiung. On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of felony conspiracy and two counts of misdemeanor trespass. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. {" "}
           <a
-            href=“dxe.io/sentencing”
+            href="dxe.io/sentencing"
             target="_blank"
           >
             Please join us on November 30th
