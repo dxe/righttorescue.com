@@ -27,7 +27,13 @@ const Sunrise: NextPage = () => {
       </Header>
 
       <Details image="sunrise.jpg">
-        For years, investigators with Direct Action Everywhere have been
+        For years, investigators with {" "}
+          <a
+            href="directactioneverywhere.com"
+            target="_blank"
+          >
+            Direct Action Everywhere
+          </a> have been
         exposing violations of animal cruelty law at factory farms in Sonoma
         County, including Sunrise Farms and Reichardt Duck Farm. Instead of
         prosecuting these companies, the Sonoma County District Attorney has
