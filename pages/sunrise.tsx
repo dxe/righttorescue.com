@@ -59,12 +59,12 @@ const Sunrise: NextPage = () => {
           >
             here
           </a>. His address is:
-Wayne Hsiung
-Main Adult Detention Facility
-2777 Ventura Avenue
-Santa Rosa, CA 95403 
+</p>Wayne Hsiung
+</p>Main Adult Detention Facility
+</p>2777 Ventura Avenue
+</p>Santa Rosa, CA 95403 
 
-Don't share any private information in your letter as there is no privacy in jails. Cops will read what you write. 
+</p>Don't share any private information in your letter as there is no privacy in jails. Cops will read what you write. 
       </Details>
 
       <Defendants>
