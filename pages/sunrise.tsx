@@ -36,7 +36,13 @@ const Sunrise: NextPage = () => {
         help suffering animals at factory farms in the county. These charges
         resulted in the five-year prosecution of a handful of activists and
         ultimately, the eight-week trial of one remaining defendant, Wayne
-        Hsiung. On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of felony conspiracy and two counts of misdemeanor trespass. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. Join us at the sentencing hearing to support Wayne and defend the #RightToRescue. The event page is at: dxe.io/sentencing.
+        Hsiung. On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of felony conspiracy and two counts of misdemeanor trespass. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. {“ "}
+          <a
+            href=“dxe.io/sentencing”
+            target="_blank"
+          >
+            Please join us on November 30th
+          </a>to support Wayne and defend the #RightToRescue.
       </Details>
 
       <Defendants>
