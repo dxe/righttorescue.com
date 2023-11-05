@@ -46,13 +46,25 @@ const Sunrise: NextPage = () => {
       </Details>
 
       <Details image="wayne cuffed at court.jpeg">
-        On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of felony conspiracy and two counts of misdemeanor trespass. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. {" "}
+        On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. {" "}
           <a
             href="https://www.facebook.com/events/1055213158842795"
             target="_blank"
           >
             Please join us on November 30th
-          </a> to support Wayne and defend the #RightToRescue.
+          </a> to support Wayne and defend the #RightToRescue. You can also write Wayne a letter. The jail has strict instructions which you can see {" "}
+          <a
+            href="dxe.io/writetowayne"
+            target="_blank"
+          >
+            here
+          </a>. His address is:
+Wayne Hsiung
+Main Adult Detention Facility
+2777 Ventura Avenue
+Santa Rosa, CA 95403 
+
+Don't share any private information in your letter as there is no privacy in jails. Cops will read what you write. 
       </Details>
 
       <Defendants>
