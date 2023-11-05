@@ -240,6 +240,10 @@ const Sunrise: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/1LvLd75?card=small"
         />
         <Article
+          href="https://sentientmedia.org/wayne-hsiung-found-guilty-open-rescue-case/"
+          iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fsentientmedia.org%2Fwayne-hsiung-found-guilty-open-rescue-case%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
+        />
+        <Article
           href="https://theintercept.com/2023/11/04/animal-rescue-wayne-hsiung-dxe/"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Ftheintercept.com%2F2023%2F11%2F04%2Fanimal-rescue-wayne-hsiung-dxe%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
