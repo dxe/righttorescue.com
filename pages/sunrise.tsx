@@ -52,7 +52,7 @@ const Sunrise: NextPage = () => {
             Please join us on November 30th
           </a> to support Wayne and defend the #RightToRescue. You can also write Wayne a letter. The jail has strict instructions which you can see {" "}
           <a
-            href="dxe.io/writetowayne"
+            href="https://dxe.io/writetowayne"
             target="_blank"
           >
             here
