@@ -52,23 +52,15 @@ const Sunrise: NextPage = () => {
             target="_blank"
           >
             Please join us on November 30th
-          </a> to support Wayne and defend the #RightToRescue. You can also write Wayne a letter. The jail has strict instructions which you can see {" "}
+          </a> to support Wayne and defend the #RightToRescue. 
+        <p>
+        You can also write Wayne a letter. The jail has strict instructions which you can see {" "}
           <a
             href="dxe.io/writetowayne"
             target="_blank"
           >
             here
-          </a>. His address is:
-<p>
-  Wayne Hsiung
-<p>
-  Main Adult Detention Facility
-<p>
-  2777 Ventura Avenue
-<p>
-  Santa Rosa, CA 95403 
-<p>
-Don't share any private information in your letter as there is no privacy in jails. Cops will read what you write. 
+          </a>. His address is: Wayne Hsiung, Main Adult Detention Facility, 2777 Ventura Avenue, Santa Rosa, CA 95403. Don't share any private information in your letter as there is no privacy in jails. Cops will read what you write. 
       </Details>
 
       <Defendants>
