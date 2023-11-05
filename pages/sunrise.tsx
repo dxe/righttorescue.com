@@ -243,6 +243,10 @@ const Sunrise: NextPage = () => {
           href="https://norcalpublicmedia.org/2023110392948/news-feed/guilty-verdict-for-animal-right-activist"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fnorcalpublicmedia.org%2F2023110392948%2Fnews-feed%2Fguilty-verdict-for-animal-right-activist&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
+         <Article
+          href="https://www.davisvanguard.org/2023/11/court-watch-lawyer-found-guilty-of-felony-for-rescuing-injured-animals-locked-up-after-2-month-trial-6-days-of-jury-deliberation/"
+          iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fwww.davisvanguard.org%2F2023%2F11%2Fcourt-watch-lawyer-found-guilty-of-felony-for-rescuing-injured-animals-locked-up-after-2-month-trial-6-days-of-jury-deliberation%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
+        />
         <Article
           href="https://sentientmedia.org/wayne-hsiung-found-guilty-open-rescue-case/"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fsentientmedia.org%2Fwayne-hsiung-found-guilty-open-rescue-case%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
