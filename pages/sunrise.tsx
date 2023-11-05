@@ -46,7 +46,7 @@ const Sunrise: NextPage = () => {
       </Details>
 
       <Details image="wayne cuffed at court.jpeg">
-        On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th. He will be in jail until then, without bail. {" "}
+        On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th at the Sonoma County courthouse (600 Administration Dr. Santa Rosa, CA). He will be in jail until then, without bail. {" "}
           <a
             href="https://www.facebook.com/events/1055213158842795"
             target="_blank"
