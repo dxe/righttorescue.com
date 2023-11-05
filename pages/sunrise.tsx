@@ -239,6 +239,10 @@ const Sunrise: NextPage = () => {
           href="https://www.davisvanguard.org/2023/10/court-watch-jury-in-deliberation-after-closing-arguments-in-open-rescue-case-at-california-factory-farms-lawyer-faces-felony-charges/"
           iFramelyUrl="https://cdn.iframe.ly/1LvLd75?card=small"
         />
+        <Article
+          href="https://norcalpublicmedia.org/2023110392948/news-feed/guilty-verdict-for-animal-right-activist"
+          iFramelyUrl="<div class="iframely-embed"><div class="iframely-responsive" style="height: 140px; padding-bottom: 0;"><a href="https://norcalpublicmedia.org/2023110392948/news-feed/guilty-verdict-for-animal-right-activist" data-iframely-url="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fnorcalpublicmedia.org%2F2023110392948%2Fnews-feed%2Fguilty-verdict-for-animal-right-activist&key=79d47bd1ff17d5965a1f72b0e2c849b8"></a></div></div><script async src="//cdn.iframe.ly/embed.js" charset="utf-8"></script>"
+        />
       </Press>
     </>
   );
