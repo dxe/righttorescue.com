@@ -43,7 +43,6 @@ const Sunrise: NextPage = () => {
         ultimately, the eight-week trial of one remaining defendant, Wayne
         Hsiung.
       </Details>
-
       <Details image="Wayne cuffed.png">
         On November 2, 2023, after 6 days of jury deliberation, Wayne was convicted of three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody. He has a sentencing hearing set for November 30th at the Superior Court of Sonoma (600 Administration Dr. Santa Rosa, CA). He will be in jail until then, without bail. {" "}
           <a
