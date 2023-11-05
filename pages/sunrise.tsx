@@ -29,7 +29,7 @@ const Sunrise: NextPage = () => {
       <Details image="sunrise.jpg">
         For years, investigators with {" "}
           <a
-            href="directactioneverywhere.com"
+            href="https://www.directactioneverywhere.com"
             target="_blank"
           >
             Direct Action Everywhere
