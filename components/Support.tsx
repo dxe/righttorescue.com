@@ -29,10 +29,6 @@ export const Support = () => {
                 }}
               >
                 Your support allows us to stand up to legal repression and continue our groundbreaking work.
-                <br />
-                <span style={{ fontSize: '0.6em' }}>
-                  Monthly donations in ANY amount will be boosted by an additional $100 donation from an animal liberation supporter.
-                </span>
               </h2>
 
               <Button
