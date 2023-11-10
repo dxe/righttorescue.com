@@ -258,6 +258,7 @@ const Sunrise: NextPage = () => {
          <Article
           href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/"
           iFramelyUrl="https://cdn.iframe.ly/zLKohTy?card=small"
+        />
       </Press>
     </>
   );
