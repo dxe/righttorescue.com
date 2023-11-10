@@ -255,6 +255,9 @@ const Sunrise: NextPage = () => {
           href="https://theintercept.com/2023/11/04/animal-rescue-wayne-hsiung-dxe/"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Ftheintercept.com%2F2023%2F11%2F04%2Fanimal-rescue-wayne-hsiung-dxe%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
+         <Article
+          href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/"
+          iFramelyUrl="https://cdn.iframe.ly/zLKohTy?card=small"
       </Press>
     </>
   );
