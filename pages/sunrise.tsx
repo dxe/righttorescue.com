@@ -259,6 +259,10 @@ const Sunrise: NextPage = () => {
           href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/"
           iFramelyUrl="https://cdn.iframe.ly/zLKohTy?card=small"
         />
+         <Article
+          href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
+          iFramelyUrl="https://cdn.iframe.ly/inlhedh?card=small"
+        />
       </Press>
     </>
   );
