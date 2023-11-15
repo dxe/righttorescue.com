@@ -263,6 +263,10 @@ const Sunrise: NextPage = () => {
           href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
           iFramelyUrl="https://cdn.iframe.ly/inlhedh?card=small"
         />
+         <Article
+          href="https://www.democracynow.org/2023/11/13/headlines/animal_rights_defender_wayne_hsiung_convicted_of_felony_for_rescuing_factory_farm_animals"
+          iFramelyUrl="https://cdn.iframe.ly/T2LovuR?card=small"
+        />
       </Press>
     </>
   );
