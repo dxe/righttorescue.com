@@ -31,6 +31,10 @@ export const Support = () => {
                 Your support allows us to stand up to legal repression and continue our groundbreaking work.
               </h2>
 
+              <p className="text-white">
+                All Donations Doubled Until January 1st.
+              </p>
+
               <Button
                 style={{ minWidth: 250 }}
                 id="donateButton"
