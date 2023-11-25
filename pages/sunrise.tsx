@@ -267,6 +267,10 @@ const Sunrise: NextPage = () => {
           href="https://www.democracynow.org/2023/11/13/headlines/animal_rights_defender_wayne_hsiung_convicted_of_felony_for_rescuing_factory_farm_animals"
           iFramelyUrl="https://cdn.iframe.ly/T2LovuR?card=small"
         />
+         <Article
+          href="https://www.commondreams.org/opinion/wayne-hsiung-animal-rights-activists-jailed"
+          iFramelyUrl="https://cdn.iframe.ly/EgvFs9G?card=small"
+        />
       </Press>
     </>
   );
