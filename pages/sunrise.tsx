@@ -271,6 +271,10 @@ const Sunrise: NextPage = () => {
           href="https://www.commondreams.org/opinion/wayne-hsiung-animal-rights-activists-jailed"
           iFramelyUrl="https://cdn.iframe.ly/EgvFs9G?card=small"
         />
+         <Article
+          href="https://countercurrents.org/2023/11/conviction-of-leading-animal-activist-could-ignite-a-populist-revolution/"
+          iFramelyUrl="https://cdn.iframe.ly/r2gb8Sj?card=small"
+        />
       </Press>
     </>
   );
