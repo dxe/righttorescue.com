@@ -32,7 +32,7 @@ export const Support = () => {
               </h2>
 
               <p className="text-white">
-                All Donations Doubled Until January 1st.
+                All donations doubled until January 1st.
               </p>
 
               <Button
