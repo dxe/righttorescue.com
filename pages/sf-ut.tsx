@@ -252,6 +252,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.stgeorgeutah.com/news/archive/2023/08/14/cdr-beaver-county-pays-pig-farm-pioneer-day-protesters-more-than-52k-in-federal-civil-rights-settlement/"
           iFramelyUrl="https://cdn.iframe.ly/X19KSdX?card=small"          
          />
+         <Article
+          href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
+          iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"          
+         />
       </Press>
     </>
   );
