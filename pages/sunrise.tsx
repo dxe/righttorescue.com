@@ -275,7 +275,7 @@ const Sunrise: NextPage = () => {
           href="https://countercurrents.org/2023/11/conviction-of-leading-animal-activist-could-ignite-a-populist-revolution/"
           iFramelyUrl="https://cdn.iframe.ly/r2gb8Sj?card=small"
         />
-        <Article
+         <Article
           href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
           iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"
         />
