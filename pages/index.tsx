@@ -21,7 +21,7 @@ const Home: NextPage = () => {
       <FeaturedCase
         name="Animal Rescuer Wayne Hsiung Sentenced to 3 Months in Jail in the #SonomaRescueTrial"
         page="sunrise"
-        video="https://www.youtube.com/embed/pV4LCWJaa18"
+        video="https://www.youtube.com/embed/IqiC8MQcjiM?si=xfkXH40tKS41LYcK"
         videoRatio="1x1"
       >
         After 6 days of deliberation, a jury in Sonoma County found animal rescuer Wayne Hsiung guilty on
