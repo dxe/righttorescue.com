@@ -19,19 +19,16 @@ const Home: NextPage = () => {
         takeActionPage={undefined}
       />
       <FeaturedCase
-        name="Animal Rescuer Wayne Hsiung Jailed After Guilty Verdict in the #SonomaRescueTrial"
+        name="Animal Rescuer Wayne Hsiung Sentenced to 3 Months in Jail in the #SonomaRescueTrial"
         page="sunrise"
         video="https://www.youtube.com/embed/pV4LCWJaa18"
         videoRatio="1x1"
       >
-        After 6 days of deliberation, a jury in Sonoma County found animal rescuer Wayne Hsiung GUILTY on
+        After 6 days of deliberation, a jury in Sonoma County found animal rescuer Wayne Hsiung guilty on
         three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and
         misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm.
-        The jury could not reach a unanimous verdict on the felony conspiracy charge from the
-        Reichardt action, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed
-        and immediately taken into custody. On November 30th, he was sentenced to 90 days in jail (which includes time he already served), followed by 24 months of probation..
-        Right after the sentencing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. 
-        {' '} <a href="https://dxe.io/sentencing">Read the press here.</a>
+        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered that Hsiung have no contact in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a beagle rescue trial scheduled for March..
+        Right after the sentencing hearing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. It seems there will be another #SonomaRescueTrial. {' '} <a href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest?">Read the press here.</a>
       </FeaturedCase>
       <Letter />
       <About
