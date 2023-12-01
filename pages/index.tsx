@@ -24,10 +24,9 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/IqiC8MQcjiM?si=xfkXH40tKS41LYcK"
         videoRatio="1x1"
       >
-        After 6 days of deliberation, a jury in Sonoma County found animal rescuer Wayne Hsiung guilty on
-        three of the four charges in the #SonomaRescueTrial. This includes felony conspiracy and
-        misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm.
-        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered that Hsiung have no contact in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a beagle rescue trial scheduled for March..
+        On November 2nd, animal rescuer Wayne Hsiung was convicted of one count of felony conspiracy and
+       two counts of misdemeanor trespass for his involvement in nonviolent actions to aid suffering animals at Sunrise Farms and Reichardt Duck Farm.
+        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered that Hsiung have no contact in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a beagle rescue trial scheduled for March.
         Right after the sentencing hearing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. It seems there will be another #SonomaRescueTrial. {' '} <a href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest?">Read the press here.</a>
       </FeaturedCase>
       <Letter />
