@@ -22,7 +22,7 @@ const Sunrise: NextPage = () => {
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
-        her to finally prosecute Sunrise Farms and Reichardt Duck Farm for years
+        her to finally prosecute Sunrise Farms, Reichardt Duck Farm, and Petaluma Poultry for years
         of criminal animal cruelty.
       </Header>
 
@@ -34,7 +34,7 @@ const Sunrise: NextPage = () => {
           >
             Direct Action Everywhere
           </a> have been exposing violations of animal cruelty law at factory farms in Sonoma
-        County, including Sunrise Farms and Reichardt Duck Farm. Instead of
+        County, including Sunrise Farms, Reichardt Duck Farm, and Perdue's Petaluma Poultry. Instead of
         prosecuting these companies, the Sonoma County District Attorney has
         gone after the whistleblowers and animal rescuers. Over 100 people have
         been arrested on felony charges for taking nonviolent direct action to
