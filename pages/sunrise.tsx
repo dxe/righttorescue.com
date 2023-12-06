@@ -277,6 +277,10 @@ const Sunrise: NextPage = () => {
           href="https://www.northbaybusinessjournal.com/article/news/animal-activist-sentenced-in-conspiracy-case-involving-petaluma-poultry-far/"
           iFramelyUrl="https://cdn.iframe.ly/LzWaXqQ?card=small"
         />
+         <Article
+          href="https://worldanimalnews.com/attorney-animal-rescuer-wayne-hsiung-convicted-of-felony-conspiracy-in-trial-where-animal-cruelty-evidence-was-withheld-from-jury/"
+          iFramelyUrl="https://cdn.iframe.ly/CRS9B2W?card=small"
+        />
       </Press>
     </>
   );
