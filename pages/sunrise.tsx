@@ -273,6 +273,10 @@ const Sunrise: NextPage = () => {
           href="https://plantbasednews.org/news/activism/animal-activist-sentenced-open-rescue/"
           iFramelyUrl="https://cdn.iframe.ly/JSABnBe?card=small"
         />
+         <Article
+          href="https://www.northbaybusinessjournal.com/article/news/animal-activist-sentenced-in-conspiracy-case-involving-petaluma-poultry-far/"
+          iFramelyUrl="https://cdn.iframe.ly/LzWaXqQ?card=small"
+        />
       </Press>
     </>
   );
