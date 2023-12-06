@@ -285,6 +285,10 @@ const Sunrise: NextPage = () => {
           href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
           iFramelyUrl="https://cdn.iframe.ly/00YuISE?card=small"
         />
+         <Article
+          href="https://www.democracynow.org/2023/12/1/headlines/animal_rights_activist_wayne_hsiung_gets_3_month_jail_term_for_freeing_sick_factory_farm_birds"
+          iFramelyUrl="https://cdn.iframe.ly/6RBLHHw?card=small"
+        />
       </Press>
     </>
   );
