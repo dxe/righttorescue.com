@@ -281,6 +281,10 @@ const Sunrise: NextPage = () => {
           href="https://worldanimalnews.com/attorney-animal-rescuer-wayne-hsiung-convicted-of-felony-conspiracy-in-trial-where-animal-cruelty-evidence-was-withheld-from-jury/"
           iFramelyUrl="https://cdn.iframe.ly/CRS9B2W?card=small"
         />
+         <Article
+          href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
+          iFramelyUrl="https://cdn.iframe.ly/00YuISE?card=small"
+        />
       </Press>
     </>
   );
