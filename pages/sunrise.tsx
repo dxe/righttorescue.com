@@ -289,6 +289,10 @@ const Sunrise: NextPage = () => {
           href="https://www.democracynow.org/2023/12/1/headlines/animal_rights_activist_wayne_hsiung_gets_3_month_jail_term_for_freeing_sick_factory_farm_birds"
           iFramelyUrl="https://cdn.iframe.ly/6RBLHHw?card=small"
         />
+        <Article
+          href="https://www.cbsnews.com/amp/sanfrancisco/news/wayne-hsuing-dxe-animal-rights-activist-90-days-jail-sonoma-farm-protests-shutdown-petaluma/"
+          iFramelyUrl="https://cdn.iframe.ly/hGopK4f?card=small"
+        />
       </Press>
     </>
   );
