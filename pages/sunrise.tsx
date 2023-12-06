@@ -269,6 +269,10 @@ const Sunrise: NextPage = () => {
           href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
           iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"
         />
+         <Article
+          href="https://plantbasednews.org/news/activism/animal-activist-sentenced-open-rescue/"
+          iFramelyUrl="https://cdn.iframe.ly/JSABnBe?card=small"
+        />
       </Press>
     </>
   );
