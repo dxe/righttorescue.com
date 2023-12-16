@@ -20,6 +20,13 @@ const Cases: NextPage = () => {
           image="ridglan.jpg"
         />
 
+        {/* <Case
+          name="Reichardt Duck Farm"
+          location="Sonoma County, California"
+          page="reichardt"
+          image="reichardt.jpg"
+        /> */}
+
         <Case
           name="Sospiro Ranch"
           location="North Carolina"
