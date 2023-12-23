@@ -13,7 +13,7 @@ const Norbest: NextPage = () => {
         title="Norbest Turkey"
         location="Utah"
         video="https://www.youtube.com/embed/YzL41kwYIP8"
-        videoRatio="16x9"
+        videoRatio="16/9"
       />
       <Details image="nb.jpg">
         Whistleblowers exposed the disturbing reality behind the “humane”

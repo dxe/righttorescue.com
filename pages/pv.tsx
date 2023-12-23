@@ -11,7 +11,7 @@ const PleasantValley: NextPage = () => {
         title="Pleasant Valley Farms"
         location="California"
         video="https://www.youtube.com/embed/yrlsZaLJHew"
-        videoRatio="16x9"
+        videoRatio="16/9"
         ctaText1="Email"
         ctaLink1="mailto:cjelinek@costco.com"
       >

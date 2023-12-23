@@ -9,7 +9,7 @@ const SmithfieldNC: NextPage = () => {
         title="Smithfield"
         location="North Carolina"
         video="https://www.youtube.com/embed/gH1GLEC7VDQ"
-        videoRatio="1x1"
+        videoRatio="1/1"
       />
       <Details>
         Two DxE activists in North Carolina were charged with multiple felonies

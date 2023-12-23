@@ -13,7 +13,7 @@ const FosterFarms: NextPage = () => {
         title="Foster Farms"
         location="Livingston, California"
         video="https://www.youtube.com/embed/LxnIwWmFd1E"
-        videoRatio="16x9"
+        videoRatio="16/9"
       >
         Share&nbsp;
         <a href="https://www.instagram.com/reel/Cmo2GNoJ1yM/" target="_blank">

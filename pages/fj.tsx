@@ -13,7 +13,7 @@ const FarmerJohn: NextPage = () => {
         title="Farmer John"
         location="Vernon, California"
         video="https://www.youtube.com/embed/EY0iU-LuLwE"
-        videoRatio="1x1"
+        videoRatio="1/1"
       >
         Share the video with #RightToRescue and stay tuned for more ways you can
         help.

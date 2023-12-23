@@ -13,7 +13,7 @@ const SmithfieldUtah: NextPage = () => {
         title="Rescuing Lily and Lizzie from Smithfield"
         location="Utah"
         video="https://www.youtube.com/embed/wlSE1X-hSqQ"
-        videoRatio="16x9"
+        videoRatio="16/9"
         ctaText1="SPREAD THE WORD"
         ctaLink1="https://twitter.com/DxEverywhere/status/1578885463279927297"
       >

@@ -10,7 +10,7 @@ export const Header = (props: HeaderProps) => {
         <div className="row justify-content-center">
           <div className="col-lg-7 py-3">
             <div>
-              <div className={`ratio ratio-${props.videoRatio}`}>
+              <div className={`ratio`} style={{aspectRatio: props.videoRatio}}>
                 <iframe
                   src={props.video}
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"

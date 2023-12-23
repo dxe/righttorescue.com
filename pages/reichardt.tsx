@@ -15,7 +15,7 @@ const Reichardt: NextPage = () => {
         title="Reichardt Duck Farm and Petaluma Poultry"
         location="Sonoma County, California"
         video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1104800410507149%2F&show_text=false&width=267&t=0"
-        videoRatio="1x1"
+        videoRatio="267 / 476"
         ctaText1="Call: 707-565-2311"
         ctaLink1="tel:707-565-2311"
         ctaText2="Email"

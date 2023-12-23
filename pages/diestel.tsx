@@ -9,7 +9,7 @@ const Diestel: NextPage = () => {
         title="Diestel Turkey Ranch"
         location="California"
         video="https://www.youtube.com/embed/byb8WjknZxw"
-        videoRatio="16x9"
+        videoRatio="16/9"
         ctaText1="Share"
         ctaLink1="https://www.facebook.com/watch/?v=1089174481112900"
       >

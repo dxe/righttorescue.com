@@ -13,7 +13,7 @@ const Iowa: NextPage = () => {
         title="Iowa Select Farms"
         location="Iowa"
         video="https://www.youtube.com/embed/0Hf1YwIzN-k"
-        videoRatio="1x1"
+        videoRatio="1/1"
         ctaText1="Email"
         ctaLink1="mailto:esimonson@co.wright.ia.us"
       >

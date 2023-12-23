@@ -13,7 +13,7 @@ const Rain: NextPage = () => {
         title="Sospiro Ranch"
         location="North Carolina"
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1836799003017107%2F&show_text=0"
-        videoRatio="16x9"
+        videoRatio="16/9"
         ctaText1="Contact Gov. Cooper"
         ctaLink1="https://governor.nc.gov/contact/contact-governor-cooper"
       >
