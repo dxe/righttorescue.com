@@ -301,6 +301,10 @@ const Sunrise: NextPage = () => {
           href="https://www.foodsafetynews.com/tag/wayne-hsiung/"
           iFramelyUrl="https://cdn.iframe.ly/SGpiu6j?card=small"
         />
+         <Article
+          href="https://www.onegreenplanet.org/animals/animal-rights-activist-wayne-hsiung-faces-jail-time-for-nonviolent-animal-rescues/"
+          iFramelyUrl="https://cdn.iframe.ly/djGBWhW?card=small"
+        />
       </Press>
     </>
   );
