@@ -293,6 +293,10 @@ const Sunrise: NextPage = () => {
           href="https://www.cbsnews.com/amp/sanfrancisco/news/wayne-hsuing-dxe-animal-rights-activist-90-days-jail-sonoma-farm-protests-shutdown-petaluma/"
           iFramelyUrl="https://cdn.iframe.ly/hGopK4f?card=small"
         />
+          <Article
+          href="https://www.ktsf.com/2023/12/01/wayne-hsiung-sentenced/"
+          iFramelyUrl="https://cdn.iframe.ly/lhqDDq9?card=small"
+        />
       </Press>
     </>
   );
