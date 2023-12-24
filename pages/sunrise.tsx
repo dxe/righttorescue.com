@@ -297,6 +297,10 @@ const Sunrise: NextPage = () => {
           href="https://www.ktsf.com/2023/12/01/wayne-hsiung-sentenced/"
           iFramelyUrl="https://cdn.iframe.ly/lhqDDq9?card=small"
         />
+          <Article
+          href="https://www.foodsafetynews.com/tag/wayne-hsiung/"
+          iFramelyUrl="https://cdn.iframe.ly/SGpiu6j?card=small"
+        />
       </Press>
     </>
   );
