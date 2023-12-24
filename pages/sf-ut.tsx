@@ -256,6 +256,10 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
           iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"          
          />
+         <Article
+          href="https://www.newyorker.com/culture/the-weekend-essay/what-would-it-mean-to-treat-animals-fairly"
+          iFramelyUrl="https://cdn.iframe.ly/4bm8QqI?card=small"          
+         />
       </Press>
     </>
   );
