@@ -31,16 +31,6 @@ export const Support = () => {
                 Your support allows us to stand up to legal repression and continue our groundbreaking work.
               </h2>
 
-              <p className="text-white">
-                All donations doubled until January 1st.
-              </p>
-
-              <div style={{margin: 30}}>
-                <link href="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.css" rel="stylesheet" />
-                <div className="dxe-donation-thermometer" data-start-date="2023-11-28" data-goal="150000"></div>
-                <Script src="https://dxe-static.s3.amazonaws.com/donation-thermometer/index.js"></Script>
-              </div>
-
               <Button
                 style={{ minWidth: 250 }}
                 id="donateButton"
