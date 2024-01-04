@@ -1,0 +1,11 @@
+.headerVideo {
+    width: auto;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.tallHeaderVideo {
+    height: 80vh;
+    max-height: 800px;
+    min-height: 300px;
+}

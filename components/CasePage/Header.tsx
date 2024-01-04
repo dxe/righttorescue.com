@@ -1,4 +1,18 @@
+import styles from "./Header.module.css";
+
 export const Header = (props: HeaderProps) => {
+
+  function isTall(ratio: string): boolean {
+      const parts = ratio.match(/\d+/g);
+      if (parts && parts.length === 2) {
+          const width = parseFloat(parts[0]);
+          const height = parseFloat(parts[1]);
+          return (height / width) > 1.2;
+      } else {
+          throw new Error("Invalid ratio format.");
+      }
+  }
+
   return (
     <section id="sign" className="about-section text-center pb-3">
       <div className="container pt-5 justify-content-center">
@@ -10,7 +24,12 @@ export const Header = (props: HeaderProps) => {
         <div className="row justify-content-center">
           <div className="col-lg-7 py-3">
             <div>
-              <div className={`ratio`} style={{aspectRatio: props.videoRatio}}>
+              { /* If the aspect ratio is wide or square, the browser will determine
+              an appropriate width. However if the ratio tall, shrink the video to fit
+              on screen, but only within reason. This requires some special CSS which
+              should not be applied to wide or square videos. */ }
+              <div className={`ratio ` + styles.headerVideo + (isTall(props.videoRatio) ? ' ' + styles.tallHeaderVideo : '')}
+                  style={{aspectRatio: props.videoRatio}}>
                 <iframe
                   src={props.video}
                   allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture"
