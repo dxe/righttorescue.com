@@ -2,6 +2,8 @@ import type { NextPage } from "next";
 import { CasesSection } from "../components/HomePage/CasesSection";
 import { Case } from "../components/HomePage/Case";
 
+{/* Images should be 700x500 px. */}
+
 const Cases: NextPage = () => {
   return (
     <CasesSection>
@@ -20,12 +22,12 @@ const Cases: NextPage = () => {
           image="ridglan.jpg"
         />
 
-        {/* <Case
-          name="Reichardt Duck Farm"
+        <Case
+          name="Reichardt Duck Farm and Petaluma Poultry"
           location="Sonoma County, California"
           page="reichardt"
-          image="reichardt.jpg"
-        /> */}
+          image="Zoe-holding-River-and-Oakley-700x500.jpg"
+        />
 
         <Case
           name="Sospiro Ranch"

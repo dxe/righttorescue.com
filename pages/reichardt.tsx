@@ -25,7 +25,7 @@ const Reichardt: NextPage = () => {
         her to finally prosecute Reichardt Duck Farm and Petaluma Poultry for years of criminal animal cruelty.
       </Header>
 
-      <Details image="Zoe-River-Oakley.png">
+      <Details image="Zoe-holding-River-and-Oakley.jpeg">
         For years, investigators with {" "}
           <a
             href="https://www.directactioneverywhere.com"
