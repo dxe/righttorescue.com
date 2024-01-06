@@ -90,6 +90,10 @@ The three arrestees, Rocky Chau, Conrad de Jesus, and Zoe Rosenberg, are all fac
           href="https://unchainedtv.com/2023/12/04/3-more-dxe-animal-rights-activists-arrested-in-sonoma-county-california/"
           iFramelyUrl="https://cdn.iframe.ly/UHMsyEY?card=small"
         />
+         <Article
+          href="https://www.truthdig.com/articles/facing-over-20-years-in-prison-for-rescuing-animals/"
+          iFramelyUrl="https://cdn.iframe.ly/t4fidxC?card=small"
+        />
         
       </Press>
     </>
