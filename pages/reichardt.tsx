@@ -43,8 +43,7 @@ const Reichardt: NextPage = () => {
           </a> three more animal rescuers on felony warrants. Sonoma County is escalating its fight against animal rescue, but we know rescuing animals is not a crime.  
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
-The three arrestees, Rocky Chau, Conrad de Jesus, and Zoe Rosenberg, are all factory farm investigators with DxE. They were arrested on felony conspiracy and misdemeanor trespass charges apparently related to investigations and rescues they conducted in the county. All three activists are out of custody and will appear in court on December 14th for an arraignment hearing where will we learn more about the District Attorney’s charging decisions.
-
+Following these arrests, two more activists discovered there were warrants out for them as well, and they turned themselves in. The District Attorney has filed charges for the Petaluma Poultry rescue in June 2023 but they have not made their charging decisions yet for the Reichardt investigation and rescue. Activists are due back in court on February 29th to hear the DA's charging decisions. One activist, Zoe Rosenberg, has been forced to wear a GPS ankle monitor and follow other strict pretrial release conditions because of her continued rescue efforts in the county. 
       </Details>
 
       <Defendants>
