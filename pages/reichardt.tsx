@@ -50,12 +50,9 @@ The three arrestees, Rocky Chau, Conrad de Jesus, and Zoe Rosenberg, are all fac
       <Defendants>
         <Bio name="Conrad de Jesus" image="Conrad.jpeg">
           An architect, business owner, and father, Conrad is a dedicated animal rights activist focusing on the right to rescue and bringing forth systemic changes needed to build a more compassionate world.
-        </Bio>
-        <Bio name="Lewis Bernier" image="lb.jpg">
-          Lewis is an outdoorsman and bodybuilder who works to investigate
-          cruelty in animal agriculture. Since moving to the Bay Area, they have
-          exposed horrific conditions inside dozens of farms and slaughterhouses
-          across the United States.
+       </Bio>
+          <Bio name="Lewis Bernier" image="lb.jpg">
+          Lewis is an investigator and animal rescuer who has worked to expose cruel and unlawful conditions in dozens of factory farms and slaughterhouses across the country.
         </Bio>
         <Bio name="Rocky Chau" image="Rocky.jpeg">
           Rocky is a lifelong Bay Area resident. As an organizer with DxE, he works on building a community of like-minded individuals who believe in a better world for animals.
@@ -89,6 +86,11 @@ The three arrestees, Rocky Chau, Conrad de Jesus, and Zoe Rosenberg, are all fac
           href="https://www.cbsnews.com/amp/sanfrancisco/news/wayne-hsuing-dxe-animal-rights-activist-90-days-jail-sonoma-farm-protests-shutdown-petaluma/"
           iFramelyUrl="https://cdn.iframe.ly/hGopK4f?card=small"
         />
+        <Article
+          href="https://unchainedtv.com/2023/12/04/3-more-dxe-animal-rights-activists-arrested-in-sonoma-county-california/"
+          iFramelyUrl="https://cdn.iframe.ly/UHMsyEY?card=small"
+        />
+        
       </Press>
     </>
   );
