@@ -48,11 +48,17 @@ The three arrestees, Rocky Chau, Conrad de Jesus, and Zoe Rosenberg, are all fac
       </Details>
 
       <Defendants>
-        <Bio name="Rocky Chau" image="Rocky.jpeg">
-          Rocky is a lifelong Bay Area resident. As an organizer with DxE, he works on building a community of like-minded individuals who believe in a better world for animals.
-        </Bio>
         <Bio name="Conrad de Jesus" image="Conrad.jpeg">
           An architect, business owner, and father, Conrad is a dedicated animal rights activist focusing on the right to rescue and bringing forth systemic changes needed to build a more compassionate world.
+        </Bio>
+        <Bio name="Lewis Bernier" image="lb.jpg">
+          Lewis is an outdoorsman and bodybuilder who works to investigate
+          cruelty in animal agriculture. Since moving to the Bay Area, they have
+          exposed horrific conditions inside dozens of farms and slaughterhouses
+          across the United States.
+        </Bio>
+        <Bio name="Rocky Chau" image="Rocky.jpeg">
+          Rocky is a lifelong Bay Area resident. As an organizer with DxE, he works on building a community of like-minded individuals who believe in a better world for animals.
         </Bio>
         <Bio name="Zoe Rosenberg" image="Zoe-and-Glenn.jpeg">
           Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator, and animal rescuer. When she was 11 years old, she founded Happy Hen Animal Sanctuary, a nonprofit organization that has now saved over 1,000 neglected or abandoned animals.
