@@ -23,14 +23,14 @@ const SmithfieldUtah: NextPage = () => {
       </Header>
       <Details image="sf-ut-2.jpg">
         <p>
-          In 2017, DxE investigators&nbsp;
+          In 2017, DxE investigators{" "}
           <a
             href="https://www.wired.com/story/direct-action-everywhere-virtual-reality-exposing-factory-farms/"
             target="_blank"
           >
             infiltrated a massive pig farm
           </a>
-          &nbsp; in the Utah desert, a facility owned by Smithfield/WH Group,
+          {" "} in the Utah desert, a facility owned by Smithfield/WH Group,
           the world’s largest pig killing company. This one Smithfield farm is
           20 miles long with over 300 barns on site. The investigators filmed
           the conditions inside in 360 degree virtual reality footage. Their
@@ -43,14 +43,14 @@ const SmithfieldUtah: NextPage = () => {
           injury, and Lizzie, who was malnourished and nursing on a shredded
           nipple. They took Lily and Lizzie to a sanctuary to receive care.
           Then, they published the whole investigation and rescue online and in
-          the&nbsp;
+          the{" "}
           <a
             href="https://www.nytimes.com/2017/07/06/dining/animal-welfare-virtual-reality-video-meat-industry.html"
             target="_blank"
           >
             New York Times
           </a>
-          &nbsp;to show the world the nightmarish cruelty happening inside
+          {" "}to show the world the nightmarish cruelty happening inside
           Smithfield’s farms. The story went viral when the FBI started hunting
           for the piglets, raiding sanctuaries and even cutting off part of a
           pig’s ear to do DNA testing.

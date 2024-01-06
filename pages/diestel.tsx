@@ -34,7 +34,7 @@ const Diestel: NextPage = () => {
         appeal is pending. Separately, consumers who purchased Diestel’s turkey
         products also sued Diestel Turkey Ranch for consumer fraud in 2020.
         Cases are pending in both California and New Mexico. More information is
-        available by contacting counsel at&nbsp;
+        available by contacting counsel at{" "}
         <a href="https://www.elsnerlaw.org/fowl-play" target="_blank">
           https://www.elsnerlaw.org/fowl-play
         </a>
