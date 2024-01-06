@@ -43,7 +43,7 @@ const Reichardt: NextPage = () => {
           </a> three more animal rescuers on felony warrants. Sonoma County is escalating its fight against animal rescue, but we know rescuing animals is not a crime.  
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
-Following these arrests, two more activists discovered there were warrants out for them as well, and they turned themselves in. The District Attorney has filed charges for the Petaluma Poultry rescue in June 2023 but they have not made their charging decisions yet for the Reichardt investigation and rescue. Activists are due back in court on February 29th to hear the DA's charging decisions. One activist, Zoe Rosenberg, has been forced to wear a GPS ankle monitor and follow other strict pretrial release conditions because of her continued rescue efforts in the county. 
+Following these arrests, two more activists discovered there were warrants out for them as well, and they turned themselves in. The District Attorney has filed charges for the Petaluma Poultry rescue that happened in June 2023 during the Animal Liberation Conference, but they have not made their charging decisions yet for the Reichardt investigation and rescue. Activists are due back in court on February 29th to hear the DA's charging decisions. One activist, Zoe Rosenberg, has been forced to wear a GPS ankle monitor and follow other strict pretrial release conditions because of her continued rescue efforts in the county. 
       </Details>
 
       <Defendants>
