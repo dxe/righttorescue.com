@@ -50,7 +50,7 @@ Following these arrests, two more activists discovered there were warrants out f
         <Bio name="Conrad de Jesus" image="Conrad.jpeg">
           An architect, business owner, and father, Conrad is a dedicated animal rights activist focusing on the right to rescue and bringing forth systemic changes needed to build a more compassionate world.
        </Bio>
-          <Bio name="Lewis Bernier" image="lb.jpg">
+          <Bio name="Lewis Bernier" image="lb-1x1.jpg">
           Lewis is an investigator and animal rescuer who has worked to expose cruel and unlawful conditions in dozens of factory farms and slaughterhouses across the country.
         </Bio>
         <Bio name="Rocky Chau" image="Rocky.jpeg">
