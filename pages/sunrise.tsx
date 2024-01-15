@@ -51,7 +51,7 @@ const Sunrise: NextPage = () => {
           >
             convicted
           </a> of three of the four charges in the #SonomaRescueTrial -- felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody.
-        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered him to have NO CONTACT in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a {' '} <a href="https://righttorescue.com/ridglan/">beagle rescue trial</a>scheduled for March.
+        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered him to have NO CONTACT in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a {' '} <a href="https://righttorescue.com/ridglan/">beagle rescue trial</a> scheduled for March.
      Right after the sentencing hearing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. {' '} <a href="https://righttorescue.com/reichardt/">Learn more about this new case here.</a> Wayne was released from jail on December 9th after serving almost half his sentence, as is typical in California. He is in the process of appealing.
       </Details>
 
