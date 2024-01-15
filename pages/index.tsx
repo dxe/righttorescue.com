@@ -51,7 +51,30 @@ const Home: NextPage = () => {
       <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
 
       <Announcements>
-               <Announcement
+              <Announcement
+          title="Sonoma County, California"
+          date="Nov. 30, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          Wayne was sentenced to 90 days in jail and 2 years of probation. Right after his sentencing hearing, members of the Sonoma County Sheriff's Department arrested three more animal rescuers on felony warrants. 
+You can{" "}
+          <a
+            href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
+            target="_blank"
+          >
+            read the press here
+          </a>
+          . We have a new Right to Rescue case in Sonoma County now. You can{" "}
+          <a
+            href="https://righttorescue.com/reichardt/"
+            target="_blank"
+          >
+            learn more here
+          </a>
+           .
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Nov. 2, 2023"
           image="Sunrise.png"
