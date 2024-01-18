@@ -24,16 +24,12 @@ const RidglanFarms: NextPage = () => {
         people who rescued three beagles from experimentation.
       </Header>
       <Details image="ridglan.jpg">
-        Ridglan Farms is a dog breeding and research facility in Wisconsin that
-        raises beagles for cruel experiments. A few years ago, DxE investigators
+        Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
         entered the facility and documented the filthy conditions and the
         psychological trauma of the dogs spinning endlessly inside small cages.
-        The team rescued three beagles. Although the investigation and rescue
-        happened in 2017, the charging documents were filed in August 2021.
-        Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Trial is currently scheduled for March 18-22, 2024. This Right to Rescue case is an important opportunity to show the world
-        the horrors inflicted on humankind’s supposed best friend and to move
-        toward ending experimentation on dogs and other animals.
+        The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
+        charges. Their trial starts March 18th at the Dane County Courthouse in Madison, Wisconsin. This could be a major turning point in the movement to end animal experimentation and to enshrine the right of all animals to be rescued from cruelty. But we need your help to make this trial a success!
+If you can join us at the trial to defend the #RightToRescue, please register at dxe.io/ridglan.
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
