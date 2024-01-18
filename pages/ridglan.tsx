@@ -29,7 +29,13 @@ const RidglanFarms: NextPage = () => {
         psychological trauma of the dogs spinning endlessly inside small cages.
         The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
         charges. Their trial starts March 18th at the Dane County Courthouse in Madison, Wisconsin. This could be a major turning point in the movement to end animal experimentation and to enshrine the right of all animals to be rescued from cruelty. But we need your help to make this trial a success!
-If you can join us at the trial to defend the #RightToRescue, please register at dxe.io/ridglan.
+If you can join us at the trial to defend the #RightToRescue, please register at {" "}
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSesFMbVWYDXLUe6mSuD4L7nK8OVBe2C9Xqo3Pz_k_gfkt8sOg/viewform"
+            target="_blank"
+          >
+            dxe.io/ridglan
+          </a>.
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
