@@ -89,6 +89,10 @@ Following these arrests, two more activists discovered there were warrants out f
           href="https://www.truthdig.com/articles/facing-over-20-years-in-prison-for-rescuing-animals/"
           iFramelyUrl="https://cdn.iframe.ly/t4fidxC?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/city/communities/uc-berkeley-student-faces-felony-misdemeanor-counts-for-animal-rescue/article_4d571c7a-b457-11ee-baaa-533dbadf464b.html#disqus_thread"
+          iFramelyUrl="https://cdn.iframe.ly/yp4k5Ip?card=small"
+        />
         
       </Press>
     </>
