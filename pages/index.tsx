@@ -15,7 +15,7 @@ const Home: NextPage = () => {
   return (
     <>
       <MastHead
-        image="Mass Open Rescue at Sunrise Farms in 2018.png"
+        image="Beagle Squeezing Their Head Through Cage.jpeg"
         takeActionPage={undefined}
       />
       <FeaturedCase
