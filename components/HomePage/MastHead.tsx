@@ -28,11 +28,10 @@ export const MastHead = (props: MastHeadProps) => {
       >
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase fade-in-first">
-            Support the Right to Rescue
+            Investigators rescued beagles from cruel experiments
           </h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5 fade-in-second">
-            Help the whistleblowers facing prison time for exposing factory farm
-            abuses and rescuing suffering animals
+            Now, they are facing 16 years in prison. Help right the injustice.
           </h2>
 
           <ScrollLink
