@@ -48,7 +48,7 @@ If you can join us at the trial to defend the #RightToRescue, please register at
           animal abuse up close. Those experiences helped lead them to becoming
           an animal rights activist.
         </Bio>
-        <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
+        <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
           Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
           20 years.
         </Bio>
