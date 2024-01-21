@@ -61,6 +61,14 @@ If you can join us at the trial to defend the #RightToRescue, please register at
       <Announcements>
               <Announcement
           title="Sonoma County, California"
+          date="Dec. 9, 2023"
+          image="Sunrise.png"
+          featured
+        >
+          Wayne was released from jail on December 9th after serving almost half his sentence, as is typical in California. He is in the process of appealing.
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
           date="Nov. 30, 2023"
           image="Sunrise.png"
           featured
