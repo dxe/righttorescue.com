@@ -65,7 +65,7 @@ If you can join us at the trial to defend the #RightToRescue, please register at
           image="Sunrise.png"
           featured
         >
-          Wayne was released from jail on December 9th after serving almost half his sentence, as is typical in California. He is in the process of appealing.
+          Wayne was released from jail today after serving almost half his 90-day sentence, as is typical in California. He is in the process of appealing his conviction.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
