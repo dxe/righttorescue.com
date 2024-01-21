@@ -15,7 +15,7 @@ const Home: NextPage = () => {
   return (
     <>
       <MastHead
-        image="Beagle Squeezing Their Head Through Cage.jpeg"
+        image="Shy Beagle Inside a Cage.png"
         takeActionPage={undefined}
       />
       <FeaturedCase
