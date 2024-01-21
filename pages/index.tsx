@@ -19,15 +19,23 @@ const Home: NextPage = () => {
         takeActionPage={undefined}
       />
       <FeaturedCase
-        name="Animal Rescuer Wayne Hsiung Sentenced to 3 Months in Jail in the #SonomaRescueTrial"
-        page="sunrise"
-        video="https://www.youtube.com/embed/IqiC8MQcjiM?si=xfkXH40tKS41LYcK"
+        name="Rescuing Beagles from Abuse at Ridglan Farms"
+        page="ridglan"
+        video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1x1"
       >
-        On November 2nd, animal rescuer Wayne Hsiung was convicted of one count of felony conspiracy and
-       two counts of misdemeanor trespass for his involvement in nonviolent actions to aid suffering animals at Sunrise Farms and Reichardt Duck Farm.
-        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered that Wayne have no contact in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a beagle rescue trial scheduled for March.
-        Right after the sentencing hearing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. It seems there will be another #SonomaRescueTrial. {' '} <a href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest?">Read the press here.</a>
+      Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
+        entered the facility and documented the filthy conditions and the
+        psychological trauma of the dogs spinning endlessly inside small cages.
+        The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
+        charges. Their trial starts March 18th at the Dane County Courthouse in Madison, Wisconsin. This could be a major turning point in the movement to end animal experimentation and to enshrine the right of all animals to be rescued from cruelty. But we need your help to make this trial a success!
+If you can join us at the trial to defend the #RightToRescue, please register at {" "}
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSesFMbVWYDXLUe6mSuD4L7nK8OVBe2C9Xqo3Pz_k_gfkt8sOg/viewform"
+            target="_blank"
+          >
+            dxe.io/ridglan
+          </a>.
       </FeaturedCase>
       <Letter />
       <About
