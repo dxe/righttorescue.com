@@ -309,6 +309,10 @@ const Sunrise: NextPage = () => {
           href="https://unchainedtv.com/2024/01/18/wayne-hsiung-appeals-his-conviction-for-animal-rescue-at-factory-farms/"
           iFramelyUrl="https://cdn.iframe.ly/NADOpYM?card=small"
         />
+        <Article
+          href="https://worldanimalnews.com/animal-activist-attorney-wayne-hsiung-appeals-conviction-for-rescuing-sick-animals-from-factory-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/jPtnIzZ?card=small"
+        />
       </Press>
     </>
   );
