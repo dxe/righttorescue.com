@@ -20,8 +20,8 @@ const RidglanFarms: NextPage = () => {
         ctaLink2="mailto:danecoda@da.wi.gov"
       >
         Call and email Dane County District Attorney Ismael Ozanne asking him to
-        prosecute Ridglan Farms for animal cruelty, instead of prosecuting the
-        people who rescued three beagles from experimentation.
+        prosecute Ridglan Farms for animal cruelty, instead of prosecuting
+        people for the rescue of three beagles from experimentation.
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
