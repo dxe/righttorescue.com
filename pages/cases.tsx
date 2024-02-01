@@ -47,7 +47,13 @@ const Cases: NextPage = () => {
           page="diestel"
           image="diestel.jpg"
         />
-
+        <Case
+          name="Pleasant Valley Farms"
+          location="San Joaquin County, California"
+          page="pv"
+          image="pv.jpg"
+          past
+        />
         <Case
           name="Farmer John"
           location="Los Angeles County, California"
@@ -57,34 +63,18 @@ const Cases: NextPage = () => {
         />
 
         <Case
-          name="Foster Farms"
-          location="Merced County, California"
-          page="fosterfarms"
-          image="ff.png"
-          past
-        />
-
-        <Case
-          name="Pleasant Valley Farms"
-          location="San Joaquin County, California"
-          page="pv"
-          image="pv.jpg"
-          past
-        />
-
-        <Case
-          name="Norbest Turkey"
-          location="Sanpete County, Utah"
-          page="norbest"
-          image="nb.jpg"
-          past
-        />
-
-        <Case
           name="Smithfield"
           location="Scotland County, North Carolina"
           page="sf-nc"
           image="sf-nc.jpg"
+          past
+        />
+
+                <Case
+          name="Norbest Turkey"
+          location="Sanpete County, Utah"
+          page="norbest"
+          image="nb.jpg"
           past
         />
 
@@ -101,6 +91,13 @@ const Cases: NextPage = () => {
           location="Beaver County, Utah"
           page="sf-ut"
           image="sf-ut.jpg"
+          past
+        />
+                <Case
+          name="Foster Farms"
+          location="Merced County, California"
+          page="fosterfarms"
+          image="ff.png"
           past
         />
       </CasesSection.CaseList>
