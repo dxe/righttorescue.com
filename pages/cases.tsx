@@ -54,19 +54,19 @@ const Cases: NextPage = () => {
           image="pv.jpg"
           past
         />
-        <Case
-          name="Farmer John"
-          location="Los Angeles County, California"
-          page="fj"
-          image="fj.png"
-          past
-        />
 
         <Case
           name="Smithfield"
           location="Scotland County, North Carolina"
           page="sf-nc"
           image="sf-nc.jpg"
+          past
+        />
+                <Case
+          name="Farmer John"
+          location="Los Angeles County, California"
+          page="fj"
+          image="fj.png"
           past
         />
 
