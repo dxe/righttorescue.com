@@ -48,7 +48,7 @@ const Iowa: NextPage = () => {
           signed a series of “ag-gag” bills into law to protect the industry
           from public scrutiny. Matt Johnson was the first person to be charged
           under Iowa's third "ag-gag" law, which was enacted less than two weeks
-          after the release of DxE’s exposé. The day before Matt was set to
+          after the release of DxE’s exposé. In January 2022, the day before Matt was set to
           start trial, all charges against him were dropped. This is a victory,
           but it is not the end. We are calling on Iowa county attorneys to
           prosecute Iowa Select Farms for animal cruelty and asking Governor
@@ -63,11 +63,6 @@ const Iowa: NextPage = () => {
           family members who are pig farmers and believes that even in rural
           Iowa, people want to see a world where all animals are protected under
           the law.
-        </Bio>
-        <Bio name="Linda Cridge" image="lc2.jpg">
-          Linda grew up in Indiana, graduating from Indiana University. The last
-          20 years have been dedicated to raising two children. She likes
-          cooking, thrifting and helping animals.
         </Bio>
       </Defendants>
       <Press>
