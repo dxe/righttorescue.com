@@ -9,13 +9,6 @@ const Cases: NextPage = () => {
     <CasesSection>
       <CasesSection.CaseList>
         <Case
-          name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
-          location="Sonoma County, California"
-          page="sunrise"
-          image="sunrise.jpg"
-        />
-
-        <Case
           name="Ridglan Farms"
           location="Dane County, Wisconsin"
           page="ridglan"
@@ -28,7 +21,19 @@ const Cases: NextPage = () => {
           page="reichardt"
           image="Zoe-holding-River-and-Oakley-700x500.jpg"
         />
+   <Case
+          name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
+          location="Sonoma County, California"
+          page="sunrise"
+          image="sunrise.jpg"
+        />
 
+         <Case
+          name="Asha's Farm Sanctuary"
+          location="Niagara County, New York"
+          page="ashas"
+          image="ashas.jpg"
+        />
         <Case
           name="Sospiro Ranch"
           location="North Carolina"
@@ -41,13 +46,6 @@ const Cases: NextPage = () => {
           location="Alameda County, California"
           page="diestel"
           image="diestel.jpg"
-        />
-
-        <Case
-          name="Asha's Farm Sanctuary"
-          location="Niagara County, New York"
-          page="ashas"
-          image="ashas.jpg"
         />
 
         <Case
