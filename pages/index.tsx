@@ -56,7 +56,7 @@ If you can join us at the trial to defend the #RightToRescue, please register at
         rather than "property.”
       </About>
 
-      <TwitterTimeline twitterHandle="SonomaTrial" title="View the latest updates on the Sonoma Trial Twitter:"/>
+      <TwitterTimeline twitterHandle="ridglantrial" title="View the latest updates on the Ridglan Trial Twitter:"/>
 
       <Announcements>
               <Announcement
