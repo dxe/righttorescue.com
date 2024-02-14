@@ -24,7 +24,7 @@ const Supporters: NextPage = () => {
         
         <Supporter
           name="richmond"
-          image="logos/richmond.png"
+          image="logos/richmond-modified.png"
         />
         
         <Supporter
