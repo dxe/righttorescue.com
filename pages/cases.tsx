@@ -16,7 +16,7 @@ const Cases: NextPage = () => {
         />
 
         <Case
-          name="Reichardt Duck Farm and Petaluma Poultry"
+          name="Petaluma Poultry"
           location="Sonoma County, California"
           page="reichardt"
           image="Zoe-holding-River-and-Oakley-700x500.jpg"
