@@ -12,7 +12,7 @@ const Reichardt: NextPage = () => {
   return (
     <>
       <Header
-        title="Reichardt Duck Farm and Petaluma Poultry"
+        title="Petaluma Poultry"
         location="Sonoma County, California"
         video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1104800410507149%2F&show_text=false&width=267&t=0"
         videoRatio="267 / 476"
@@ -22,7 +22,7 @@ const Reichardt: NextPage = () => {
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
-        her to finally prosecute Reichardt Duck Farm and Petaluma Poultry for years of criminal animal cruelty.
+        her to finally prosecute Petaluma Poultry for years of criminal animal cruelty.
       </Header>
 
       <Details image="Zoe-holding-River-and-Oakley.jpeg">
@@ -33,7 +33,7 @@ const Reichardt: NextPage = () => {
           >
             Direct Action Everywhere
           </a> have been exposing criminal animal cruelty and rampant disease at factory farms in Sonoma
-        County, including California's largest duck farm, Reichardt Duck Farm, and Petaluma Poultry, a subsidiary of poultry giant Perdue. Instead of
+        County, including Petaluma Poultry, a subsidiary of poultry giant Perdue. Instead of
         prosecuting these companies, the Sonoma County District Attorney has gone after the whistleblowers and animal rescuers. They took animal rescuer Wayne Hsiung to trial and on Nov. 30, 2023, he was sentenced to 90 days in jail for his role in nonviolent open rescues at factory farms. On the very same day of Wayne's sentencing hearing, members of the Sonoma County Sheriff's Department {" "}
           <a
             href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
@@ -47,15 +47,6 @@ Following these arrests, two more activists discovered there were warrants out f
       </Details>
 
       <Defendants>
-        <Bio name="Conrad de Jesus" image="Conrad.jpeg">
-          An architect, business owner, and father, Conrad is a dedicated animal rights activist focusing on the right to rescue and bringing forth systemic changes needed to build a more compassionate world.
-       </Bio>
-          <Bio name="Lewis Bernier" image="lb-1x1.jpg">
-          Lewis is an investigator and animal rescuer who has worked to expose cruel and unlawful conditions in dozens of factory farms and slaughterhouses across the country.
-        </Bio>
-        <Bio name="Rocky Chau" image="Rocky.jpeg">
-          Rocky is a lifelong Bay Area resident. As an organizer with DxE, he works on building a community of like-minded individuals who believe in a better world for animals.
-        </Bio>
         <Bio name="Zoe Rosenberg" image="Zoe-and-Glenn.jpeg">
           Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator, and animal rescuer. When she was 11 years old, she founded Happy Hen Animal Sanctuary, a nonprofit organization that has now saved over 1,000 neglected or abandoned animals.
         </Bio>
