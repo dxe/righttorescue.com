@@ -19,7 +19,7 @@ const Cases: NextPage = () => {
           name="Petaluma Poultry"
           location="Sonoma County, California"
           page="petalumapoultry"
-          image="zoepp.png"
+          image="zoe-pp.png"
         />
         <Case
           name="Asha's Farm Sanctuary"
