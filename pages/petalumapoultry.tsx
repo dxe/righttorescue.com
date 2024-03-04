@@ -25,7 +25,7 @@ const Reichardt: NextPage = () => {
         her to finally prosecute Petaluma Poultry for years of criminal animal cruelty.
       </Header>
 
-      <Details image="Zoe-holding-River-and-Oakley.jpeg">
+      <Details image="zoepp.png">
         For years, investigators with {" "}
           <a
             href="https://www.directactioneverywhere.com"
