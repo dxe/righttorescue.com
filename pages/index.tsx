@@ -63,7 +63,7 @@ const Home: NextPage = () => {
             target="_blank"
           >
             press coverage
-          </a> made it clear that there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
+          </a> that made it clear there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
           <a
             href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
             target="_blank"
