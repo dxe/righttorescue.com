@@ -20,22 +20,40 @@ const RidglanFarms: NextPage = () => {
         ctaLink2="mailto:danecoda@da.wi.gov"
       >
         Call and email Dane County District Attorney Ismael Ozanne asking him to
-        prosecute Ridglan Farms for animal cruelty, instead of prosecuting
-        people for the rescue of three beagles from experimentation.
+        prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
         entered the facility and documented the filthy conditions and the
         psychological trauma of the dogs spinning endlessly inside small cages.
         The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Their trial starts March 18th at the Dane County Courthouse in Madison, Wisconsin. This could be a major turning point in the movement to end animal experimentation and to enshrine the right of all animals to be rescued from cruelty. But we need your help to make this trial a success!
-If you can join us at the trial to defend the #RightToRescue, please register at {" "}
+        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, all charges were DROPPED against Eva, Paul, and Wayne. This case has been pending for years and we believe this dismissal is coming after pressure and{" "}
           <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSesFMbVWYDXLUe6mSuD4L7nK8OVBe2C9Xqo3Pz_k_gfkt8sOg/viewform"
+            href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
             target="_blank"
           >
-            dxe.io/ridglan
-          </a>.
+            press coverage
+          </a> made it clear that there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
+          <a
+            href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
+            target="_blank"
+          >
+            Instagram,
+          </a>{" "}
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid037W6Ht2xWjnE9XEwTuyvZhZJfch6WqTxhZ92zF1658dNo7xTZnk1XLdtUbrn5HP4Fl"
+            target="_blank"
+          >
+            Facebook,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://twitter.com/DxEverywhere/status/1766150519163380055"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
