@@ -23,11 +23,10 @@ const RidglanFarms: NextPage = () => {
         prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
-        Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
-        entered the facility and documented the filthy conditions and the
-        psychological trauma of the dogs spinning endlessly inside small cages.
-        The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, all charges were DROPPED against Eva, Paul, and Wayne. This case has been pending for years and we believe this dismissal is coming after pressure and{" "}
+        Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. In 2017, DxE investigators
+        entered the facility and documented the filthy conditions and the psychological trauma of the dogs spinning endlessly inside small cages.
+        The team rescued three beagles, Julie, Anna, and Lucy. Eva, Paul, and Wayne were charged with felony burglary and felony theft
+        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, the state DROPPED all the charges. We believe this dismissal is coming after pressure and{" "}
           <a
             href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
             target="_blank"
