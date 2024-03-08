@@ -31,7 +31,7 @@ export const MastHead = (props: MastHeadProps) => {
             Investigators rescued beagles from cruel experiments
           </h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5 fade-in-second">
-            Now, they are facing 16 years in prison. Help right the injustice.
+            Then they were charged with felonies.
           </h2>
 
           <ScrollLink
