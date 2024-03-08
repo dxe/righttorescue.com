@@ -147,7 +147,6 @@ You can{" "}
           title="Sonoma County, California"
           date="Sept. 21, 2023"
           image="Sunrise.png"
-          featured
         >
           Today, defendant Priya Sawhney took a deferred entry of judgment plea deal, meaning charges will not be filed against her if she completes the terms of the agreement which include community service and two years of probation. She said, “There were some strategic disagreements between my attorneys and me about prioritizing my best interests versus the interests of the animals. This case is bigger than me or any of us. It’s about suffering animals who deserve to be rescued. I trust Wayne to represent them as well as anyone could.”
         </Announcement>
@@ -155,7 +154,6 @@ You can{" "}
           title="Sonoma County, California"
           date="Sept. 6, 2023"
           image="Sunrise.png"
-          featured
         >
           Yesterday, Sonoma County District Attorney Robert Waner told Cassie's lawyer that he will be dismissing her from the case on Friday. We can only speculate as to why he’s dropping Cassie's charges. Maybe he wants her brilliant attorney Izaak Schwaiger out of the case. Maybe he's too overwhelmed with the mountains of evidence of animal cruelty the defense submitted to them as trial exhibits. Watch and share today's video with this news on{" "}
           <a
@@ -183,7 +181,6 @@ You can{" "}
           title="Sonoma County, California"
           date="Sept. 1, 2023"
           image="Sunrise.png"
-          featured
         >
           In the pre-trial readiness hearing today, the prosecutor made a
           surprising announcement -- the DA's office is amending the charges
@@ -213,7 +210,6 @@ You can{" "}
           title="Sonoma County, California"
           date="Aug. 30, 2023"
           image="Sunrise.png"
-          featured
         >
           Harvard’s Animal Law and Policy Program Director and Law Professor Kristen Stilt submitted an amicus brief in the Sonoma rescue case asserting that animals are “someone,” and that ordinary citizens therefore can use the necessity defense when they are charged in connection with animal rescue. It might seem obvious to many of us that an animal is someone, but prosecutors defending animal agriculture have tried to argue that they aren’t and that laws like the necessity defense can’t be used to defend the rescue of animals from abuse.
 
@@ -250,7 +246,6 @@ This new amicus brief supports what we already know: that animals are individual
           title="Sonoma County, California"
           date="May 30, 2023"
           image="Sunrise.png"
-          featured
         >
           This morning, trial dates were set for Cassie, Priya, and Wayne. The
           #SonomaRescueTrial will start September 8, 2023 and it is expected to
@@ -339,7 +334,6 @@ This new amicus brief supports what we already know: that animals are individual
           title="Merced County, California"
           date="Feb. 21, 2023"
           image="FF best.png"
-          featured
         >
           Merced County Judge Paul Lo granted the defense’s subpoena of Foster
           Farms’ records regarding the health conditions of the group of
@@ -401,7 +395,6 @@ This new amicus brief supports what we already know: that animals are individual
           title="Sonoma County, California"
           date="Feb. 6, 2023"
           image="Sunrise.png"
-          featured
         >
           Preliminary hearings finally concluded for Cassie, Priya, and Wayne
           (and Almira took a plea deal) on Jan. 19. Judge Honigsberg said he
@@ -440,7 +433,6 @@ This new amicus brief supports what we already know: that animals are individual
           title="Merced County, California"
           date="Dec. 13, 2022"
           image="FF best.png"
-          featured
         >
           Trial dates were set today for the Foster Farms rescue case. Former
           Baywatch star Alexandra Paul and co-defendant Alicia Santurio are
@@ -559,7 +551,7 @@ This new amicus brief supports what we already know: that animals are individual
           date="Jan. 19, 2022"
           image="mj.jpg"
         >
-          VICTORY! Just one day before trial was set to begin, all charges
+          Just one day before trial was set to begin, all charges
           against DxE investigator Matt Johnson were DROPPED. International
           media outlets had requested coverage and people from around the
           country were planning to attend the trial to support the right to
