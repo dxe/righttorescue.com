@@ -24,11 +24,10 @@ const Home: NextPage = () => {
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1x1"
       >
-      Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. DxE investigators
-        entered the facility and documented the filthy conditions and the
-        psychological trauma of the dogs spinning endlessly inside small cages.
-        The team rescued three beagles, Julie, Anna, and Lucy. Now, Eva, Paul, and Wayne are facing felony burglary and felony theft
-        charges. Their trial starts March 18th at the Dane County Courthouse in Madison, Wisconsin. This could be a major turning point in the movement to end animal experimentation and to enshrine the right of all animals to be rescued from cruelty. 
+       Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. In 2017, DxE investigators
+        entered the facility and documented the filthy conditions and the psychological trauma of the dogs spinning endlessly inside small cages.
+        The team rescued three beagles, Julie, Anna, and Lucy, who are now living with loving families. Eva, Paul, and Wayne were charged with felony burglary and felony theft
+        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, the state DROPPED all the charges. 
       </FeaturedCase>
       <Letter />
       <About
