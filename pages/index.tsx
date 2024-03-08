@@ -65,7 +65,27 @@ If you can join us at the trial to defend the #RightToRescue, please register at
           image="dog.jpg"
           featured
         >
-           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is coming after pressure and press coverage made it clear that there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news: https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ==.
+           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is coming after pressure and press coverage made it clear that there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
+          <a
+            href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
+            target="_blank"
+          >
+            Instagram,
+          </a>{" "}
+          <a
+            href="https://www.facebook.com/directactioneverywhere/posts/pfbid037W6Ht2xWjnE9XEwTuyvZhZJfch6WqTxhZ92zF1658dNo7xTZnk1XLdtUbrn5HP4Fl"
+            target="_blank"
+          >
+            Facebook,
+          </a>{" "}
+          and{" "}
+          <a
+            href="https://twitter.com/DxEverywhere/status/1766150519163380055"
+            target="_blank"
+          >
+            Twitter
+          </a>
+          .
         </Announcement>
         <Announcement
           title="Sonoma County, California"
