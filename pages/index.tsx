@@ -59,7 +59,15 @@ If you can join us at the trial to defend the #RightToRescue, please register at
       <TwitterTimeline twitterHandle="ridglantrial" title="View the latest updates on the Ridglan Trial Twitter:"/>
 
       <Announcements>
-              <Announcement
+        <Announcement
+          title="Dane County, Wisconsin"
+          date="Mar. 8, 2024"
+          image="dog.jpg"
+          featured
+        >
+           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is coming after pressure and press coverage made it clear that there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news: https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ==.
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Dec. 9, 2023"
           image="Sunrise.png"
