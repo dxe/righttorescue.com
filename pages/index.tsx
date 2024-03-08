@@ -57,7 +57,7 @@ const Home: NextPage = () => {
           image="dog.jpg"
           featured
         >
-           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is coming after pressure and{" "}
+           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is the result of pressure and{" "}
           <a
             href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
             target="_blank"
