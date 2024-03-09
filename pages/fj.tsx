@@ -29,8 +29,8 @@ const FarmerJohn: NextPage = () => {
         and workers. Dozens more people were arrested during a lockdown at the
         facility. Most had no charges filed against them. The police filed
         felony charges against the seven people who tried to save Greta, but the
-        District Attorney has chosen not to pursue the case and the statute
-        of limitations has expired.
+        District Attorney has chosen not to pursue the case and the statute of
+        limitations has expired.
       </Details>
       <Defendants>
         <Bio name="Alexandra Paul" image="ap.jpg">

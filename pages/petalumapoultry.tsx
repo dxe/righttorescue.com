@@ -22,33 +22,53 @@ const Reichardt: NextPage = () => {
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
-        her to finally prosecute Petaluma Poultry for years of criminal animal cruelty.
+        her to finally prosecute Petaluma Poultry for years of criminal animal
+        cruelty.
       </Header>
 
       <Details image="zoepp.png">
-        For years, investigators with {" "}
-          <a
-            href="https://www.directactioneverywhere.com"
-            target="_blank"
-          >
-            Direct Action Everywhere
-          </a> have been exposing criminal animal cruelty and rampant disease at factory farms in Sonoma
-        County, including Petaluma Poultry, a subsidiary of poultry giant Perdue. Instead of
-        prosecuting these companies, the Sonoma County District Attorney has gone after the whistleblowers and animal rescuers. They took animal rescuer Wayne Hsiung to trial and on Nov. 30, 2023, he was sentenced to 90 days in jail for his role in nonviolent open rescues at factory farms. On the very same day of Wayne's sentencing hearing, members of the Sonoma County Sheriff's Department {" "}
-          <a
-            href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
-            target="_blank"
-          >
-            arrested
-          </a> three more animal rescuers on felony warrants. Sonoma County is escalating its fight against animal rescue, but we know rescuing animals is not a crime.  
+        For years, investigators with{" "}
+        <a href="https://www.directactioneverywhere.com" target="_blank">
+          Direct Action Everywhere
+        </a>{" "}
+        have been exposing criminal animal cruelty and rampant disease at
+        factory farms in Sonoma County, including Petaluma Poultry, a subsidiary
+        of poultry giant Perdue. Instead of prosecuting these companies, the
+        Sonoma County District Attorney has gone after the whistleblowers and
+        animal rescuers. They took animal rescuer Wayne Hsiung to trial and on
+        Nov. 30, 2023, he was sentenced to 90 days in jail for his role in
+        nonviolent open rescues at factory farms. On the very same day of
+        Wayne's sentencing hearing, members of the Sonoma County Sheriff's
+        Department{" "}
+        <a
+          href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
+          target="_blank"
+        >
+          arrested
+        </a>{" "}
+        three more animal rescuers on felony warrants. Sonoma County is
+        escalating its fight against animal rescue, but we know rescuing animals
+        is not a crime.
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
-  Following these arrests, the District Attorney filed charges against Zoe Rosenberg for the rescue of sick chickens from the Petaluma Poultry slaughterhouse that took place in June 2023 during the Animal Liberation Conference. They have not yet filed charges relating to Reichardt Duck Farm. Zoe has been forced to wear a GPS ankle monitor and follow other strict pretrial release conditions, including informing the authorities any time she leaves her home county. She also has been barred from possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe rescuing any more suffering animals. Zoe's next court date is March 29, 2024 to schedule preliminary hearings.
+        Following these arrests, the District Attorney filed charges against Zoe
+        Rosenberg for the rescue of sick chickens from the Petaluma Poultry
+        slaughterhouse that took place in June 2023 during the Animal Liberation
+        Conference. They have not yet filed charges relating to Reichardt Duck
+        Farm. Zoe has been forced to wear a GPS ankle monitor and follow other
+        strict pretrial release conditions, including informing the authorities
+        any time she leaves her home county. She also has been barred from
+        possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe
+        rescuing any more suffering animals. Zoe's next court date is March 29,
+        2024 to schedule preliminary hearings.
       </Details>
 
       <Defendants>
         <Bio name="Zoe Rosenberg" image="Zoe-and-Glenn.jpeg">
-          Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator, and animal rescuer. When she was 11 years old, she founded Happy Hen Animal Sanctuary, a nonprofit organization that has now saved over 1,000 neglected or abandoned animals.
+          Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator,
+          and animal rescuer. When she was 11 years old, she founded Happy Hen
+          Animal Sanctuary, a nonprofit organization that has now saved over
+          1,000 neglected or abandoned animals.
         </Bio>
       </Defendants>
       <Press>
@@ -60,11 +80,11 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/bay-area-activist-group-back-at-petaluma-poultry-facility-removes-18-chick/"
           iFramelyUrl="https://cdn.iframe.ly/IZoGSGa?card=small"
         />
-         <Article
+        <Article
           href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
           iFramelyUrl="https://cdn.iframe.ly/inlhedh?card=small"
         />
-         <Article
+        <Article
           href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
           iFramelyUrl="https://cdn.iframe.ly/00YuISE?card=small"
         />
@@ -76,15 +96,14 @@ const Reichardt: NextPage = () => {
           href="https://unchainedtv.com/2023/12/04/3-more-dxe-animal-rights-activists-arrested-in-sonoma-county-california/"
           iFramelyUrl="https://cdn.iframe.ly/UHMsyEY?card=small"
         />
-         <Article
+        <Article
           href="https://www.truthdig.com/articles/facing-over-20-years-in-prison-for-rescuing-animals/"
           iFramelyUrl="https://cdn.iframe.ly/t4fidxC?card=small"
         />
-         <Article
+        <Article
           href="https://www.dailycal.org/news/city/communities/uc-berkeley-student-faces-felony-misdemeanor-counts-for-animal-rescue/article_4d571c7a-b457-11ee-baaa-533dbadf464b.html#disqus_thread"
           iFramelyUrl="https://cdn.iframe.ly/yp4k5Ip?card=small"
         />
-        
       </Press>
     </>
   );

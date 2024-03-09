@@ -22,37 +22,52 @@ const Sunrise: NextPage = () => {
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
-        her to finally prosecute Sunrise Farms, Reichardt Duck Farm, and Petaluma Poultry for years
-        of criminal animal cruelty.
+        her to finally prosecute Sunrise Farms, Reichardt Duck Farm, and
+        Petaluma Poultry for years of criminal animal cruelty.
       </Header>
 
       <Details image="sunrise.jpg">
-        For years, investigators with {" "}
-          <a
-            href="https://www.directactioneverywhere.com"
-            target="_blank"
-          >
-            Direct Action Everywhere
-          </a> have been exposing violations of animal cruelty law at factory farms in Sonoma
-        County, including Sunrise Farms, Reichardt Duck Farm, and Perdue's Petaluma Poultry. Instead of
-        prosecuting these companies, the Sonoma County District Attorney has
-        gone after the whistleblowers and animal rescuers. Over 100 people have
-        been arrested on felony charges for taking nonviolent direct action to
-        help suffering animals at factory farms in the county. These charges
-        resulted in the five-year prosecution of a handful of activists and
-        ultimately, the eight-week trial of one remaining defendant, Wayne
-        Hsiung.
+        For years, investigators with{" "}
+        <a href="https://www.directactioneverywhere.com" target="_blank">
+          Direct Action Everywhere
+        </a>{" "}
+        have been exposing violations of animal cruelty law at factory farms in
+        Sonoma County, including Sunrise Farms, Reichardt Duck Farm, and
+        Perdue's Petaluma Poultry. Instead of prosecuting these companies, the
+        Sonoma County District Attorney has gone after the whistleblowers and
+        animal rescuers. Over 100 people have been arrested on felony charges
+        for taking nonviolent direct action to help suffering animals at factory
+        farms in the county. These charges resulted in the five-year prosecution
+        of a handful of activists and ultimately, the eight-week trial of one
+        remaining defendant, Wayne Hsiung.
       </Details>
       <Details image="Wayne cuffed.png">
-        On November 2, 2023, after 6 days of jury deliberation, Wayne was {" "}
-          <a
-            href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
-            target="_blank"
-          >
-            convicted
-          </a> of three of the four charges in the #SonomaRescueTrial -- felony conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor trespass at Reichardt Duck Farm. The jury could not reach a unanimous verdict on a second felony conspiracy charge, resulting in a “hung jury” mistrial on that charge. Wayne was cuffed and immediately taken into custody.
-        On November 30th, Wayne was sentenced to 90 days in jail followed by 24 months of probation. Judge Laura Passaglia also ordered him to have NO CONTACT in any form with the other named “co-conspirators” in the case, a list including many of his closest friends and one of his co-defendants in a {' '} <a href="https://righttorescue.com/ridglan/">beagle rescue trial</a> scheduled for March.
-     Right after the sentencing hearing, three other DxE animal rescuers were arrested on felony warrants outside the courthouse. {' '} <a href="https://righttorescue.com/reichardt/">Learn more about this new case here.</a> Wayne was released from jail on December 9th after serving almost half his sentence, as is typical in California. He is in the process of appealing.
+        On November 2, 2023, after 6 days of jury deliberation, Wayne was{" "}
+        <a
+          href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
+          target="_blank"
+        >
+          convicted
+        </a>{" "}
+        of three of the four charges in the #SonomaRescueTrial -- felony
+        conspiracy and misdemeanor trespass at Sunrise Farms and misdemeanor
+        trespass at Reichardt Duck Farm. The jury could not reach a unanimous
+        verdict on a second felony conspiracy charge, resulting in a “hung jury”
+        mistrial on that charge. Wayne was cuffed and immediately taken into
+        custody. On November 30th, Wayne was sentenced to 90 days in jail
+        followed by 24 months of probation. Judge Laura Passaglia also ordered
+        him to have NO CONTACT in any form with the other named
+        “co-conspirators” in the case, a list including many of his closest
+        friends and one of his co-defendants in a{" "}
+        <a href="https://righttorescue.com/ridglan/">beagle rescue trial</a>{" "}
+        scheduled for March. Right after the sentencing hearing, three other DxE
+        animal rescuers were arrested on felony warrants outside the courthouse.{" "}
+        <a href="https://righttorescue.com/reichardt/">
+          Learn more about this new case here.
+        </a>{" "}
+        Wayne was released from jail on December 9th after serving almost half
+        his sentence, as is typical in California. He is in the process of
+        appealing.
       </Details>
 
       <Defendants>
@@ -233,7 +248,7 @@ const Sunrise: NextPage = () => {
           href="https://norcalpublicmedia.org/2023110392948/news-feed/guilty-verdict-for-animal-right-activist"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?url=https%3A%2F%2Fnorcalpublicmedia.org%2F2023110392948%2Fnews-feed%2Fguilty-verdict-for-animal-right-activist&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
-         <Article
+        <Article
           href="https://www.davisvanguard.org/2023/11/court-watch-lawyer-found-guilty-of-felony-for-rescuing-injured-animals-locked-up-after-2-month-trial-6-days-of-jury-deliberation/"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Fwww.davisvanguard.org%2F2023%2F11%2Fcourt-watch-lawyer-found-guilty-of-felony-for-rescuing-injured-animals-locked-up-after-2-month-trial-6-days-of-jury-deliberation%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
@@ -245,47 +260,47 @@ const Sunrise: NextPage = () => {
           href="https://theintercept.com/2023/11/04/animal-rescue-wayne-hsiung-dxe/"
           iFramelyUrl="//cdn.iframe.ly/api/iframe?card=small&url=https%3A%2F%2Ftheintercept.com%2F2023%2F11%2F04%2Fanimal-rescue-wayne-hsiung-dxe%2F&key=79d47bd1ff17d5965a1f72b0e2c849b8"
         />
-         <Article
+        <Article
           href="https://www.wired.com/story/dxe-animal-agriculture-investigation-guide/"
           iFramelyUrl="https://cdn.iframe.ly/zLKohTy?card=small"
         />
-         <Article
+        <Article
           href="https://www.vox.com/future-perfect/23952627/wayne-hsiung-conviction-direct-action-everywhere-dxe-rescue-sonoma-county-chickens"
           iFramelyUrl="https://cdn.iframe.ly/inlhedh?card=small"
         />
-         <Article
+        <Article
           href="https://www.democracynow.org/2023/11/13/headlines/animal_rights_defender_wayne_hsiung_convicted_of_felony_for_rescuing_factory_farm_animals"
           iFramelyUrl="https://cdn.iframe.ly/T2LovuR?card=small"
         />
-         <Article
+        <Article
           href="https://www.commondreams.org/opinion/wayne-hsiung-animal-rights-activists-jailed"
           iFramelyUrl="https://cdn.iframe.ly/EgvFs9G?card=small"
         />
-         <Article
+        <Article
           href="https://countercurrents.org/2023/11/conviction-of-leading-animal-activist-could-ignite-a-populist-revolution/"
           iFramelyUrl="https://cdn.iframe.ly/r2gb8Sj?card=small"
         />
-         <Article
+        <Article
           href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
           iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"
         />
-         <Article
+        <Article
           href="https://plantbasednews.org/news/activism/animal-activist-sentenced-open-rescue/"
           iFramelyUrl="https://cdn.iframe.ly/JSABnBe?card=small"
         />
-         <Article
+        <Article
           href="https://www.northbaybusinessjournal.com/article/news/animal-activist-sentenced-in-conspiracy-case-involving-petaluma-poultry-far/"
           iFramelyUrl="https://cdn.iframe.ly/LzWaXqQ?card=small"
         />
-         <Article
+        <Article
           href="https://worldanimalnews.com/attorney-animal-rescuer-wayne-hsiung-convicted-of-felony-conspiracy-in-trial-where-animal-cruelty-evidence-was-withheld-from-jury/"
           iFramelyUrl="https://cdn.iframe.ly/CRS9B2W?card=small"
         />
-         <Article
+        <Article
           href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
           iFramelyUrl="https://cdn.iframe.ly/00YuISE?card=small"
         />
-         <Article
+        <Article
           href="https://www.democracynow.org/2023/12/1/headlines/animal_rights_activist_wayne_hsiung_gets_3_month_jail_term_for_freeing_sick_factory_farm_birds"
           iFramelyUrl="https://cdn.iframe.ly/6RBLHHw?card=small"
         />
@@ -293,19 +308,19 @@ const Sunrise: NextPage = () => {
           href="https://www.cbsnews.com/amp/sanfrancisco/news/wayne-hsuing-dxe-animal-rights-activist-90-days-jail-sonoma-farm-protests-shutdown-petaluma/"
           iFramelyUrl="https://cdn.iframe.ly/hGopK4f?card=small"
         />
-          <Article
+        <Article
           href="https://www.ktsf.com/2023/12/01/wayne-hsiung-sentenced/"
           iFramelyUrl="https://cdn.iframe.ly/lhqDDq9?card=small"
         />
-          <Article
+        <Article
           href="https://www.foodsafetynews.com/tag/wayne-hsiung/"
           iFramelyUrl="https://cdn.iframe.ly/SGpiu6j?card=small"
         />
-         <Article
+        <Article
           href="https://www.onegreenplanet.org/animals/animal-rights-activist-wayne-hsiung-faces-jail-time-for-nonviolent-animal-rescues/"
           iFramelyUrl="https://cdn.iframe.ly/djGBWhW?card=small"
         />
-         <Article
+        <Article
           href="https://unchainedtv.com/2024/01/18/wayne-hsiung-appeals-his-conviction-for-animal-rescue-at-factory-farms/"
           iFramelyUrl="https://cdn.iframe.ly/NADOpYM?card=small"
         />

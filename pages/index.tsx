@@ -24,10 +24,15 @@ const Home: NextPage = () => {
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1x1"
       >
-       Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. In 2017, DxE investigators
-        entered the facility and documented the filthy conditions and the psychological trauma of the dogs spinning endlessly inside small cages.
-        The team rescued three beagles, Julie, Anna, and Lucy, who are now living with loving families. Eva, Paul, and Wayne were charged with felony burglary and felony theft
-        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, the state DROPPED all the charges. 
+        Ridglan Farms is one of the largest breeders of beagles for
+        experimentation in the United States. In 2017, DxE investigators entered
+        the facility and documented the filthy conditions and the psychological
+        trauma of the dogs spinning endlessly inside small cages. The team
+        rescued three beagles, Julie, Anna, and Lucy, who are now living with
+        loving families. Eva, Paul, and Wayne were charged with felony burglary
+        and felony theft charges. Their trial was set to start March 18th at the
+        Dane County Courthouse in Madison, Wisconsin. However, ten days before
+        trial, the state DROPPED all the charges.
       </FeaturedCase>
       <Letter />
       <About
@@ -48,7 +53,10 @@ const Home: NextPage = () => {
         rather than "property.”
       </About>
 
-      <TwitterTimeline twitterHandle="ridglantrial" title="View the latest updates on the Ridglan Trial Twitter:"/>
+      <TwitterTimeline
+        twitterHandle="ridglantrial"
+        title="View the latest updates on the Ridglan Trial Twitter:"
+      />
 
       <Announcements>
         <Announcement
@@ -57,13 +65,22 @@ const Home: NextPage = () => {
           image="dog.jpg"
           featured
         >
-           BREAKING: Ten days before trial, all charges have been DROPPED against Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three beagles from Ridglan Farms, a factory farm that breeds dogs for experimentation. This case has been pending for years and we believe this dismissal is the result of pressure and{" "}
+          BREAKING: Ten days before trial, all charges have been DROPPED against
+          Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three
+          beagles from Ridglan Farms, a factory farm that breeds dogs for
+          experimentation. This case has been pending for years and we believe
+          this dismissal is the result of pressure and{" "}
           <a
             href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
             target="_blank"
           >
             press coverage
-          </a> that made it clear there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
+          </a>{" "}
+          that made it clear there is public support for animal rescue.
+          Unfortunately, the Dane County District Attorney’s office is still
+          failing to prosecute Ridglan Farms for criminal animal cruelty. It is
+          more important now than ever that we keep the pressure on to get
+          justice for these animals. Please help us share the news on{" "}
           <a
             href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
             target="_blank"
@@ -91,7 +108,9 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          Wayne was released from jail today after serving almost half his 90-day sentence, as is typical in California. He is in the process of appealing his conviction.
+          Wayne was released from jail today after serving almost half his
+          90-day sentence, as is typical in California. He is in the process of
+          appealing his conviction.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -99,8 +118,10 @@ const Home: NextPage = () => {
           image="Sunrise.png"
           featured
         >
-          Wayne was sentenced to 90 days in jail and 2 years of probation. Right after his sentencing hearing, members of the Sonoma County Sheriff's Department arrested three more animal rescuers on felony warrants. 
-You can{" "}
+          Wayne was sentenced to 90 days in jail and 2 years of probation. Right
+          after his sentencing hearing, members of the Sonoma County Sheriff's
+          Department arrested three more animal rescuers on felony warrants. You
+          can{" "}
           <a
             href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
             target="_blank"
@@ -108,13 +129,10 @@ You can{" "}
             read the press here
           </a>
           . We have a new Right to Rescue case in Sonoma County now. You can{" "}
-          <a
-            href="https://righttorescue.com/reichardt/"
-            target="_blank"
-          >
+          <a href="https://righttorescue.com/reichardt/" target="_blank">
             learn more here
           </a>
-           .
+          .
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -122,7 +140,13 @@ You can{" "}
           image="Sunrise.png"
           featured
         >
-           JAILED: Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4 charges in the Sonoma Rescue Trial, including one count of felony conspiracy and two counts of misdemeanor trespass. He is in jail awaiting sentencing on November 30. We will be appealing this conviction to a higher court. If we win the appeal, it could set groundbreaking caselaw for animal rights. Please share this important news on{" "}
+          JAILED: Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4
+          charges in the Sonoma Rescue Trial, including one count of felony
+          conspiracy and two counts of misdemeanor trespass. He is in jail
+          awaiting sentencing on November 30. We will be appealing this
+          conviction to a higher court. If we win the appeal, it could set
+          groundbreaking caselaw for animal rights. Please share this important
+          news on{" "}
           <a
             href="https://www.instagram.com/p/CzKPqfUvjCG/?igshid=YjVjNjZkNmFjNg=="
             target="_blank"
@@ -141,25 +165,38 @@ You can{" "}
             target="_blank"
           >
             Twitter
-          </a>. And please join us at Wayne's sentencing hearing at 9am on November 30th at the Sonoma County Courthouse, at 600 Administration Drive. The event page is at dxe.io/sentencing.
+          </a>
+          . And please join us at Wayne's sentencing hearing at 9am on November
+          30th at the Sonoma County Courthouse, at 600 Administration Drive. The
+          event page is at dxe.io/sentencing.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="Sept. 21, 2023"
           image="Sunrise.png"
         >
-          Today, defendant Priya Sawhney took a deferred entry of judgment plea deal, meaning charges will not be filed against her if she completes the terms of the agreement which include community service and two years of probation. She said, “There were some strategic disagreements between my attorneys and me about prioritizing my best interests versus the interests of the animals. This case is bigger than me or any of us. It’s about suffering animals who deserve to be rescued. I trust Wayne to represent them as well as anyone could.”
+          Today, defendant Priya Sawhney took a deferred entry of judgment plea
+          deal, meaning charges will not be filed against her if she completes
+          the terms of the agreement which include community service and two
+          years of probation. She said, “There were some strategic disagreements
+          between my attorneys and me about prioritizing my best interests
+          versus the interests of the animals. This case is bigger than me or
+          any of us. It’s about suffering animals who deserve to be rescued. I
+          trust Wayne to represent them as well as anyone could.”
         </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="Sept. 6, 2023"
           image="Sunrise.png"
         >
-          Yesterday, Sonoma County District Attorney Robert Waner told Cassie's lawyer that he will be dismissing her from the case on Friday. We can only speculate as to why he’s dropping Cassie's charges. Maybe he wants her brilliant attorney Izaak Schwaiger out of the case. Maybe he's too overwhelmed with the mountains of evidence of animal cruelty the defense submitted to them as trial exhibits. Watch and share today's video with this news on{" "}
-          <a
-            href="https://www.instagram.com/p/Cw20gX8xetA/"
-            target="_blank"
-          >
+          Yesterday, Sonoma County District Attorney Robert Waner told Cassie's
+          lawyer that he will be dismissing her from the case on Friday. We can
+          only speculate as to why he’s dropping Cassie's charges. Maybe he
+          wants her brilliant attorney Izaak Schwaiger out of the case. Maybe
+          he's too overwhelmed with the mountains of evidence of animal cruelty
+          the defense submitted to them as trial exhibits. Watch and share
+          today's video with this news on{" "}
+          <a href="https://www.instagram.com/p/Cw20gX8xetA/" target="_blank">
             Instagram,
           </a>{" "}
           <a
@@ -195,14 +232,10 @@ You can{" "}
           Reichardt Duck Farm. They know the animals are treated like garbage,
           even at "humane certified," "cage-free" farms -- and they don't want
           the jury or public to see that truth. Please{" "}
-          <a
-            href="https://www.instagram.com/p/CwqHnyyJigc/"
-            target="_blank"
-          >
+          <a href="https://www.instagram.com/p/CwqHnyyJigc/" target="_blank">
             share this video about the amended charges
           </a>
-          .
-          Today, the court also issued a gag order prohibiting Cassie, Priya,
+          . Today, the court also issued a gag order prohibiting Cassie, Priya,
           and Wayne from speaking to the media about their case. Now it's even
           more important that you help us elevate this historic trial.
         </Announcement>
@@ -211,9 +244,17 @@ You can{" "}
           date="Aug. 30, 2023"
           image="Sunrise.png"
         >
-          Harvard’s Animal Law and Policy Program Director and Law Professor Kristen Stilt submitted an amicus brief in the Sonoma rescue case asserting that animals are “someone,” and that ordinary citizens therefore can use the necessity defense when they are charged in connection with animal rescue. It might seem obvious to many of us that an animal is someone, but prosecutors defending animal agriculture have tried to argue that they aren’t and that laws like the necessity defense can’t be used to defend the rescue of animals from abuse.
-
-This new amicus brief supports what we already know: that animals are individuals and they have the right to be rescued from situations of neglect and cruelty. You can read the full amicus brief{" "}
+          Harvard’s Animal Law and Policy Program Director and Law Professor
+          Kristen Stilt submitted an amicus brief in the Sonoma rescue case
+          asserting that animals are “someone,” and that ordinary citizens
+          therefore can use the necessity defense when they are charged in
+          connection with animal rescue. It might seem obvious to many of us
+          that an animal is someone, but prosecutors defending animal
+          agriculture have tried to argue that they aren’t and that laws like
+          the necessity defense can’t be used to defend the rescue of animals
+          from abuse. This new amicus brief supports what we already know: that
+          animals are individuals and they have the right to be rescued from
+          situations of neglect and cruelty. You can read the full amicus brief{" "}
           <a
             href="https://animal.law.harvard.edu/wp-content/uploads/DxE-Amicus-Brief.pdf"
             target="_blank"
@@ -221,10 +262,7 @@ This new amicus brief supports what we already know: that animals are individual
             here
           </a>
           . Share this important news on{" "}
-          <a
-            href="https://www.instagram.com/p/CwnrZ82Ppuz/"
-            target="_blank"
-          >
+          <a href="https://www.instagram.com/p/CwnrZ82Ppuz/" target="_blank">
             Instagram,
           </a>{" "}
           <a
@@ -255,16 +293,15 @@ This new amicus brief supports what we already know: that animals are individual
             target="_blank"
           >
             share the news on Twitter!
-          </a>
-          {" "} DxE is organizing a convergence during the trial to support the
+          </a>{" "}
+          DxE is organizing a convergence during the trial to support the
           defendants and the right to rescue. Register for the convergence{" "}
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLScHKN-MDu6r-UGLfsmeZu_kGTn_1b-TZZajIYQVNyqRPbAGIw/viewform"
             target="_blank"
           >
             here.
-          </a>
-          {" "}
+          </a>{" "}
         </Announcement>
         <Announcement
           title="Sonoma County, California"
@@ -551,15 +588,14 @@ This new amicus brief supports what we already know: that animals are individual
           date="Jan. 19, 2022"
           image="mj.jpg"
         >
-          Just one day before trial was set to begin, all charges
-          against DxE investigator Matt Johnson were DROPPED. International
-          media outlets had requested coverage and people from around the
-          country were planning to attend the trial to support the right to
-          rescue. Could it be that the industry got scared of the public
-          attention? We were going to expose Iowa Select Farms’ gruesome cruelty
-          in court, but instead of going away, we are now using this victory as
-          an opportunity to keep fighting "ag-gag" laws and defending the Right
-          to Rescue.
+          Just one day before trial was set to begin, all charges against DxE
+          investigator Matt Johnson were DROPPED. International media outlets
+          had requested coverage and people from around the country were
+          planning to attend the trial to support the right to rescue. Could it
+          be that the industry got scared of the public attention? We were going
+          to expose Iowa Select Farms’ gruesome cruelty in court, but instead of
+          going away, we are now using this victory as an opportunity to keep
+          fighting "ag-gag" laws and defending the Right to Rescue.
         </Announcement>
 
         <Announcement

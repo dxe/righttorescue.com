@@ -20,15 +20,16 @@ export const Support = () => {
           <div className="row">
             <div
               className="col-md-10 col-lg-8 mx-auto text-center"
-              style={{ marginTop: '90px' }}
+              style={{ marginTop: "90px" }}
             >
               <h2
                 className="text-white my-3"
                 style={{
-                  textShadow: '6px 6px 12px rgba(0, 0, 0, 1)'
+                  textShadow: "6px 6px 12px rgba(0, 0, 0, 1)",
                 }}
               >
-                Your support allows us to stand up to legal repression and continue our groundbreaking work.
+                Your support allows us to stand up to legal repression and
+                continue our groundbreaking work.
               </h2>
 
               <Button

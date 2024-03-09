@@ -18,11 +18,10 @@ interface TwitterTimelineProps {
 const TwitterTimeline: React.FC<TwitterTimelineProps> = ({
   twitterHandle,
   numberOfTweets = 4,
-  width = 'auto',
-  height = '900',
-  title = ''
+  width = "auto",
+  height = "900",
+  title = "",
 }) => {
-
   const timelineRef = React.useRef<HTMLAnchorElement>(null);
 
   React.useEffect(() => {
@@ -42,8 +41,7 @@ const TwitterTimeline: React.FC<TwitterTimelineProps> = ({
             data-height={height}
             data-tweet-limit={numberOfTweets}
             href={`https://twitter.com/${twitterHandle}`}
-          >
-          </a>
+          ></a>
         </div>
       </Container>
     </section>

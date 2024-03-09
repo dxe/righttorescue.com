@@ -23,36 +23,46 @@ const RidglanFarms: NextPage = () => {
         prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
-        Ridglan Farms is one of the largest breeders of beagles for experimentation in the United States. In 2017, DxE investigators
-        entered the facility and documented the filthy conditions and the psychological trauma of the dogs spinning endlessly inside small cages.
-        The team rescued three beagles, Julie, Anna, and Lucy. Eva, Paul, and Wayne were charged with felony burglary and felony theft
-        charges. Their trial was set to start March 18th at the Dane County Courthouse in Madison, Wisconsin. However, ten days before trial, the state DROPPED all the charges. We believe this dismissal is the result of pressure and{" "}
-          <a
-            href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
-            target="_blank"
-          >
-            press coverage
-          </a> that made it clear there is public support for animal rescue. Unfortunately, the Dane County District Attorney’s office is still failing to prosecute Ridglan Farms for criminal animal cruelty. It is more important now than ever that we keep the pressure on to get justice for these animals. Please help us share the news on{" "}
-          <a
-            href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
-            target="_blank"
-          >
-            Instagram,
-          </a>{" "}
-          <a
-            href="https://www.facebook.com/directactioneverywhere/posts/pfbid037W6Ht2xWjnE9XEwTuyvZhZJfch6WqTxhZ92zF1658dNo7xTZnk1XLdtUbrn5HP4Fl"
-            target="_blank"
-          >
-            Facebook,
-          </a>{" "}
-          and{" "}
-          <a
-            href="https://twitter.com/DxEverywhere/status/1766150519163380055"
-            target="_blank"
-          >
-            Twitter
-          </a>
-          .
+        Ridglan Farms is one of the largest breeders of beagles for
+        experimentation in the United States. In 2017, DxE investigators entered
+        the facility and documented the filthy conditions and the psychological
+        trauma of the dogs spinning endlessly inside small cages. The team
+        rescued three beagles, Julie, Anna, and Lucy. Eva, Paul, and Wayne were
+        charged with felony burglary and felony theft charges. Their trial was
+        set to start March 18th at the Dane County Courthouse in Madison,
+        Wisconsin. However, ten days before trial, the state DROPPED all the
+        charges. We believe this dismissal is the result of pressure and{" "}
+        <a
+          href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
+          target="_blank"
+        >
+          press coverage
+        </a>{" "}
+        that made it clear there is public support for animal rescue.
+        Unfortunately, the Dane County District Attorney’s office is still
+        failing to prosecute Ridglan Farms for criminal animal cruelty. It is
+        more important now than ever that we keep the pressure on to get justice
+        for these animals. Please help us share the news on{" "}
+        <a
+          href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
+          target="_blank"
+        >
+          Instagram,
+        </a>{" "}
+        <a
+          href="https://www.facebook.com/directactioneverywhere/posts/pfbid037W6Ht2xWjnE9XEwTuyvZhZJfch6WqTxhZ92zF1658dNo7xTZnk1XLdtUbrn5HP4Fl"
+          target="_blank"
+        >
+          Facebook,
+        </a>{" "}
+        and{" "}
+        <a
+          href="https://twitter.com/DxEverywhere/status/1766150519163380055"
+          target="_blank"
+        >
+          Twitter
+        </a>
+        .
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
@@ -66,8 +76,8 @@ const RidglanFarms: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
-          20 years.
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a
+          community organizer for over 20 years.
         </Bio>
       </Defendants>
       <Press>

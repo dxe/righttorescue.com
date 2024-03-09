@@ -2,7 +2,9 @@ import type { NextPage } from "next";
 import { CasesSection } from "../components/HomePage/CasesSection";
 import { Case } from "../components/HomePage/Case";
 
-{/* Images should be 700x500 px. */}
+{
+  /* Images should be 700x500 px. */
+}
 
 const Cases: NextPage = () => {
   return (
@@ -27,13 +29,13 @@ const Cases: NextPage = () => {
           page="ashas"
           image="ashas.jpg"
         />
-   <Case
+        <Case
           name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
           location="Sonoma County, California"
           page="sunrise"
           image="sunrise.jpg"
         />
-        
+
         <Case
           name="Sospiro Ranch"
           location="North Carolina"
@@ -62,7 +64,7 @@ const Cases: NextPage = () => {
           image="sf-nc.jpg"
           past
         />
-                <Case
+        <Case
           name="Farmer John"
           location="Los Angeles County, California"
           page="fj"
@@ -70,7 +72,7 @@ const Cases: NextPage = () => {
           past
         />
 
-                <Case
+        <Case
           name="Norbest Turkey"
           location="Sanpete County, Utah"
           page="norbest"
@@ -93,7 +95,7 @@ const Cases: NextPage = () => {
           image="sf-ut.jpg"
           past
         />
-                <Case
+        <Case
           name="Foster Farms"
           location="Merced County, California"
           page="fosterfarms"

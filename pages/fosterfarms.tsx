@@ -18,12 +18,12 @@ const FosterFarms: NextPage = () => {
         Share{" "}
         <a href="https://www.instagram.com/reel/Cmo2GNoJ1yM/" target="_blank">
           this video
-        </a>
-        {" "} and follow the{" "}
+        </a>{" "}
+        and follow the{" "}
         <a href="https://twitter.com/FosterFarmTrial" target="_blank">
           Foster Farms Trial Twitter account
-        </a>
-        {" "} to help elevate news about the trial.
+        </a>{" "}
+        to help elevate news about the trial.
       </Header>
       <Details image="ff.png">
         The #FosterFarmsTrial ended with a "not guilty" verdict on March 17!
@@ -34,32 +34,31 @@ const FosterFarms: NextPage = () => {
           target="_blank"
         >
           Instagram,
-        </a>
-        {" "}
+        </a>{" "}
         <a
           href="https://www.facebook.com/directactioneverywhere/posts/pfbid02nSU2dn2ez62gAUVMqzrvnGYQt5NbQL1gwtkP9rKvP66U7txLF1QsrPBXgWQmTAy2l"
           target="_blank"
         >
           Facebook,
-        </a>
-        {" "}and{" "}
+        </a>{" "}
+        and{" "}
         <a
           href="https://twitter.com/FosterFarmTrial/status/1636837110627078144"
           target="_blank"
         >
           Twitter.
-        </a>
-        {" "}Alexandra Paul and Alicia Santurio were facing theft charges for
+        </a>{" "}
+        Alexandra Paul and Alicia Santurio were facing theft charges for
         rescuing two sick birds, Jax and Ethan, from a stopped slaughter truck
         that was heading into the Foster Farms slaughterhouse in Livingston, CA.
         The same day, DxE released{" "}
         <a href="https://www.youtube.com/watch?v=qWdJst8f7Sk" target="_blank">
           hidden camera footage
-        </a>
-        {" "}filmed inside the slaughterhouse showing chickens routinely
-        missing the stun bath and a device designed to cut their necks, leaving
-        it to workers to identify conscious birds before their evisceration, at
-        a speed of 140 birds per minute. Alexandra and Alicia received theft
+        </a>{" "}
+        filmed inside the slaughterhouse showing chickens routinely missing the
+        stun bath and a device designed to cut their necks, leaving it to
+        workers to identify conscious birds before their evisceration, at a
+        speed of 140 birds per minute. Alexandra and Alicia received theft
         charges in the mail in spring 2022 and pleaded not guilty. The
         #FosterFarmsTrial began on March 7, 2023, a full jury was selected on
         March 10, and the trial concluded March 17 after six hours of jury
@@ -180,7 +179,7 @@ const FosterFarms: NextPage = () => {
           href="https://thebusinessjournal.com/sheriff-shares-alert-about-possible-animal-activist-action-over-next-few-days/"
           iFramelyUrl="https://cdn.iframe.ly/9IIINmR?card=small"
         />
-         <Article
+        <Article
           href="https://www.nationalgeographic.com/animals/article/activists-call-it-rescue-farms-call-it-stealing-what-is-open-rescue"
           iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"
         />

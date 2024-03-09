@@ -17,9 +17,7 @@ export const Lawyers = (props: LawyersProps) => {
           </div>
         </div>
 
-        <Row>
-          {props.children}
-        </Row>
+        <Row>{props.children}</Row>
       </div>
     </section>
   );

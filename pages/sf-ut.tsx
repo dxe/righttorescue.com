@@ -29,11 +29,11 @@ const SmithfieldUtah: NextPage = () => {
             target="_blank"
           >
             infiltrated a massive pig farm
-          </a>
-          {" "} in the Utah desert, a facility owned by Smithfield/WH Group,
-          the world’s largest pig killing company. This one Smithfield farm is
-          20 miles long with over 300 barns on site. The investigators filmed
-          the conditions inside in 360 degree virtual reality footage. Their
+          </a>{" "}
+          in the Utah desert, a facility owned by Smithfield/WH Group, the
+          world’s largest pig killing company. This one Smithfield farm is 20
+          miles long with over 300 barns on site. The investigators filmed the
+          conditions inside in 360 degree virtual reality footage. Their
           footage, titled "Operation Deathstar," documented row after row of
           mother pigs crammed inside gestation crates barely bigger than their
           bodies and piles of dead piglets covered in their mothers' feces.
@@ -49,8 +49,8 @@ const SmithfieldUtah: NextPage = () => {
             target="_blank"
           >
             New York Times
-          </a>
-          {" "}to show the world the nightmarish cruelty happening inside
+          </a>{" "}
+          to show the world the nightmarish cruelty happening inside
           Smithfield’s farms. The story went viral when the FBI started hunting
           for the piglets, raiding sanctuaries and even cutting off part of a
           pig’s ear to do DNA testing.
@@ -71,8 +71,8 @@ const SmithfieldUtah: NextPage = () => {
           an animal rights activist.
         </Bio>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
-          20 years.
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a
+          community organizer for over 20 years.
         </Bio>
       </Defendants>
       <Press>
@@ -228,38 +228,38 @@ const SmithfieldUtah: NextPage = () => {
           href="https://www.stgeorgeutah.com/news/archive/2023/04/20/cdr-beaver-officials-say-animal-activist-should-go-to-jail-for-approaching-people-at-park-during-event/"
           iFramelyUrl="https://cdn.iframe.ly/djgk2KL?card=small"
         />
-         <Article
+        <Article
           href="https://www.sltrib.com/opinion/commentary/2023/04/23/curtis-vollmar-is-free-speech-dead/"
-          iFramelyUrl="https://cdn.iframe.ly/HKtwWz7?card=small"          
+          iFramelyUrl="https://cdn.iframe.ly/HKtwWz7?card=small"
         />
-         <Article
+        <Article
           href="https://www.stgeorgeutah.com/news/archive/2023/04/25/cdr-beaver-judge-finds-animal-activist-guilty-of-trespassing-disorderly-conduct-during-pioneer-day-event/#.ZErBt-yZOhw"
-          iFramelyUrl="https://cdn.iframe.ly/EshATL0?card=small"          
+          iFramelyUrl="https://cdn.iframe.ly/EshATL0?card=small"
         />
         <Article
           href="https://www.nationalgeographic.com/animals/article/activists-call-it-rescue-farms-call-it-stealing-what-is-open-rescue"
-          iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"          
+          iFramelyUrl="https://cdn.iframe.ly/yysKKkc?card=small"
         />
         <Article
           href="https://www.sltrib.com/opinion/commentary/2023/08/10/max-corwin-government-is-trying/"
-          iFramelyUrl="https://cdn.iframe.ly/2gjsoVB?card=small"          
-         />
+          iFramelyUrl="https://cdn.iframe.ly/2gjsoVB?card=small"
+        />
         <Article
           href="https://www.sltrib.com/news/2023/08/15/utah-officers-shut-down-animal/"
-          iFramelyUrl="https://cdn.iframe.ly/aynWMph?card=small"          
-         />
-         <Article
+          iFramelyUrl="https://cdn.iframe.ly/aynWMph?card=small"
+        />
+        <Article
           href="https://www.stgeorgeutah.com/news/archive/2023/08/14/cdr-beaver-county-pays-pig-farm-pioneer-day-protesters-more-than-52k-in-federal-civil-rights-settlement/"
-          iFramelyUrl="https://cdn.iframe.ly/X19KSdX?card=small"          
-         />
-         <Article
+          iFramelyUrl="https://cdn.iframe.ly/X19KSdX?card=small"
+        />
+        <Article
           href="https://www.vox.com/23903831/justin-marceau-animal-law-direct-action-factory-farm-future-perfect-50-2023"
-          iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"          
-         />
-         <Article
+          iFramelyUrl="https://cdn.iframe.ly/4kCqcXq?card=small"
+        />
+        <Article
           href="https://www.newyorker.com/culture/the-weekend-essay/what-would-it-mean-to-treat-animals-fairly"
-          iFramelyUrl="https://cdn.iframe.ly/4bm8QqI?card=small"          
-         />
+          iFramelyUrl="https://cdn.iframe.ly/4bm8QqI?card=small"
+        />
       </Press>
     </>
   );

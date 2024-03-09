@@ -27,12 +27,18 @@ const Rain: NextPage = () => {
         live. Wayne took the baby, named Rain, to emergency veterinary care and
         today, Rain is safe with a family who takes care of him. Wayne's trial
         began on Monday, November 29, 2021 at the Transylvania County Courthouse
-        in Brevard, NC. It concluded on Monday, December 6, 2021 when the jury reached a verdict of guilty on both felony charges. The judge issued a suspended sentence. The North Carolina Court of Appeals upheld the sentence, and the North Carolina Supreme Court is presently considering Wayne's petition for discretionary review. If the sentence is upheld, Wayne will have to do two years of supervised probation and pay $250 in restitution, but no jail time.
+        in Brevard, NC. It concluded on Monday, December 6, 2021 when the jury
+        reached a verdict of guilty on both felony charges. The judge issued a
+        suspended sentence. The North Carolina Court of Appeals upheld the
+        sentence, and the North Carolina Supreme Court is presently considering
+        Wayne's petition for discretionary review. If the sentence is upheld,
+        Wayne will have to do two years of supervised probation and pay $250 in
+        restitution, but no jail time.
       </Details>
       <Defendants>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
-          Wayne is an attorney and co-founder of The Simple Heart. He has been a community organizer for over
-          20 years.
+          Wayne is an attorney and co-founder of The Simple Heart. He has been a
+          community organizer for over 20 years.
         </Bio>
       </Defendants>
       <Press>
