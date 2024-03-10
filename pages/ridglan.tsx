@@ -105,6 +105,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
           iFramelyUrl="https://cdn.iframe.ly/oDuYJxm?card=small"
         />
+         <Article
+          href="https://www.commondreams.org/news/puppy-mill-rescuers"
+          iFramelyUrl="https://cdn.iframe.ly/UnOe752?card=small"
+        />
       </Press>
     </>
   );
