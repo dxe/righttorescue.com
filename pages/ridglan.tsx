@@ -101,6 +101,10 @@ const RidglanFarms: NextPage = () => {
           href="https://sentientmedia.org/beagles-bred-on-factory-farms/"
           iFramelyUrl="https://cdn.iframe.ly/oMgAZF3?card=small"
         />
+          <Article
+          href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
+          iFramelyUrl="https://cdn.iframe.ly/oDuYJxm?card=small"
+        />
       </Press>
     </>
   );
