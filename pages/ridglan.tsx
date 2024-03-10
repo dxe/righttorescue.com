@@ -97,6 +97,10 @@ const RidglanFarms: NextPage = () => {
           href="https://dailyillini.com/opinions-stories/2024/01/31/lte-dog-experiments-ui/"
           iFramelyUrl="https://cdn.iframe.ly/peYRYWH?card=small"
         />
+          <Article
+          href="https://sentientmedia.org/beagles-bred-on-factory-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/oMgAZF3?card=small"
+        />
       </Press>
     </>
   );
