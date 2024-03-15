@@ -98,6 +98,17 @@ export const Header = (props: HeaderProps) => {
                   </a>
                 </p>
               )}
+              {props.ctaText3 && props.ctaLink3 && (
+                <p className="text-white mb-5">
+                  <a
+                    href={props.ctaLink3}
+                    target="_blank"
+                    className="btn btn-primary"
+                  >
+                    {props.ctaText3}
+                  </a>
+                </p>
+              )}
             </div>
           )}
         </div>
