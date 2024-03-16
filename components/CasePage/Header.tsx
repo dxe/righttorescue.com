@@ -126,5 +126,7 @@ interface HeaderProps {
   ctaLink1?: string;
   ctaText2?: string;
   ctaLink2?: string;
+  ctaText3?: string;
+  ctaLink3?: string;
   children?: any;
 }

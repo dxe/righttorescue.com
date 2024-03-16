@@ -15,11 +15,11 @@ const RidglanFarms: NextPage = () => {
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1/1"
         ctaText1="Instructions for Calling"
-        ctaLink1="https://docs.google.com/document/d/1A6PyZV9fYke72q1tj7se7duBbW-UJAJVl7Os13XO3BI/edit?usp=sharing"
+        ctaLink1="https://docs.google.com/document/d/1A6PyZV9fYke72q1tj7se7duBbW-UJAJVl7Os13XO3BI"
         ctaText2="Instructions for Emailing"
-        ctaLink2="https://docs.google.com/document/d/1L-6mYjuelm1RThoSKCPZ1IytNlGGWHO6zLlHCyoZTBY/edit?usp=sharing"
+        ctaLink2="https://docs.google.com/document/d/1n4XUHQropg6FQFI6y42vojrgenvA_8kmLazdC51lDE8"
         ctaText3="Instructions for Posting"
-        ctaLink3="https://docs.google.com/document/d/1n4XUHQropg6FQFI6y42vojrgenvA_8kmLazdC51lDE8/edit?usp=sharing"
+        ctaLink3="https://docs.google.com/document/d/1L-6mYjuelm1RThoSKCPZ1IytNlGGWHO6zLlHCyoZTBY"
       >
         Call and email Dane County District Attorney Ismael Ozanne asking him to
         prosecute Ridglan Farms for animal cruelty.
