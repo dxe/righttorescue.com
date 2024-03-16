@@ -1,4 +1,5 @@
 import styles from "./Header.module.css";
+import React, { useEffect } from 'react';
 
 export const Header = (props: HeaderProps) => {
   function parseRatio(ratio: string): { width: number; height: number } {
@@ -19,7 +20,7 @@ export const Header = (props: HeaderProps) => {
   var ratio = parseRatio(props.videoRatio);
   var tall = isTall(ratio.width, ratio.height);
 
-  return (
+  var header = (
     <section id="sign" className="about-section text-center pb-3">
       <div className="container pt-5 justify-content-center">
         <div className="mx-auto" style={{ maxWidth: 600 }}>
@@ -81,14 +82,14 @@ export const Header = (props: HeaderProps) => {
                   <a
                     href={props.ctaLink1}
                     target="_blank"
-                    className="btn btn-primary"
+                    className="btn btn-primary equal-width-button"
                   >
                     {props.ctaText1}
                   </a>
                 </p>
               )}
               {props.ctaText2 && props.ctaLink2 && (
-                <p className="text-white mb-5">
+                <p className="text-white">
                   <a
                     href={props.ctaLink2}
                     target="_blank"
@@ -115,6 +116,28 @@ export const Header = (props: HeaderProps) => {
       </div>
     </section>
   );
+
+  // Set all buttons to be the same width
+  useEffect(() => {
+    const buttons = document.querySelectorAll('.equal-width-button');
+    let maxWidth = 0;
+
+    // Find the widest button
+    buttons.forEach((button: Element) => {
+
+      const width = (button as HTMLButtonElement).offsetWidth;
+      if (width > maxWidth) {
+        maxWidth = width;
+      }
+    });
+
+    // Set all buttons to the width of the widest button
+    buttons.forEach(button => {
+      (button as HTMLButtonElement).style.width = `${maxWidth+1}px`;
+    });
+  }, [props.ctaText1, props.ctaLink1, props.ctaText2, props.ctaLink2, props.ctaText3, props.ctaLink3]); // Dependencies
+
+  return header
 };
 
 interface HeaderProps {
