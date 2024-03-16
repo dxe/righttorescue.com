@@ -95,19 +95,19 @@ const RidglanFarms: NextPage = () => {
           href="https://www.seehafernews.com/2023/05/14/activists-put-spotlight-on-treatment-of-dogs-at-dane-county-research-facility/"
           iFramelyUrl="https://cdn.iframe.ly/6NnfFyy?card=small"
         />
-         <Article
+        <Article
           href="https://dailyillini.com/opinions-stories/2024/01/31/lte-dog-experiments-ui/"
           iFramelyUrl="https://cdn.iframe.ly/peYRYWH?card=small"
         />
-          <Article
+        <Article
           href="https://sentientmedia.org/beagles-bred-on-factory-farms/"
           iFramelyUrl="https://cdn.iframe.ly/oMgAZF3?card=small"
         />
-          <Article
+        <Article
           href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
           iFramelyUrl="https://cdn.iframe.ly/oDuYJxm?card=small"
         />
-         <Article
+        <Article
           href="https://www.commondreams.org/news/puppy-mill-rescuers"
           iFramelyUrl="https://cdn.iframe.ly/UnOe752?card=small"
         />
