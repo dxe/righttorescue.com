@@ -2,7 +2,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import {
   faFacebook,
   faInstagram,
-  faTwitter,
+  faXTwitter,
 } from "@fortawesome/free-brands-svg-icons";
 
 export const Footer = () => {
@@ -18,7 +18,7 @@ export const Footer = () => {
               target="_blank"
             >
               <FontAwesomeIcon
-                icon={faTwitter}
+                icon={faXTwitter}
                 size="lg"
                 style={{ maxWidth: 30 }}
               />
