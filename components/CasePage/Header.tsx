@@ -1,5 +1,5 @@
 import styles from "./Header.module.css";
-import React, { useEffect } from 'react';
+import React from "react";
 
 export const Header = (props: HeaderProps) => {
   function parseRatio(ratio: string): { width: number; height: number } {
@@ -17,10 +17,10 @@ export const Header = (props: HeaderProps) => {
     return height / width > 1.2;
   }
 
-  var ratio = parseRatio(props.videoRatio);
-  var tall = isTall(ratio.width, ratio.height);
+  const ratio = parseRatio(props.videoRatio);
+  const tall = isTall(ratio.width, ratio.height);
 
-  var header = (
+  return (
     <section id="sign" className="about-section text-center pb-3">
       <div className="container pt-5 justify-content-center">
         <div className="mx-auto" style={{ maxWidth: 600 }}>
@@ -74,70 +74,50 @@ export const Header = (props: HeaderProps) => {
           </div>
 
           {props.children && (
-            <div className="col-lg-5 py-3 my-auto">
+            <div className="col-lg-5 py-3 my-auto flex-column d-flex align-items-center">
               <h3 className="text-white mb-3">Take Action</h3>
               <p className="text-white">{props.children}</p>
-              {props.ctaText1 && props.ctaLink1 && (
-                <p className="text-white">
-                  <a
-                    href={props.ctaLink1}
-                    target="_blank"
-                    className="btn btn-primary equal-width-button"
-                  >
-                    {props.ctaText1}
-                  </a>
-                </p>
-              )}
-              {props.ctaText2 && props.ctaLink2 && (
-                <p className="text-white">
-                  <a
-                    href={props.ctaLink2}
-                    target="_blank"
-                    className="btn btn-primary equal-width-button"
-                  >
-                    {props.ctaText2}
-                  </a>
-                </p>
-              )}
-              {props.ctaText3 && props.ctaLink3 && (
-                <p className="text-white mb-5">
-                  <a
-                    href={props.ctaLink3}
-                    target="_blank"
-                    className="btn btn-primary equal-width-button"
-                  >
-                    {props.ctaText3}
-                  </a>
-                </p>
-              )}
+              <div className="flex-column d-flex">
+                {props.ctaText1 && props.ctaLink1 && (
+                  <p className="text-white">
+                    <a
+                      href={props.ctaLink1}
+                      target="_blank"
+                      className="btn btn-primary w-100"
+                    >
+                      {props.ctaText1}
+                    </a>
+                  </p>
+                )}
+                {props.ctaText2 && props.ctaLink2 && (
+                  <p className="text-white">
+                    <a
+                      href={props.ctaLink2}
+                      target="_blank"
+                      className="btn btn-primary w-100"
+                    >
+                      {props.ctaText2}
+                    </a>
+                  </p>
+                )}
+                {props.ctaText3 && props.ctaLink3 && (
+                  <p className="text-white mb-5">
+                    <a
+                      href={props.ctaLink3}
+                      target="_blank"
+                      className="btn btn-primary w-100"
+                    >
+                      {props.ctaText3}
+                    </a>
+                  </p>
+                )}
+              </div>
             </div>
           )}
         </div>
       </div>
     </section>
   );
-
-  // Set all buttons to be the same width
-  useEffect(() => {
-    const buttons = document.querySelectorAll('.equal-width-button');
-    let maxWidth = 0;
-
-    // Find the widest button
-    buttons.forEach((button: Element) => {
-
-      const width = (button as HTMLButtonElement).offsetWidth;
-      if (width > maxWidth) {
-        maxWidth = width;
-      }
-    });
-
-    // Set all buttons to the width of the widest button
-    buttons.forEach(button => {
-      (button as HTMLButtonElement).style.width = `${maxWidth+1}px`;
-    });
-  }, [props.ctaText1, props.ctaLink1, props.ctaText2, props.ctaLink2, props.ctaText3, props.ctaLink3]); // Dependencies
-
-  return header
 };
 
 interface HeaderProps {
