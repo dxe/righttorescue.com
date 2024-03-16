@@ -93,7 +93,7 @@ export const Header = (props: HeaderProps) => {
                   <a
                     href={props.ctaLink2}
                     target="_blank"
-                    className="btn btn-primary"
+                    className="btn btn-primary equal-width-button"
                   >
                     {props.ctaText2}
                   </a>
@@ -104,7 +104,7 @@ export const Header = (props: HeaderProps) => {
                   <a
                     href={props.ctaLink3}
                     target="_blank"
-                    className="btn btn-primary"
+                    className="btn btn-primary equal-width-button"
                   >
                     {props.ctaText3}
                   </a>
