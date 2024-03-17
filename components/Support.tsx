@@ -29,20 +29,11 @@ export const Support = () => {
                 }}
               >
                 Your support allows us to stand up to legal repression and
-                continue our groundbreaking work.
-              </h2>
+                continue our groundbreaking work.<br /><br />
 
-              <p>
-                  <span className="text-white"
-                    style={{
-                      backgroundColor: 'rgba(0, 0, 0, 0.35)',
-                      borderRadius: '4px',
-                      textShadow: '2px 2px 1px rgba(0, 0, 0, 1)'
-                      }}>
-                        All monthly donations are being matched with $100 from an
-                        anonymous&nbsp;donor.
-                  </span>
-              </p>
+                All monthly donations are being matched with $100 from an
+                anonymous&nbsp;donor.
+              </h2>
 
               <Button
                 style={{ minWidth: 250 }}
