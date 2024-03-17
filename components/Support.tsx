@@ -32,6 +32,18 @@ export const Support = () => {
                 continue our groundbreaking work.
               </h2>
 
+              <p>
+                  <span className="text-white"
+                    style={{
+                      backgroundColor: 'rgba(0, 0, 0, 0.35)',
+                      borderRadius: '4px',
+                      textShadow: '2px 2px 1px rgba(0, 0, 0, 1)'
+                      }}>
+                        All monthly donations are being matched with $100 from an
+                        anonymous&nbsp;donor.
+                  </span>
+              </p>
+
               <Button
                 style={{ minWidth: 250 }}
                 id="donateButton"
