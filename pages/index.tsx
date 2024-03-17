@@ -11,10 +11,7 @@ import { Letter } from "../components/HomePage/Letter";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead
-        image="Shy Beagle Inside a Cage.png"
-        takeActionPage={undefined}
-      />
+      <MastHead image="shy-beagle.jpg" takeActionPage={undefined} />
       <FeaturedCase
         name="Rescuing Beagles from Abuse at Ridglan Farms"
         page="ridglan"

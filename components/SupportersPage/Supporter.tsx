@@ -3,12 +3,11 @@ import { Col } from "react-bootstrap";
 export const Supporter = (props: SupporterProps) => {
   return (
     <Col>
-      <div style={{ position: "relative", cursor: "pointer", margin: "1rem" }}>
+      <div className="tw-bg-white tw-aspect-square tw-p-2 tw-m-4 tw-shadow-lg tw-flex tw-justify-center tw-max-w-[300px] tw-mx-auto">
         <img
           src={`/img/${props.image}`}
-          className="img-fluid"
-          alt=""
-          style={{ boxShadow: "0px 4px 8px rgba(0, 0, 0, 0.2)" }} // Add shadow
+          className="tw-w-full tw-h-full tw-object-contain"
+          alt={props.name}
         />
       </div>
     </Col>
