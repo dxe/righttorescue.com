@@ -47,7 +47,7 @@ export const MastHead = (props: MastHeadProps) => {
           </ScrollLink>
 
           {props.takeActionPage && (
-            <Link href={`/${props.takeActionPage}`} passHref>
+            <Link href={`/${props.takeActionPage}`} legacyBehavior>
               <Button variant="secondary" className="mx-2 my-2 fade-in-third">
                 Take Action
               </Button>

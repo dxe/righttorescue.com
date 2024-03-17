@@ -1,4 +1,3 @@
-import Script from "next/script";
 import { useEffect } from "react";
 
 export const Press = (props: PressProps) => {

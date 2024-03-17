@@ -32,7 +32,7 @@ function MyApp({ Component, pageProps }: AppProps) {
   }, []);
 
   return (
-    <SSRProvider>
+    <>
       <Head>
         <meta charSet="utf-8" />
         <meta
@@ -80,7 +80,7 @@ function MyApp({ Component, pageProps }: AppProps) {
           onClose={() => setDonateModalOpen(false)}
         />
       </Layout>
-    </SSRProvider>
+    </>
   );
 }
 

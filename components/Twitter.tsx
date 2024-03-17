@@ -1,11 +1,12 @@
+import React from "react";
+import { Container } from "react-bootstrap";
+import Script from "next/script";
+
 declare global {
   interface Window {
     twttr: any;
   }
 }
-import Script from "next/script";
-import React from "react";
-import { Container } from "react-bootstrap";
 
 interface TwitterTimelineProps {
   twitterHandle: string;
@@ -22,18 +23,27 @@ const TwitterTimeline: React.FC<TwitterTimelineProps> = ({
   height = "900",
   title = "",
 }) => {
+  const [isLoaded, setIsLoaded] = React.useState(false);
   const timelineRef = React.useRef<HTMLAnchorElement>(null);
 
   React.useEffect(() => {
+    if (!isLoaded) return;
     if (window.twttr && window.twttr.widgets) {
       window.twttr.widgets.load(timelineRef.current);
     }
-  }, [twitterHandle, numberOfTweets, width, height, title]);
+  }, [isLoaded]);
 
   return (
     <section className="projects-section bg-light">
+      <Script
+        id="twitter-widgets"
+        async
+        src="https://platform.twitter.com/widgets.js"
+        strategy="afterInteractive"
+        onLoad={() => setIsLoaded(true)}
+      />
       <Container>
-        <div style={{ width }}>
+        <div style={{ width }} suppressHydrationWarning>
           <h3>{title}</h3>
           <a
             ref={timelineRef}
