@@ -111,6 +111,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.commondreams.org/news/puppy-mill-rescuers"
           iFramelyUrl="https://cdn.iframe.ly/UnOe752?card=small"
         />
+        <Article
+          href="https://isthmus.com/news/news/Ridglan-Farms-beagle-rescue-case-dismissed/"
+          iFramelyUrl="https://cdn.iframe.ly/127TebU?card=small"
+        />
       </Press>
     </>
   );
