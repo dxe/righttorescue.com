@@ -115,6 +115,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/Ridglan-Farms-beagle-rescue-case-dismissed/"
           iFramelyUrl="https://cdn.iframe.ly/127TebU?card=small"
         />
+        <Article
+          href="https://www.kron4.com/news/bay-area/charges-dropped-berkeley-resident-sued-for-beagle-rescue-mission/"
+          iFramelyUrl="https://cdn.iframe.ly/YBPrIEC?card=small"
+        />
       </Press>
     </>
   );
