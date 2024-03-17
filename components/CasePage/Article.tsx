@@ -1,5 +1,3 @@
-import { LinkPreview } from "@dhaiwat10/react-link-preview";
-
 export const Article = (props: ArticleProps) => {
   return (
     <div className="iframely-embed my-3">

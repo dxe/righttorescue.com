@@ -1,5 +1,4 @@
 import { Col } from "react-bootstrap";
-import Link from "next/link";
 
 export const Supporter = (props: SupporterProps) => {
   return (

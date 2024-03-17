@@ -1,6 +1,5 @@
 import { Container, Nav, Navbar } from "react-bootstrap";
 import { useEffect, useRef, useState } from "react";
-//@ts-ignore
 import { Link as ScrollLink } from "react-scroll";
 import { useRouter } from "next/router";
 import PageLink from "next/link";
@@ -68,24 +67,24 @@ export const MainNav = ({
         style={{ paddingTop: navbarTopPadding }}
       >
         {announcement && (
-          <PageLink href={`/${announcementPage}`} passHref>
-            <a
-              style={{
-                backgroundColor: "#3974bd",
-                color: "white",
-                position: "absolute",
-                fontSize: "0.9rem",
-                width: "100%",
-                textAlign: "center",
-                fontWeight: "700",
-                top: 0,
-                left: 0,
-                padding: "5px 2px 5px 2px",
-              }}
-              ref={announcementBarRef}
-            >
-              {announcement}
-            </a>
+          <PageLink
+            href={`/${announcementPage}`}
+            passHref
+            style={{
+              backgroundColor: "#3974bd",
+              color: "white",
+              position: "absolute",
+              fontSize: "0.9rem",
+              width: "100%",
+              textAlign: "center",
+              fontWeight: "700",
+              top: 0,
+              left: 0,
+              padding: "5px 2px 5px 2px",
+            }}
+            ref={announcementBarRef}
+          >
+            {announcement}
           </PageLink>
         )}
         <Container>
@@ -111,15 +110,19 @@ export const MainNav = ({
               <Link to="support" isNavLink={true} onClick={collapseNavbar}>
                 Donate
               </Link>
-              <PageLink href="/cases">
-                <a className={"nav-link"} onClick={collapseNavbar}>
-                  Cases
-                </a>
+              <PageLink
+                href="/cases"
+                className={"nav-link"}
+                onClick={collapseNavbar}
+              >
+                Cases
               </PageLink>
-              <PageLink href="/supporters">
-                <a className={"nav-link"} onClick={collapseNavbar}>
-                  Supporters
-                </a>
+              <PageLink
+                href="/supporters"
+                className={"nav-link"}
+                onClick={collapseNavbar}
+              >
+                Supporters
               </PageLink>
             </Nav>
           </Navbar.Collapse>
@@ -158,10 +161,12 @@ const Link = ({ to, isNavLink, children, onClick, forcePageLink }: any) => {
     );
 
   return (
-    <PageLink href={to === "/" ? to : `/#${to}`}>
-      <a className={isNavLink ? "nav-link" : ""} onClick={onClick}>
-        {children}
-      </a>
+    <PageLink
+      href={to === "/" ? to : `/#${to}`}
+      className={isNavLink ? "nav-link" : ""}
+      onClick={onClick}
+    >
+      {children}
     </PageLink>
   );
 };

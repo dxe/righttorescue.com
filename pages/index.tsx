@@ -1,15 +1,12 @@
 import type { NextPage } from "next";
 import { MastHead } from "../components/HomePage/MastHead";
-import { Letter } from "../components/HomePage/Letter";
-import { CasesSection } from "../components/HomePage/CasesSection";
-import React, { useEffect, useState } from "react";
-import { Container, Row, Col } from "react-bootstrap";
-import { Case } from "../components/HomePage/Case";
+import React from "react";
 import { Announcements } from "../components/HomePage/Announcements";
 import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 import { About } from "../components/HomePage/About";
 import TwitterTimeline from "../components/Twitter";
+import { Letter } from "../components/HomePage/Letter";
 
 const Home: NextPage = () => {
   return (

@@ -32,7 +32,7 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
           >
             <div>{props.children}</div>
             <p className="text-white mt-4 mb-5 text-center mx-auto">
-              <Link href={`/${props.page}`} passHref>
+              <Link href={`/${props.page}`} legacyBehavior>
                 <Button>Learn more</Button>
               </Link>
             </p>
