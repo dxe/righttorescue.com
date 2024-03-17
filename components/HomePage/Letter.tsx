@@ -140,7 +140,7 @@ export const LetterForm = () => {
             ...(data.zip && { zip: data.zip }),
             ...(data.city && { city: data.city }),
             message: data.message,
-            campaign: "test", // TODO(jh): change to "sonoma" after testing.
+            campaign: "sonoma",
             token,
           },
           headers: {
