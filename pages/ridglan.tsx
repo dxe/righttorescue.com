@@ -119,6 +119,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.kron4.com/news/bay-area/charges-dropped-berkeley-resident-sued-for-beagle-rescue-mission/"
           iFramelyUrl="https://cdn.iframe.ly/YBPrIEC?card=small"
         />
+         <Article
+          href="https://isthmus.com/news/news/activists-demand-that-dane-county-da-prosecute-ridglan-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/Zb65faV?card=small"
+        />
       </Press>
     </>
   );
