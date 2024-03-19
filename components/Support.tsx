@@ -29,8 +29,9 @@ export const Support = () => {
                 }}
               >
                 Your support allows us to stand up to legal repression and
-                continue our groundbreaking work.<br /><br />
-
+                continue our groundbreaking work.
+                <br />
+                <br />
                 All monthly donations are being matched with $100 from an
                 anonymous&nbsp;donor.
               </h2>

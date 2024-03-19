@@ -1,4 +1,4 @@
-import { useCallback, useEffect, useMemo, useRef, useState } from "react";
+import { useCallback, useMemo, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import {
@@ -7,7 +7,6 @@ import {
   PetitionFormSchema,
 } from "../../data/petition";
 import ky from "ky";
-import { SonomaCities } from "../../data/zipcodes";
 import { Alert, AlertDescription, AlertTitle } from "../ui/alert";
 import { LoaderIcon, MailCheckIcon } from "lucide-react";
 import {
@@ -20,14 +19,6 @@ import {
   FormMessage,
 } from "../ui/form";
 import { Input } from "../ui/input";
-import {
-  Select,
-  SelectContent,
-  SelectItem,
-  SelectTrigger,
-  SelectValue,
-} from "../ui/select";
-import { cn } from "../../utils";
 import { Checkbox } from "../ui/checkbox";
 import { Textarea } from "../ui/textarea";
 import { Button } from "../ui/button";
@@ -73,7 +64,6 @@ export const LetterForm = () => {
       phone: "",
       outsideUS: false,
       zip: "",
-      city: "",
       message: DEFAULT_MESSAGE,
     },
   });
@@ -117,7 +107,6 @@ export const LetterForm = () => {
             email: data.email,
             ...(data.phone && { phone: data.phone }),
             ...(data.zip && { zip: data.zip }),
-            ...(data.city && { city: data.city }),
             ...(!data.outsideUS && { country: "United States" }),
             fullHref: window.location.href,
           }),
@@ -138,9 +127,8 @@ export const LetterForm = () => {
             ...(data.phone && { phone: data.phone }),
             outside_us: data.outsideUS,
             ...(data.zip && { zip: data.zip }),
-            ...(data.city && { city: data.city }),
             message: data.message,
-            campaign: "sonoma",
+            campaign: "ridglan",
             token,
           },
           headers: {
@@ -160,31 +148,12 @@ export const LetterForm = () => {
   );
 
   const outsideUS = watch("outsideUS");
-  const zip = watch("zip");
-  const isInSonomaCounty = useMemo(() => {
-    return zip && zip in SonomaCities;
-  }, [zip]);
-  const cities = useMemo(() => {
-    if (!isInSonomaCounty) {
-      return [];
-    }
-    return SonomaCities[zip as keyof typeof SonomaCities];
-  }, [isInSonomaCounty, zip]);
-
-  // When cities change, just select it if there's only one. Else, reset the city.
-  useEffect(() => {
-    if (cities.length === 1) {
-      setValue("city", cities[0]);
-    } else {
-      setValue("city", "");
-    }
-  }, [cities, setValue]);
 
   const injectValuesIntoMessage = useCallback(
-    (name: string | undefined, city: string | undefined) => {
+    (name: string | undefined) => {
       if (dirtyFields.message) {
         console.log(
-          "Skipped updating message with name or city since it has been customized."
+          "Skipped updating message with name since it has been customized."
         );
         return;
       }
@@ -192,7 +161,7 @@ export const LetterForm = () => {
         defaultValue: DEFAULT_MESSAGE.replace(
           "[Your name]",
           name || "[Your name]"
-        ).replace("[Your city if you live in Sonoma County]", city || ""),
+        ),
       });
     },
     [dirtyFields.message, resetField]
@@ -231,7 +200,7 @@ export const LetterForm = () => {
                     {...field}
                     onBlur={() => {
                       field.onBlur();
-                      injectValuesIntoMessage(field.value, getValues("city"));
+                      injectValuesIntoMessage(field.value);
                     }}
                   />
                 </FormControl>
@@ -285,10 +254,7 @@ export const LetterForm = () => {
                     {...field}
                     onBlur={() => {
                       field.onBlur();
-                      injectValuesIntoMessage(
-                        getValues("name"),
-                        getValues("city")
-                      );
+                      injectValuesIntoMessage(getValues("name"));
                     }}
                   />
                 </FormControl>
@@ -298,46 +264,10 @@ export const LetterForm = () => {
           />
           <FormField
             control={control}
-            name="city"
-            disabled={outsideUS || isSubmitting}
-            render={({ field }) => (
-              <FormItem className={cn({ "tw-hidden": !cities.length })}>
-                <FormLabel>City</FormLabel>
-                <Select
-                  onValueChange={(val) => {
-                    field.onChange(val);
-                    injectValuesIntoMessage(getValues("name"), val);
-                  }}
-                  defaultValue={field.value}
-                  value={field.value}
-                >
-                  <FormControl>
-                    <SelectTrigger>
-                      <SelectValue placeholder="Select a city" />
-                    </SelectTrigger>
-                  </FormControl>
-                  <SelectContent>
-                    {cities?.map((city) => (
-                      <SelectItem value={city} key={city} onBlur={field.onBlur}>
-                        {city}
-                      </SelectItem>
-                    ))}
-                  </SelectContent>
-                </Select>
-                <FormMessage />
-              </FormItem>
-            )}
-          />
-          <FormField
-            control={control}
             name="outsideUS"
             disabled={isSubmitting}
             render={({ field }) => (
-              <FormItem
-                className={cn("tw-flex tw-gap-2 tw-items-center", {
-                  "tw-hidden": cities.length,
-                })}
-              >
+              <FormItem className="tw-flex tw-gap-2 tw-items-center">
                 <FormControl>
                   <Checkbox
                     checked={field.value}
