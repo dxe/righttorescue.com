@@ -24,7 +24,9 @@ jobs:
           pnpm export
       - uses: jakejarvis/s3-sync-action@master
         with:
-          args: --acl public-read --follow-symlinks --delete --exclude '.git*'
+          # put back --delete (before --exclude) after S3 is fixed to redirect all 404s to the app for case insensitivity.
+          # /Ridglan is linked to from the internet and doesn't work if we delete the temporary and manually created /Ridglan folder in S3.
+          args: --acl public-read --follow-symlinks --exclude '.git*'
         env:
           AWS_S3_BUCKET: ${{ secrets.S3_BUCKET }}
           AWS_ACCESS_KEY_ID: ${{ secrets.AWS_ACCESS_KEY_ID }}
