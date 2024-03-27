@@ -47,11 +47,12 @@ function MyApp({ Component, pageProps }: AppProps) {
         <link rel="icon" type="image/png" href="favicon.ico" />
         <title>Right to Rescue</title>
       </Head>
+      {/* Google Tag Manager */}
       <Script
         src={`https://www.googletagmanager.com/gtag/js?id=${GTM_CONFIG}`}
         strategy="afterInteractive"
       />
-      <Script id="google-analytics" strategy="afterInteractive">
+      <Script id="google-tag-manager" strategy="afterInteractive">
         {`
           (function (w, d, s, l, i) { 
               w[l] = w[l] || [];
@@ -73,6 +74,8 @@ function MyApp({ Component, pageProps }: AppProps) {
           style={{ display: "none", visibility: "hidden" }}
         ></iframe>
       </noscript>
+      {/* End Google Tag Manager */}
+
       <Layout>
         <Component {...pageProps} />
         <DonateModal
