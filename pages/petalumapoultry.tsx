@@ -59,8 +59,7 @@ const Reichardt: NextPage = () => {
         strict pretrial release conditions, including informing the authorities
         any time she leaves her home county. She also has been barred from
         possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe
-        rescuing any more suffering animals. Zoe's next court date is March 29,
-        2024 to schedule preliminary hearings.
+        rescuing any more suffering animals. Zoe's preliminary hearing is scheduled for May 3. In California, all felony defendants have the right to a preliminary hearing where the State presents evidence before a judge who decides if there is enough evidence for each charge to proceed to trial.
       </Details>
 
       <Defendants>
