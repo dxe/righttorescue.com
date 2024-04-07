@@ -123,6 +123,18 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/activists-demand-that-dane-county-da-prosecute-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/Zb65faV?card=small"
         />
+        <Article
+          href="https://www.wkow.com/video/animal-rights-activists-protest-downtown-against-ridglan-farms/video_b3259b14-ca04-5272-98a3-5175c7969d0e.html"
+          iFramelyUrl="https://cdn.iframe.ly/iLpEDYa?card=small"
+        />
+        <Article
+          href="https://plus.thebulwark.com/p/when-permissible-to-rescue-dog-in-peril"
+          iFramelyUrl="https://cdn.iframe.ly/ONkaXOW?card=small"
+        />
+        <Article
+          href="https://isthmus.com/news/ridglan-farms-critics-want-their-day-in-court/"
+          iFramelyUrl="https://cdn.iframe.ly/wLA2WmX?card=small"
+        />
       </Press>
     </>
   );
