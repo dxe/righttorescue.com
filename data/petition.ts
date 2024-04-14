@@ -48,7 +48,7 @@ export const PetitionFormSchema = z
 
 export type PetitionForm = z.infer<typeof PetitionFormSchema>;
 
-export const DEFAULT_MESSAGE = `Dear District Attorney Ozanne,
+export const DEFAULT_MESSAGE = `Dear District Attorney Rodriguez,
 
 I urge you to prosecute animal cruelty, not animal rescue. National polls consistently show overwhelming public support for strong legal protection for animals. Yet, countless investigations have shown that animal-using industries routinely violate animal welfare laws with no repercussions. It is time for a change.
 

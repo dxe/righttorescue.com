@@ -128,7 +128,7 @@ export const LetterForm = () => {
             outside_us: data.outsideUS,
             ...(data.zip && { zip: data.zip }),
             message: data.message,
-            campaign: "ridglan",
+            campaign: "sonoma",
             token,
           },
           headers: {
