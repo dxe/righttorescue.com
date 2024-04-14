@@ -15,8 +15,8 @@ const Home: NextPage = () => {
       <FeaturedCase
         name="Rescue at Perdue's Petaluma Poultry Slaughterhouse"
         page="petalumapoultry"
-        video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1104800410507149%2F&show_text=false&width=267&t=0"
-        videoRatio="267x476"
+        video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
+        videoRatio="1x1"
       >
         DxE investigator Zoe Rosenberg is facing over 13 years in prison for rescuing four sick chickens from a Perdue slaughterhouse in Sonoma County, California. She is being forced to wear a GPS ankle monitor and follow other strict pretrial conditions -- all for nonviolent acts of compassion!
       </FeaturedCase>
