@@ -11,22 +11,14 @@ import { Letter } from "../components/HomePage/Letter";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="shy-beagle.jpg" takeActionPage={undefined} />
+      <MastHead image="zoe-pp.png" takeActionPage={undefined} />
       <FeaturedCase
-        name="Rescuing Beagles from Abuse at Ridglan Farms"
-        page="ridglan"
-        video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
+        name="Rescue at Perdue's Petaluma Poultry Slaughterhouse"
+        page="petalumapoultry"
+        video="https://www.facebook.com/plugins/video.php?height=476&href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1104800410507149%2F&show_text=false&width=267&t=0"
         videoRatio="1x1"
       >
-        Ridglan Farms is one of the largest breeders of beagles for
-        experimentation in the United States. In 2017, DxE investigators entered
-        the facility and documented the filthy conditions and the psychological
-        trauma of the dogs spinning endlessly inside small cages. The team
-        rescued three beagles, Julie, Anna, and Lucy, who are now living with
-        loving families. Eva, Paul, and Wayne were charged with felony burglary
-        and felony theft charges. Their trial was set to start March 18th at the
-        Dane County Courthouse in Madison, Wisconsin. However, ten days before
-        trial, the state DROPPED all the charges.
+        DxE investigator Zoe Rosenberg is facing over 13 years in prison for rescuing four sick chickens from a Perdue slaughterhouse in Sonoma County, California. She is being forced to wear a GPS ankle monitor and follow other strict pretrial conditions -- all for nonviolent acts of compassion!
       </FeaturedCase>
       <Letter />
       <About
