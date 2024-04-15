@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        DxE investigator Zoe Rosenberg is facing over 13 years in prison for rescuing four sick chickens, now named Poppy, Aster, Ivy, and Azalea, from a Perdue slaughterhouse in Sonoma County, California. Zoe is being forced to wear a GPS ankle monitor and follow other strict pretrial conditions -- all for nonviolent acts of compassion!
+        DxE investigator Zoe Rosenberg is facing over 13 years in prison for rescuing four sick chickens, from a Perdue slaughterhouse in Sonoma County, California. She made sure the chickens, now named Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. Now, Zoe is being forced to wear a GPS ankle monitor and follow other strict pretrial conditions -- all for nonviolent acts of compassion!
       </FeaturedCase>
       <Letter />
       <About
