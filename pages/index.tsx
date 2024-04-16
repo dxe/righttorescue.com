@@ -39,10 +39,12 @@ const Home: NextPage = () => {
         rather than "property.”
       </About>
 
+      {/*
+      Add back soon for Perdue trial:
       <TwitterTimeline
-        twitterHandle="ridglantrial"
-        title="View the latest updates on the Ridglan Trial Twitter:"
-      />
+        twitterHandle="..."
+        title="View the latest updates on the Perdue Trial Twitter:"
+      /> */}
 
       <Announcements>
         <Announcement
