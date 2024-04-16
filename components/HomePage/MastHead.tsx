@@ -5,15 +5,10 @@ import { Button } from "react-bootstrap";
 export const MastHead = (props: MastHeadProps) => {
   return (
     <header
-      className="masthead"
+      className="masthead tw-bg-[33%] sm:tw-bg-center tw-bg-cover tw-bg-no-repeat tw-bg-[#161616]"
       style={{
-        background: `linear-gradient(to bottom,rgba(22, 22, 22, 0.3) 0%, rgba(22, 22, 22, 0.7) 75%, #161616 100%),
+        backgroundImage: `linear-gradient(to bottom,rgba(22, 22, 22, 0.5) 0%, rgba(22, 22, 22, 0.85) 75%, #161616 100%),
                       url("/img/${props.image}")`,
-        backgroundColor: "#161616",
-        backgroundPosition: "67% 75%",
-        backgroundRepeat: "no-repeat",
-        backgroundAttachment: "scroll",
-        backgroundSize: "cover",
       }}
     >
       <div
