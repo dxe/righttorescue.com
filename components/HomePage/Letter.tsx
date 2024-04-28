@@ -82,9 +82,6 @@ export const LetterForm = () => {
   const onSubmit = useMemo(
     () =>
       handleSubmit(async (data) => {
-        window.dataLayer?.push({
-          event: "form_submitted",
-        });
         setIsSubmitting(true);
         if (!recaptchaRef.current) {
           alert("Error loading captcha. Please refresh the page & try again.");
@@ -143,6 +140,7 @@ export const LetterForm = () => {
         }
         setIsSubmitted(true);
         setIsSubmitting(false);
+        window.dataLayer?.push({'event': 'petition-signed'});
       }),
     [handleSubmit]
   );
