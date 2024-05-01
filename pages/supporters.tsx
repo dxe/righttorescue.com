@@ -17,6 +17,8 @@ const Supporters: NextPage = () => {
 
         <Supporter name="nlg" image="logos/nlg.jpg" />
 
+        <Supporter name="asuc" image="logos/asuc 2-modified.png" />
+
         <Supporter name="save" image="logos/save.jpg" />
 
         <Supporter name="utv" image="logos/utv.jpg" />
