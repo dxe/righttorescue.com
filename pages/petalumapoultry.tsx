@@ -59,7 +59,9 @@ const Reichardt: NextPage = () => {
         strict pretrial release conditions, including informing the authorities
         any time she leaves her home county. She also has been barred from
         possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe
-        rescuing any more suffering animals. Zoe's preliminary hearing took place on May 3, 2024. After failing to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge, reducing the total number of felonies from four down to three. The judge said she will take some time to consider all the evidence presented and scheduled a hearing for May 13, where she will give her ruling as to whether there is probable cause to pursue the remaining charges.
+        rescuing any more suffering animals. 
+        <p>
+        Zoe's preliminary hearing took place on May 3, 2024. After failing to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge, reducing the total number of felonies from four down to three. The judge said she will take some time to consider all the evidence presented and scheduled a hearing for May 13, where she will give her ruling as to whether there is probable cause to pursue the remaining charges.
       </Details>
 
       <Defendants>
