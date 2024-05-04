@@ -58,8 +58,8 @@ const Home: NextPage = () => {
             href="https://www.davisvanguard.org/2024/05/animal-rescuer-sees-1-felony-charge-dropped-in-perdue-poultry-case-still-faces-other-charges/"
             target="_blank"
           >
-            here
-          </a>{" "}. 
+            here.
+          </a>{" "} 
         </Announcement>
         <Announcement
           title="Dane County, Wisconsin"
