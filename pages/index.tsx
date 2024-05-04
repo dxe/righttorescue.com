@@ -50,7 +50,7 @@ const Home: NextPage = () => {
         <Announcement
           title="Sonoma County, California"
           date="May 3, 2024"
-          image="zoepp.png"
+          image="Zoepp.png"
           featured
         >
           DxE investigator and animal rescuer Zoe Rosenberg had her preliminary hearing today. The defense attorneys successfully argued that there was no evidence presented of a conspiracy to commit vandalism or any involvement in any vandalism, and the prosecutors had to agree. They dropped the felony conspiracy to commit vandalism charge, reducing the total number of felonies from four down to three. The judge said she will take some time to consider all the evidence presented and scheduled a hearing for May 13, where she will give her ruling as to whether there is probable cause to pursue the remaining charges. You can read more in the press{" "}
