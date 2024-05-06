@@ -106,6 +106,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/communities/uc-berkeley-student-faces-felony-misdemeanor-counts-for-animal-rescue/article_4d571c7a-b457-11ee-baaa-533dbadf464b.html#disqus_thread"
           iFramelyUrl="https://cdn.iframe.ly/yp4k5Ip?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/campus/asuc/asuc-passes-right-to-rescue-resolution-as-student-animal-rights-activist-awaits-trial/article_6f5c8836-0624-11ef-a596-9f784e0e2b55.html"
+          iFramelyUrl="https://cdn.iframe.ly/iTVf2Wf?card=small"
+        />
       </Press>
     </>
   );
