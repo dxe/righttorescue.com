@@ -14,7 +14,7 @@ const Reichardt: NextPage = () => {
       <Header
         title="Perdue's Petaluma Poultry"
         location="Sonoma County, California"
-        video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
+        video="https://www.youtube.com/embed/3r4xjelwY0U?si=Hq0SmC7-RYN9iBmn"
         videoRatio="1x1"
         ctaText1="Call: 707-565-2311"
         ctaLink1="tel:707-565-2311"
