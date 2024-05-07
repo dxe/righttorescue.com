@@ -26,6 +26,39 @@ const Reichardt: NextPage = () => {
         cruelty.
       </Header>
 
+      <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf">
+        <div style={{
+          position: "relative"
+        }}>
+          <img src="/img/investigatory-report-fading-screenshot.jpg"
+            alt="Investigatory report screenshot"
+            style={{
+              width: "100%",
+              aspectRatio: "1920/860"
+            }}
+            />
+            <span
+              style={{
+                position: "absolute",
+                bottom: "10%",
+                left: "50%",
+                transform: "translateX(-50%)",
+                fontSize: "clamp(18px, 3vw, 48px)",
+                // Prevent unnecessary wrapping. I'm not sure why it's wrapping
+                // without this on some smaller screen sizes, especially when
+                // padding is applied which would've been useful for a
+                // semi opaque background for improved visibility.
+                width: "90%",
+                textShadow: "#FC0 1px 0 10px",
+                boxSizing: "border-box",
+                color: "black",
+                textAlign: "center",
+              }}>
+                Read the full investigatory report
+            </span>
+        </div>
+      </a>
+
       <Details image="zoepp.png">
         For years, investigators with{" "}
         <a href="https://www.directactioneverywhere.com" target="_blank">
