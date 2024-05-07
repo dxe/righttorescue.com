@@ -147,6 +147,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/poultry-petaluma-courts-activists-crime/"
           iFramelyUrl="https://cdn.iframe.ly/OdekoI7?card=small"
         />
+          <Article
+          href="https://www.davisvanguard.org/2024/05/animal-rescuer-sees-1-felony-charge-dropped-in-perdue-poultry-case-still-faces-other-charges/"
+          iFramelyUrl="https://cdn.iframe.ly/gHUrdru?card=small"
+        />
       </Press>
     </>
   );
