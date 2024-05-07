@@ -26,7 +26,8 @@ const Reichardt: NextPage = () => {
         cruelty.
       </Header>
 
-      <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf">
+      <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf"
+        target="_blank">
         <div style={{
           position: "relative"
         }}>
