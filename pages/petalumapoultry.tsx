@@ -143,6 +143,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/campus/asuc/asuc-passes-right-to-rescue-resolution-as-student-animal-rights-activist-awaits-trial/article_6f5c8836-0624-11ef-a596-9f784e0e2b55.html"
           iFramelyUrl="https://cdn.iframe.ly/iTVf2Wf?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/poultry-petaluma-courts-activists-crime/"
+          iFramelyUrl="https://cdn.iframe.ly/OdekoI7?card=small"
+        />
       </Press>
     </>
   );
