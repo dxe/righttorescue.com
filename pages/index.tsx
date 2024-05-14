@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        DxE investigator Zoe Rosenberg is facing over 10 years in prison for rescuing four sick chickens from a Perdue slaughterhouse in Sonoma County, California. She made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. Now, Zoe is being forced to wear a GPS ankle monitor and follow other strict requirements while awaiting trial -- all for nonviolent acts of compassion.
+        DxE investigator Zoe Rosenberg is facing up to 5 years in prison for rescuing four sick chickens from a Perdue slaughterhouse in Sonoma County, California. She made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. Now, Zoe is being forced to wear a GPS ankle monitor and follow other strict requirements while awaiting trial -- all for nonviolent acts of compassion.
       </FeaturedCase>
       <Letter />
       <About
@@ -47,6 +47,20 @@ const Home: NextPage = () => {
       /> */}
 
       <Announcements>
+        <Announcement
+          title="Sonoma County, California"
+          date="May 13, 2024"
+          image="SquareZoePP.png"
+          featured
+        >
+          Today, Sonoma County Judge Lynette Brown dismissed multiple felony charges against UC Berkeley student and DxE animal cruelty investigator Zoe Rosenberg, after reviewing evidence presented at the preliminary hearing. Zoe now faces one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. Zoe and her co-defendant will appear in court on May 23 to be arraigned on the reduced charges they now face. You can read more in the press{" "}
+          <a
+            href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
+            target="_blank"
+          >
+            here.
+          </a>{" "} 
+        </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="May 3, 2024"
