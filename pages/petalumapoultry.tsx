@@ -69,27 +69,12 @@ const Reichardt: NextPage = () => {
         factory farms in Sonoma County, including Petaluma Poultry, a subsidiary
         of poultry giant Perdue. Instead of prosecuting these companies, the
         Sonoma County District Attorney has gone after the whistleblowers and
-        animal rescuers. They took animal rescuer Wayne Hsiung to trial and on
-        Nov. 30, 2023, he was sentenced to 90 days in jail for his role in
-        nonviolent open rescues at factory farms. On the very same day of
-        Wayne's sentencing hearing, members of the Sonoma County Sheriff's
-        Department{" "}
-        <a
-          href="https://www.vice.com/en/article/y3we9m/direct-action-everywhere-animal-rights-open-rescue-arrest"
-          target="_blank"
-        >
-          arrested
-        </a>{" "}
-        three more animal rescuers on felony warrants. Sonoma County is
-        escalating its fight against animal rescue, but we know rescuing animals
-        is not a crime.
+        animal rescuers. On November 30, 2023, DxE investigator Zoe
+        Rosenberg was arrested on multiple felony warrants and at her court date, she was charged with five felonies for the rescue of sick chickens from Perdue's Petaluma Poultry
+        slaughterhouse that took place in June 2023.
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
-        <p>Following these arrests, the District Attorney filed charges against Zoe
-        Rosenberg for the rescue of sick chickens from the Petaluma Poultry
-        slaughterhouse that took place in June 2023 during the Animal Liberation
-        Conference. They have not yet filed charges relating to Reichardt Duck
-        Farm. Zoe has been forced to wear a GPS ankle monitor and follow other
+        <p>Zoe has been forced to wear a GPS ankle monitor and follow other
         strict pretrial release conditions, including informing the authorities
         any time she leaves her home county. She also has been barred from
         possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe
