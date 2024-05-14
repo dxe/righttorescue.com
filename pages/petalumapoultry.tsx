@@ -96,7 +96,9 @@ const Reichardt: NextPage = () => {
         rescuing any more suffering animals. 
         </p>
         <p>
-        Zoe's preliminary hearing took place on May 3, 2024. After failing to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge, reducing the total number of felonies from four down to three. The judge said she will take some time to consider all the evidence presented and scheduled a hearing for May 13, where she will give her ruling as to whether there is probable cause to pursue the remaining charges.</p>
+        Zoe's preliminary hearing took place on May 3, 2024. After failing to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe now faces one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. Zoe and her co-defendant will appear in court on May 23 to be arraigned on the reduced charges they now face. You can read more in the press here.
+
+.</p>
       </Details>
 
       <Defendants>
