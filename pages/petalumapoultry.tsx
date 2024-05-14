@@ -71,7 +71,7 @@ const Reichardt: NextPage = () => {
         Sonoma County District Attorney has gone after the whistleblowers and
         animal rescuers. On November 30, 2023, DxE investigator Zoe
         Rosenberg was arrested on multiple felony warrants and at her court date, she was charged with five felonies for the rescue of sick chickens from Perdue's Petaluma Poultry
-        slaughterhouse that took place in June 2023.
+        slaughterhouse in June 2023.
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
         <p>Zoe has been forced to wear a GPS ankle monitor and follow other
