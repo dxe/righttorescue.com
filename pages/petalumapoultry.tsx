@@ -25,7 +25,7 @@ const Reichardt: NextPage = () => {
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
-        cruelty.
+        cruelty. Plus, ask Safeway to cut ties with Petaluma Poultry.
       </Header>
 
       <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf"
