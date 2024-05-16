@@ -19,7 +19,9 @@ const Reichardt: NextPage = () => {
         ctaText1="Call: 707-565-2311"
         ctaLink1="tel:707-565-2311"
         ctaText2="Email"
+        ctaText3="Tell Safeway: Drop Petaluma Poultry"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
+        ctaLink3="https://docs.google.com/document/d/13s5dQAezXOC7IhnqJh8yxU_lhSDhLMF9E-Lo9LSJT_k/edit?usp=sharing"
       >
         Call and email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
