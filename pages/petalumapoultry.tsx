@@ -149,6 +149,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/court-crime-petaluma-animal-welfare-activists-poultry/"
           iFramelyUrl="https://cdn.iframe.ly/4v9R4vZ?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
+          iFramelyUrl="https://cdn.iframe.ly/jCTM2HS?card=small"
+        />
       </Press>
     </>
   );
