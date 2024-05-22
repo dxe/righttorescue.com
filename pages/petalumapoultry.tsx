@@ -145,6 +145,10 @@ const Reichardt: NextPage = () => {
           href="https://www.davisvanguard.org/2024/05/animal-rescuer-sees-1-felony-charge-dropped-in-perdue-poultry-case-still-faces-other-charges/"
           iFramelyUrl="https://cdn.iframe.ly/gHUrdru?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/court-crime-petaluma-animal-welfare-activists-poultry/"
+          iFramelyUrl="https://cdn.iframe.ly/4v9R4vZ?card=small"
+        />
       </Press>
     </>
   );
