@@ -122,7 +122,6 @@ const Home: NextPage = () => {
           title="Sonoma County, California"
           date="Dec. 9, 2023"
           image="Sunrise.png"
-          featured
         >
           Wayne was released from jail today after serving almost half his
           90-day sentence, as is typical in California. He is in the process of
@@ -132,7 +131,6 @@ const Home: NextPage = () => {
           title="Sonoma County, California"
           date="Nov. 30, 2023"
           image="Sunrise.png"
-          featured
         >
           Wayne was sentenced to 90 days in jail and 2 years of probation. Right
           after his sentencing hearing, members of the Sonoma County Sheriff's
