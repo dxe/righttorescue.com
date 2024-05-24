@@ -154,7 +154,6 @@ const Home: NextPage = () => {
           title="Sonoma County, California"
           date="Nov. 2, 2023"
           image="Sunrise.png"
-          featured
         >
           JAILED: Animal rescuer Wayne Hsiung was found GUILTY on 3 of the 4
           charges in the Sonoma Rescue Trial, including one count of felony
@@ -323,7 +322,6 @@ const Home: NextPage = () => {
           title="Sonoma County, California"
           date="May 3, 2023"
           image="Sunrise.png"
-          featured
         >
           Last night, the Sebastopol City Council passed a historic resolution
           to support the activists facing charges in Sonoma County for peaceful
@@ -357,7 +355,6 @@ const Home: NextPage = () => {
           title="Merced County, California"
           date="Mar. 17, 2023"
           image="FF best.png"
-          featured
         >
           VICTORY! The jury found Alicia and Alexandra NOT GUILTY of theft for
           rescuing Ethan and Jax! This is a major win for the Right to Rescue!
@@ -466,7 +463,6 @@ const Home: NextPage = () => {
           title="Beaver County, Utah"
           date="Jan. 20, 2023"
           image="sf-ut.jpeg"
-          featured
         >
           The University of Denver Animal Activist Defense Project hosted a
           “Smithfield Trial Summit” from Jan. 13-15 featuring panels and
