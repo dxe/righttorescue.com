@@ -407,7 +407,6 @@ const Home: NextPage = () => {
           title="Merced County, California"
           date="Feb. 14, 2023"
           image="FF best.png"
-          featured
         >
           New York Times columnist Farhad Manjoo just wrote about the
           #FosterFarmsTrial in a{" "}
@@ -503,7 +502,6 @@ const Home: NextPage = () => {
           title="Washington County, Utah"
           date="Oct. 8, 2022"
           image="sf-ut.jpeg"
-          featured
         >
           Victory! The jury in the #SmithfieldTrial unanimously found Wayne and
           Paul NOT GUILTY on all charges for rescuing Lily and Lizzie from
