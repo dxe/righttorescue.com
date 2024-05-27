@@ -83,13 +83,8 @@ const Reichardt: NextPage = () => {
         rescuing any more suffering animals. 
         </p>
         <p>
-        Zoe's preliminary hearing took place on May 3, 2024. After failing to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe now faces one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. Zoe and her co-defendant will appear in court on May 23 to be arraigned on the reduced charges they now face. You can read more in the press{" "}
-          <a
-            href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
-            target="_blank"
-          >
-            here.
-          </a>{" "}</p>
+         Zoe's preliminary hearing took place on May 3, 2024. After they failed to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe was left facing one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. In response, the prosecution hurriedly attempted to file new charges but due to procedural issues, these were not immediately accepted by the court. Zoe and her co-defendant will appear in court on June 13, the one-year anniversary of the rescue of Ivy, Poppy, Aster, and Azalea, to get clarity on what charges the DA is now pursuing.
+</p>
       </Details>
 
       <Defendants>
