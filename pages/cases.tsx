@@ -37,17 +37,17 @@ const Cases: NextPage = () => {
         />
 
         <Case
-          name="Sospiro Ranch"
-          location="North Carolina"
-          page="rain"
-          image="rain.jpg"
-        />
-
-        <Case
           name="Diestel Turkey Ranch"
           location="Alameda County, California"
           page="diestel"
           image="diestel.jpg"
+        />
+        <Case
+          name="Sospiro Ranch"
+          location="North Carolina"
+          page="rain"
+          image="rain.jpg"
+          past
         />
         <Case
           name="Pleasant Valley Farms"
