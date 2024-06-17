@@ -83,7 +83,7 @@ const Reichardt: NextPage = () => {
         rescuing any more suffering animals. 
         </p>
         <p>
-        Zoe's preliminary hearing took place on May 3, 2024. After they failed to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe was left facing one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. In response, the prosecution hurriedly attempted to file new charges but due to procedural issues, these were not immediately accepted by the court. Zoe and her co-defendant will appear in court on June 13, the one-year anniversary of the rescue of Ivy, Poppy, Aster, and Azalea, to get clarity on what charges the DA is now pursuing.
+        Zoe's preliminary hearing took place on May 3, 2024. After they failed to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe was left facing one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. In response, the prosecution hurriedly filed new charges: a felony burglary charge and an additional misdemeanor trespass charge. Zoe's next court date is July 19. 
           </p>
       </Details>
 
