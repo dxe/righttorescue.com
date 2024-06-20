@@ -34,8 +34,7 @@ const AshasSanctuary: NextPage = () => {
         arrested, taken to jail, and had her hands and legs shackled in court.
         She was charged with felony grand larceny, which carries with it a
         sentence of up to 7 years in prison. In 2023, she retained animal rights
-        activist and attorney Wayne Hsiung to represent her. Trial dates have
-        not been scheduled yet. In the face of this unjust prosecution and
+        activist and attorney Wayne Hsiung to represent her. Trial is set for October 2nd to 5th, 2024. In the face of this unjust prosecution and
         harassment from local farmers, Tracy and Asha’s Farm Sanctuary must
         continue to care for their many animal residents. You can donate to
         Asha’s Farm Sanctuary
