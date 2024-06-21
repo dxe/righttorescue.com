@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import {
@@ -40,6 +40,8 @@ declare global {
 
 const CAPTCHA_SITE_KEY = "6LdiglcpAAAAAM9XE_TNnAiZ22NR9nSRxHMOFn8E";
 
+const CAMPAIGN = "sonoma";
+
 export const Letter = () => {
   return (
     <section id="sign" className="about-section tw-pb-12">
@@ -78,6 +80,16 @@ export const LetterForm = () => {
   } = form;
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+
+  const [tally, setTally] = useState<number | undefined>(1900);
+  useEffect(() => {
+    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally?campaign=${CAMPAIGN}`)
+      .json<{ total: number }>()
+      .then((resp) => setTally(resp.total))
+      .catch((err) => {
+        console.error(err);
+      });
+  }, []);
 
   const onSubmit = useMemo(
     () =>
@@ -125,7 +137,7 @@ export const LetterForm = () => {
             outside_us: data.outsideUS,
             ...(data.zip && { zip: data.zip }),
             message: data.message,
-            campaign: "sonoma",
+            campaign: CAMPAIGN,
             token,
           },
           headers: {
@@ -140,7 +152,8 @@ export const LetterForm = () => {
         }
         setIsSubmitted(true);
         setIsSubmitting(false);
-        window.dataLayer?.push({'event': 'petition-signed'});
+        setTally((prev) => (!prev ? undefined : prev + 1));
+        window.dataLayer?.push({ event: "petition-signed" });
       }),
     [handleSubmit]
   );
@@ -184,6 +197,14 @@ export const LetterForm = () => {
         className="tw-w-full tw-flex tw-flex-col md:tw-flex-row tw-gap-8 tw-justify-center tw-px-8 md:tw-px-0"
       >
         <div className="tw-flex tw-flex-col tw-gap-4 tw-basis-1/3">
+          {!!tally && (
+            <div className="tw-bg-neutral-600 tw-px-3 md:tw-py-5 tw-py-3 tw-rounded-md tw-text-neutral-100 tw-shadow-sm tw-text-center tw-uppercase tw-text-xs">
+              <span className="tw-font-extrabold">
+                {tally?.toLocaleString()}
+              </span>{" "}
+              supporters have taken action
+            </div>
+          )}
           <FormField
             control={control}
             name="name"
