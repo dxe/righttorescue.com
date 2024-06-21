@@ -45,7 +45,9 @@ const CAMPAIGN = "sonoma";
 export const Letter = () => {
   const [tally, setTally] = useState<number | undefined>(undefined);
   useEffect(() => {
-    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally?campaign=${CAMPAIGN}`)
+    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally`, {
+      searchParams: { campaign: CAMPAIGN },
+    })
       .json<{ total: number }>()
       .then((resp) => setTally(resp.total))
       .catch((err) => {
