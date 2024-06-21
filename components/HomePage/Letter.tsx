@@ -26,11 +26,10 @@ import ReCAPTCHA from "react-google-recaptcha";
 
 const PETITION_API_URL = "https://petitions-229503.appspot.com/api/sign";
 
-const CAMPAIGN_MAILER_API_URL = `${
+const CAMPAIGN_MAILER_API_URL =
   process.env.NODE_ENV === "production"
     ? "https://helptheducks.dxe.io"
-    : "http://localhost:3333"
-}/message/create`;
+    : "http://localhost:3333";
 
 declare global {
   interface Window {
@@ -145,22 +144,25 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
           alert("Error submitting. Please try again.");
           throw new Error("Error submitting petition");
         }
-        const campaignMailerResp = await ky.post(CAMPAIGN_MAILER_API_URL, {
-          json: {
-            name: data.name,
-            email: data.email,
-            ...(data.phone && { phone: data.phone }),
-            outside_us: data.outsideUS,
-            ...(data.zip && { zip: data.zip }),
-            message: data.message,
-            campaign: CAMPAIGN,
-            token,
-          },
-          headers: {
-            "Content-Type": "application/json",
-          },
-          throwHttpErrors: false,
-        });
+        const campaignMailerResp = await ky.post(
+          `${CAMPAIGN_MAILER_API_URL}/message/create`,
+          {
+            json: {
+              name: data.name,
+              email: data.email,
+              ...(data.phone && { phone: data.phone }),
+              outside_us: data.outsideUS,
+              ...(data.zip && { zip: data.zip }),
+              message: data.message,
+              campaign: CAMPAIGN,
+              token,
+            },
+            headers: {
+              "Content-Type": "application/json",
+            },
+            throwHttpErrors: false,
+          }
+        );
         if (campaignMailerResp.status !== 200) {
           setIsSubmitting(false);
           alert("Error submitting. Please try again.");
