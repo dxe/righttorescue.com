@@ -1,4 +1,4 @@
-import { useCallback, useMemo, useRef, useState } from "react";
+import { useCallback, useEffect, useMemo, useRef, useState } from "react";
 import { useForm } from "react-hook-form";
 import { zodResolver } from "@hookform/resolvers/zod";
 import {
@@ -40,22 +40,51 @@ declare global {
 
 const CAPTCHA_SITE_KEY = "6LdiglcpAAAAAM9XE_TNnAiZ22NR9nSRxHMOFn8E";
 
+const CAMPAIGN = "sonoma";
+
 export const Letter = () => {
+  const [tally, setTally] = useState<number | undefined>(undefined);
+  useEffect(() => {
+    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally`, {
+      searchParams: { campaign: CAMPAIGN },
+    })
+      .json<{ total: number }>()
+      .then((resp) => setTally(resp.total))
+      .catch((err) => {
+        console.error(err);
+      });
+  }, []);
+
   return (
     <section id="sign" className="about-section tw-pb-12">
       <div className="container">
         <div className="row">
-          <h2 className="text-white mb-4 text-center">
-            Contact the District Attorney
-          </h2>
-          <LetterForm />
+          <div className="tw-flex tw-flex-col mb-4">
+            <h2 className="text-white text-center">
+              Contact the District Attorney
+            </h2>
+            {!!tally && (
+              <div className="tw-text-neutral-300 tw-text-center tw-text-sm">
+                Join{" "}
+                <span className="tw-font-extrabold">
+                  {tally?.toLocaleString()}
+                </span>{" "}
+                other supporters who have taken action
+              </div>
+            )}
+          </div>
+          <LetterForm
+            afterSubmit={() =>
+              setTally((prev) => (!prev ? undefined : prev + 1))
+            }
+          />
         </div>
       </div>
     </section>
   );
 };
 
-export const LetterForm = () => {
+export const LetterForm = (props: { afterSubmit?: () => void }) => {
   const form = useForm<PetitionForm>({
     resolver: zodResolver(PetitionFormSchema),
     defaultValues: {
@@ -69,7 +98,6 @@ export const LetterForm = () => {
   });
   const {
     formState: { dirtyFields },
-    setValue,
     getValues,
     watch,
     handleSubmit,
@@ -125,7 +153,7 @@ export const LetterForm = () => {
             outside_us: data.outsideUS,
             ...(data.zip && { zip: data.zip }),
             message: data.message,
-            campaign: "sonoma",
+            campaign: CAMPAIGN,
             token,
           },
           headers: {
@@ -140,9 +168,10 @@ export const LetterForm = () => {
         }
         setIsSubmitted(true);
         setIsSubmitting(false);
-        window.dataLayer?.push({'event': 'petition-signed'});
+        props?.afterSubmit?.();
+        window.dataLayer?.push({ event: "petition-signed" });
       }),
-    [handleSubmit]
+    [handleSubmit, props]
   );
 
   const outsideUS = watch("outsideUS");
