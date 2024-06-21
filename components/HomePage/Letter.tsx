@@ -43,21 +43,46 @@ const CAPTCHA_SITE_KEY = "6LdiglcpAAAAAM9XE_TNnAiZ22NR9nSRxHMOFn8E";
 const CAMPAIGN = "sonoma";
 
 export const Letter = () => {
+  const [tally, setTally] = useState<number | undefined>(undefined);
+  useEffect(() => {
+    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally?campaign=${CAMPAIGN}`)
+      .json<{ total: number }>()
+      .then((resp) => setTally(resp.total))
+      .catch((err) => {
+        console.error(err);
+      });
+  }, []);
+
   return (
     <section id="sign" className="about-section tw-pb-12">
       <div className="container">
         <div className="row">
-          <h2 className="text-white mb-4 text-center">
-            Contact the District Attorney
-          </h2>
-          <LetterForm />
+          <div className="tw-flex tw-flex-col mb-4">
+            <h2 className="text-white text-center">
+              Contact the District Attorney
+            </h2>
+            {!!tally && (
+              <div className="tw-text-neutral-300 tw-text-center tw-text-sm">
+                Join{" "}
+                <span className="tw-font-extrabold">
+                  {tally?.toLocaleString()}
+                </span>{" "}
+                other supporters who have taken action
+              </div>
+            )}
+          </div>
+          <LetterForm
+            afterSubmit={() =>
+              setTally((prev) => (!prev ? undefined : prev + 1))
+            }
+          />
         </div>
       </div>
     </section>
   );
 };
 
-export const LetterForm = () => {
+export const LetterForm = (props: { afterSubmit?: () => void }) => {
   const form = useForm<PetitionForm>({
     resolver: zodResolver(PetitionFormSchema),
     defaultValues: {
@@ -71,7 +96,6 @@ export const LetterForm = () => {
   });
   const {
     formState: { dirtyFields },
-    setValue,
     getValues,
     watch,
     handleSubmit,
@@ -80,16 +104,6 @@ export const LetterForm = () => {
   } = form;
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
-
-  const [tally, setTally] = useState<number | undefined>(1900);
-  useEffect(() => {
-    ky.get(`${CAMPAIGN_MAILER_API_URL}/tally?campaign=${CAMPAIGN}`)
-      .json<{ total: number }>()
-      .then((resp) => setTally(resp.total))
-      .catch((err) => {
-        console.error(err);
-      });
-  }, []);
 
   const onSubmit = useMemo(
     () =>
@@ -152,10 +166,10 @@ export const LetterForm = () => {
         }
         setIsSubmitted(true);
         setIsSubmitting(false);
-        setTally((prev) => (!prev ? undefined : prev + 1));
+        props?.afterSubmit?.();
         window.dataLayer?.push({ event: "petition-signed" });
       }),
-    [handleSubmit]
+    [handleSubmit, props]
   );
 
   const outsideUS = watch("outsideUS");
@@ -197,14 +211,6 @@ export const LetterForm = () => {
         className="tw-w-full tw-flex tw-flex-col md:tw-flex-row tw-gap-8 tw-justify-center tw-px-8 md:tw-px-0"
       >
         <div className="tw-flex tw-flex-col tw-gap-4 tw-basis-1/3">
-          {!!tally && (
-            <div className="tw-bg-neutral-600 tw-px-3 md:tw-py-5 tw-py-3 tw-rounded-md tw-text-neutral-100 tw-shadow-sm tw-text-center tw-uppercase tw-text-xs">
-              <span className="tw-font-extrabold">
-                {tally?.toLocaleString()}
-              </span>{" "}
-              supporters have taken action
-            </div>
-          )}
           <FormField
             control={control}
             name="name"
