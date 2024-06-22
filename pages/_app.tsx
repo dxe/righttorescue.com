@@ -9,7 +9,7 @@ import Layout from "../components/Layout";
 import Script from "next/script";
 import { DonateModal } from "../components/DonateModal";
 import { isAfter, isBefore, parseISO } from "date-fns";
-import { adReferralService } from "../services/AdReferralService";
+import * as AdReferralService from "../services/AdReferralService";
 
 const GTM_CONFIG = "GTM-NCX3NJC";
 
@@ -20,8 +20,8 @@ function MyApp({ Component, pageProps }: AppProps) {
   const [isDonateModalOpen, setDonateModalOpen] = useState(false);
 
   useEffect(() => {
-    adReferralService.onAppInit();
-  });
+    AdReferralService.onAppInit(window);
+  }, []);
 
   // Show donate modal between start & end date.
   useEffect(() => {

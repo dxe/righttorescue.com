@@ -1,13 +1,16 @@
 // Information about the campaign that referred the user to this page.
-export const KEY = 'session-referring-campaign';
+export const KEY = 'referral-traffic-analytics';
 
-const MAX_SESSION_MS = 1000 * 60 * 60 * 24 * 30; // 30 days
+const EXPIRES_MS = 1000 * 60 * 60 * 24 * 30; // 30 days
 
 /**
  * AdReferralService persists UTM parametes in Local Storage and allows for
  * later retrieval of those parameters up until the data expires.
+ *
+ * This interface is designed to have few dependencies in case it will be reused
+ * in other applications.
  */
-class AdReferralService {
+export class AdReferralService {
     public constructor(
         private readonly window: Window,
         private readonly clock: () => number,
@@ -20,36 +23,36 @@ class AdReferralService {
         const params = this.getUtmParamsFromUrl();
         if (params.isEmpty()) return;
 
-        this.saveSession(new UtmSession(this.clock(), params, this.clock));
+        this.saveUtm(new UtmState(this.clock(), params, this.clock));
     }
 
     /**
      * Gets the most recently seen set of UTM parameters, if not expired.
      */
-    public getSessionUtmParams(): UtmParams | null {
-        const session = this.loadSession();
-        if (session === null) return null;
+    public getUtmParams(): UtmParams | null {
+        const utm = this.loadUtm();
+        if (utm === null) return null;
 
-        return session.lastUtmParams;
+        return utm.lastUtmParams;
     }
 
-    private saveSession(session: UtmSession) {
-        this.window.localStorage.setItem(KEY, JSON.stringify(session))
+    private saveUtm(utm: UtmState) {
+        this.window.localStorage.setItem(KEY, JSON.stringify(utm))
     }
 
-    private loadSession(): UtmSession | null {
-        const sessionJson = this.window.localStorage.getItem(KEY);
-        if (sessionJson === null) return null;
+    private loadUtm(): UtmState | null {
+        const utmJson = this.window.localStorage.getItem(KEY);
+        if (utmJson === null) return null;
 
         try {
-            const sessionSerialization: unknown = JSON.parse(sessionJson);
-            if (!isUtmSessionSerialization(sessionSerialization)) return null;
+            const utmSerialization: unknown = JSON.parse(utmJson);
+            if (!isUtmSerialization(utmSerialization)) return null;
 
-            const session = UtmSession.deserialize(
-                sessionSerialization, this.clock);
-            if (session.isExpired()) return null;
+            const utm = UtmState.deserialize(
+                utmSerialization, this.clock);
+            if (utm.isExpired()) return null;
 
-            return session;
+            return utm;
         } catch (e) {
             console.error("Error parsing UTM params from local storage");
             console.error(e);
@@ -70,19 +73,29 @@ class AdReferralService {
     }
 }
 
-const adReferralService = new AdReferralService(window, Date.now);
-export { 
-    adReferralService, 
-    AdReferralService as AdReferralServiceTestOnly,
-    MAX_SESSION_MS as MAX_SESSION_MS_TEST_ONLY
+let adReferralService: AdReferralService|undefined = undefined;
+
+export function onAppInit(window: Window) {
+    adReferralService = new AdReferralService(window, Date.now);
+    adReferralService.onAppInit();
+}
+
+export function getInstance(): AdReferralService {
+    if (adReferralService === undefined) {
+        throw Error('Must call AdReferralService.onAppInit first');
+    }
+    return adReferralService;
+}
+
+export {
+    EXPIRES_MS as EXPIRES_MS_TEST_ONLY
 };
 
 /**
- * UTM info for the session. A session is tied to local storage and expires
- * after a certain duration of the page not being re-initialized with UTM
- * arguments.
+ * UTM state. The state is tied to local storage and expires after a certain
+ * duration of the page not being re-initialized with UTM arguments.
  */
-class UtmSession {
+class UtmState {
     constructor(
         /**
          * Last time that any UTM values were present during app initialization.
@@ -99,10 +112,10 @@ class UtmSession {
     ) { }
 
     public isExpired(): boolean {
-        return this.clock() - this.lastUtmTime > MAX_SESSION_MS;
+        return this.clock() - this.lastUtmTime > EXPIRES_MS;
     }
 
-    public serialize(): UtmSessionSerialization {
+    public serialize(): UtmSerialization {
         return {
             lastUtmTime: this.lastUtmTime,
             lastUtmParams: this.lastUtmParams.serialize(),
@@ -110,21 +123,21 @@ class UtmSession {
     }
 
     public static deserialize(
-        obj: UtmSessionSerialization,
+        obj: UtmSerialization,
         clock: () => number) {
-        return new UtmSession(
+        return new UtmState(
             obj.lastUtmTime,
             UtmParams.deserialize(obj.lastUtmParams),
             clock);
     }
 };
 
-type UtmSessionSerialization = {
+type UtmSerialization = {
     lastUtmTime: number;
     lastUtmParams: UtmParamsSerialization;
 }
 
-function isUtmSessionSerialization(obj: any): obj is UtmSessionSerialization {
+function isUtmSerialization(obj: any): obj is UtmSerialization {
     return typeof obj.lastUtmTime === 'number' &&
         typeof obj.lastUtmParams === 'object';
 }

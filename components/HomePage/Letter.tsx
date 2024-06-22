@@ -23,7 +23,7 @@ import { Checkbox } from "../ui/checkbox";
 import { Textarea } from "../ui/textarea";
 import { Button } from "../ui/button";
 import ReCAPTCHA from "react-google-recaptcha";
-import { adReferralService } from "../../services/AdReferralService";
+import { getInstance as getAdReferralService } from "../../services/AdReferralService";
 
 const PETITION_API_URL = "https://petitions-229503.appspot.com/api/sign";
 
@@ -356,19 +356,19 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
 
 function getUtmParams() {
   const utmParams : {[key: string]: string} = {};
-  const sessionUtm = adReferralService.getSessionUtmParams();
-  if (sessionUtm !== null) {
-    if (sessionUtm.source !== null) {
-      utmParams["utm_source"] = sessionUtm.source;
+  const utm = getAdReferralService().getUtmParams();
+  if (utm !== null) {
+    if (utm.source !== null) {
+      utmParams["utm_source"] = utm.source;
     }
-    if (sessionUtm.medium !== null) {
-      utmParams["utm_medium"] = sessionUtm.medium;
+    if (utm.medium !== null) {
+      utmParams["utm_medium"] = utm.medium;
     }
-    if (sessionUtm.campaign !== null) {
-      utmParams["utm_campaign"] = sessionUtm.campaign;
+    if (utm.campaign !== null) {
+      utmParams["utm_campaign"] = utm.campaign;
     }
-    if (sessionUtm.content !== null) {
-      utmParams["utm_content"] = sessionUtm.content;
+    if (utm.content !== null) {
+      utmParams["utm_content"] = utm.content;
     }
   }
 

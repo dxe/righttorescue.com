@@ -2,7 +2,7 @@ import { describe, expect, test, vi } from 'vitest'
 import {
     AdReferralServiceTestOnly as AdReferralService,
     KEY,
-    MAX_SESSION_MS_TEST_ONLY as MAX_SESSION_MS
+    EXPIRES_MS_TEST_ONLY as EXPIRES_MS
 } from './AdReferralService'
 
 describe('AdReferralService', () => {
@@ -39,7 +39,7 @@ describe('AdReferralService', () => {
 
         service.onAppInit();
 
-        const params = service.getSessionUtmParams();
+        const params = service.getUtmParams();
         expect(params).toBeNull();
     });
 
@@ -62,7 +62,7 @@ describe('AdReferralService', () => {
         service.onAppInit();
 
         // Should not throw error.
-        expect(service.getSessionUtmParams()).toBeNull();
+        expect(service.getUtmParams()).toBeNull();
     });
 
     test('handles local storage corruption: wrong type', () => {
@@ -74,7 +74,7 @@ describe('AdReferralService', () => {
         service.onAppInit();
 
         // Should not throw error.
-        expect(service.getSessionUtmParams()).toBeNull();
+        expect(service.getUtmParams()).toBeNull();
     });
 
     test('returns all UTM params', () => {
@@ -83,7 +83,7 @@ describe('AdReferralService', () => {
 
         service.onAppInit();
 
-        const params = service.getSessionUtmParams();
+        const params = service.getUtmParams();
         expect(params).toBeDefined();
         expect(params?.source).toBe("foo");
         expect(params?.campaign).toBe("bar");
@@ -105,7 +105,7 @@ describe('AdReferralService', () => {
             const service = makeService(makeWindow(EMPTY_QUERY, localStorage));
             service.onAppInit();
 
-            const params = service.getSessionUtmParams();
+            const params = service.getUtmParams();
             expect(params).toBeDefined();
             expect(params?.source).toBe("foo");
         }
@@ -127,7 +127,7 @@ describe('AdReferralService', () => {
             const service = makeService(window);
             service.onAppInit();
 
-            const params = service.getSessionUtmParams();
+            const params = service.getUtmParams();
             expect(params).toBeDefined();
             expect(params?.campaign).toBe("baz");
             expect(params?.source).toBe(null);
@@ -150,10 +150,10 @@ describe('AdReferralService', () => {
         {
             const window = makeWindow(EMPTY_QUERY, localStorage);
             const service = makeService(
-                window, () => TIME + MAX_SESSION_MS - 1000);
+                window, () => TIME + EXPIRES_MS - 1000);
             service.onAppInit();
 
-            const params = service.getSessionUtmParams();
+            const params = service.getUtmParams();
 
             expect(params).toBeDefined();
             expect(params?.source).toBe("foo");
@@ -163,10 +163,10 @@ describe('AdReferralService', () => {
         {
             const window = makeWindow(EMPTY_QUERY, localStorage);
             const service = makeService(
-                window, () => TIME + MAX_SESSION_MS + 1000);
+                window, () => TIME + EXPIRES_MS + 1000);
             service.onAppInit();
 
-            const params = service.getSessionUtmParams();
+            const params = service.getUtmParams();
 
             expect(params).toBeNull();
         }
