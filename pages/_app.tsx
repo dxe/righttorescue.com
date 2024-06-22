@@ -9,6 +9,7 @@ import Layout from "../components/Layout";
 import Script from "next/script";
 import { DonateModal } from "../components/DonateModal";
 import { isAfter, isBefore, parseISO } from "date-fns";
+import * as AdReferralService from "../services/AdReferralService";
 
 const GTM_CONFIG = "GTM-NCX3NJC";
 
@@ -17,6 +18,10 @@ const DONATE_MODAL_END_DATE = parseISO("2022-05-31T17:00:00Z");
 
 function MyApp({ Component, pageProps }: AppProps) {
   const [isDonateModalOpen, setDonateModalOpen] = useState(false);
+
+  useEffect(() => {
+    AdReferralService.onAppInit(window);
+  }, []);
 
   // Show donate modal between start & end date.
   useEffect(() => {

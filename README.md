@@ -22,6 +22,11 @@ The use of Bootstrap for CSS in this project is deprecated. (Tailwind for CSS mi
 
 Documentation of the various components available for use can be found [here](README_components.md).
 
+## Tests
+
+Run tests with `pnpm run test`. Debug tests using the VS Code debug tab which
+makes use of `launch.json`.
+
 ## Deployment
 
 A GitHub Action automatically deploys the website to http://righttorescue.com after pushing to main.

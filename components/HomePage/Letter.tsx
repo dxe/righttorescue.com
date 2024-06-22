@@ -23,6 +23,7 @@ import { Checkbox } from "../ui/checkbox";
 import { Textarea } from "../ui/textarea";
 import { Button } from "../ui/button";
 import ReCAPTCHA from "react-google-recaptcha";
+import { getInstance as getAdReferralService } from "../../services/AdReferralService";
 
 const PETITION_API_URL = "https://petitions-229503.appspot.com/api/sign";
 
@@ -121,6 +122,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
           setIsSubmitting(false);
           return;
         }
+
         // We purposefully do these one at a time. If the first one fails,
         // we don't want to submit the second one. This allows the user to
         // resubmit the form without causing duplicate emails to be sent.
@@ -132,6 +134,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
             ...(data.phone && { phone: data.phone }),
             ...(data.zip && { zip: data.zip }),
             ...(!data.outsideUS && { country: "United States" }),
+            ...getUtmParams(),
             fullHref: window.location.href,
           }),
           headers: {
@@ -350,3 +353,24 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
     </Form>
   );
 };
+
+function getUtmParams() {
+  const utmParams : {[key: string]: string} = {};
+  const utm = getAdReferralService().getUtmParams();
+  if (utm !== null) {
+    if (utm.source !== null) {
+      utmParams["utm_source"] = utm.source;
+    }
+    if (utm.medium !== null) {
+      utmParams["utm_medium"] = utm.medium;
+    }
+    if (utm.campaign !== null) {
+      utmParams["utm_campaign"] = utm.campaign;
+    }
+    if (utm.content !== null) {
+      utmParams["utm_content"] = utm.content;
+    }
+  }
+
+  return utmParams;
+}
