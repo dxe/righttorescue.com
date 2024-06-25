@@ -31,7 +31,10 @@ const Reichardt: NextPage = () => {
       <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf"
         target="_blank">
         <div style={{
-          position: "relative"
+          position: "relative",
+          maxWidth: "1440px",
+          marginLeft: "auto",
+          marginRight: "auto"
         }}>
           <img src="/img/investigatory-report-fading-screenshot.jpg"
             alt="Investigatory report screenshot"
