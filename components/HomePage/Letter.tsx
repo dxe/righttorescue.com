@@ -355,7 +355,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
 };
 
 function getUtmParams() {
-  const utmParams : {[key: string]: string} = {};
+  const utmParams: { [key: string]: string } = {};
   const utm = getAdReferralService().getUtmParams();
   if (utm !== null) {
     if (utm.source !== null) {

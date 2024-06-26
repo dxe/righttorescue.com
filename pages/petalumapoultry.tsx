@@ -28,40 +28,46 @@ const Reichardt: NextPage = () => {
         cruelty. Plus, ask Safeway to cut ties with Petaluma Poultry.
       </Header>
 
-      <a href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf"
-        target="_blank">
-        <div style={{
-          position: "relative",
-          maxWidth: "1440px",
-          marginLeft: "auto",
-          marginRight: "auto"
-        }}>
-          <img src="/img/investigatory-report-fading-screenshot.jpg"
+      <a
+        href="/cases/petalumapoultry/Petaluma Poultry Investigatory Report 2023.pdf"
+        target="_blank"
+      >
+        <div
+          style={{
+            position: "relative",
+            maxWidth: "1440px",
+            marginLeft: "auto",
+            marginRight: "auto",
+          }}
+        >
+          <img
+            src="/img/investigatory-report-fading-screenshot.jpg"
             alt="Investigatory report screenshot"
             style={{
               width: "100%",
-              aspectRatio: "1920/860"
+              aspectRatio: "1920/860",
             }}
-            />
-            <span
-              style={{
-                position: "absolute",
-                bottom: "10%",
-                left: "50%",
-                transform: "translateX(-50%)",
-                fontSize: "clamp(18px, 3vw, 48px)",
-                // Prevent unnecessary wrapping. I'm not sure why it's wrapping
-                // without this on some smaller screen sizes, especially when
-                // padding is applied which would've been useful for a
-                // semi opaque background for improved visibility.
-                width: "90%",
-                textShadow: "#FC0 1px 0 10px",
-                boxSizing: "border-box",
-                color: "black",
-                textAlign: "center",
-              }}>
-                Read the full investigatory report
-            </span>
+          />
+          <span
+            style={{
+              position: "absolute",
+              bottom: "10%",
+              left: "50%",
+              transform: "translateX(-50%)",
+              fontSize: "clamp(18px, 3vw, 48px)",
+              // Prevent unnecessary wrapping. I'm not sure why it's wrapping
+              // without this on some smaller screen sizes, especially when
+              // padding is applied which would've been useful for a
+              // semi opaque background for improved visibility.
+              width: "90%",
+              textShadow: "#FC0 1px 0 10px",
+              boxSizing: "border-box",
+              color: "black",
+              textAlign: "center",
+            }}
+          >
+            Read the full investigatory report
+          </span>
         </div>
       </a>
 
@@ -74,20 +80,29 @@ const Reichardt: NextPage = () => {
         factory farms in Sonoma County, including Petaluma Poultry, a subsidiary
         of poultry giant Perdue. Instead of prosecuting these companies, the
         Sonoma County District Attorney has gone after the whistleblowers and
-        animal rescuers. On November 30, 2023, DxE investigator Zoe
-        Rosenberg was arrested on multiple felony warrants and at her court date, she was charged with five felonies for the rescue of sick chickens from Perdue's Petaluma Poultry
-        slaughterhouse in June 2023.
+        animal rescuers. On November 30, 2023, DxE investigator Zoe Rosenberg
+        was arrested on multiple felony warrants and at her court date, she was
+        charged with five felonies for the rescue of sick chickens from Perdue's
+        Petaluma Poultry slaughterhouse in June 2023.
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
-        <p>Zoe has been forced to wear a GPS ankle monitor and follow other
-        strict pretrial release conditions, including informing the authorities
-        any time she leaves her home county. She also has been barred from
-        possessing chickens, ducks, or other fowl. Clearly, they do not want Zoe
-        rescuing any more suffering animals. 
+        <p>
+          Zoe has been forced to wear a GPS ankle monitor and follow other
+          strict pretrial release conditions, including informing the
+          authorities any time she leaves her home county. She also has been
+          barred from possessing chickens, ducks, or other fowl. Clearly, they
+          do not want Zoe rescuing any more suffering animals.
         </p>
         <p>
-        Zoe's preliminary hearing took place on May 3, 2024. After they failed to present any evidence of vandalism, the prosecution dropped the felony conspiracy to commit vandalism charge. Then the judge dismissed an additional two felony conspiracy charges. Zoe was left facing one felony conspiracy charge and three misdemeanors: trespass, tampering with a vehicle, and theft. In response, the prosecution hurriedly filed new charges: a felony burglary charge and an additional misdemeanor trespass charge. Zoe's next court date is July 19. 
-          </p>
+          Zoe's preliminary hearing took place on May 3, 2024. After they failed
+          to present any evidence of vandalism, the prosecution dropped the
+          felony conspiracy to commit vandalism charge. Then the judge dismissed
+          an additional two felony conspiracy charges. Zoe was left facing one
+          felony conspiracy charge and three misdemeanors: trespass, tampering
+          with a vehicle, and theft. In response, the prosecution hurriedly
+          filed new charges: a felony burglary charge and an additional
+          misdemeanor trespass charge. Zoe's next court date is July 19.
+        </p>
       </Details>
 
       <Defendants>
@@ -131,23 +146,23 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/communities/uc-berkeley-student-faces-felony-misdemeanor-counts-for-animal-rescue/article_4d571c7a-b457-11ee-baaa-533dbadf464b.html#disqus_thread"
           iFramelyUrl="https://cdn.iframe.ly/yp4k5Ip?card=small"
         />
-         <Article
+        <Article
           href="https://www.dailycal.org/news/campus/asuc/asuc-passes-right-to-rescue-resolution-as-student-animal-rights-activist-awaits-trial/article_6f5c8836-0624-11ef-a596-9f784e0e2b55.html"
           iFramelyUrl="https://cdn.iframe.ly/iTVf2Wf?card=small"
         />
-         <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/poultry-petaluma-courts-activists-crime/"
           iFramelyUrl="https://cdn.iframe.ly/OdekoI7?card=small"
         />
-          <Article
+        <Article
           href="https://www.davisvanguard.org/2024/05/animal-rescuer-sees-1-felony-charge-dropped-in-perdue-poultry-case-still-faces-other-charges/"
           iFramelyUrl="https://cdn.iframe.ly/gHUrdru?card=small"
         />
-         <Article
+        <Article
           href="https://www.pressdemocrat.com/article/news/court-crime-petaluma-animal-welfare-activists-poultry/"
           iFramelyUrl="https://cdn.iframe.ly/4v9R4vZ?card=small"
         />
-         <Article
+        <Article
           href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
           iFramelyUrl="https://cdn.iframe.ly/jCTM2HS?card=small"
         />

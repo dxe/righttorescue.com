@@ -135,7 +135,7 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/ridglan-farms-critics-want-their-day-in-court/"
           iFramelyUrl="https://cdn.iframe.ly/wLA2WmX?card=small"
         />
-          <Article
+        <Article
           href="https://isthmus.com/news/news/judge-will-weigh-special-prosecutor-for-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/dTEfQdA?card=small"
         />

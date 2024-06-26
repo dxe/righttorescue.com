@@ -29,8 +29,12 @@ const Rain: NextPage = () => {
         began on Monday, November 29, 2021 at the Transylvania County Courthouse
         in Brevard, NC. It concluded on Monday, December 6, 2021 when the jury
         reached a verdict of guilty on both felony charges. The judge issued a
-        suspended sentence. Wayne appealed, but in February 2024, the North Carolina Court of Appeals upheld the
-        sentence at which point Wayne began his two-year probation period. The case was appealed up to the Supreme Court, but on May 21, 2024, the North Carolina Supreme Court dismissed the appeal, which means that the ruling from the previous appellate court stands. Wayne's probation will end in February 2026.
+        suspended sentence. Wayne appealed, but in February 2024, the North
+        Carolina Court of Appeals upheld the sentence at which point Wayne began
+        his two-year probation period. The case was appealed up to the Supreme
+        Court, but on May 21, 2024, the North Carolina Supreme Court dismissed
+        the appeal, which means that the ruling from the previous appellate
+        court stands. Wayne's probation will end in February 2026.
       </Details>
       <Defendants>
         <Bio name="Wayne Hsiung" image="sf-ut-wayne.jpg">
