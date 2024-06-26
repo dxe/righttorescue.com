@@ -65,11 +65,10 @@ export const Letter = () => {
             </h2>
             {!!tally && (
               <div className="tw-text-neutral-300 tw-text-center tw-text-sm">
-                Join{" "}
                 <span className="tw-font-extrabold">
                   {tally?.toLocaleString()}
                 </span>{" "}
-                other supporters who have taken action
+                emails sent to DA Rodriguez
               </div>
             )}
           </div>
