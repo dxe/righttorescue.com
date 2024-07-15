@@ -170,6 +170,10 @@ const Reichardt: NextPage = () => {
           href="https://napavalleyregister.com/news/local/napa-valley-cookbook-festival-tyler-florence-protestors-petaluma-poultry/article_e9f44776-3281-11ef-bf6e-5357d7c4bc68.html#tracking-source=home-top-story"
           iFramelyUrl="https://cdn.iframe.ly/enpnVhK?card=small"
         />
+         <Article
+          href="https://www.ktvu.com/news/food-network-star-confronted-activists-napa-book-signing"
+          iFramelyUrl="https://cdn.iframe.ly/KuLXI8h?card=small"
+        />
       </Press>
     </>
   );
