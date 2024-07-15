@@ -166,6 +166,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
           iFramelyUrl="https://cdn.iframe.ly/jCTM2HS?card=small"
         />
+         <Article
+          href="https://napavalleyregister.com/news/local/napa-valley-cookbook-festival-tyler-florence-protestors-petaluma-poultry/article_e9f44776-3281-11ef-bf6e-5357d7c4bc68.html#tracking-source=home-top-story"
+          iFramelyUrl="https://cdn.iframe.ly/enpnVhK?card=small"
+        />
       </Press>
     </>
   );
