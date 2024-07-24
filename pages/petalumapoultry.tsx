@@ -101,7 +101,7 @@ const Reichardt: NextPage = () => {
           felony conspiracy charge and three misdemeanors: trespass, tampering
           with a vehicle, and theft. In response, the prosecution hurriedly
           filed new charges: a felony burglary charge and an additional
-          misdemeanor trespass charge. Zoe's next court date is July 19.
+          misdemeanor trespass charge. Zoe's next court date is September 4th.
         </p>
       </Details>
 
