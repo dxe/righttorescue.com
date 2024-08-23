@@ -174,6 +174,10 @@ const Reichardt: NextPage = () => {
           href="https://www.ktvu.com/news/food-network-star-confronted-activists-napa-book-signing"
           iFramelyUrl="https://cdn.iframe.ly/KuLXI8h?card=small"
         />
+          <Article
+          href="https://www.sfexaminer.com/news/business/chef-tyler-florence-distances-from-poultry-farm-and-animal-rights-heat/article_64da5ab4-601a-11ef-a358-9774850aac1b.html?"
+          iFramelyUrl="https://cdn.iframe.ly/LdK9Er0?card=small"
+        />
       </Press>
     </>
   );
