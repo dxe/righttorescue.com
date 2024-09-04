@@ -178,6 +178,10 @@ const Reichardt: NextPage = () => {
           href="https://www.sfexaminer.com/news/business/chef-tyler-florence-distances-from-poultry-farm-and-animal-rights-heat/article_64da5ab4-601a-11ef-a358-9774850aac1b.html?"
           iFramelyUrl="https://cdn.iframe.ly/LdK9Er0?card=small"
         />
+         <Article
+          href="https://davisvanguard.org/2024/08/sonoma-da-drops-charge-against-animal-rescuer-ahead-of-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/gXaI6rl?card=small"
+        />
       </Press>
     </>
   );
