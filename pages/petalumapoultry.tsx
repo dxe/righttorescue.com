@@ -94,14 +94,8 @@ const Reichardt: NextPage = () => {
           do not want Zoe rescuing any more suffering animals.
         </p>
         <p>
-          Zoe's preliminary hearing took place on May 3, 2024. After they failed
-          to present any evidence of vandalism, the prosecution dropped the
-          felony conspiracy to commit vandalism charge. Then the judge dismissed
-          an additional two felony conspiracy charges. Zoe was left facing one
-          felony conspiracy charge and three misdemeanors: trespass, tampering
-          with a vehicle, and theft. In response, the prosecution hurriedly
-          filed new charges: a felony burglary charge and an additional
-          misdemeanor trespass charge. Zoe's next court date is September 4th.
+          Zoe is facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
+          with a vehicle, and theft. Zoe's next court date is November 1st for trial scheduling.
         </p>
       </Details>
 
