@@ -94,8 +94,8 @@ const Reichardt: NextPage = () => {
           do not want Zoe rescuing any more suffering animals.
         </p>
         <p>
-          Zoe is facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
-          with a vehicle, and theft. Zoe's next court date is November 1st for trial scheduling.
+          After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
+          with a vehicle, and theft. She faces a potential maximum sentence of over 5 years in prison. Zoe's next court date is November 1st for trial scheduling.
         </p>
       </Details>
 
