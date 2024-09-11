@@ -176,6 +176,10 @@ const Reichardt: NextPage = () => {
           href="https://davisvanguard.org/2024/08/sonoma-da-drops-charge-against-animal-rescuer-ahead-of-trial/"
           iFramelyUrl="https://cdn.iframe.ly/gXaI6rl?card=small"
         />
+        <Article
+          href="https://norcalpublicmedia.org/2024090596220/news-feed/health-workers-supporting-measure-j-link-factory-farms-with-pandemic-illnesses"
+          iFramelyUrl="https://cdn.iframe.ly/J9C78mV?card=small"
+        />
       </Press>
     </>
   );
