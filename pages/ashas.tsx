@@ -38,9 +38,7 @@ const AshasSanctuary: NextPage = () => {
         2024. In the face of this unjust prosecution and harassment from local
         farmers, Tracy and Asha’s Farm Sanctuary must continue to care for their
         many animal residents. You can donate to Asha’s Farm Sanctuary
-        <a href="https://www.ashasfarmsanctuary.org/donate-only.html"> here</a>.
-      </Details>
-       Follow the
+        <a href="https://www.ashasfarmsanctuary.org/donate-only.html"> here</a>. Follow the
         <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a>for updates from court.
       </Details>
       <Defendants>
