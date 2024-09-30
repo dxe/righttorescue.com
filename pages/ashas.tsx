@@ -40,6 +40,9 @@ const AshasSanctuary: NextPage = () => {
         many animal residents. You can donate to Asha’s Farm Sanctuary
         <a href="https://www.ashasfarmsanctuary.org/donate-only.html"> here</a>.
       </Details>
+       Follow the
+        <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a>for updates from court.
+      </Details>
       <Defendants>
         <Bio name="Tracy Murphy" image="tracymurphy.jpg">
           Tracy is the president and founder of Asha’s Farm Sanctuary. She has
