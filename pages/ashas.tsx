@@ -39,7 +39,7 @@ const AshasSanctuary: NextPage = () => {
         farmers, Tracy and Asha’s Farm Sanctuary must continue to care for their
         many animal residents. You can donate to Asha’s Farm Sanctuary
         <a href="https://www.ashasfarmsanctuary.org/donate-only.html"> here</a>. Follow the
-        <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a>for updates from court.
+        <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a> for updates from court.
       </Details>
       <Defendants>
         <Bio name="Tracy Murphy" image="tracymurphy.jpg">
