@@ -33,8 +33,7 @@ const AshasSanctuary: NextPage = () => {
         raid the sanctuary without notice and seize the cows. Tracy was
         arrested, taken to jail, and had her hands and legs shackled in court.
         She was charged with felony grand larceny, which has since been reduced to petty larceny. She's being represented by an
-        incredible legal team including Animal Activist Legal Defense Project
-        staff attorney Chris Carraway. Trial is set for October 2nd to 5th,
+        incredible legal team including attorneys Louis Mussari, Wayne Hsiung, and Justin Marceau. Trial is set for October 2nd to 5th,
         2024. In the face of this unjust prosecution and harassment from local
         farmers, Tracy and Asha’s Farm Sanctuary must continue to care for their
         many animal residents. You can donate to Asha’s Farm Sanctuary
