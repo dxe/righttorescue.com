@@ -31,9 +31,9 @@ const RidglanFarms: NextPage = () => {
         trauma of the dogs spinning endlessly inside small cages. The team
         rescued three beagles, Julie, Anna, and Lucy. Eva, Paul, and Wayne were
         charged with felony burglary and felony theft charges. Their trial was
-        set to start March 18th at the Dane County Courthouse in Madison,
+        set to start in March 2024 at the Dane County Courthouse in Madison,
         Wisconsin. However, ten days before trial, the state DROPPED all the
-        charges. We believe this dismissal is the result of pressure and{" "}
+        charges. We believe this dismissal was the result of pressure and{" "}
         <a
           href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
           target="_blank"
@@ -41,10 +41,7 @@ const RidglanFarms: NextPage = () => {
           press coverage
         </a>{" "}
         that made it clear there is public support for animal rescue.
-        Unfortunately, the Dane County District Attorney’s office is still
-        failing to prosecute Ridglan Farms for criminal animal cruelty. It is
-        more important now than ever that we keep the pressure on to get justice
-        for these animals. Please help us share the news on{" "}
+       Please help us share the news on{" "}
         <a
           href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
           target="_blank"
@@ -64,7 +61,8 @@ const RidglanFarms: NextPage = () => {
         >
           Twitter
         </a>
-        .
+        .  The Dane County District Attorney’s office is still
+        failing to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local nonprofit Dane4Dogs are now taking Ridglan to court in the hopes of getting a special prosecutor assigned since the DA has failed to prosecute Ridglan Farms. An evidentiary hearing is scheduled for October 24th where they will present evidence of Ridglan's crimes against dogs in court. 
       </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
