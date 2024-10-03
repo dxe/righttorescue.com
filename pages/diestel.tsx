@@ -30,10 +30,8 @@ const Diestel: NextPage = () => {
         ‘small’ family farm or that its birds receive ‘individual’ care or live
         ‘twice as long’ as other commercial turkeys, because plaintiff lacks
         standing, this court is without jurisdiction to adjudicate those
-        claims.” DxE SF Bay Area appealed this decision in January 2021. The
-        appeal is pending. Separately, consumers who purchased Diestel’s turkey
-        products also sued Diestel Turkey Ranch for consumer fraud in 2020.
-        Cases are pending in both California and New Mexico. More information is
+        claims.” DxE SF Bay Area appealed this decision in January 2021 but the appeal was unsuccessful. Separately, consumers who purchased Diestel’s turkey
+        products in California and New Mexico also sued Diestel Turkey Ranch for consumer fraud in 2020. More information is
         available by contacting counsel at{" "}
         <a href="https://www.elsnerlaw.org/fowl-play" target="_blank">
           https://www.elsnerlaw.org/fowl-play
