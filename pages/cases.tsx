@@ -28,6 +28,7 @@ const Cases: NextPage = () => {
           location="Niagara County, New York"
           page="ashas"
           image="ashas.jpg"
+          past
         />
         <Case
           name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
