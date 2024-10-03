@@ -32,13 +32,8 @@ const AshasSanctuary: NextPage = () => {
         with the New York State Police himself, Gregson got the state police to
         raid the sanctuary without notice and seize the cows. Tracy was
         arrested, taken to jail, and had her hands and legs shackled in court.
-        She was charged with felony grand larceny, which has since been reduced to petty larceny. She's being represented by an
-        incredible legal team including attorneys Louis Mussari, Wayne Hsiung, and Justin Marceau. Trial is set for October 2nd to 5th,
-        2024. In the face of this unjust prosecution and harassment from local
-        farmers, Tracy and Asha’s Farm Sanctuary must continue to care for their
-        many animal residents. You can donate to Asha’s Farm Sanctuary
-        <a href="https://www.ashasfarmsanctuary.org/donate-only.html"> here</a>. Follow the
-        <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a> for updates from court.
+        She was charged with felony grand larceny, which was later reduced to petty larceny. In a shocking turn of events, on the day trial was set to begin, the case was dismissed! It was revealed that law enforcement committed serious constitutional violations during the investigation, including destroying the "evidence” which in this case was the cows, Ismael and Little Willow, who were slaughtered. As a result, Judge Gary Strenkoski ruled that no evidence about the cows could be presented, rendering the prosecution’s case impossible. Check the
+        <a href="https://x.com/AshaRescueTrial"> Asha Rescue Trial Twitter account</a> for more details.
       </Details>
       <Defendants>
         <Bio name="Tracy Murphy" image="tracymurphy.jpg">
