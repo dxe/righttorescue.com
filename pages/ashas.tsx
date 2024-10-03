@@ -17,7 +17,7 @@ const AshasSanctuary: NextPage = () => {
         ctaText1="Share the news"
         ctaLink1="https://www.instagram.com/p/DAq4CnDSC71/"
       >
-        The case against Tracy has been dismissed after it was revealed that law enforcement committed constitutional violations during the investigation, including destroying the "evidence” which in this case was the cows, Ismael and Little Willow, who were slaughtered.
+        The case against Tracy has been dismissed due to constitutional violations committed by law enforcement during the investigation, including destroying the "evidence” which in this case was the rescued cows.
       </Header>
       <Details image="ashas.jpg">
         When two cows wandered onto Tracy Murphy’s property, an animal sanctuary
