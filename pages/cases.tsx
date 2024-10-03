@@ -24,6 +24,12 @@ const Cases: NextPage = () => {
           image="zoe-pp.png"
         />
         <Case
+          name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
+          location="Sonoma County, California"
+          page="sunrise"
+          image="sunrise.jpg"
+        />
+<Case
           name="Asha's Farm Sanctuary"
           location="Niagara County, New York"
           page="ashas"
@@ -31,17 +37,11 @@ const Cases: NextPage = () => {
           past
         />
         <Case
-          name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
-          location="Sonoma County, California"
-          page="sunrise"
-          image="sunrise.jpg"
-        />
-
-        <Case
           name="Diestel Turkey Ranch"
           location="Alameda County, California"
           page="diestel"
           image="diestel.jpg"
+          past
         />
         <Case
           name="Sospiro Ranch"
