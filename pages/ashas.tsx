@@ -14,13 +14,10 @@ const AshasSanctuary: NextPage = () => {
         location="New York"
         video="https://www.youtube.com/embed/PgJGdh4b0MQ"
         videoRatio="1/1"
-        ctaText1="Call: (716) 439-7085"
-        ctaLink1="tel:716-439-7000"
-        ctaText2="Email"
-        ctaLink2="mailto:ncda@niagaracounty.com"
+        ctaText1="Share the news"
+        ctaLink1="https://www.instagram.com/p/DAq4CnDSC71/"
       >
-        Contact the Niagara County District Attorney Brian D. Seaman and
-        politely ask him to drop the charges against Tracy.
+        The case against Tracy has been dismissed after it was revealed that law enforcement committed constitutional violations during the investigation, including destroying the "evidence” which in this case was the cows, Ismael and Little Willow, who were slaughtered.
       </Header>
       <Details image="ashas.jpg">
         When two cows wandered onto Tracy Murphy’s property, an animal sanctuary
