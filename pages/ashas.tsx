@@ -73,6 +73,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.niagara-gazette.com/news/crime/newfane-animal-sanctuary-owner-rejects-plea-deal/article_54d8b7e8-0ce4-11ef-821b-cb5feba0361b.html/"
           iFramelyUrl="https://cdn.iframe.ly/STsnEWs?card=small"
          />
+        <Article
+          href="https://www.niagara-gazette.com/news/local_news/wheatfield-town-justice-sets-trial-date-for-cow-theft-case/article_a7bed3c8-5449-11ef-88b5-7309514d3d68.html/"
+          iFramelyUrl="https://cdn.iframe.ly/SSbpadE?card=small"
+         />
       </Press>
     </>
   );
