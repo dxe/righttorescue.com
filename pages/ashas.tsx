@@ -85,6 +85,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.niagara-gazette.com/news/local_news/wheatfield-town-justice-strips-prosecutors-of-key-evidence-in-cow-theft-case/article_b9153208-80f8-11ef-8f2e-5f1c513ae50a.html/"
           iFramelyUrl="https://cdn.iframe.ly/9U08TDX?card=small"
          />
+         <Article
+          href="https://www.niagara-gazette.com/news/local_news/charges-dismissed-in-cow-theft-case/article_4fa277ba-819b-11ef-8a77-af3d8067d153.html/"
+          iFramelyUrl="https://cdn.iframe.ly/ofIK8u9?card=small"
+         />
       </Press>
     </>
   );
