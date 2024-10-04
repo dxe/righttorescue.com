@@ -69,6 +69,9 @@ const AshasSanctuary: NextPage = () => {
           href="https://unchainedtv.com/2023/12/28/persecuted-sanctuary-owner-tracy-murphy-speaks-after-gag-order-lifted/"
           iFramelyUrl="https://cdn.iframe.ly/lrK60su?card=small"
         />
+        <Article
+          href="https://www.niagara-gazette.com/news/crime/newfane-animal-sanctuary-owner-rejects-plea-deal/article_54d8b7e8-0ce4-11ef-821b-cb5feba0361b.html"
+          iFramelyUrl="https://cdn.iframe.ly/STsnEWs?card=small"
         
       </Press>
     </>
