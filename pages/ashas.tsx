@@ -81,6 +81,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://spectrumlocalnews.com/nys/buffalo/news/2024/10/02/jury-selection-to-begin-in-tracy-murphy-trial/"
           iFramelyUrl="https://cdn.iframe.ly/mLgwaZs?card=small"
          />
+        <Article
+          href="https://www.niagara-gazette.com/news/local_news/wheatfield-town-justice-strips-prosecutors-of-key-evidence-in-cow-theft-case/article_b9153208-80f8-11ef-8f2e-5f1c513ae50a.html/"
+          iFramelyUrl="https://cdn.iframe.ly/9U08TDX?card=small"
+         />
       </Press>
     </>
   );
