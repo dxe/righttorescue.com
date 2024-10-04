@@ -65,6 +65,11 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.lockportjournal.com/news/local_news/animal-sanctuary-owner-has-gag-order-revised/article_1b6dd69a-5be7-11ee-ba89-6bc20db15ea2.html"
           iFramelyUrl="https://cdn.iframe.ly/jY1hTPJ?card=small"
         />
+         <Article
+          href="https://unchainedtv.com/2023/12/28/persecuted-sanctuary-owner-tracy-murphy-speaks-after-gag-order-lifted/"
+          iFramelyUrl="https://cdn.iframe.ly/lrK60su?card=small"
+        />
+        
       </Press>
     </>
   );
