@@ -77,6 +77,10 @@ const AshasSanctuary: NextPage = () => {
           href="https://www.niagara-gazette.com/news/local_news/wheatfield-town-justice-sets-trial-date-for-cow-theft-case/article_a7bed3c8-5449-11ef-88b5-7309514d3d68.html/"
           iFramelyUrl="https://cdn.iframe.ly/SSbpadE?card=small"
          />
+         <Article
+          href="https://spectrumlocalnews.com/nys/buffalo/news/2024/10/02/jury-selection-to-begin-in-tracy-murphy-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/mLgwaZs?card=small"
+         />
       </Press>
     </>
   );
