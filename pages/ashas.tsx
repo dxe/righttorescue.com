@@ -70,7 +70,7 @@ const AshasSanctuary: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/lrK60su?card=small"
         />
         <Article
-          href="https://www.niagara-gazette.com/news/crime/newfane-animal-sanctuary-owner-rejects-plea-deal/article_54d8b7e8-0ce4-11ef-821b-cb5feba0361b.html"
+          href="https://www.niagara-gazette.com/news/crime/newfane-animal-sanctuary-owner-rejects-plea-deal/article_54d8b7e8-0ce4-11ef-821b-cb5feba0361b.html/"
           iFramelyUrl="https://cdn.iframe.ly/STsnEWs?card=small"
         
       </Press>
