@@ -137,6 +137,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/judge-will-weigh-special-prosecutor-for-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/dTEfQdA?card=small"
         />
+         <Article
+          href="https://isthmus.com/news/news/ridglan-farms-cited-for-new-violations-as-hearing-nears/"
+          iFramelyUrl="https://cdn.iframe.ly/sgnThVx?card=small"
+        />
       </Press>
     </>
   );
