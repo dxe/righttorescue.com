@@ -23,7 +23,7 @@ const Home: NextPage = () => {
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, Zoe is being forced to
         wear a GPS ankle monitor and follow other strict requirements while
-        awaiting trial -- all for nonviolent acts of compassion.
+        awaiting her trial which starts May 16, 2025 in Santa Rosa, CA.
       </FeaturedCase>
       <Letter />
       <About
