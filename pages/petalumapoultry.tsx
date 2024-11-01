@@ -21,7 +21,7 @@ const Reichardt: NextPage = () => {
         ctaText2="Email the DA"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
       >
-        Register to attend the trial convergence in support of Zoe and the right to rescue. Email Sonoma County District Attorney Carla Rodriguez and ask
+        Register to attend the trial convergence in support of Zoe and the right to rescue. Plus, email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
         cruelty.
       </Header>
