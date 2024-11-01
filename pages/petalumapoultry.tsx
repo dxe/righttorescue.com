@@ -19,13 +19,10 @@ const Reichardt: NextPage = () => {
         ctaText1="Register to attend trial"
         ctaLink1="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
         ctaText2="Email the DA"
-        ctaText3="Tell Safeway: Drop Petaluma Poultry"
-        ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
-        ctaLink3="https://docs.google.com/document/d/13s5dQAezXOC7IhnqJh8yxU_lhSDhLMF9E-Lo9LSJT_k/edit?usp=sharing"
       >
         Register to attend the trial convergence in support of Zoe and the right to rescue. Email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
-        cruelty. Plus, ask Safeway to cut ties with Petaluma Poultry.
+        cruelty.
       </Header>
 
       <a
