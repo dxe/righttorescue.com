@@ -17,7 +17,7 @@ const Reichardt: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=Hq0SmC7-RYN9iBmn"
         videoRatio="1/1"
         ctaText1="Register to attend trial"
-        ctaLink1="dxe.io/register"
+        ctaLink1="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
         ctaText2="Email the DA"
         ctaText3="Tell Safeway: Drop Petaluma Poultry"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
