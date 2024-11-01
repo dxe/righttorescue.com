@@ -95,7 +95,13 @@ const Reichardt: NextPage = () => {
         </p>
         <p>
           After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
-          with a vehicle, and theft. She faces a potential maximum sentence of over 5 years in prison. Zoe's next court date is November 1st for trial scheduling.
+          with a vehicle, and theft. She faces a potential maximum sentence of over 5 years in prison. Zoe's trial is set to start on May 16, 2025 in Santa Rosa, CA. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
+            target="_blank"
+          >
+            here.
+          </a>{" "} 
         </p>
       </Details>
 
