@@ -16,14 +16,14 @@ const Reichardt: NextPage = () => {
         location="Sonoma County, California"
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=Hq0SmC7-RYN9iBmn"
         videoRatio="1/1"
-        ctaText1="Call the DA: 707-565-2311"
-        ctaLink1="tel:707-565-2311"
+        ctaText1="Register to attend trial"
+        ctaLink1="dxe.io/register"
         ctaText2="Email the DA"
         ctaText3="Tell Safeway: Drop Petaluma Poultry"
         ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
         ctaLink3="https://docs.google.com/document/d/13s5dQAezXOC7IhnqJh8yxU_lhSDhLMF9E-Lo9LSJT_k/edit?usp=sharing"
       >
-        Call and email Sonoma County District Attorney Carla Rodriguez and ask
+        Register to attend the trial convergence in support of Zoe and the right to rescue. Email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
         cruelty. Plus, ask Safeway to cut ties with Petaluma Poultry.
       </Header>
