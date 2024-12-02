@@ -46,6 +46,14 @@ export const Support = () => {
                 />
                 Donate
               </Button>
+              <h2 
+              className="text-white my-3"
+              style={{
+                textShadow: "6px 6px 12px rgba(0, 0, 0, 1)",
+                fontSize: "smaller"
+              }}>
+                ALL DONATIONS DOUBLED
+              </h2>
             </div>
           </div>
         </div>
