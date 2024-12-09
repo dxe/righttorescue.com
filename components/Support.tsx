@@ -57,7 +57,7 @@ export const Support = () => {
               </h2>
               <div style={{marginTop: "50px"}}>
                 <link href="https://s3.dxe.io/donation-thermometer/index.css" rel="stylesheet" />
-                <div className="dxe-donation-thermometer" data-start-date="2024-12-01" data-goal="50000"></div>
+                <div className="dxe-donation-thermometer" data-start-date="2024-12-01" data-goal="50000" data-offset="166800"></div>
                 <Script src="https://s3.dxe.io/donation-thermometer/index.js" defer></Script>
               </div>
             </div>
