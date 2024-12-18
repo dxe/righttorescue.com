@@ -184,6 +184,10 @@ const Reichardt: NextPage = () => {
           href="https://norcalpublicmedia.org/2024090596220/news-feed/health-workers-supporting-measure-j-link-factory-farms-with-pandemic-illnesses"
           iFramelyUrl="https://cdn.iframe.ly/J9C78mV?card=small"
         />
+         <Article
+          href="https://sonomastatestar.com/37329/news/activists-face-harsh-penalties-for-exposing-cruelty/"
+          iFramelyUrl="https://cdn.iframe.ly/rm0SXvA?card=small"
+        />
       </Press>
     </>
   );
