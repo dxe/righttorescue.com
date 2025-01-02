@@ -46,6 +46,12 @@ export const Support = () => {
                 />
                 Donate
               </Button>
+              {
+              /**
+               * Commit with donation thermometer and donation doubling text:
+               * b32f8a684464982e64eea5e120ad86fc4439557f 
+               */
+              }
             </div>
           </div>
         </div>
