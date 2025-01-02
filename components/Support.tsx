@@ -16,8 +16,7 @@ export const Support = () => {
           justifyItems: "center",
         }}
       >
-        {/* marginTop only needed when thermometer is present to avoid covering faces in background image */}
-        <div className="container" style={{marginTop: "100px"}}>
+        <div className="container">
           <div className="row">
             <div
               className="col-md-10 col-lg-8 mx-auto text-center"
@@ -47,19 +46,6 @@ export const Support = () => {
                 />
                 Donate
               </Button>
-              <h2 
-              className="text-white my-3"
-              style={{
-                textShadow: "6px 6px 12px rgba(0, 0, 0, 1)",
-                fontSize: "smaller"
-              }}>
-                ALL DONATIONS DOUBLED UNTIL JANUARY 1ST
-              </h2>
-              <div style={{marginTop: "50px"}}>
-                <link href="https://s3.dxe.io/donation-thermometer/index.css" rel="stylesheet" />
-                <div className="dxe-donation-thermometer" data-start-date="2024-12-01" data-goal="50000" data-offset="173355"></div>
-                <Script src="https://s3.dxe.io/donation-thermometer/index.js" defer></Script>
-              </div>
             </div>
           </div>
         </div>
