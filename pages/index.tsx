@@ -68,9 +68,7 @@ const Home: NextPage = () => {
           charges against UC Berkeley student and DxE animal cruelty
           investigator Zoe Rosenberg, after reviewing evidence presented at the
           preliminary hearing. Zoe now faces one felony conspiracy charge and
-          three misdemeanors: trespass, tampering with a vehicle, and theft. Zoe
-          and her co-defendant will appear in court on May 23 to be arraigned on
-          the reduced charges they now face. You can read more in the press{" "}
+          three misdemeanors: trespass, tampering with a vehicle, and theft. You can read more in the press{" "}
           <a
             href="https://www.dailycal.org/news/city/communities/4-felony-counts-dropped-against-uc-berkeley-student-for-animal-removal-charges-remain/article_bad0993c-11c9-11ef-9ef1-8764bf7dbb2b.html"
             target="_blank"
