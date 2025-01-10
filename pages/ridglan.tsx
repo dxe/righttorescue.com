@@ -23,7 +23,6 @@ const RidglanFarms: NextPage = () => {
         prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
-        <p> 
         Ridglan Farms is one of the largest breeders of beagles for
         experimentation in the United States. In 2017, DxE investigators entered
         the facility and documented the filthy conditions and the psychological
@@ -45,7 +44,6 @@ const RidglanFarms: NextPage = () => {
           press coverage
         </a>{" "}
         that made it clear there is public support for animal rescue.
-        </p>
      </Details>
       <Details>
         <h4>1/9/2025 Update: Judge Agrees to Appoint Special Prosecutor!</h4>
