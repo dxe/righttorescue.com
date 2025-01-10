@@ -31,8 +31,13 @@ const RidglanFarms: NextPage = () => {
         rescued three beagles, Julie, Anna, and Lucy. Eva, Paul, and Wayne were
         charged with felony burglary and felony theft charges. Their trial was
         set to start in March 2024 at the Dane County Courthouse in Madison,
-        Wisconsin. However, ten days before trial, the state DROPPED all the
-        charges. We believe this dismissal was the result of pressure and{" "}
+        Wisconsin. However, ten days before trial, the state{" "}
+        <a
+          href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
+          target="_blank"
+        >
+          DROPPED all the charges.
+        </a> We believe this dismissal was the result of pressure and{" "}
         <a
           href="https://isthmus.com/news/cover-stories/a-crime-of-compassion/"
           target="_blank"
@@ -40,34 +45,14 @@ const RidglanFarms: NextPage = () => {
           press coverage
         </a>{" "}
         that made it clear there is public support for animal rescue.
-       Please help us share the news on{" "}
-        <a
-          href="https://www.instagram.com/p/C4QrpC0Rr0L/?igsh=ZDE1MWVjZGVmZQ=="
-          target="_blank"
-        >
-          Instagram,
-        </a>{" "}
-        <a
-          href="https://www.facebook.com/directactioneverywhere/posts/pfbid037W6Ht2xWjnE9XEwTuyvZhZJfch6WqTxhZ92zF1658dNo7xTZnk1XLdtUbrn5HP4Fl"
-          target="_blank"
-        >
-          Facebook,
-        </a>{" "}
-        and{" "}
-        <a
-          href="https://twitter.com/DxEverywhere/status/1766150519163380055"
-          target="_blank"
-        >
-          Twitter
-        </a>
-        . 
         </p>
 
         <h4>1/9/2025 Update: Judge Agrees to Appoint Special Prosecutor!</h4>
         <p>
         The Dane County District Attorney’s office is still
         failing to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. There was a powerful evidentiary hearing on October 24, 2024 where whistleblowers including former employees presented evidence of Ridglan's crimes against dogs in court. After reviewing this evidence, on January 9, 2025, Judge Rhonda Lanford granted the petition to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! This decision marks a major victory in our fight to hold Ridglan Farms accountable. A special prosecutor will now be appointed to investigate the facility's widespread violations of animal welfare laws. And if we keep the pressure on, this could lead to shutting down operations at Ridglan Farms for good. 
-      </Details>
+      </p>
+        </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
           Eva is a researcher with Pax Fauna, a nonprofit that seeks to improve
