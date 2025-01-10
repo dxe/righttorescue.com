@@ -23,6 +23,7 @@ const RidglanFarms: NextPage = () => {
         prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
+        <p> 
         Ridglan Farms is one of the largest breeders of beagles for
         experimentation in the United States. In 2017, DxE investigators entered
         the facility and documented the filthy conditions and the psychological
@@ -59,7 +60,12 @@ const RidglanFarms: NextPage = () => {
         >
           Twitter
         </a>
-        .  The Dane County District Attorney’s office is still
+        . 
+        </p>
+
+        <h4>1/9/2025 Update: Judge Agrees to Appoint Special Prosecutor!</h4>
+        <p>
+        The Dane County District Attorney’s office is still
         failing to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. There was a powerful evidentiary hearing on October 24, 2024 where whistleblowers including former employees presented evidence of Ridglan's crimes against dogs in court. After reviewing this evidence, on January 9, 2025, Judge Rhonda Lanford granted the petition to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! This decision marks a major victory in our fight to hold Ridglan Farms accountable. A special prosecutor will now be appointed to investigate the facility's widespread violations of animal welfare laws. And if we keep the pressure on, this could lead to shutting down operations at Ridglan Farms for good. 
       </Details>
       <Defendants>
