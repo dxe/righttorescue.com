@@ -59,6 +59,20 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Dane County, Wisconsin"
+          date="Jan. 9, 2025"
+          image="dog.jpg"
+          featured
+        >
+          VICTORY! A Dane County judge has granted activists' petition to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! This is an incredible reversal of events. A year ago, animal rescuers who exposed Ridglan's abuse of dogs were the ones facing felonies. Just before trial, Ridglan pushed for those charges to be dismissed because they didn't want the world to hear about their crimes. But we kept the pressure on, and now, Ridglan is the one facing prosecution. You can read more in the press{" "}
+          <a
+            href="https://isthmus.com/news/news/let-special-prosecutor-decide-if-ridglan-committed-crimes/"
+            target="_blank"
+          >
+            here.
+          </a>{" "}
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="May 13, 2024"
           image="SquareZoePP.png"
