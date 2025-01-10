@@ -47,7 +47,7 @@ const RidglanFarms: NextPage = () => {
         that made it clear there is public support for animal rescue.
         </p>
      </Details>
-      <Details image="ridglan.jpg">
+      <Details image="Beagle Squeezing Their Head Through Cage.jpeg">
         <h4>1/9/2025 Update: Judge Agrees to Appoint Special Prosecutor!</h4>
         <p>
         The Dane County District Attorney’s office is still
