@@ -147,6 +147,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/let-special-prosecutor-decide-if-ridglan-committed-crimes/"
           iFramelyUrl="https://cdn.iframe.ly/sc8LkVV?card=small"
         />
+        <Article
+          href="https://wiscnews.com/news/state-regional/ridglan-farms-beagles-animal-rights-special-prosecutor/article_e78ab3fb-c0ad-5227-8666-09c00eaf83c1.html"
+          iFramelyUrl="https://cdn.iframe.ly/lWDrYGH?card=small"
+        />
       </Press>
     </>
   );
