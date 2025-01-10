@@ -137,6 +137,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/ridglan-farms-cited-for-new-violations-as-hearing-nears/"
           iFramelyUrl="https://cdn.iframe.ly/sgnThVx?card=small"
         />
+         <Article
+          href="https://isthmus.com/news/news/ridglan-farms-accused-of-the-wholesale-abuse-of-dogs/"
+          iFramelyUrl="https://cdn.iframe.ly/Qp8Agk3?card=small"
+        />
       </Press>
     </>
   );
