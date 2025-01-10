@@ -49,7 +49,7 @@ const RidglanFarms: NextPage = () => {
         <h4>1/9/2025 Update: Judge Agrees to Appoint Special Prosecutor!</h4>
         <p>
         The Dane County District Attorney’s office is still
-        failing to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. There was a powerful evidentiary hearing on October 24, 2024 where whistleblowers including former employees presented evidence of Ridglan's crimes against dogs in court. After reviewing this evidence, on January 9, 2025, Judge Rhonda Lanford{" "}
+        failing to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. Dane County Judge Rhonda Lanford agreed to hold an evidentiary hearing, which took place on October 24, 2024. The Animal Activist Legal Defense Project represented Dane4Dogs. The court heard testimony from investigator Wayne Hsiung, veterinarians, and former Ridglan employees who testified about the company's routine abuse of dogs, including non-veterinarians conducting surgeries on dogs without anesthetics. After reviewing this evidence, Judge Lanford issued her ruling on January 9, 2025. She{" "}
         <a
           href="https://isthmus.com/news/news/let-special-prosecutor-decide-if-ridglan-committed-crimes/"
           target="_blank"
