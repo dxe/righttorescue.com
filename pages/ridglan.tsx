@@ -139,6 +139,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/ridglan-farms-accused-of-the-wholesale-abuse-of-dogs/"
           iFramelyUrl="https://cdn.iframe.ly/Qp8Agk3?card=small"
         />
+          <Article
+          href="https://www.channel3000.com/news/local-news/judge-appoints-special-prosecutor-to-investigate-ridglan-farms-dog-breeding-facility/article_7220e2a0-cea7-11ef-89dd-a30d7d20439f.html"
+          iFramelyUrl="https://cdn.iframe.ly/d2zHk5q?card=small"
+        />
       </Press>
     </>
   );
