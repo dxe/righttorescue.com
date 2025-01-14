@@ -20,3 +20,10 @@ a {
 * {
   box-sizing: border-box;
 }
+
+.details-section + .details-section {
+  padding-top: 0px;
+}
+.details-section + .details-section :is(h1, h2, h3, h4, h5, h6) {
+  margin-top: 0px
+}

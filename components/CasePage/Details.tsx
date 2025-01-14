@@ -1,6 +1,6 @@
 export const Details = (props: DetailsProps) => {
   return (
-    <section id="description" className="projects-section bg-light">
+    <section id="description" className="details-section projects-section bg-light">
       <div className="container">
         <div className="row">
           {props.image && (
