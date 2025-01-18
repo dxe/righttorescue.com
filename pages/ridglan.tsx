@@ -151,6 +151,10 @@ const RidglanFarms: NextPage = () => {
           href="https://wiscnews.com/news/state-regional/ridglan-farms-beagles-animal-rights-special-prosecutor/article_e78ab3fb-c0ad-5227-8666-09c00eaf83c1.html"
           iFramelyUrl="https://cdn.iframe.ly/lWDrYGH?card=small"
         />
+        <Article
+          href="https://www.wpr.org/news/special-prosecutor-investigate-dog-breeding-facility-ridglan-farms"
+          iFramelyUrl="https://cdn.iframe.ly/e44hAUG?card=small"
+        />
       </Press>
     </>
   );
