@@ -155,6 +155,11 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wpr.org/news/special-prosecutor-investigate-dog-breeding-facility-ridglan-farms"
           iFramelyUrl="https://cdn.iframe.ly/e44hAUG?card=small"
         />
+         <Article
+          href="https://madison.com/news/local/crime-courts/ridglan-farms-beagles-animal-rights-special-prosecutor/article_48cf287e-ceb3-11ef-ae26-bb7878c53935.html"
+          iFramelyUrl="https://cdn.iframe.ly/fISmNp4?card=small"
+        />
+     
       </Press>
     </>
   );
