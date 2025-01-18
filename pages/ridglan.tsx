@@ -159,6 +159,10 @@ const RidglanFarms: NextPage = () => {
           href="https://madison.com/news/local/crime-courts/ridglan-farms-beagles-animal-rights-special-prosecutor/article_48cf287e-ceb3-11ef-ae26-bb7878c53935.html"
           iFramelyUrl="https://cdn.iframe.ly/fISmNp4?card=small"
         />
+        <Article
+          href="https://captimes.com/opinion/letters-to-the-editor/letter-beagles-have-a-voice-with-judge-lanford/article_6dc645be-cf70-11ef-b72c-63899f498daf.html"
+          iFramelyUrl="https://cdn.iframe.ly/m04a3Ej?card=small"
+        />
      
       </Press>
     </>
