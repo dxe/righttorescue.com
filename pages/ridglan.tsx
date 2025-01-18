@@ -163,6 +163,10 @@ const RidglanFarms: NextPage = () => {
           href="https://captimes.com/opinion/letters-to-the-editor/letter-beagles-have-a-voice-with-judge-lanford/article_6dc645be-cf70-11ef-b72c-63899f498daf.html"
           iFramelyUrl="https://cdn.iframe.ly/m04a3Ej?card=small"
         />
+        <Article
+          href="https://www.wortfm.org/special-prosecutor-to-investigate-blue-mounds-dog-breeding-facility/"
+          iFramelyUrl="https://cdn.iframe.ly/xpCKJhF?card=small"
+        />
      
       </Press>
     </>
