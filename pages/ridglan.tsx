@@ -167,6 +167,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wortfm.org/special-prosecutor-to-investigate-blue-mounds-dog-breeding-facility/"
           iFramelyUrl="https://cdn.iframe.ly/xpCKJhF?card=small"
         />
+         <Article
+          href="https://urbanmilwaukee.com/pressrelease/senator-habush-sinykin-commends-decision-to-appoint-a-special-prosecutor-to-address-criminal-animal-cruelty-allegations-at-research-facility-in-wisconsin/"
+          iFramelyUrl="https://cdn.iframe.ly/fBVzZNR?card=small"
+        />
      
       </Press>
     </>
