@@ -108,6 +108,10 @@ const RidglanFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/127TebU?card=small"
         />
         <Article
+          href="https://www.wkow.com/news/top-stories/case-dismissed-dane-county-trial-of-thefts-from-dog-breeder-scuttled/article_765f14f4-e0c3-11ee-b931-9f177ad7ee4a.html"
+          iFramelyUrl="https://cdn.iframe.ly/aTqvhW0?card=small"
+        />
+        <Article
           href="https://www.kron4.com/news/bay-area/charges-dropped-berkeley-resident-sued-for-beagle-rescue-mission/"
           iFramelyUrl="https://cdn.iframe.ly/YBPrIEC?card=small"
         />
