@@ -6,7 +6,7 @@ import { Announcement } from "../components/HomePage/Announcement";
 import { FeaturedCase } from "../components/HomePage/FeaturedCase";
 import { About } from "../components/HomePage/About";
 import TwitterTimeline from "../components/Twitter";
-import { Letter } from "../components/HomePage/Letter";
+import { Letter } from "../components/Letter";
 
 const Home: NextPage = () => {
   return (

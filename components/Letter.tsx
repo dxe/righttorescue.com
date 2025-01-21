@@ -5,9 +5,9 @@ import {
   DEFAULT_MESSAGE,
   PetitionForm,
   PetitionFormSchema,
-} from "../../data/petition";
+} from "../data/petition";
 import ky from "ky";
-import { Alert, AlertDescription, AlertTitle } from "../ui/alert";
+import { Alert, AlertDescription, AlertTitle } from "./ui/alert";
 import { LoaderIcon, MailCheckIcon } from "lucide-react";
 import {
   Form,
@@ -17,13 +17,13 @@ import {
   FormItem,
   FormLabel,
   FormMessage,
-} from "../ui/form";
-import { Input } from "../ui/input";
-import { Checkbox } from "../ui/checkbox";
-import { Textarea } from "../ui/textarea";
-import { Button } from "../ui/button";
+} from "./ui/form";
+import { Input } from "./ui/input";
+import { Checkbox } from "./ui/checkbox";
+import { Textarea } from "./ui/textarea";
+import { Button } from "./ui/button";
 import ReCAPTCHA from "react-google-recaptcha";
-import { getInstance as getAdReferralService } from "../../services/AdReferralService";
+import { getInstance as getAdReferralService } from "../services/AdReferralService";
 
 const PETITION_API_URL = "https://petitions-229503.appspot.com/api/sign";
 

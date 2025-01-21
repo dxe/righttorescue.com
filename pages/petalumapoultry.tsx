@@ -7,6 +7,7 @@ import { Press } from "../components/CasePage/Press";
 import { Article } from "../components/CasePage/Article";
 import { Col, Row } from "react-bootstrap";
 import TwitterTimeline from "../components/Twitter";
+import { Letter } from "../components/Letter";
 
 const Reichardt: NextPage = () => {
   return (
@@ -19,7 +20,9 @@ const Reichardt: NextPage = () => {
         ctaText1="Register to attend trial"
         ctaLink1="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
         ctaText2="Email the DA"
-        ctaLink2="mailto:carla.rodriguez@sonoma-county.org"
+        ctaLink2="#letter"
+        // Just scrolling down to #letter -- default target="_blank" is not desired here.
+        ctaTarget2="auto"
       >
         Register to attend the trial convergence in support of Zoe and the right to rescue. Plus, email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
@@ -103,14 +106,20 @@ const Reichardt: NextPage = () => {
         </p>
       </Details>
 
-      <Defendants>
-        <Bio name="Zoe Rosenberg" image="Zoe-and-Glenn.jpeg">
-          Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator,
-          and animal rescuer. When she was 11 years old, she founded Happy Hen
-          Animal Sanctuary, a nonprofit organization that has now saved over
-          1,000 neglected or abandoned animals.
-        </Bio>
-      </Defendants>
+      <div id="letter">
+        <Letter />
+      </div>
+
+      <div className="bg-light pt-5"> {/* Add white padding on top */}
+        <Defendants>
+          <Bio name="Zoe Rosenberg" image="Zoe-and-Glenn.jpeg">
+            Zoe is a UC Berkeley student, TEDx speaker, factory farm investigator,
+            and animal rescuer. When she was 11 years old, she founded Happy Hen
+            Animal Sanctuary, a nonprofit organization that has now saved over
+            1,000 neglected or abandoned animals.
+          </Bio>
+        </Defendants>
+      </div>
       <Press>
         <Article
           href="https://theintercept.com/2023/06/13/perdue-chicken-slaughterhouse-animal-cruelty-dxe/"

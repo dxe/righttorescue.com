@@ -82,7 +82,7 @@ export const Header = (props: HeaderProps) => {
                   <p className="text-white">
                     <a
                       href={props.ctaLink1}
-                      target="_blank"
+                      target={props.ctaTarget1 ?? "_blank"}
                       className="btn btn-primary w-100"
                     >
                       {props.ctaText1}
@@ -93,7 +93,7 @@ export const Header = (props: HeaderProps) => {
                   <p className="text-white">
                     <a
                       href={props.ctaLink2}
-                      target="_blank"
+                      target={props.ctaTarget2 ?? "_blank"}
                       className="btn btn-primary w-100"
                     >
                       {props.ctaText2}
@@ -104,7 +104,7 @@ export const Header = (props: HeaderProps) => {
                   <p className="text-white mb-5">
                     <a
                       href={props.ctaLink3}
-                      target="_blank"
+                      target={props.ctaTarget3 ?? "_blank"}
                       className="btn btn-primary w-100"
                     >
                       {props.ctaText3}
@@ -127,9 +127,12 @@ interface HeaderProps {
   videoRatio: string;
   ctaText1?: string;
   ctaLink1?: string;
+  ctaTarget1?: string;
   ctaText2?: string;
   ctaLink2?: string;
+  ctaTarget2?: string;
   ctaText3?: string;
   ctaLink3?: string;
+  ctaTarget3?: string;
   children?: any;
 }
