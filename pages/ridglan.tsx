@@ -175,7 +175,10 @@ const RidglanFarms: NextPage = () => {
           href="https://urbanmilwaukee.com/pressrelease/senator-habush-sinykin-commends-decision-to-appoint-a-special-prosecutor-to-address-criminal-animal-cruelty-allegations-at-research-facility-in-wisconsin/"
           iFramelyUrl="https://cdn.iframe.ly/fBVzZNR?card=small"
         />
-     
+      <Article
+          href="https://isthmus.com/news/news/wisconsin-agency-launches-probe-into-ridglan-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/sCVr7Ou?card=small"
+        />
       </Press>
     </>
   );
