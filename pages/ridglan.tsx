@@ -178,6 +178,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/wisconsin-agency-launches-probe-into-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/sCVr7Ou?card=small"
         />
+        <Article
+          href="https://www.channel3000.com/news/la-crosse-county-da-appointed-as-special-prosecutor-in-blue-mounds-beagle-breeder-case/article_77b16080-e3ee-11ef-b733-8f7d65329cf4.html"
+          iFramelyUrl="https://cdn.iframe.ly/foCyrzF?card=small"
+        />
       </Press>
     </>
   );
