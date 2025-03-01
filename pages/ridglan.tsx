@@ -182,6 +182,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.channel3000.com/news/la-crosse-county-da-appointed-as-special-prosecutor-in-blue-mounds-beagle-breeder-case/article_77b16080-e3ee-11ef-b733-8f7d65329cf4.html"
           iFramelyUrl="https://cdn.iframe.ly/foCyrzF?card=small"
         />
+         <Article
+          href="https://www.channel3000.com/news/news-3-now-investigates-ridglan-farms-under-fire/article_ad3ea676-f48e-11ef-9902-b35feadf3ff6.html"
+          iFramelyUrl="https://cdn.iframe.ly/jFTbz10?card=small"
+        />
       </Press>
     </>
   );
