@@ -205,6 +205,10 @@ const Reichardt: NextPage = () => {
           href="https://www.publicnewsservice.org/2025-01-30/animal-welfare/trial-ahead-for-ca-animal-activist-accused-of-trespassing-theft-conspiracy/a94966-1"
           iFramelyUrl="https://cdn.iframe.ly/l7LMcpf?card=small"
         />
+         <Article
+          href="https://sfstandard.com/2025/02/03/trader-joes-farmgirl-tiktok-beef-chickens/"
+          iFramelyUrl="https://cdn.iframe.ly/3xP4tQE?card=small"
+        />
       </Press>
     </>
   );
