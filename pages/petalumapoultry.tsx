@@ -201,6 +201,10 @@ const Reichardt: NextPage = () => {
           href="https://sonomastatestar.com/37329/news/activists-face-harsh-penalties-for-exposing-cruelty/"
           iFramelyUrl="https://cdn.iframe.ly/rm0SXvA?card=small"
         />
+         <Article
+          href="https://www.publicnewsservice.org/2025-01-30/animal-welfare/trial-ahead-for-ca-animal-activist-accused-of-trespassing-theft-conspiracy/a94966-1"
+          iFramelyUrl="https://cdn.iframe.ly/l7LMcpf?card=small"
+        />
       </Press>
     </>
   );
