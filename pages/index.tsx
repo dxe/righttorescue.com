@@ -59,6 +59,14 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Sonoma County, California"
+          date="Mar. 3, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+        Animal rescuer Zoe Rosenberg was arraigned in court today on her remaining charges, after defense attorneys successfully argued that the evidence does not support a felony burglary charge and prosecutors conceded. Judge Kenneth Gnoss confirmed trial will begin May 16th and set another hearing date of April 8th for defense attorneys to submit a motion arguing that the necessity defense should be allowed in this case. After the motion is submitted, another date will be set for it to be argued.
+        </Announcement>
+        <Announcement
           title="Dane County, Wisconsin"
           date="Jan. 9, 2025"
           image="dog.jpg"
