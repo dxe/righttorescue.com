@@ -80,6 +80,20 @@ const Home: NextPage = () => {
             here.
           </a>{" "}
         </Announcement>
+         <Announcement
+          title="Sonoma County, California"
+          date="Nov. 1, 2024"
+          image="SquareZoePP.png"
+          featured
+        >
+        Trial was just scheduled for animal rescuer Zoe Rosenberg, who faces one felony and four misdemeanors for rescuing four sick chickens from Perdue's Petaluma Poultry slaugtherhouse (prosecutors filed additional charges after the preliminary hearing concluded). Trial starts May 16, 2025 and is expected to take two weeks. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
+          <a
+            href="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
+            target="_blank"
+          >
+            here.
+          </a>{" "} 
+        </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="May 13, 2024"
