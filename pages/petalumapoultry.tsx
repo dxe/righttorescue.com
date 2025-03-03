@@ -78,31 +78,29 @@ const Reichardt: NextPage = () => {
           Direct Action Everywhere
         </a>{" "}
         have been exposing criminal animal cruelty and rampant disease at
-        factory farms in Sonoma County, including Petaluma Poultry, a subsidiary
-        of poultry giant Perdue. Instead of prosecuting these companies, the
+        factory farms in Sonoma County operated by Petaluma Poultry, a subsidiary
+        of poultry giant Perdue Farms. Instead of prosecuting these companies, the
         Sonoma County District Attorney has gone after the whistleblowers and
         animal rescuers. On November 30, 2023, DxE investigator Zoe Rosenberg
-        was arrested on multiple felony warrants and at her court date, she was
-        charged with five felonies for the rescue of sick chickens from Perdue's
+        was arrested on multiple felony warrants and later charged with five felonies for the rescue of four sick chickens from Perdue's
         Petaluma Poultry slaughterhouse in June 2023.
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
         <p>
           Zoe has been forced to wear a GPS ankle monitor and follow other
-          strict pretrial release conditions, including informing the
-          authorities any time she leaves her home county. She also has been
+          strict pretrial release conditions for over a year. She has been
           barred from possessing chickens, ducks, or other fowl. Clearly, they
           do not want Zoe rescuing any more suffering animals.
         </p>
         <p>
           After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
-          with a vehicle, and theft. She faces a potential maximum sentence of over 5 years in prison. Zoe's trial is set to start on May 16, 2025 in Santa Rosa, CA. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
+          with a vehicle, and theft. She faces a potential maximum sentence of 5 and a half years in prison. Zoe's trial will start May 16, 2025 in Santa Rosa, CA. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
           <a
             href="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
             target="_blank"
           >
             here.
-          </a>{" "} 
+          </a>{" "} Zoe's next court date is April 8th, when her attorneys will file a motion to allow the affirmative defense of necessity at trial. The court will set another date for the motion to be argued and decided before trial.
         </p>
       </Details>
 
