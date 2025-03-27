@@ -186,6 +186,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.channel3000.com/news/news-3-now-investigates-ridglan-farms-under-fire/article_ad3ea676-f48e-11ef-9902-b35feadf3ff6.html"
           iFramelyUrl="https://cdn.iframe.ly/jFTbz10?card=small"
         />
+        <Article
+          href="https://www.washingtonpost.com/opinions/2025/03/24/dogs-experiments-cruel-ridglan-prosecutor/"
+          iFramelyUrl="https://cdn.iframe.ly/Uq7JQBr?card=small"
+        />
       </Press>
     </>
   );
