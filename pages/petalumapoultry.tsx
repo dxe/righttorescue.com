@@ -215,6 +215,10 @@ const Reichardt: NextPage = () => {
           href="https://sonomastatestar.com/37786/news/animal-rights-activists-protest-at-home-of-perdue-farms-director-of-operations-after-a-court-hearing-for-fellow-activist/"
           iFramelyUrl="https://cdn.iframe.ly/KCb8JX5?card=small"
         />
+         <Article
+          href="https://www.delmarvanow.com/story/news/local/maryland/2025/03/18/protesters-target-perdue-headquarters-in-salisbury-maryland-2025-direct-action-everywhere/82518111007/"
+          iFramelyUrl="https://cdn.iframe.ly/rvYWIjo?card=small"
+        />
       </Press>
     </>
   );
