@@ -211,6 +211,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/law-and-justice/uc-berkeley-student-arraigned-on-charges-for-removing-chickens-from-farm/article_d0133f8a-f98f-11ef-bfb9-933161ed9da4.html"
           iFramelyUrl="https://cdn.iframe.ly/ihi9pNh?card=small"
         />
+        <Article
+          href="https://sonomastatestar.com/37786/news/animal-rights-activists-protest-at-home-of-perdue-farms-director-of-operations-after-a-court-hearing-for-fellow-activist/"
+          iFramelyUrl="https://cdn.iframe.ly/KCb8JX5?card=small"
+        />
       </Press>
     </>
   );
