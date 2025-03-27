@@ -207,6 +207,10 @@ const Reichardt: NextPage = () => {
           href="https://sfstandard.com/2025/02/03/trader-joes-farmgirl-tiktok-beef-chickens/"
           iFramelyUrl="https://cdn.iframe.ly/3xP4tQE?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/city/law-and-justice/uc-berkeley-student-arraigned-on-charges-for-removing-chickens-from-farm/article_d0133f8a-f98f-11ef-bfb9-933161ed9da4.html"
+          iFramelyUrl="https://cdn.iframe.ly/ihi9pNh?card=small"
+        />
       </Press>
     </>
   );
