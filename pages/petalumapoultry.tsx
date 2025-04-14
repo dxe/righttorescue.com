@@ -100,7 +100,7 @@ const Reichardt: NextPage = () => {
             target="_blank"
           >
             here.
-          </a>{" "} Zoe's next court date is April 8th, when her attorneys will file a motion to allow the affirmative defense of necessity at trial. The court will set another date for the motion to be argued and decided before trial.
+          </a>{" "} Zoe's next court date is April 30th, when her attorney will argue for subpoenas of Petaluma Poultry's records regarding animal welfare and disease rates as well as records from the CA Department of Food and Agriculture (CDFA).
         </p>
       </Details>
 
