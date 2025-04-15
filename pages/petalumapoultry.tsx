@@ -26,8 +26,7 @@ const Reichardt: NextPage = () => {
         ctaText3="Contact Trader Joe's"
         ctaLink3="https://docs.google.com/document/d/1WOBAr4Lc6Kj0vTdWbHpVhMg8P8E4klpt1T6udEqMp10/edit?usp=sharing"
       >
-        Register to attend the trial convergence in support of Zoe and the right to rescue! Email Sonoma County District Attorney Carla Rodriguez and ask
-        her to finally prosecute Petaluma Poultry for years of criminal animal
+        Register to attend Zoe's trial in support of the right to rescue, and ask Sonoma County District Attorney Carla Rodriguez to finally prosecute Petaluma Poultry for years of criminal animal
         cruelty. Plus, urge Trader Joe's to cut ties with Petaluma Poultry.
       </Header>
 
