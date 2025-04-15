@@ -23,6 +23,8 @@ const Reichardt: NextPage = () => {
         ctaLink2="#letter"
         // Just scrolling down to #letter -- default target="_blank" is not desired here.
         ctaTarget2="auto"
+        ctaText3="Email Trader Joe's"
+        ctaLink3="https://www.traderjoes.com/home/contact-us/product-feedback"
       >
         Register to attend the trial convergence in support of Zoe and the right to rescue. Plus, email Sonoma County District Attorney Carla Rodriguez and ask
         her to finally prosecute Petaluma Poultry for years of criminal animal
