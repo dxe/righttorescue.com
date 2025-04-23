@@ -17,16 +17,14 @@ const Reichardt: NextPage = () => {
         location="Sonoma County, California"
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=Hq0SmC7-RYN9iBmn"
         videoRatio="1/1"
-        ctaText1="Register to attend trial"
-        ctaLink1="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
-        ctaText2="Email the DA"
-        ctaLink2="#letter"
+        ctaText1="Email the DA"
+        ctaLink1="#letter"
         // Just scrolling down to #letter -- default target="_blank" is not desired here.
-        ctaTarget2="auto"
-        ctaText3="Contact Trader Joe's"
-        ctaLink3="https://docs.google.com/document/d/1WOBAr4Lc6Kj0vTdWbHpVhMg8P8E4klpt1T6udEqMp10/edit?usp=sharing"
+        ctaTarget1="auto"
+        ctaText2="Contact Trader Joe's"
+        ctaLink2="https://docs.google.com/document/d/1WOBAr4Lc6Kj0vTdWbHpVhMg8P8E4klpt1T6udEqMp10/edit?usp=sharing"
       >
-        Register to attend Zoe's trial in support of the right to rescue, and ask Sonoma County District Attorney Carla Rodriguez to finally prosecute Petaluma Poultry for years of criminal animal
+        Ask Sonoma County District Attorney Carla Rodriguez to finally prosecute Petaluma Poultry for years of criminal animal
         cruelty. Plus, urge Trader Joe's to cut ties with Petaluma Poultry.
       </Header>
 
@@ -95,13 +93,8 @@ const Reichardt: NextPage = () => {
         </p>
         <p>
           After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
-          with a vehicle, and theft. She faces a potential maximum sentence of 5 and a half years in prison. Zoe's trial will start May 16, 2025 in Santa Rosa, CA. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
-            target="_blank"
-          >
-            here.
-          </a>{" "} Zoe's next court date is April 30th, when her attorney will argue for subpoenas of Petaluma Poultry's records regarding animal welfare and disease rates as well as records from the CA Department of Food and Agriculture (CDFA).
+          with a vehicle, and theft. She faces a potential maximum sentence of 5 and a half years in prison. Zoe's trial was supposed to begin this May, but it was delayed because the prosecutors requested more time to prepare. We will share the new trial dates as soon as we have them.
+          Zoe's next court date is April 30th, when her attorney will argue for subpoenas of Petaluma Poultry's records regarding animal welfare and disease rates as well as records from the CA Department of Food and Agriculture (CDFA). Stay tuned for an update after that.
         </p>
       </Details>
 
