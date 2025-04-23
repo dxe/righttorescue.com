@@ -52,6 +52,16 @@ const Home: NextPage = () => {
       /> */}
 
       <Announcements>
+       <Announcement
+          title="Sonoma County, California"
+          date="Apr. 23, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+        This morning, the prosecutors motioned to continue (delay) Zoe's May 16th trial to give themselves more time to prepare their case. District Attorney Matthew Hobson argued that the impact that delaying trial would have on Zoe personally is irrelevant. Unfortunately, despite objections from Zoe's lawyer, the judge granted the motion to continue. We are waiting on new trial dates.
+
+The trial convergence DxE was organizing from May 16 - 22 will now be a week full of action against Perdue’s Petaluma Poultry, and the Animal Liberation Conference is still happening in Santa Rosa from May 23 - 27.
+        </Announcement>
         <Announcement
           title="Sonoma County, California"
           date="Mar. 3, 2025"
