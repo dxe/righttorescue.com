@@ -23,13 +23,7 @@ const Home: NextPage = () => {
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, Zoe is being forced to
         wear a GPS ankle monitor and follow other strict requirements while
-        awaiting her trial which starts May 16, 2025 in Santa Rosa, CA. DxE is organizing a convergence of activists around the trial to support Zoe and the right to rescue animals from abuse. Register to attend the trial convergence{" "}
-          <a
-            href="https://docs.google.com/forms/d/e/1FAIpQLSeoS_f-9g-NsWVqEofwwy2PuBoPQinW2j4KJpbP47b6bHBtxg/viewform"
-            target="_blank"
-          >
-            here.
-          </a>{" "} 
+        awaiting her trial. The trial was supposed to begin this May, but it was just delayed because the prosecutors requested more time to prepare. We will share the new trial dates as soon as we have them. 
       </FeaturedCase>
       <Letter />
       <About
