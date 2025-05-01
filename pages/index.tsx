@@ -58,7 +58,7 @@ const Home: NextPage = () => {
           image="SquareZoePP.png"
           featured
         >
-        New trial dates were set today. Zoe's trial will start on Monday, *September 15, 2025*. The court also set a pre-trial hearing for June 13 to hear argument on whether the necessity defense should apply in this case. 
+        New trial dates were set today. Zoe's trial will start on Monday, September 15, 2025. The court also set a pre-trial hearing for June 13 to hear argument on whether the necessity defense should apply in this case. 
 
 The trial convergence DxE was organizing from May 16 - 22 will now be a week full of action against Perdue’s Petaluma Poultry, and the Animal Liberation Conference is still happening in Santa Rosa from May 23 - 27.
         </Announcement>
