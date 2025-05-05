@@ -212,6 +212,9 @@ const Reichardt: NextPage = () => {
           href="https://www.delmarvanow.com/story/news/local/maryland/2025/03/18/protesters-target-perdue-headquarters-in-salisbury-maryland-2025-direct-action-everywhere/82518111007/"
           iFramelyUrl="https://cdn.iframe.ly/rvYWIjo?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/city/law-and-justice/uc-berkeley-student-arraigned-on-charges-for-removing-chickens-from-farm/article_d0133f8a-f98f-11ef-bfb9-933161ed9da4.html"
+          iFramelyUrl="https://cdn.iframe.ly/ihi9pNh?card=small"
       </Press>
     </>
   );
