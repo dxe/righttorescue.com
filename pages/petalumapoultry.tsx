@@ -215,6 +215,11 @@ const Reichardt: NextPage = () => {
          <Article
           href="https://www.dailycal.org/news/city/law-and-justice/uc-berkeley-student-arraigned-on-charges-for-removing-chickens-from-farm/article_d0133f8a-f98f-11ef-bfb9-933161ed9da4.html"
           iFramelyUrl="https://cdn.iframe.ly/ihi9pNh?card=small"
+        />
+         <Article
+          href="https://www.kcra.com/article/bay-area-animal-rights-activist-prison-chicken-rescue/64637277"
+          iFramelyUrl="https://cdn.iframe.ly/VJZHzg4?card=small"
+        />
       </Press>
     </>
   );
