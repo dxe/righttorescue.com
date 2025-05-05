@@ -220,6 +220,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kcra.com/article/bay-area-animal-rights-activist-prison-chicken-rescue/64637277"
           iFramelyUrl="https://cdn.iframe.ly/VJZHzg4?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/article/news/zoe-rosenberg-billboard-petaluma-poultry/"
+          iFramelyUrl="https://cdn.iframe.ly/ll8vPOf?card=small"
+        />
       </Press>
     </>
   );
