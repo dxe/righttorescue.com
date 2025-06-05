@@ -228,6 +228,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/opinion/op-eds/graduating-with-an-ankle-monitor/article_cc277259-51ce-4910-9cc3-076927cda191.html"
           iFramelyUrl="https://cdn.iframe.ly/9vQqxPXg?card=small"
         />
+         <Article
+          href="https://sentientmedia.org/animal-rights-activist-rescued-four-sick-chickens/"
+          iFramelyUrl="https://cdn.iframe.ly/YpJkPac2?card=small"
+        />
       </Press>
     </>
   );
