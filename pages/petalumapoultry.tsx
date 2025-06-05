@@ -224,6 +224,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/article/news/zoe-rosenberg-billboard-petaluma-poultry/"
           iFramelyUrl="https://cdn.iframe.ly/ll8vPOf?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/opinion/op-eds/graduating-with-an-ankle-monitor/article_cc277259-51ce-4910-9cc3-076927cda191.html"
+          iFramelyUrl="https://cdn.iframe.ly/9vQqxPXg?card=small"
+        />
       </Press>
     </>
   );
