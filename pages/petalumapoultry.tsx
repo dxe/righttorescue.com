@@ -232,6 +232,10 @@ const Reichardt: NextPage = () => {
           href="https://sentientmedia.org/animal-rights-activist-rescued-four-sick-chickens/"
           iFramelyUrl="https://cdn.iframe.ly/YpJkPac2?card=small"
         />
+         <Article
+          href="https://theintercept.com/2025/06/02/fbi-animal-rights-bird-flu-disease-terrorists/"
+          iFramelyUrl="https://cdn.iframe.ly/QdsEdctR?card=small"
+        />
       </Press>
     </>
   );
