@@ -236,6 +236,10 @@ const Reichardt: NextPage = () => {
           href="https://theintercept.com/2025/06/02/fbi-animal-rights-bird-flu-disease-terrorists/"
           iFramelyUrl="https://cdn.iframe.ly/QdsEdctR?card=small"
         />
+        <Article
+          href="https://www.wired.com/story/fbi-wmdd-dxe-animal-agriculture-alliance/"
+          iFramelyUrl="https://cdn.iframe.ly/3LrJOF7t?card=small"
+        />
       </Press>
     </>
   );
