@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        DxE investigator Zoe Rosenberg is facing over 5 years in prison for
+        DxE investigator Zoe Rosenberg is facing almost 5 years in prison for
         rescuing four sick chickens from a Perdue slaughterhouse in Sonoma
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, Zoe is being forced to
@@ -52,7 +52,18 @@ const Home: NextPage = () => {
       /> */}
 
       <Announcements>
-      <Announcement
+     <Announcement
+          title="Sonoma County, California"
+          date="June 4, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+         Victory! Today, Sonoma County Judge Kenneth Gnoss refused to issue a gag order that would have prohibited animal cruelty investigator and felony defendant Zoe Rosenberg from speaking publicly about her important case. He described the requested gag order as “overbroad and vague by any constitutional standard" and noted correctly that it would be unconstitutional to only silence Zoe when opponents have been very vocal in public discussion about Zoe's case, too. He listed off multiple examples including the Sonoma County Farm Bureau having an entire page on their website dedicated to updating people about DxE's court cases and a recent statement by Bill Mattos, President of the California Poultry Federation, describing Zoe's rescue of suffering chickens as a “terrorist act.”
+       Also today, the prosecutors dropped the theft charge against Zoe. This seems like good news, but they are strategically trying to prevent the evidence of the condition of the rescued animals from being presented in the trial. They did the exact same thing in our last trial in Sonoma County, and it led to animal cruelty evidence being extremely limited.
+
+They do this because they know people will sympathize with the animals suffering at Perdue's Petaluma Poultry and will want to see the animals rescued! Public support is on the side of animal rescue, not animal abuse, and eventually, our movement will win. 
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Apr. 30, 2025"
           image="SquareZoePP.png"
