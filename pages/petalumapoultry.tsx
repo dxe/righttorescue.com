@@ -92,8 +92,8 @@ const Reichardt: NextPage = () => {
           do not want Zoe rescuing any more suffering animals.
         </p>
         <p>
-          After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and four misdemeanors, including two types of trespass, tampering
-          with a vehicle, and theft. She faces a potential maximum sentence of 5 and a half years in prison. Zoe's trial was supposed to begin in May, but it was delayed to September because the prosecutors requested more time to prepare. The #PerdueTrial will now start September 15, 2025, and it's expected to last 2-3 weeks. There is a pre-trial hearing set for June 13 to hear argument on defense's motion to use the affirmative defense of necessity, which applies when someone acts in an emergency situation in order to prevent a harm from happening, in this case to protect animals in need of urgent medical care and to prevent potential public health impacts to consumers.
+          After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
+          with a vehicle. She faces a potential maximum sentence of 5 years in prison. Zoe's trial was supposed to begin in May, but it was delayed to September because the prosecutors requested more time to prepare. The #PerdueTrial will now start September 15, 2025, and it's expected to last 2-3 weeks. There is a pre-trial hearing set for June 13 to hear argument on defense's motion to use the affirmative defense of necessity, which applies when someone acts in an emergency situation in order to prevent a harm from happening, in this case to protect animals in need of urgent medical care and to prevent potential public health impacts to consumers.
         </p>
       </Details>
 
