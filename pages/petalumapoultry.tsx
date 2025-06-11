@@ -240,6 +240,10 @@ const Reichardt: NextPage = () => {
           href="https://www.wired.com/story/fbi-wmdd-dxe-animal-agriculture-alliance/"
           iFramelyUrl="https://cdn.iframe.ly/3LrJOF7t?card=small"
         />
+          <Article
+          href="https://davisvanguard.org/2025/06/sonoma-county-justice-animal-rights/"
+          iFramelyUrl="https://cdn.iframe.ly/DWgbvJq3?card=small"
+        />
       </Press>
     </>
   );
