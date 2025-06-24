@@ -14,6 +14,8 @@ const Meyenberg: NextPage = () => {
         location="Kings County, California"
         video="https://youtu.be/VCIJxjj-lgw?si=ydp-uTGS_6xmzuim"
         videoRatio="1/1"
+        ctaText1="Sign the Petition"
+        ctaLink1="https://www.directactioneverywhere.com/campaigns/stop-meyenbergs-goat-graveyard"
       >
         Urge the Kings County Animal Services Department to investigate the disease, neglect and high mortality at Meyenberg's Vera Goat Dairy factory farm in Stratford and to stop the illegal goat graveyard.
       </Header>
