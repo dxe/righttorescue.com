@@ -10,18 +10,24 @@ const Cases: NextPage = () => {
   return (
     <CasesSection>
       <CasesSection.CaseList>
-        <Case
-          name="Ridglan Farms"
-          location="Dane County, Wisconsin"
-          page="ridglan"
-          image="ridglan.jpg"
-        />
 
         <Case
           name="Petaluma Poultry"
           location="Sonoma County, California"
           page="petalumapoultry"
           image="zoe-pp.png"
+        />
+        <Case
+          name="Ridglan Farms"
+          location="Dane County, Wisconsin"
+          page="ridglan"
+          image="ridglan.jpg"
+        />
+        <Case
+          name="Meyenberg's Vera Goat Dairy"
+          location="Kings County, California"
+          page="meyenberg"
+          image="5:27 Rescue.png"
         />
         <Case
           name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
