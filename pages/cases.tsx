@@ -27,7 +27,7 @@ const Cases: NextPage = () => {
           name="Meyenberg's Vera Goat Dairy"
           location="Kings County, California"
           page="meyenberg"
-          image="5:27 Rescue.png"
+          image="M Rescue.png"
         />
         <Case
           name="Sunrise Farms, Petaluma Poultry, Reichardt Duck Farm"
