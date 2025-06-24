@@ -38,7 +38,7 @@ const Meyenberg: NextPage = () => {
           Joseph is a pilot, videographer, and animal cruelty investigator based in California. 
         </Bio>
         <Bio name="Carla Cabral" image="Carla photo 1.jpeg">
-          Carla grew up loving animals and built a career around caring for them, first as an ER veterinary technician and then as a research scientist—but it wasn’t until she faced the truth about how we exploit animals, even in the name of care, that she committed to a life of advocacy and education to help build a world free from speciesism and cruelty.
+          Carla grew up loving animals and built a career around caring for them, first as an ER veterinary technician and then as a research scientist—but it wasn’t until she faced the truth about how we exploit animals, even in the name of care, that she committed to a life of advocacy to help build a world free from speciesism and cruelty.
         </Bio>
         <Bio name="Taj Uppal" image="Taj Uppal Photo.jpg">
           Taj is an activist and attorney litigating animal activist defense cases. In his spare time, he enjoys playing basketball with his friends.
