@@ -37,3 +37,18 @@ makes use of `launch.json`.
 A GitHub Action automatically deploys the website to http://righttorescue.com
 after pushing to the main branch. Next.js generates static files for this
 website, and these are pushed to AWS S3.
+
+## Web development tips
+
+### Image aspect ratios
+
+To make images look consistent site, make sure their aspect ratios are consistent. Here is an example of a tool that
+lets you change the aspect ratio of an image:
+
+https://imagy.app/image-aspect-ratio-changer/
+
+### Embedding YouTube videos
+
+Our `<Header>` component accepts a `video` attribute that requires a YouTube embed URL. To obtain such a URL,
+find the "Share" button on a YouTube video, choose the "Embed" option and look in the embed code for the value of the
+`iframe`'s `src` attribute.
