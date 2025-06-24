@@ -12,7 +12,7 @@ const Meyenberg: NextPage = () => {
       <Header
         title="Meyenberg's Vera Goat Dairy"
         location="Kings County, California"
-        video="https://youtu.be/VCIJxjj-lgw?si=ydp-uTGS_6xmzuim"
+        video="https://www.youtube.com/embed/VCIJxjj-lgw?si=IXdLyd2_EUx1b-Dg"
         videoRatio="1/1"
         ctaText1="Sign the Petition"
         ctaLink1="https://www.directactioneverywhere.com/campaigns/stop-meyenbergs-goat-graveyard"
