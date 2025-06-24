@@ -34,7 +34,7 @@ const Meyenberg: NextPage = () => {
         Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the five rescuers. Joe, Carla, Taj, Yasirah, and Sally were released after a couple of hours in custody with certificates of release saying no charges are yet filed, pending further investigation. We are now waiting to see if Kings County will file charges against these compassionate animal rescuers.  
       </Details>
       <Defendants>
-        <Bio name="Joseph Allman" image="joe.png">
+        <Bio name="Joseph Allman" image="Joe.png">
           Joseph is a pilot, videographer, and animal cruelty investigator based in California. 
         </Bio>
         <Bio name="Carla Cabral" image="Carla photo 1.jpeg">
