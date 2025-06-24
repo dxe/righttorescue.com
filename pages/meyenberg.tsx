@@ -12,7 +12,7 @@ const Meyenberg: NextPage = () => {
       <Header
         title="Meyenberg's Vera Goat Dairy"
         location="Kings County, California"
-        video="https://www.youtube.com/watch?v=VCIJxjj-lgw"
+        video="https://youtu.be/VCIJxjj-lgw?si=ydp-uTGS_6xmzuim"
         videoRatio="1/1"
       >
         Urge the Kings County Animal Services Department to investigate the disease, neglect and high mortality at Meyenberg's Vera Goat Dairy factory farm in Stratford and to stop the illegal goat graveyard.
