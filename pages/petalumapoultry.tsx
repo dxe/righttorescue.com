@@ -93,7 +93,7 @@ const Reichardt: NextPage = () => {
         </p>
         <p>
           After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
-          with a vehicle. She faces a potential maximum sentence of almost 5 years in prison. Zoe's trial was supposed to begin in May, but it was delayed to September because the prosecutors requested more time to prepare. The #PerdueTrial will now start September 15, 2025, and it could last 2 weeks.
+          with a vehicle. She faces a potential maximum sentence of almost 5 years in prison. Zoe's trial was supposed to begin in May, but it was delayed to September because the prosecutors requested more time to prepare. The #PerdueTrial will now start September 15, 2025, and it is expected to last at least 2 weeks.
         </p>
       </Details>
 
