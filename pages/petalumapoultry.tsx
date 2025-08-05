@@ -93,11 +93,7 @@ const Reichardt: NextPage = () => {
         </p>
         <p>
           After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
-          with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. The #PerdueTrial begins September 15, 2025, and it is expected to last 3-5 weeks. DxE is organizing a convergence around the trial to provide court support and bring the message to the public. You can register for the trial convergence here</a>{" "}
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
-          target="_blank"
-        >!  
+          with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. The #PerdueTrial begins September 15, 2025, and it is expected to last 3-5 weeks. DxE is organizing a convergence around the trial to provide court support and bring the message to the public. You can register for the trial convergence at dxe.io/trial!  
         </p> 
       </Details>
 
