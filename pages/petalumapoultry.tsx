@@ -98,7 +98,7 @@ const Reichardt: NextPage = () => {
           href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
           target="_blank"
         >!  
-        </p>
+        </p> 
       </Details>
 
       <div id="letter">
