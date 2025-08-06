@@ -23,7 +23,12 @@ const Home: NextPage = () => {
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, Zoe is being forced to
         wear a GPS ankle monitor and follow other strict requirements while
-        awaiting her trial. The #PerdueTrial is set to begin on September 15, 2025 in Santa Rosa, and it's expected to last 3-5 weeks. 
+        awaiting her trial. The #PerdueTrial is set to begin on September 15, 2025 in Santa Rosa, and it's expected to last 3-5 weeks. Please register to attend the trial{" "}
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
+          target="_blank"
+        >
+          here</a>!
       </FeaturedCase>
       <Letter />
       <About
