@@ -254,6 +254,10 @@ const Reichardt: NextPage = () => {
           href="https://davisvanguard.org/2025/06/sonoma-county-justice-animal-rights/"
           iFramelyUrl="https://cdn.iframe.ly/DWgbvJq3?card=small"
         />
+         <Article
+          href="https://kpfa.org/episode/mistreated-poultry-wf-protests/"
+          iFramelyUrl="https://cdn.iframe.ly/gVX47a2H?card=small"
+        />
       </Press>
     </>
   );
