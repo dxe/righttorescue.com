@@ -254,6 +254,10 @@ const Reichardt: NextPage = () => {
           href="https://davisvanguard.org/2025/06/sonoma-county-justice-animal-rights/"
           iFramelyUrl="https://cdn.iframe.ly/DWgbvJq3?card=small"
         />
+        <Article
+          href="https://www.vannuysnewspress.com/judge-denies-trader-joes-protest-ban-activists-rally-in-encino/"
+          iFramelyUrl="https://cdn.iframe.ly/54RX5PY3?card=small"
+        />
       </Press>
     </>
   );
