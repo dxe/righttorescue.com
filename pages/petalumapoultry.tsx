@@ -258,6 +258,10 @@ const Reichardt: NextPage = () => {
           href="https://kpfa.org/episode/mistreated-poultry-wf-protests/"
           iFramelyUrl="https://cdn.iframe.ly/gVX47a2H?card=small"
         />
+         <Article
+          href="https://www.vannuysnewspress.com/judge-denies-trader-joes-protest-ban-activists-rally-in-encino/"
+          iFramelyUrl="https://cdn.iframe.ly/54RX5PY3?card=small"
+        />
       </Press>
     </>
   );
