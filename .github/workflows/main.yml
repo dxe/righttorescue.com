@@ -12,10 +12,10 @@ jobs:
       - uses: actions/checkout@master
       - uses: actions/setup-node@v2
         with:
-          node-version: 20.19
+          node-version: 22.16
       - uses: pnpm/action-setup@v2
         with:
-          version: 10
+          version: 10.12
           run_install: false
       - name: build
         run: |
