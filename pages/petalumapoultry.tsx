@@ -262,6 +262,10 @@ const Reichardt: NextPage = () => {
           href="https://www.vannuysnewspress.com/judge-denies-trader-joes-protest-ban-activists-rally-in-encino/"
           iFramelyUrl="https://cdn.iframe.ly/54RX5PY3?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/campus/student-life/three-weeks-ahead-of-felony-trial-uc-berkeley-activist-pleads-her-case-on-campus/article_092390b8-5057-4afe-b063-fa6662ba77c7.html"
+          iFramelyUrl="https://cdn.iframe.ly/VxyDuNA7?card=small"
+        />
       </Press>
     </>
   );
