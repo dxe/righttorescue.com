@@ -262,6 +262,10 @@ const Reichardt: NextPage = () => {
           href="https://www.vannuysnewspress.com/judge-denies-trader-joes-protest-ban-activists-rally-in-encino/"
           iFramelyUrl="https://cdn.iframe.ly/54RX5PY3?card=small"
         />
+        <Article
+          href="https://www.nytimes.com/2025/09/02/us/california-farmers-animal-activists-bay-area-sonoma.html"
+          iFramelyUrl="https://cdn.iframe.ly/iYn4Mo0n?card=small"
+        />
       </Press>
     </>
   );
