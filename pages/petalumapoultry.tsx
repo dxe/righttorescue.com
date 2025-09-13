@@ -266,6 +266,10 @@ const Reichardt: NextPage = () => {
           href="https://www.nytimes.com/2025/09/02/us/california-farmers-animal-activists-bay-area-sonoma.html"
           iFramelyUrl="https://cdn.iframe.ly/iYn4Mo0n?card=small"
         />
+         <Article
+          href="https://www.dailycal.org/news/campus/student-life/three-weeks-ahead-of-felony-trial-uc-berkeley-activist-pleads-her-case-on-campus/article_092390b8-5057-4afe-b063-fa6662ba77c7.html"
+          iFramelyUrl="https://cdn.iframe.ly/VxyDuNA7?card=small"
+        />
       </Press>
     </>
   );
