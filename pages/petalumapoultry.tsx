@@ -78,7 +78,7 @@ const Reichardt: NextPage = () => {
         </a>{" "}
         have been exposing criminal animal cruelty and rampant disease at
         factory farms in Sonoma County operated by Petaluma Poultry, a subsidiary
-        of poultry giant Perdue Farms. Instead of prosecuting these companies, the
+        of poultry giant Perdue Foods. Instead of prosecuting these companies, the
         Sonoma County District Attorney has gone after the whistleblowers and
         animal rescuers. On November 30, 2023, DxE investigator Zoe Rosenberg
         was arrested on multiple felony warrants and later charged with five felonies for the rescue of four sick chickens from Perdue's
@@ -91,7 +91,12 @@ const Reichardt: NextPage = () => {
           with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. 
         </p>
         <p>
-          The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October.   
+          The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October. You can follow along through{" "}
+        <a
+          href="https://www.directactioneverywhere.com/news"
+          target="_blank"
+        >
+          DxE's Court Watch blog</a>, on the Perdue Rescue Trial X account, on DxE's Instagram, and on UnchainedTV. Or better yet, join us in person!  
         </p> 
       </Details>
       <Details>
