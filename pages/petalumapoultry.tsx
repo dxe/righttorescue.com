@@ -111,7 +111,7 @@ const Reichardt: NextPage = () => {
           href="https://www.facebook.com/JaneVelezMitchell"
           target="_blank"
         >
-          , UnchainedTV</a>. Or better yet, join us in person!  
+          UnchainedTV</a>. Or better yet, join us in person!  
         </p> 
       </Details>
       <Details>
