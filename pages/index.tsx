@@ -18,12 +18,12 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        DxE investigator Zoe Rosenberg is facing almost 5 years in prison for
+        DxE investigator Zoe Rosenberg is facing almost 5 years in jail for
         rescuing four sick chickens from a Perdue slaughterhouse in Sonoma
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, Zoe is being forced to
         wear a GPS ankle monitor and follow other strict requirements while
-        awaiting her trial. The #PerdueTrial is set to begin on September 15, 2025 in Santa Rosa, and it's expected to last 3-5 weeks. Please register to attend the trial{" "}
+        awaiting her trial. The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October. Please register to attend the trial{" "}
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
           target="_blank"
