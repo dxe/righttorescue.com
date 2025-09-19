@@ -96,7 +96,22 @@ const Reichardt: NextPage = () => {
           href="https://www.directactioneverywhere.com/news"
           target="_blank"
         >
-          DxE's Court Watch blog</a>, on the Perdue Rescue Trial X account, on DxE's Instagram, and on UnchainedTV. Or better yet, join us in person!  
+          DxE's Court Watch blog</a>, on the{" "}
+        <a
+          href="https://x.com/PerdueTrial"
+          target="_blank"
+        >
+          Perdue Rescue Trial X account</a>, on{" "}
+        <a
+          href="https://www.instagram.com/directactioneverywhere/"
+          target="_blank"
+        >
+          DxE's Instagram</a>, and on{" "}
+        <a
+          href="https://www.facebook.com/JaneVelezMitchell"
+          target="_blank"
+        >
+          , UnchainedTV</a>. Or better yet, join us in person!  
         </p> 
       </Details>
       <Details>
