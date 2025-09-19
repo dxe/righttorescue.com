@@ -86,14 +86,12 @@ const Reichardt: NextPage = () => {
       </Details>
       <Details image="Conrad-Zoe-Rocky.jpeg">
         <p>
-          Zoe has been forced to wear a GPS ankle monitor and follow other
-          strict pretrial release conditions for over a year. She has been
-          barred from possessing chickens, ducks, or other fowl. Clearly, they
-          do not want Zoe rescuing any more suffering animals.
+          Zoe was forced to wear a GPS ankle monitor and follow other
+          strict pretrial release conditions for 20 months while awaiting trial. After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
+          with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. 
         </p>
         <p>
-          After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
-          with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. The #PerdueTrial begins September 15, 2025, and it is expected to last 3-5 weeks.  
+          The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October.   
         </p> 
       </Details>
       <Details>
