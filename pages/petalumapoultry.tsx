@@ -300,6 +300,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/law-and-justice/charged-with-felony-conspiracy-uc-berkeley-animal-rights-activist-s-trial-begins/article_b0a3ab5b-d39d-4fc6-a998-53df1b65f7e9.html"
           iFramelyUrl="https://cdn.iframe.ly/Qy2Xviuk?card=small"
         />
+        <Article
+          href="https://www.pressdemocrat.com/2025/09/17/berkeley-activist-poultry-farm-trial-sonoma-county/"
+          iFramelyUrl="https://cdn.iframe.ly/o1S2RAJt?card=small"
+        />
       </Press>
     </>
   );
