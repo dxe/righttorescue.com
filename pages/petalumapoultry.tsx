@@ -292,6 +292,10 @@ const Reichardt: NextPage = () => {
           href="https://www.commondreams.org/opinion/felony-rescue-chickens"
           iFramelyUrl="https://cdn.iframe.ly/a0bHACI0?card=small"
         />
+         <Article
+          href="https://www.kqed.org/news/12055745/berkeley-animal-activist-faces-prison-in-sonoma-chicken-theft-case"
+          iFramelyUrl="https://cdn.iframe.ly/xXSsWS8s?card=small"
+        />
       </Press>
     </>
   );
