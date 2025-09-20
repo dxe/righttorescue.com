@@ -202,6 +202,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wmtv15news.com/2025/08/21/county-supervisors-push-remove-dogs-blue-mounds-breeder-during-investigations/"
           iFramelyUrl="https://cdn.iframe.ly/HxAtJ0w0?card=small"
         />
+        <Article
+          href="https://www.dailycardinal.com/article/2025/09/unclawful-activity-the-history-behind-beagle-breeder-ridglan-farms-lawsuit-against-dane4dogs"
+          iFramelyUrl="https://cdn.iframe.ly/swkhetRi?card=small"
+        />
       </Press>
     </>
   );
