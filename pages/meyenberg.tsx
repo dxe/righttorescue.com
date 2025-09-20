@@ -63,6 +63,10 @@ const Meyenberg: NextPage = () => {
           href="https://unchainedtv.com/2025/06/14/sick-goats-secret-cameras-animal-rights-activists-arrested/"
           iFramelyUrl="https://cdn.iframe.ly/TZMfgo60?card=small"
         />
+        <Article
+          href="https://abc30.com/post/protesters-ask-kings-county-officials-investigate-vera-goat-dairy/17140852/"
+          iFramelyUrl="https://cdn.iframe.ly/YikVPpwC?card=small"
+        />
       </Press>
     </>
   );
