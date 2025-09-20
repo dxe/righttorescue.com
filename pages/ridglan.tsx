@@ -198,6 +198,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.fox6now.com/news/wisconsin-puppy-mill-beagles-suffer-human-research"
           iFramelyUrl="https://cdn.iframe.ly/lMNSjCws?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2025/08/21/county-supervisors-push-remove-dogs-blue-mounds-breeder-during-investigations/"
+          iFramelyUrl="https://cdn.iframe.ly/HxAtJ0w0?card=small"
+        />
       </Press>
     </>
   );
