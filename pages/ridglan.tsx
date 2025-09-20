@@ -194,6 +194,10 @@ const RidglanFarms: NextPage = () => {
           href="https://spectrumnews1.com/wi/milwaukee/news/2025/03/26/special-prosecutor-appointed-to-investigate-ridglan-farms"
           iFramelyUrl="https://cdn.iframe.ly/xOhr3V98?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/wisconsin-puppy-mill-beagles-suffer-human-research"
+          iFramelyUrl="https://cdn.iframe.ly/lMNSjCws?card=small"
+        />
       </Press>
     </>
   );
