@@ -190,6 +190,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.washingtonpost.com/opinions/2025/03/24/dogs-experiments-cruel-ridglan-prosecutor/"
           iFramelyUrl="https://cdn.iframe.ly/Uq7JQBr?card=small"
         />
+        <Article
+          href="https://spectrumnews1.com/wi/milwaukee/news/2025/03/26/special-prosecutor-appointed-to-investigate-ridglan-farms"
+          iFramelyUrl="https://cdn.iframe.ly/xOhr3V98?card=small"
+        />
       </Press>
     </>
   );
