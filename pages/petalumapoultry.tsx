@@ -296,6 +296,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kqed.org/news/12055745/berkeley-animal-activist-faces-prison-in-sonoma-chicken-theft-case"
           iFramelyUrl="https://cdn.iframe.ly/xXSsWS8s?card=small"
         />
+        <Article
+          href="https://www.dailycal.org/news/city/law-and-justice/charged-with-felony-conspiracy-uc-berkeley-animal-rights-activist-s-trial-begins/article_b0a3ab5b-d39d-4fc6-a998-53df1b65f7e9.html"
+          iFramelyUrl="https://cdn.iframe.ly/Qy2Xviuk?card=small"
+        />
       </Press>
     </>
   );
