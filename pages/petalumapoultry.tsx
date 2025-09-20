@@ -304,6 +304,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/09/17/berkeley-activist-poultry-farm-trial-sonoma-county/"
           iFramelyUrl="https://cdn.iframe.ly/o1S2RAJt?card=small"
         />
+        <Article
+          href="https://www.latimes.com/opinion/story/2025-09-17/animal-rescue-crime"
+          iFramelyUrl="https://cdn.iframe.ly/R9a1geK8?card=small"
+        />
       </Press>
     </>
   );
