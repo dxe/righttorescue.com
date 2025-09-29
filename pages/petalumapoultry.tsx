@@ -312,6 +312,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kron4.com/news/bay-area/petaluma-woman-faces-prison-for-chicken-rescue/"
           iFramelyUrl="https://cdn.iframe.ly/2yACzzpY?card=small"
         />
+         <Article
+          href="https://www.petalumanews.com/2025/09/22/animal-activists-rally-around-rosenberg-before-march-through-petaluma/"
+          iFramelyUrl="https://cdn.iframe.ly/TbQU2HGC?card=small"
+        />
       </Press>
     </>
   );
