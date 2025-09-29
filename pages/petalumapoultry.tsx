@@ -308,6 +308,10 @@ const Reichardt: NextPage = () => {
           href="https://www.latimes.com/opinion/story/2025-09-17/animal-rescue-crime"
           iFramelyUrl="https://cdn.iframe.ly/R9a1geK8?card=small"
         />
+        <Article
+          href="https://www.kron4.com/news/bay-area/petaluma-woman-faces-prison-for-chicken-rescue/"
+          iFramelyUrl="https://cdn.iframe.ly/2yACzzpY?card=small"
+        />
       </Press>
     </>
   );
