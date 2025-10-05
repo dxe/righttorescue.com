@@ -206,6 +206,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.dailycardinal.com/article/2025/09/unclawful-activity-the-history-behind-beagle-breeder-ridglan-farms-lawsuit-against-dane4dogs"
           iFramelyUrl="https://cdn.iframe.ly/swkhetRi?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2025/09/15/rescue-coalition-prepared-step-dane-county-dog-breeder/"
+          iFramelyUrl="https://cdn.iframe.ly/aVnhOUnK?card=small"
+        />
       </Press>
     </>
   );
