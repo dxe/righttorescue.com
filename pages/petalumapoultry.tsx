@@ -320,6 +320,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/10/02/jury-selection-is-dragging-on-in-sonoma-county-animal-activists-trial-heres-why/"
           iFramelyUrl="https://cdn.iframe.ly/4fvGQaHr?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/10/06/activist-or-criminal-jury-hears-opening-arguments-in-zoe-rosenberg-trial-over-poultry-farm-break-ins/"
+          iFramelyUrl="https://cdn.iframe.ly/l0Ec44Ar?card=small"
+        />
       </Press>
     </>
   );
