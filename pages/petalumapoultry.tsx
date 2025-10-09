@@ -316,6 +316,10 @@ const Reichardt: NextPage = () => {
           href="https://www.petalumanews.com/2025/09/22/animal-activists-rally-around-rosenberg-before-march-through-petaluma/"
           iFramelyUrl="https://cdn.iframe.ly/TbQU2HGC?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/10/02/jury-selection-is-dragging-on-in-sonoma-county-animal-activists-trial-heres-why/"
+          iFramelyUrl="https://cdn.iframe.ly/4fvGQaHr?card=small"
+        />
       </Press>
     </>
   );
