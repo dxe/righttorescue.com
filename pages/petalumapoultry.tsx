@@ -328,6 +328,10 @@ const Reichardt: NextPage = () => {
           href="https://abc7news.com/post/animal-rights-activist-trial-chickens-taken-petaluma-poultry-slaughterhouse-uc-berkeley-grad/18030382/"
           iFramelyUrl="https://cdn.iframe.ly/iA5RUt0W?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/10/17/zoe-rosenberg-testifies-she-rescued-chickens-not-committed-crimes-in-petaluma-poultry-case/"
+          iFramelyUrl="https://cdn.iframe.ly/N6AwWyk2?card=small"
+        />
       </Press>
     </>
   );
