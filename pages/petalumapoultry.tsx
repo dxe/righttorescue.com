@@ -324,6 +324,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/10/06/activist-or-criminal-jury-hears-opening-arguments-in-zoe-rosenberg-trial-over-poultry-farm-break-ins/"
           iFramelyUrl="https://cdn.iframe.ly/l0Ec44Ar?card=small"
         />
+        <Article
+          href="https://abc7news.com/post/animal-rights-activist-trial-chickens-taken-petaluma-poultry-slaughterhouse-uc-berkeley-grad/18030382/"
+          iFramelyUrl="https://cdn.iframe.ly/iA5RUt0W?card=small"
+        />
       </Press>
     </>
   );
