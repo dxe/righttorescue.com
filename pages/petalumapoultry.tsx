@@ -332,6 +332,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/10/17/zoe-rosenberg-testifies-she-rescued-chickens-not-committed-crimes-in-petaluma-poultry-case/"
           iFramelyUrl="https://cdn.iframe.ly/N6AwWyk2?card=small"
         />
+         <Article
+          href="https://www.theguardian.com/us-news/2025/oct/24/chicken-rescue-factory-farm"
+          iFramelyUrl="https://cdn.iframe.ly/9KbWKeY9?card=small"
+        />
       </Press>
     </>
   );
