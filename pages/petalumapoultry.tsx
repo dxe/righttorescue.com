@@ -91,7 +91,7 @@ const Reichardt: NextPage = () => {
           with a vehicle. 
         </p>
         <p>
-          On Oct. 29th, Zoe was convicted of all four charges. She faces a potential sentence of nearly 5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She will appeal her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. Her sentencing hearing is set for Dec. 3, 2025. Please  
+          On Oct. 29th, Zoe was convicted of all four charges. She faces a potential sentence of nearly 5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. Zoe was represented by Chris Carraway of the Animal Activist Legal Defense Project, and Kevin Little. She will appeal her conviction, including the court’s refusal to allow her to present a necessity defense and the severe restrictions on what animal cruelty evidence the jury was allowed to see. Her sentencing hearing is set for Dec. 3, 2025. Please  
      {" "}
         <a
           href="https://www.facebook.com/events/706378158600887/"
@@ -100,17 +100,6 @@ const Reichardt: NextPage = () => {
           join us at the hearing</a> to support Zoe and the Right to Rescue.{" "}
         </p> 
       </Details>
-      <Details>
-      <h4>Register to attend the Perdue Rescue Trial!</h4>
-        <p>
-      DxE is organizing a convergence around the trial to support Zoe and the Right to Rescue animals from abuse. You can register for the trial convergence{" "}
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
-          target="_blank"
-        >
-          here</a>!
-      </p>
-        </Details>
       <div id="letter">
         <Letter />
       </div>
