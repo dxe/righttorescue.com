@@ -344,6 +344,10 @@ const Reichardt: NextPage = () => {
           href="https://www.theguardian.com/us-news/2025/oct/29/zoe-rosenberg-chickens-california-guilty"
           iFramelyUrl="https://cdn.iframe.ly/SJyA3KEY?card=small"
         />
+         <Article
+          href="https://sfist.com/2025/10/29/berkeley-animal-rights-activist-convicted-of-stealing-chickens-from-sonoma-farm/"
+          iFramelyUrl="https://cdn.iframe.ly/hNekmzfF?card=small"
+        />
       </Press>
     </>
   );
