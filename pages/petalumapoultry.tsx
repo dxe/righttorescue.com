@@ -92,7 +92,7 @@ const Reichardt: NextPage = () => {
         </p>
         <p>
           On Oct. 29th, Zoe was convicted of all four charges. She faces a potential sentence of nearly 5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
-        <p>
+        </p>
           </Details>
           <Details image="legal team.jpeg">
         <p>
