@@ -320,6 +320,10 @@ const Reichardt: NextPage = () => {
           href="https://apnews.com/article/california-animal-rights-activist-trial-0892823f09951382b1e72a6a578bc68a"
           iFramelyUrl="https://cdn.iframe.ly/7oZABKol?card=small"
         />
+        <Article
+          href="https://www.pressdemocrat.com/2025/10/28/jury-deliberates-fate-of-berkeley-activist-accused-of-raiding-petaluma-poultry-plant-taking-4-chickens/"
+          iFramelyUrl="https://cdn.iframe.ly/nBeeKDyq?card=small"
+        />
       </Press>
     </>
   );
