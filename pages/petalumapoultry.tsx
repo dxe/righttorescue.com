@@ -336,6 +336,10 @@ const Reichardt: NextPage = () => {
           href="https://abcnews.go.com/US/wireStory/jury-convicts-activist-chickens-purdue-plant-126998267"
           iFramelyUrl="https://cdn.iframe.ly/A6sfPcoX?card=small"
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/10/29/animal-activist-zoe-rosenberg-found-guilty-in-sonoma-county-chicken-rescue-case-tied-to-petaluma-poultry/"
+          iFramelyUrl="https://cdn.iframe.ly/PR7PAlJb?card=small"
+        />
       </Press>
     </>
   );
