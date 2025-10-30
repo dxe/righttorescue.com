@@ -360,6 +360,10 @@ const Reichardt: NextPage = () => {
           href="https://abc7news.com/amp/post/zoe-rosenberg-jury-reaches-verdict-trial-santa-rosa-california-activist-took-chickens-perdue-plant/18087441/"
           iFramelyUrl="https://cdn.iframe.ly/5R2zeCKX?card=small" 
         />
+         <Article
+          href="https://www.nytimes.com/2025/10/29/us/animal-rights-activist-convicted-sonoma-chickens.html"
+          iFramelyUrl="https://cdn.iframe.ly/lb0hCtNx?card=small" 
+        />
       </Press>
     </>
   );
