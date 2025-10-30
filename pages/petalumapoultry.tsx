@@ -356,6 +356,10 @@ const Reichardt: NextPage = () => {
           href="https://www.crescentavalleyweekly.com/featured/10/30/2025/protesters-target-trader-joes-in-montrose-as-animal-rescuer-faces-trial/"
           iFramelyUrl="https://cdn.iframe.ly/vOfvKMjI?card=small"
         />
+         <Article
+          href="https://abc7news.com/amp/post/zoe-rosenberg-jury-reaches-verdict-trial-santa-rosa-california-activist-took-chickens-perdue-plant/18087441/"
+          iFramelyUrl="https://cdn.iframe.ly/5R2zeCKX?card=small" 
+        />
       </Press>
     </>
   );
