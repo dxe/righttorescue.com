@@ -348,6 +348,10 @@ const Reichardt: NextPage = () => {
           href="https://sfist.com/2025/10/29/berkeley-animal-rights-activist-convicted-of-stealing-chickens-from-sonoma-farm/"
           iFramelyUrl="https://cdn.iframe.ly/hNekmzfF?card=small"
         />
+         <Article
+          href="https://norcalpublicmedia.org/2025103099462/news-feed/animal-rights-activist-found-guilty-in-sonoma-county-court"
+          iFramelyUrl="https://cdn.iframe.ly/seUN3ZM7?card=small"
+        />
       </Press>
     </>
   );
