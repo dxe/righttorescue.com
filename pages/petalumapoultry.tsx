@@ -87,31 +87,17 @@ const Reichardt: NextPage = () => {
       <Details image="Conrad-Zoe-Rocky.jpeg">
         <p>
           Zoe was forced to wear a GPS ankle monitor and follow other
-          strict pretrial release conditions for 20 months while awaiting trial. After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe is now facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
-          with a vehicle. She faces a potential maximum sentence of almost 5 years in jail. 
+          strict pretrial release conditions for 20 months while awaiting trial. After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe went on trial September-October 2025 facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
+          with a vehicle. 
         </p>
         <p>
-          The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October. You can follow along through{" "}
+          On Oct. 29th, Zoe was convicted of all four charges. She faces a potential sentence of nearly 5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She will appeal her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. Her sentencing hearing is set for Dec. 3, 2025. Please  
+     {" "}
         <a
-          href="https://www.directactioneverywhere.com/news"
+          href="https://www.facebook.com/events/706378158600887/"
           target="_blank"
         >
-          DxE's Court Watch blog</a>, on the{" "}
-        <a
-          href="https://x.com/PerdueTrial"
-          target="_blank"
-        >
-          Perdue Rescue Trial X account</a>, on{" "}
-        <a
-          href="https://www.instagram.com/directactioneverywhere/"
-          target="_blank"
-        >
-          DxE's Instagram</a>, and on{" "}
-        <a
-          href="https://www.facebook.com/JaneVelezMitchell"
-          target="_blank"
-        >
-          UnchainedTV</a>. Or better yet, join us in person!  
+          join us at the hearing</a> to support Zoe and the Right to Rescue.{" "}
         </p> 
       </Details>
       <Details>
