@@ -340,6 +340,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/10/29/animal-activist-zoe-rosenberg-found-guilty-in-sonoma-county-chicken-rescue-case-tied-to-petaluma-poultry/"
           iFramelyUrl="https://cdn.iframe.ly/PR7PAlJb?card=small"
         />
+         <Article
+          href="https://www.theguardian.com/us-news/2025/oct/29/zoe-rosenberg-chickens-california-guilty"
+          iFramelyUrl="https://cdn.iframe.ly/SJyA3KEY?card=small"
+        />
       </Press>
     </>
   );
