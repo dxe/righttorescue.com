@@ -328,6 +328,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kqed.org/news/12061839/rescue-or-crime-uc-berkeley-student-faces-5-years-in-sonoma-poultry-farm-case"
           iFramelyUrl="https://cdn.iframe.ly/HCCQMIjT?card=small"
         />
+         <Article
+          href="https://calcoastnews.com/2025/10/san-luis-obispo-county-animal-activist-facing-five-years-in-prison/"
+          iFramelyUrl="https://cdn.iframe.ly/aG8rMCs0?card=small"
+        />
       </Press>
     </>
   );
