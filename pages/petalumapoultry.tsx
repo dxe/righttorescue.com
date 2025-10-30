@@ -105,17 +105,6 @@ const Reichardt: NextPage = () => {
           join us at the hearing</a> to support Zoe and the Right to Rescue.{" "}
         </p> 
       </Details>
-      <Details>
-      <h4>Register to attend the Perdue Rescue Trial!</h4>
-        <p>
-      DxE is organizing a convergence around the trial to support Zoe and the Right to Rescue animals from abuse. You can register for the trial convergence{" "}
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
-          target="_blank"
-        >
-          here</a>!
-      </p>
-        </Details>
       <div id="letter">
         <Letter />
       </div>
