@@ -324,6 +324,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/10/28/jury-deliberates-fate-of-berkeley-activist-accused-of-raiding-petaluma-poultry-plant-taking-4-chickens/"
           iFramelyUrl="https://cdn.iframe.ly/nBeeKDyq?card=small"
         />
+        <Article
+          href="https://www.kqed.org/news/12061839/rescue-or-crime-uc-berkeley-student-faces-5-years-in-sonoma-poultry-farm-case"
+          iFramelyUrl="https://cdn.iframe.ly/HCCQMIjT?card=small"
+        />
       </Press>
     </>
   );
