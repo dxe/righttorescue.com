@@ -332,6 +332,10 @@ const Reichardt: NextPage = () => {
           href="https://calcoastnews.com/2025/10/san-luis-obispo-county-animal-activist-facing-five-years-in-prison/"
           iFramelyUrl="https://cdn.iframe.ly/aG8rMCs0?card=small"
         />
+         <Article
+          href="https://abcnews.go.com/US/wireStory/jury-convicts-activist-chickens-purdue-plant-126998267"
+          iFramelyUrl="https://cdn.iframe.ly/A6sfPcoX?card=small"
+        />
       </Press>
     </>
   );
