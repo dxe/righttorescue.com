@@ -84,7 +84,7 @@ const Reichardt: NextPage = () => {
         was arrested on multiple felony warrants and later charged with five felonies for the rescue of four sick chickens from Perdue's
         Petaluma Poultry slaughterhouse in June 2023.
       </Details>
-      <Details image="Zoe Rosenberg speaks at a press conference.jpg">
+      <Details image="Zoe speaking at rally.png">
         <p>
           Zoe was forced to wear a GPS ankle monitor and follow other
           strict pretrial release conditions for 20 months while awaiting trial. After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe went on trial September-October 2025 facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
