@@ -21,12 +21,12 @@ const Home: NextPage = () => {
         DxE investigator Zoe Rosenberg is facing almost 5 years in jail for
         rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma
         County, California. She made sure the chickens, Poppy, Aster, Ivy, and
-        Azalea, got the veterinary care they needed and she will proudly take the stand to tell the jury why she rescued them. The #PerdueTrial began on September 15, 2025 in Santa Rosa, and it's likely to last into late October. Please register to attend the trial{" "}
+        Azalea, got the veterinary care they needed. On October 29, 2025, she was convicted of felony conspiracy and misdemeanors. Her sentencing hearing is on Dec. 3, 2025. Please{" "}
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLScmGSIp_S7HCf7ZYHpD4UwN7Zu1XbB27aJvmduX1nw9w92lXg/viewform"
+          href="https://www.facebook.com/events/706378158600887/"
           target="_blank"
         >
-          here</a>!
+          join us at the sentencing hearing</a> to support Zoe and the Right to Rescue!
       </FeaturedCase>
       <Letter />
       <About
