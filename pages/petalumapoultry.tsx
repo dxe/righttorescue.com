@@ -316,6 +316,10 @@ const Reichardt: NextPage = () => {
           href="https://www.theguardian.com/us-news/2025/oct/24/chicken-rescue-factory-farm"
           iFramelyUrl="https://cdn.iframe.ly/9KbWKeY9?card=small"
         />
+         <Article
+          href="https://apnews.com/article/california-animal-rights-activist-trial-0892823f09951382b1e72a6a578bc68a"
+          iFramelyUrl="https://cdn.iframe.ly/7oZABKol?card=small"
+        />
       </Press>
     </>
   );
