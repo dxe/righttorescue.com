@@ -352,6 +352,10 @@ const Reichardt: NextPage = () => {
           href="https://norcalpublicmedia.org/2025103099462/news-feed/animal-rights-activist-found-guilty-in-sonoma-county-court"
           iFramelyUrl="https://cdn.iframe.ly/seUN3ZM7?card=small"
         />
+         <Article
+          href="https://www.crescentavalleyweekly.com/featured/10/30/2025/protesters-target-trader-joes-in-montrose-as-animal-rescuer-faces-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/vOfvKMjI?card=small"
+        />
       </Press>
     </>
   );
