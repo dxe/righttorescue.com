@@ -46,15 +46,7 @@ export const Support = () => {
                 />
                 Donate
               </Button>
-              <h2
-              className="text-white my-3"
-              style={{
-                textShadow: "6px 6px 12px rgba(0, 0, 0, 1)",
-                fontSize: "smaller"
-              }}>
-                All monthly donations are being matched with $100 from a generous supporter
-              </h2>
-              { /** Commit with donation thermometer and donation doubling text: 26605ba */ }
+              { /** Commit with donation thermometer and donation doubling text: 26605ba / fa646f74d5c900058ded93632f4ec7c5a638c697 */ }
             </div>
           </div>
         </div>
