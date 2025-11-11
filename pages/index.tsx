@@ -22,7 +22,7 @@ const Home: NextPage = () => {
         rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. She made sure the chickens, Poppy, Aster, Ivy, and
         Azalea, got the veterinary care they needed. Now, she is facing a potential sentence of almost 5 years in jail. Her sentencing hearing is on Dec. 3, 2025. Please{" "}
         <a
-          href="https://www.facebook.com/events/706378158600887/"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSeROTUC6c1TvlURFezTQk3u5QfKKOEW9bx0lSWmv2zfvNimUQ/viewform"
           target="_blank"
         >
           join us at the sentencing hearing</a> to support Zoe and the Right to Rescue!
