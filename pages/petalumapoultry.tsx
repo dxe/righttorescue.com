@@ -99,7 +99,7 @@ const Reichardt: NextPage = () => {
        Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She will appeal her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. Her sentencing hearing is set for Dec. 3, 2025. Please  
      {" "}
         <a
-          href="https://www.facebook.com/events/706378158600887/"
+          href="https://docs.google.com/forms/d/e/1FAIpQLSeROTUC6c1TvlURFezTQk3u5QfKKOEW9bx0lSWmv2zfvNimUQ/viewform"
           target="_blank"
         >
           join us at the hearing</a> to support Zoe and the Right to Rescue.{" "}
