@@ -23,7 +23,7 @@ const RidglanFarms: NextPage = () => {
         prosecute Ridglan Farms for animal cruelty.
       </Header>
       <Details image="ridglan.jpg">
-        Ridglan Farms is one of the largest breeders of beagles for
+        Ridglan Farms is the second largest breeder of beagles for
         experimentation in the United States. In 2017, DxE investigators entered
         the facility and documented the filthy conditions and the psychological
         trauma of the dogs spinning endlessly inside small cages. The team
@@ -46,7 +46,7 @@ const RidglanFarms: NextPage = () => {
         that made it clear there is public support for animal rescue.
      </Details>
       <Details>
-        <h4>This court case completely flipped. Now, Ridglan is the one facing prosecution!</h4>
+        <h4>This court case completely flipped. Now, Ridglan is shutting down its breeding operation!</h4>
         <p>
         The Dane County District Attorney’s office failed to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. Dane County Judge Rhonda Lanford agreed to hold an evidentiary hearing, which took place on October 24, 2024. The Animal Activist Legal Defense Project represented Dane4Dogs. The court heard testimony from investigator Wayne Hsiung, veterinarians, and former Ridglan employees who testified about the company's routine abuse of dogs, including non-veterinarians conducting surgeries on dogs without anesthetics. After reviewing this evidence, Judge Lanford issued her ruling on January 9, 2025. She{" "}
         <a
@@ -54,7 +54,7 @@ const RidglanFarms: NextPage = () => {
           target="_blank"
         >
           granted the petition
-        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! This decision marks a major victory in our fight to hold Ridglan Farms accountable. On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. DA Gruenke will now begin his investigation into animal cruelty at Ridglan Farms. And if we keep the pressure on, this could lead to shutting down operations at Ridglan Farms for good. 
+        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. On October 28, 2025, DA Gruenke was about to file criminal charges of animal cruelty against Ridglan Farms when Ridglan announced they will just shut down breeding operations at Ridglan Farms for good. 
       </p>
         </Details>
       <Defendants>
