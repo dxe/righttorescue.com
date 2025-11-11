@@ -55,6 +55,26 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Dane County, Wisconsin"
+          date="Oct. 29, 2025"
+          image="dog.jpg"
+          featured
+        >
+          VICTORY: Ridglan Farms, the second largest breeder of dogs for experimentation in the U.S., is shutting down! After they dropped the charges against DxE activists who rescued three beagles from Ridglan's cruelty, activists and attorneys kept the pressure on and the court case completely flipped. In a deal to avoid a felony for animal cruelty, Ridglan announced that it will shut down its breeding operation by July 1, 2026. This means thousands of dogs will be spared from cruelty. You can read more in the press{" "}
+          <a
+            href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
+            target="_blank"
+          >
+            here.
+          </a>{" "} And you can share this victory on social media{" "}
+          <a
+            href="https://www.instagram.com/p/DQZb5oWCRMO/"
+            target="_blank"
+          >
+            here.
+          </a>{" "}
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Sept. 15, 2025"
           image="SquareZoePP.png"
