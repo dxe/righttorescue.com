@@ -368,6 +368,10 @@ const Reichardt: NextPage = () => {
           href="https://www.latimes.com/california/story/2025-10-30/animal-rights-activist-convicted-in-chicken-rescue-caper"
           iFramelyUrl="https://cdn.iframe.ly/IJOyCDeV?card=small" 
         />
+         <Article
+          href="https://localnewsmatters.org/2025/11/01/animal-rights-activist-zoe-rosenberg-found-guilty/"
+          iFramelyUrl="https://cdn.iframe.ly/UOV9BaIX?card=small"    
+        />
       </Press>
     </>
   );
