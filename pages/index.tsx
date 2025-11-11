@@ -55,8 +55,16 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Sonoma County, California"
+          date="Oct 29, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+           Animal rescuer Zoe Rosenberg was just found guilty of felony conspiracy and three misdemeanors for her rescue of four chickens from Perdue's Petaluma Poultry slaughterhouse. Her sentencing hearing is Dec. 3rd. She faces a potential sentence of 4.5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. After the verdict was read, prosecutor Matt Hobson asked for Zoe to be immediately remanded into custody, dismissing her life-threatening medical issues. Judge Gnoss chose not to remand Zoe into custody but he ordered that she be placed back on a GPS ankle monitor to ensure that she does not return to Petaluma Poultry. Zoe and her legal team will appeal this conviction, including the court’s refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. 
+        </Announcement>
+        <Announcement
           title="Dane County, Wisconsin"
-          date="Oct. 29, 2025"
+          date="Oct. 28, 2025"
           image="dog.jpg"
           featured
         >
@@ -65,14 +73,14 @@ const Home: NextPage = () => {
             href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
             target="_blank"
           >
-            here
-          </a>{" "}, and you can share this victory on social media{" "}
+            here,
+          </a>{" "} and you can share this victory on social media{" "}
           <a
             href="https://www.instagram.com/p/DQZb5oWCRMO/"
             target="_blank"
           >
-            here
-          </a>{" "}.
+            here.
+          </a>{" "} Enormous thanks to our allies at the Animal Activist Legal Defense Project, Dane4Dogs, Alliance for Animals Wisconsin, The Simple Heart, and The Marty Project for their tireless work to make this happen.
         </Announcement>
         <Announcement
           title="Sonoma County, California"
