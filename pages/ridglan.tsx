@@ -220,6 +220,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/animal-rights-activists-score-big-win-in-ridglan-farms-case/"
           iFramelyUrl="https://cdn.iframe.ly/6yosR1XQ?card=small"
         />
+         <Article
+          href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
+          iFramelyUrl="https://cdn.iframe.ly/uGRNpdZz?card=small"
+        />
       </Press>
     </>
   );
