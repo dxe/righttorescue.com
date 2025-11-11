@@ -216,6 +216,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wmtv15news.com/2025/09/15/rescue-coalition-prepared-step-dane-county-dog-breeder/"
           iFramelyUrl="https://cdn.iframe.ly/aVnhOUnK?card=small"
         />
+         <Article
+          href="https://isthmus.com/news/news/animal-rights-activists-score-big-win-in-ridglan-farms-case/"
+          iFramelyUrl="https://cdn.iframe.ly/6yosR1XQ?card=small"
+        />
       </Press>
     </>
   );
