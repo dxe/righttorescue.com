@@ -54,7 +54,13 @@ const RidglanFarms: NextPage = () => {
           target="_blank"
         >
           granted the petition
-        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. On October 28, 2025, DA Gruenke was about to file criminal charges of animal cruelty against Ridglan Farms when Ridglan announced they will just shut down breeding operations at Ridglan Farms for good. 
+        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. On October 28, 2025, DA Gruenke was about to file criminal charges of animal cruelty against Ridglan Farms when{" "}
+        <a
+          href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
+          target="_blank"
+        >
+          Ridglan announced
+        </a>{" "} they will just shut down breeding operations at Ridglan Farms for good. 
       </p>
         </Details>
       <Defendants>
