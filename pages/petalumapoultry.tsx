@@ -364,6 +364,10 @@ const Reichardt: NextPage = () => {
           href="https://www.nytimes.com/2025/10/29/us/animal-rights-activist-convicted-sonoma-chickens.html"
           iFramelyUrl="https://cdn.iframe.ly/lb0hCtNx?card=small" 
         />
+         <Article
+          href="https://www.latimes.com/california/story/2025-10-30/animal-rights-activist-convicted-in-chicken-rescue-caper"
+          iFramelyUrl="https://cdn.iframe.ly/IJOyCDeV?card=small" 
+        />
       </Press>
     </>
   );
