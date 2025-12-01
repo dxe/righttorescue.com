@@ -18,7 +18,7 @@ type DonationConfig = {
 }
 
 const config: DonationConfig = {
-  donationSubtext: null,
+  donationSubtext: "All donations doubled.",
   donationThermometer: null,
 }
 
