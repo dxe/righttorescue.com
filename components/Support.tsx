@@ -3,6 +3,25 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faHeart } from "@fortawesome/free-solid-svg-icons";
 import { Button } from "react-bootstrap";
 
+type DonationConfig = {
+  donationSubtext: string | null,
+  donationThermometer: {
+    // Campaign start date in yyyy-mm-dd format. Donations received on or after this date
+    // will be counted toward the goal.
+    startDate: string,
+    // How much money the campaign wants to raise, in dollars.
+    goal: number,
+    // How much money to subtract from the current amount. Useful for subtracting donations
+    // received externally from the campaign on or after the start date.
+    offset: number,
+  } | null
+}
+
+const config: DonationConfig = {
+  donationSubtext: null,
+  donationThermometer: null,
+}
+
 export const Support = () => {
   return (
     <>
@@ -46,7 +65,21 @@ export const Support = () => {
                 />
                 Donate
               </Button>
-              { /** Commit with donation thermometer and donation doubling text: 26605ba / fa646f74d5c900058ded93632f4ec7c5a638c697 */ }
+              {config.donationSubtext != null && config.donationSubtext != "" ?
+                <h2
+                  className="text-white my-3"
+                  style={{
+                    textShadow: "6px 6px 12px rgba(0, 0, 0, 1)",
+                    fontSize: "smaller"
+                  }}>
+                  {config.donationSubtext}
+                </h2> : null}
+              {config.donationThermometer != null ?
+                <div style={{ marginTop: "50px" }}>
+                  <link href="https://s3.dxe.io/donation-thermometer/index.css" rel="stylesheet" />
+                  <div className="dxe-donation-thermometer" data-start-date={config.donationThermometer.startDate} data-goal={config.donationThermometer.goal} data-offset={config.donationThermometer.offset}></div>
+                  <Script src="https://s3.dxe.io/donation-thermometer/index.js" defer></Script>
+                </div> : null}
             </div>
           </div>
         </div>
