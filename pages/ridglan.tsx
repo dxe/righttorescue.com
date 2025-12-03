@@ -224,6 +224,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
           iFramelyUrl="https://cdn.iframe.ly/uGRNpdZz?card=small"
         />
+        <Article
+          href="https://ijb.utoronto.ca/news/surgeries-without-anesthesia-severed-vocal-chords-the-dog-farm-supplying-an-ontario-lab/"
+          iFramelyUrl="https://cdn.iframe.ly/7yBAKHdF?card=small"
+        />
       </Press>
     </>
   );
