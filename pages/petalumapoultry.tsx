@@ -380,6 +380,10 @@ const Reichardt: NextPage = () => {
           href="https://patch.com/california/healdsburg/joaquin-phoenix-challenges-sonoma-county-da-over-pursuit-animal-activist"
           iFramelyUrl="https://cdn.iframe.ly/2yRXTz6m?card=small"    
         />
+        <Article
+          href="https://www.kron4.com/news/bay-area/joaquin-phoenix-leaps-to-defense-of-student-convicted-in-chicken-rescue-case/"
+          iFramelyUrl="https://cdn.iframe.ly/b5sHtxhu?card=small"    
+        />
       </Press>
     </>
   );
