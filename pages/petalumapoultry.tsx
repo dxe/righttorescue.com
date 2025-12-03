@@ -392,6 +392,10 @@ const Reichardt: NextPage = () => {
           href="https://patch.com/california/petaluma/prosecutors-seek-six-months-behind-bars-activist-zoe-rosenberg-petaluma-poultry"
           iFramelyUrl="https://cdn.iframe.ly/mQdLZLb5?card=small"    
         />
+        <Article
+          href="https://www.pressreader.com/usa/san-francisco-chronicle-late-edition/20251129/281539412260289"
+          iFramelyUrl="https://cdn.iframe.ly/BP1nkhef?card=small"    
+        />
       </Press>
     </>
   );
