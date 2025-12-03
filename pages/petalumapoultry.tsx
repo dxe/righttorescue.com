@@ -376,6 +376,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/city/law-and-justice/uc-berkeley-activist-dealt-felony-conviction-for-chicken-rescue-faces-up-to-5-years-in/article_b1156a7f-16c1-4eb4-ad71-d0e6e5a8022d.html"
           iFramelyUrl="https://cdn.iframe.ly/Qcueqzyn?card=small"    
         />
+         <Article
+          href="https://patch.com/california/healdsburg/joaquin-phoenix-challenges-sonoma-county-da-over-pursuit-animal-activist"
+          iFramelyUrl="https://cdn.iframe.ly/2yRXTz6m?card=small"    
+        />
       </Press>
     </>
   );
