@@ -384,6 +384,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kron4.com/news/bay-area/joaquin-phoenix-leaps-to-defense-of-student-convicted-in-chicken-rescue-case/"
           iFramelyUrl="https://cdn.iframe.ly/b5sHtxhu?card=small"    
         />
+         <Article
+          href="https://abc7news.com/post/animal-rights-welfare-activists-protest-outside-oakland-safeway-ahead-thanksgiving-heres/18216458/"
+          iFramelyUrl="https://cdn.iframe.ly/Iw4vLqAk?card=small"    
+        />
       </Press>
     </>
   );
