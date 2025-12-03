@@ -388,6 +388,10 @@ const Reichardt: NextPage = () => {
           href="https://abc7news.com/post/animal-rights-welfare-activists-protest-outside-oakland-safeway-ahead-thanksgiving-heres/18216458/"
           iFramelyUrl="https://cdn.iframe.ly/Iw4vLqAk?card=small"    
         />
+         <Article
+          href="https://patch.com/california/petaluma/prosecutors-seek-six-months-behind-bars-activist-zoe-rosenberg-petaluma-poultry"
+          iFramelyUrl="https://cdn.iframe.ly/mQdLZLb5?card=small"    
+        />
       </Press>
     </>
   );
