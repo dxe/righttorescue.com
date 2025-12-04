@@ -386,6 +386,10 @@ On Oct. 29th, Zoe was convicted of all four charges. On Dec. 3rd, she was senten
           href="https://patch.com/california/petaluma/prosecutors-seek-six-months-behind-bars-activist-zoe-rosenberg-petaluma-poultry"
           iFramelyUrl="https://cdn.iframe.ly/mQdLZLb5?card=small"    
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/11/24/joaquin-phoenix-zoe-rosenberg-sonoma-county-chicken-rescue/"
+          iFramelyUrl="https://cdn.iframe.ly/onxdzeeA?card=small"    
+        />
       </Press>
     </>
   );
