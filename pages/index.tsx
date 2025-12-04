@@ -18,14 +18,13 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        On October 29, 2025, animal rescuer Zoe Rosenberg was convicted of felony conspiracy and multiple misdemeanors for
-        rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. She made sure the chickens, Poppy, Aster, Ivy, and
-        Azalea, got the veterinary care they needed. Now, she is facing a potential sentence of almost 5 years in jail. Her sentencing hearing is on Dec. 3, 2025. Please{" "}
+        On Dec. 3rd, animal rescuer Zoe Rosenberg was sentenced to 90 days detention including 30 days in jail for rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive.
+Zoe made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. For this act of compassion, Zoe is now a convicted felon and will be incarcerated at risk to her health, given her serious medical issues. Please{" "}
         <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSeROTUC6c1TvlURFezTQk3u5QfKKOEW9bx0lSWmv2zfvNimUQ/viewform"
+          href="https://www.instagram.com/p/DR0etM-DReD/"
           target="_blank"
         >
-          join us at the sentencing hearing</a> to support Zoe and the Right to Rescue!
+          share the news of this injustice</a> and keep exposing the animal cruelty that the authorities are covering up.
       </FeaturedCase>
       <Letter />
       <About
