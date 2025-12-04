@@ -91,18 +91,12 @@ const Reichardt: NextPage = () => {
           with a vehicle. 
         </p>
         <p>
-          On Oct. 29th, Zoe was convicted of all four charges. She faces a potential sentence of nearly 5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
+On Oct. 29th, Zoe was convicted of all four charges. On Dec. 3rd, she was sentenced to 90 days detention, including 30 days in jail followed by 60 days of alternative detention. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
         </p>
           </Details>
           <Details image="legal team.jpeg">
         <p>
-       Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She will appeal her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. Her sentencing hearing is set for Dec. 3, 2025. Please  
-     {" "}
-        <a
-          href="https://docs.google.com/forms/d/e/1FAIpQLSeROTUC6c1TvlURFezTQk3u5QfKKOEW9bx0lSWmv2zfvNimUQ/viewform"
-          target="_blank"
-        >
-          join us at the hearing</a> to support Zoe and the Right to Rescue.{" "}
+       Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She is appealing her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see.  
         </p> 
       </Details>
       <div id="letter">
