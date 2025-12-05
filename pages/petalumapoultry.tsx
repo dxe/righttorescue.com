@@ -91,7 +91,7 @@ const Reichardt: NextPage = () => {
           with a vehicle. 
         </p>
         <p>
-On Oct. 29th, Zoe was convicted of all four charges. On Dec. 3rd, she was sentenced to 90 days detention, including 30 days in jail followed by 60 days of alternative detention. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
+On Oct. 29th, Zoe was convicted of all four charges. On Dec. 3rd, she was sentenced to 90 days in jail. She is ordered to turn herself in on December 10th. Zoe acted openly, nonviolently, and out of compassion. She has no prior convictions and she has complied completely with nearly 2 years of harsh pre-trial release conditions. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
         </p>
           </Details>
           <Details image="legal team.jpeg">
