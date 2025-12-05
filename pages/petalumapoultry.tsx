@@ -91,7 +91,7 @@ const Reichardt: NextPage = () => {
           with a vehicle. On Oct. 29th, after a nearly 7-week-long trial where the court severely limited what animal cruelty evidence the jury could see or even hear about, Zoe was convicted of all four charges.   
         </p>
           </Details>
-      <Details image="Zoe in front of jail.HEIC">
+      <Details image="Zoe and Glenn.HEIC">
         <p>
           On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She is ordered to turn herself in on December 10th. She will serve the first 30 days of her sentence in the Sonoma County Main Adult Detention Facility before becoming eligible to apply for jail alternatives for the final 60 days of her sentence.  
         </p> 
