@@ -88,13 +88,20 @@ const Reichardt: NextPage = () => {
         <p>
           Zoe was forced to wear a GPS ankle monitor and follow other
           strict pretrial release conditions for 20 months while awaiting trial. After a back-and-forth where certain charges were dismissed, filed, and dismissed again, Zoe went on trial September-October 2025 facing one felony conspiracy charge and three misdemeanors, including two types of trespass and tampering
-          with a vehicle. 
-        </p>
-        <p>
-On Oct. 29th, Zoe was convicted of all four charges. On Dec. 3rd, she was sentenced to 90 days in jail. She is ordered to turn herself in on December 10th. Zoe acted openly, nonviolently, and out of compassion. She has no prior convictions and she has complied completely with nearly 2 years of harsh pre-trial release conditions. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. 
+          with a vehicle. On Oct. 29th, after a nearly 7-week-long trial where the court severely limited what animal cruelty evidence the jury could see or even hear about, Zoe was convicted of all four charges.   
         </p>
           </Details>
-          <Details image="legal team.jpeg">
+      <Details image="Zoe in front of jail.HEIC">
+        <p>
+          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She is ordered to turn herself in on December 10th. She will serve the first 30 days of her sentence in the Sonoma County Main Adult Detention Facility before becoming eligible to apply for jail alternatives for the final 60 days of her sentence.  
+        </p> 
+      </Details>
+          <Details image="Zoe in front of jail.HEIC">
+        <p>
+         Jailing someone for saving neglected animals is already outrageous, but given Zoe’s medical vulnerabilities, this jail sentence is terrifying. Zoe has lived with Type 1 diabetes since childhood and she relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. Zoe depends on medical equipment and care the jail has already threatened to take away. Yet, despite these risks and despite her nearly two years of perfect compliance with pre-trial conditions, Judge Kenneth Gnoss chose to send Zoe to jail anyway.  
+        </p> 
+      </Details>
+      <Details image="legal team.jpeg">
         <p>
        Zoe was represented by Chris Carraway, Staff Attorney at the Animal Activist Legal Defense Project, and attorney Kevin Little. She is appealing her conviction, including several of the court’s rulings, such as its refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see.  
         </p> 
