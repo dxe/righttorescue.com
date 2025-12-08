@@ -397,6 +397,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/11/24/joaquin-phoenix-zoe-rosenberg-sonoma-county-chicken-rescue/"
           iFramelyUrl="https://cdn.iframe.ly/onxdzeeA?card=small"    
         />
+         <Article
+          href="https://www.kqed.org/news/12065754/why-this-berkeley-animal-rights-activist-could-go-to-prison"
+          iFramelyUrl="https://cdn.iframe.ly/mhtrhXtA?card=small"    
+        />
       </Press>
     </>
   );
