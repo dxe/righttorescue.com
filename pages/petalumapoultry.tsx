@@ -401,6 +401,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kqed.org/news/12065754/why-this-berkeley-animal-rights-activist-could-go-to-prison"
           iFramelyUrl="https://cdn.iframe.ly/mhtrhXtA?card=small"    
         />
+        <Article
+          href="https://fresnoalliance.com/direct-action-downtown/"
+          iFramelyUrl="https://cdn.iframe.ly/oQs8Rg6a?card=small"    
+        />
       </Press>
     </>
   );
