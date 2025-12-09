@@ -405,6 +405,10 @@ const Reichardt: NextPage = () => {
           href="https://fresnoalliance.com/direct-action-downtown/"
           iFramelyUrl="https://cdn.iframe.ly/oQs8Rg6a?card=small"    
         />
+        <Article
+          href="https://www.yahoo.com/news/articles/animal-activist-sentenced-90-days-001533831.html"
+          iFramelyUrl="https://cdn.iframe.ly/CBPiqwH2?card=small"    
+        />
       </Press>
     </>
   );
