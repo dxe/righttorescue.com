@@ -409,6 +409,10 @@ const Reichardt: NextPage = () => {
           href="https://www.yahoo.com/news/articles/animal-activist-sentenced-90-days-001533831.html"
           iFramelyUrl="https://cdn.iframe.ly/CBPiqwH2?card=small"    
         />
+         <Article
+          href="https://www.pressdemocrat.com/2025/12/03/zoe-rosenberg-sonoma-county-sentence/"
+          iFramelyUrl="https://cdn.iframe.ly/GDfaC7H6?card=small"    
+        /> 
       </Press>
     </>
   );
