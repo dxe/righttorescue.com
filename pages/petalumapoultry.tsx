@@ -413,6 +413,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/12/03/zoe-rosenberg-sonoma-county-sentence/"
           iFramelyUrl="https://cdn.iframe.ly/GDfaC7H6?card=small"    
         /> 
+        <Article
+          href="https://www.kqed.org/news/12065881/berkeley-animal-rights-activist-sentenced-to-30-days-in-jail-in-chicken-theft-case"
+          iFramelyUrl="https://cdn.iframe.ly/cswGMpHd?card=small"    
+        /> 
       </Press>
     </>
   );
