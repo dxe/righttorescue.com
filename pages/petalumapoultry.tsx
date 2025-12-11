@@ -417,6 +417,10 @@ const Reichardt: NextPage = () => {
           href="https://www.kqed.org/news/12065881/berkeley-animal-rights-activist-sentenced-to-30-days-in-jail-in-chicken-theft-case"
           iFramelyUrl="https://cdn.iframe.ly/cswGMpHd?card=small"    
         /> 
+        <Article
+          href="https://abc7news.com/post/animal-rights-activist-zoe-rosenberg-sentenced-taking-4-chickens-north-bay-farm/18247254/"
+          iFramelyUrl="https://cdn.iframe.ly/Zsy2fuIP?card=small"    
+        /> 
       </Press>
     </>
   );
