@@ -429,6 +429,10 @@ const Reichardt: NextPage = () => {
           href="https://patch.com/california/petaluma/animal-activist-zoe-rosenberg-sentenced-today-petaluma-poultry-case"
           iFramelyUrl="https://cdn.iframe.ly/7HvUGQx0?card=small"    
         /> 
+        <Article
+          href="https://apnews.com/article/zoe-rosenberg-chicken-thefts-perdue-california-ce322e3aecb96dacd4460d58b0f5d5a7"
+          iFramelyUrl="https://cdn.iframe.ly/Yeul56wv?card=small"    
+        /> 
       </Press>
     </>
   );
