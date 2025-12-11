@@ -437,6 +437,10 @@ const Reichardt: NextPage = () => {
           href="https://abcnews.go.com/US/animal-rights-activist-sentenced-jail-after-stealing-4/story?id=128106595"
           iFramelyUrl="https://cdn.iframe.ly/seadQ97f?card=small"    
         /> 
+        <Article
+          href="https://www.democracynow.org/2025/12/5/headlines/judge_sentences_california_animal_rights_activist_to_90_days_in_jail_for_freeing_abused_chickens"
+          iFramelyUrl="https://cdn.iframe.ly/iuIHwkLE?card=small"    
+        /> 
       </Press>
     </>
   );
