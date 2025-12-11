@@ -433,6 +433,10 @@ const Reichardt: NextPage = () => {
           href="https://apnews.com/article/zoe-rosenberg-chicken-thefts-perdue-california-ce322e3aecb96dacd4460d58b0f5d5a7"
           iFramelyUrl="https://cdn.iframe.ly/Yeul56wv?card=small"    
         /> 
+        <Article
+          href="https://abcnews.go.com/US/animal-rights-activist-sentenced-jail-after-stealing-4/story?id=128106595"
+          iFramelyUrl="https://cdn.iframe.ly/seadQ97f?card=small"    
+        /> 
       </Press>
     </>
   );
