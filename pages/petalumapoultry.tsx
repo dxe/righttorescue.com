@@ -425,6 +425,10 @@ const Reichardt: NextPage = () => {
           href="https://calcoastnews.com/2025/12/san-luis-obispo-county-animal-activist-sentenced-to-90-days-in-jail/"
           iFramelyUrl="https://cdn.iframe.ly/sashWRQs?card=small"    
         /> 
+         <Article
+          href="https://patch.com/california/petaluma/animal-activist-zoe-rosenberg-sentenced-today-petaluma-poultry-case"
+          iFramelyUrl="https://cdn.iframe.ly/7HvUGQx0?card=small"    
+        /> 
       </Press>
     </>
   );
