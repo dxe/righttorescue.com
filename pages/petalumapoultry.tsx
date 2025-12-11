@@ -444,6 +444,10 @@ const Reichardt: NextPage = () => {
         <Article
           href="https://localnewsmatters.org/2025/12/05/animal-rights-activist-zoe-rosenberg-gets-90-day-jail-sentence-for-criminal-trespassing/"
           iFramelyUrl="https://cdn.iframe.ly/R5jtSlEh?card=small"    
+        />
+         <Article
+          href="https://www.pressdemocrat.com/2025/12/06/dxe-sonoma-county-agriculture/"
+          iFramelyUrl="https://cdn.iframe.ly/9xq1ZoKV?card=small"    
         /> 
       </Press>
     </>
