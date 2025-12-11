@@ -421,6 +421,10 @@ const Reichardt: NextPage = () => {
           href="https://abc7news.com/post/animal-rights-activist-zoe-rosenberg-sentenced-taking-4-chickens-north-bay-farm/18247254/"
           iFramelyUrl="https://cdn.iframe.ly/Zsy2fuIP?card=small"    
         /> 
+         <Article
+          href="https://calcoastnews.com/2025/12/san-luis-obispo-county-animal-activist-sentenced-to-90-days-in-jail/"
+          iFramelyUrl="https://cdn.iframe.ly/sashWRQs?card=small"    
+        /> 
       </Press>
     </>
   );
