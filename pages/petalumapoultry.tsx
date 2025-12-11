@@ -441,6 +441,10 @@ const Reichardt: NextPage = () => {
           href="https://www.democracynow.org/2025/12/5/headlines/judge_sentences_california_animal_rights_activist_to_90_days_in_jail_for_freeing_abused_chickens"
           iFramelyUrl="https://cdn.iframe.ly/iuIHwkLE?card=small"    
         /> 
+        <Article
+          href="https://localnewsmatters.org/2025/12/05/animal-rights-activist-zoe-rosenberg-gets-90-day-jail-sentence-for-criminal-trespassing/"
+          iFramelyUrl="https://cdn.iframe.ly/R5jtSlEh?card=small"    
+        /> 
       </Press>
     </>
   );
