@@ -93,12 +93,12 @@ const Reichardt: NextPage = () => {
           </Details>
       <Details image="Zoe and Glenn.jpeg">
         <p>
-          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She is ordered to turn herself in on December 10th. She will serve the first 30 days of her sentence in the Sonoma County Main Adult Detention Facility before becoming eligible to apply for jail alternatives for the final 60 days of her sentence.  
+          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She had to turn herself in on December 10th. She is in the Sonoma County Main Adult Detention Facility. She has applied for jail alternatives such as house arrest for the final 60 days of her sentence and is waiting to hear if she will be approved.
         </p> 
       </Details>
           <Details image="Zoe in front of jail.jpeg">
         <p>
-         Jailing someone for saving neglected animals is already outrageous, but given Zoe’s medical vulnerabilities, this jail sentence is terrifying. Zoe has lived with Type 1 diabetes since childhood and she relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. Zoe depends on medical equipment and care the jail has already threatened to take away. Yet, despite these risks and despite her nearly two years of perfect compliance with pre-trial conditions, Judge Kenneth Gnoss chose to send Zoe to jail anyway.  
+         Jailing someone for saving neglected animals is already outrageous, but given Zoe’s medical vulnerabilities, this jail sentence is terrifying. Zoe has lived with Type 1 diabetes since childhood and she relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. Zoe depends on medical equipment and care the jail previously threatened to take away. So far, the jail is letting Zoe keep her medical equipment, likely due to all the attention on them, but they are restricting her access to glucose which she needs to treat blood sugar lows. Please sign the petition to free Zoe from jail at FreeZoe.org.  
         </p> 
       </Details>
       <Details image="legal team.jpeg">
