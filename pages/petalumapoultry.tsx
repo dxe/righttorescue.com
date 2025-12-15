@@ -98,7 +98,7 @@ const Reichardt: NextPage = () => {
       </Details>
           <Details image="Zoe in front of jail.jpeg">
         <p>
-         Jailing someone for saving neglected animals is already outrageous, but given Zoe’s medical vulnerabilities, this jail sentence is terrifying. Zoe has lived with Type 1 diabetes since childhood and she relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. Zoe depends on medical equipment and care the jail previously threatened to take away. So far, the jail is letting Zoe keep her medical equipment, likely due to all the attention on them, but they are restricting her access to glucose which she needs to treat blood sugar lows. Please sign the petition to free Zoe from jail at FreeZoe.org.  
+         Jailing someone for saving neglected animals is already outrageous, but for Zoe, it's also very dangerous. Zoe has lived with Type 1 diabetes since childhood and relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. So far, the jail is letting Zoe keep her medical equipment, likely due to all the attention on them, but they are restricting her access to glucose which she needs to treat blood sugar lows. Please sign the petition to free Zoe from jail at FreeZoe.org.  
         </p> 
       </Details>
       <Details image="legal team.jpeg">
