@@ -453,6 +453,10 @@ const Reichardt: NextPage = () => {
           href="https://www.ktvu.com/news/north-bay-animal-activist-begins-90-jail-sentence"
           iFramelyUrl="https://cdn.iframe.ly/UuCCAu9B?card=small"    
         /> 
+         <Article
+          href="https://www.kron4.com/news/bay-area/protesters-rally-sf-zoe-rosenberg-release/"
+          iFramelyUrl="https://cdn.iframe.ly/yXTybK0h?card=small"    
+        /> 
       </Press>
     </>
   );
