@@ -449,6 +449,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/12/06/dxe-sonoma-county-agriculture/"
           iFramelyUrl="https://cdn.iframe.ly/9xq1ZoKV?card=small"    
         /> 
+         <Article
+          href="https://www.ktvu.com/news/north-bay-animal-activist-begins-90-jail-sentence"
+          iFramelyUrl="https://cdn.iframe.ly/UuCCAu9B?card=small"    
+        /> 
       </Press>
     </>
   );
