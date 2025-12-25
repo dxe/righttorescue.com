@@ -22,7 +22,7 @@ const config: DonationConfig = {
   donationThermometer: {
     startDate: "2025-11-01",
     goal: 100000,
-    offset: 79856.07,
+    offset: 163256.07,
   },
 };
 
