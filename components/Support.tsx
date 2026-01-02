@@ -18,13 +18,9 @@ type DonationConfig = {
 };
 
 const config: DonationConfig = {
-  donationSubtext: "All donations tripled until January 1st.",
-  donationThermometer: {
-    startDate: "2025-11-01",
-    goal: 100000,
-    offset: 162543.31,
-  },
-};
+  donationSubtext: null,
+  donationThermometer: null,
+}
 
 export const Support = () => {
   return (
