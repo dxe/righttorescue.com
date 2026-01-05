@@ -93,12 +93,7 @@ const Reichardt: NextPage = () => {
           </Details>
       <Details image="Zoe and Glenn.jpeg">
         <p>
-          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She had to turn herself in on December 10th. She is in the Sonoma County Main Adult Detention Facility. She has applied for jail alternatives such as house arrest for the final 60 days of her sentence and is waiting to hear if she will be approved.
-        </p> 
-      </Details>
-          <Details image="Zoe in front of jail.jpeg">
-        <p>
-         Jailing someone for saving neglected animals is already outrageous, but for Zoe, it's also very dangerous. Zoe has lived with Type 1 diabetes since childhood and relies on an insulin pump, which the Sonoma County jail threatened to remove when she was first arrested. She also remains on a feeding tube due to gastroparesis, a serious complication that hospitalized her right before trial. So far, the jail is letting Zoe keep her medical equipment, likely due to all the attention on them, but they are restricting her access to glucose which she needs to treat blood sugar lows. Please sign the petition to free Zoe from jail at FreeZoe.org.  
+          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. She had to turn herself in on December 10th. She was held in solitary confinement in the Sonoma County Main Adult Detention Facility for two weeks, before being released early on Dec. 24th. Zoe was approved to spend the last 60 days of her 90-day sentence on house arrest rather than in jail and her 30 days in jail were cut in half due to California's half-time credits for good behavior. She is more determined than ever to keep fighting for animals.
         </p> 
       </Details>
       <Details image="legal team.jpeg">
