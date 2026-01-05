@@ -26,7 +26,7 @@ export const MastHead = (props: MastHeadProps) => {
             An activist rescued chickens from abuse at a Perdue slaughterhouse
           </h1>
           <h2 className="text-white-50 mx-auto mt-2 mb-5 fade-in-second">
-            Now, she's in jail.
+            She was sent to jail, but Perdue faced no consequences.
           </h2>
 
           <ScrollLink
