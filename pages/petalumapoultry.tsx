@@ -451,6 +451,10 @@ const Reichardt: NextPage = () => {
          <Article
           href="https://www.kron4.com/news/bay-area/protesters-rally-sf-zoe-rosenberg-release/"
           iFramelyUrl="https://cdn.iframe.ly/yXTybK0h?card=small"    
+        />
+         <Article
+          href="https://localnewsmatters.org/2025/12/15/at-sf-rally-dozens-demand-that-animal-rights-activist-zoe-rosenberg-be-released-from-jail/"
+          iFramelyUrl="https://cdn.iframe.ly/kFRgmVec?card=small"    
         /> 
       </Press>
     </>
