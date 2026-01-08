@@ -459,6 +459,10 @@ const Reichardt: NextPage = () => {
          <Article
           href="https://hoodline.com/2025/12/mission-marchers-raise-heat-over-jailed-chicken-rescuer/"
           iFramelyUrl="https://cdn.iframe.ly/dvTuXyx5?card=small"    
+        />
+        <Article
+          href="https://patch.com/california/petaluma/animal-rights-activist-says-she-held-cell-23-hours-day"
+          iFramelyUrl="https://cdn.iframe.ly/HdSVxZQP?card=small"    
         /> 
       </Press>
     </>
