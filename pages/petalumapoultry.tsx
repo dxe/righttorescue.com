@@ -476,6 +476,10 @@ const Reichardt: NextPage = () => {
           href="https://hoodline.com/2025/12/bay-area-activist-zoe-rosenberg-released-to-house-arrest-for-christmas-eve-after-poultry-farm-incursion-conviction/"
           iFramelyUrl="https://cdn.iframe.ly/nCZsHptI?card=small"    
         />
+        <Article
+          href="https://www.pressdemocrat.com/2025/12/25/more-determined-than-ever-before-activist-zoe-rosenberg-released-from-sonoma-county-jail/"
+          iFramelyUrl="https://cdn.iframe.ly/2ivqNhTf?card=small"    
+        />
       </Press>
     </>
   );
