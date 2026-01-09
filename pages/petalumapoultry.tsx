@@ -463,6 +463,10 @@ const Reichardt: NextPage = () => {
         <Article
           href="https://patch.com/california/petaluma/animal-rights-activist-says-she-held-cell-23-hours-day"
           iFramelyUrl="https://cdn.iframe.ly/HdSVxZQP?card=small"    
+        />
+        <Article
+          href="https://www.pressdemocrat.com/2025/12/22/animal-rights-activist-zoe-rosenberg-to-be-released-from-jail-this-week-group-says/"
+          iFramelyUrl="https://cdn.iframe.ly/LQRhBmfr?card=small"    
         /> 
       </Press>
     </>
