@@ -472,6 +472,10 @@ const Reichardt: NextPage = () => {
           href="https://patch.com/california/petaluma/animal-rights-activist-zoe-rosenberg-be-released-jail-early"
           iFramelyUrl="https://cdn.iframe.ly/ehc164KM?card=small"    
         />
+        <Article
+          href="https://hoodline.com/2025/12/bay-area-activist-zoe-rosenberg-released-to-house-arrest-for-christmas-eve-after-poultry-farm-incursion-conviction/"
+          iFramelyUrl="https://cdn.iframe.ly/nCZsHptI?card=small"    
+        />
       </Press>
     </>
   );
