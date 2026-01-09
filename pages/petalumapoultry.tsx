@@ -467,7 +467,11 @@ const Reichardt: NextPage = () => {
         <Article
           href="https://www.pressdemocrat.com/2025/12/22/animal-rights-activist-zoe-rosenberg-to-be-released-from-jail-this-week-group-says/"
           iFramelyUrl="https://cdn.iframe.ly/LQRhBmfr?card=small"    
-        /> 
+        />
+        <Article
+          href="https://patch.com/california/petaluma/animal-rights-activist-zoe-rosenberg-be-released-jail-early"
+          iFramelyUrl="https://cdn.iframe.ly/ehc164KM?card=small"    
+        />
       </Press>
     </>
   );
