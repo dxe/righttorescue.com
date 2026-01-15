@@ -473,6 +473,10 @@ const Reichardt: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/ehc164KM?card=small"    
         />
         <Article
+          href="https://people.com/animal-rights-activist-prison-chicken-rescue-case-11864429"
+          iFramelyUrl="https://cdn.iframe.ly/jgLYEcis?card=small"    
+        />
+        <Article
           href="https://hoodline.com/2025/12/bay-area-activist-zoe-rosenberg-released-to-house-arrest-for-christmas-eve-after-poultry-farm-incursion-conviction/"
           iFramelyUrl="https://cdn.iframe.ly/nCZsHptI?card=small"    
         />
