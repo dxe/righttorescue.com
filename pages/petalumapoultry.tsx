@@ -484,6 +484,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2025/12/25/more-determined-than-ever-before-activist-zoe-rosenberg-released-from-sonoma-county-jail/"
           iFramelyUrl="https://cdn.iframe.ly/2ivqNhTf?card=small"    
         />
+        <Article
+          href="https://www.sacbee.com/opinion/op-ed/article314240646.html"
+          iFramelyUrl="https://cdn.iframe.ly/nnkil8wV?card=small"    
+        />
       </Press>
     </>
   );
