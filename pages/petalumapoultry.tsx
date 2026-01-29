@@ -488,6 +488,10 @@ const Reichardt: NextPage = () => {
           href="https://www.sacbee.com/opinion/op-ed/article314240646.html"
           iFramelyUrl="https://cdn.iframe.ly/nnkil8wV?card=small"    
         />
+        <Article
+          href="https://www.dailycal.org/news/campus/free-zoe-rally-calls-on-newsom-to-pardon-animal-rights-activist/article_6db8813f-c8a6-4f34-a1f0-6b2225488998.html"
+          iFramelyUrl="https://cdn.iframe.ly/k3yayHRH?card=small"    
+        />
       </Press>
     </>
   );
