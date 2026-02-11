@@ -93,7 +93,7 @@ const Reichardt: NextPage = () => {
           </Details>
       <Details image="Zoe and Glenn.jpeg">
         <p>
-          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. Judge Kenneth Gnoss also ordered Zoe to pay over $100,000 in restitution, which she is contesting. Zoe entered jail on December 10th. She was held in solitary confinement for two weeks in the Sonoma County Main Adult Detention Facility, before being released early on Dec. 24th, after she was approved to spend the last 60 days of her 90-day sentence on house arrest rather than in jail and her 30 days in jail were cut in half due to California's half-time credits for good behavior. She is currently on house arrest and more determined than ever to keep fighting for animals.
+          On Dec. 3rd, Zoe was sentenced to 90 days in jail and two years of probation for an act of compassion that saved four lives. Judge Kenneth Gnoss also ordered Zoe to pay over $100,000 in restitution, which she is contesting. Zoe entered jail on December 10th. She was held in solitary confinement for two weeks in the Sonoma County Main Adult Detention Facility, before being released early on Dec. 24th, after she was approved to spend remainder of her sentence on house arrest rather than in jail and her 30 days in jail were cut in half due to California's half-time credits for good behavior. She finished house arrest on Feb. 11, 2026 and she is more determined than ever to keep fighting for animals.
         </p> 
       </Details>
       <Details image="legal team.jpeg">
