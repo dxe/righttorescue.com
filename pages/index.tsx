@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
         videoRatio="1x1"
       >
-        Animal rescuer Zoe Rosenberg was sentenced to 90 days in jail for rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. Zoe made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. For this act of compassion, Zoe is now a convicted felon and was incarcerated in Sonoma County's Main Adult Detention Facility before being released to house arrest for the remainder of her sentence. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. Please{" "}
+        Animal rescuer Zoe Rosenberg was sentenced to 90 days in jail for rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. Zoe made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. For this act of compassion, Zoe is now a convicted felon and was incarcerated in solitary confinement in Sonoma County's Main Adult Detention Facility before being released to house arrest for the remainder of her sentence. Zoe finished house arrest on Feb. 11, 2026. Meanwhile, Petaluma Poultry still faces no consequences for leaving sick animals to die or scalding animals alive. Please{" "}
         <a
           href="https://www.instagram.com/p/DR0etM-DReD/"
           target="_blank"
