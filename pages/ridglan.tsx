@@ -232,6 +232,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.fox6now.com/news/animal-rights-group-sues-ridglan-farms-seeking-legal-rights-beagles"
           iFramelyUrl="https://cdn.iframe.ly/sH3EDbYO?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/ridglan-farms-under-pressure-activists-plan-large-scale-dog-rescue"
+          iFramelyUrl="https://cdn.iframe.ly/udTAhdGY?card=small"
+        />
       </Press>
     </>
   );
