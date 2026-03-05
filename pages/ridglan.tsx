@@ -236,6 +236,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.fox6now.com/news/ridglan-farms-under-pressure-activists-plan-large-scale-dog-rescue"
           iFramelyUrl="https://cdn.iframe.ly/udTAhdGY?card=small"
         />
+        <Article
+          href="https://www.wkow.com/news/top-stories/animal-rights-groups-sue-ridglan-farms-over-beagle-cruelty-claims/article_91e92311-4743-4921-a2ff-b2bbf91d1d2e.html"
+          iFramelyUrl="https://cdn.iframe.ly/j0uPhHpF?card=small"
+        />
       </Press>
     </>
   );
