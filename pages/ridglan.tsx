@@ -228,6 +228,10 @@ const RidglanFarms: NextPage = () => {
           href="https://ijb.utoronto.ca/news/surgeries-without-anesthesia-severed-vocal-chords-the-dog-farm-supplying-an-ontario-lab/"
           iFramelyUrl="https://cdn.iframe.ly/7yBAKHdF?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/animal-rights-group-sues-ridglan-farms-seeking-legal-rights-beagles"
+          iFramelyUrl="https://cdn.iframe.ly/sH3EDbYO?card=small"
+        />
       </Press>
     </>
   );
