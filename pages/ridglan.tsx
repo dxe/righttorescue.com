@@ -240,6 +240,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wkow.com/news/top-stories/animal-rights-groups-sue-ridglan-farms-over-beagle-cruelty-claims/article_91e92311-4743-4921-a2ff-b2bbf91d1d2e.html"
           iFramelyUrl="https://cdn.iframe.ly/j0uPhHpF?card=small"
         />
+        <Article
+          href="https://www.wkow.com/news/dane-county-judge-dismisses-case-on-ridglan-farms-beagles/article_7a2a6481-ec15-40cc-a374-95989da654e9.html"
+          iFramelyUrl="https://cdn.iframe.ly/7lX1txVD?card=small"
+        />
       </Press>
     </>
   );
