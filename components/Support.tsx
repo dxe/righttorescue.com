@@ -108,6 +108,7 @@ export const Support = () => {
 
           window.funraise.push('create', {form: 8475});
 
+          // Show eCheck option as "ACH / eCheck"
           window.funraise.push('config', {form: 8475}, {
             i18n: {
               locale: window.navigator.language,
