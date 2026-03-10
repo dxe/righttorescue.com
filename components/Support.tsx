@@ -108,6 +108,18 @@ export const Support = () => {
 
           window.funraise.push('create', {form: 8475});
 
+          window.funraise.push('config', {form: 8475}, {
+            i18n: {
+              locale: window.navigator.language,
+              phrases: {
+                payments_methods_check: {
+                  'en': 'ACH / eCheck',
+                  'es': 'Cheque electrónico',
+                },
+              },
+            },
+          });
+
           window.funraise.push('onSuccess', {form: 8475}, function(donor, donation) {
             if (donation.recurring === true) {
               dataLayer.push({'event': 'donate-monthly-completed'});
