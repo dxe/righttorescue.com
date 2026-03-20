@@ -264,6 +264,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.fox6now.com/news/ridglan-farms-break-in-animal-activists"
           iFramelyUrl="https://cdn.iframe.ly/A4dHUB2Y?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2026/03/15/activists-remove-22-dogs-ridglan-farms-facility/"
+          iFramelyUrl="https://cdn.iframe.ly/Pn6Rgylt?card=small"
+        />
       </Press>
     </>
   );
