@@ -280,6 +280,10 @@ const RidglanFarms: NextPage = () => {
           href="https://wtmj.com/shows/wisconsins-midday-news/2026/03/16/activists-take-dogs-from-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/rI61HpZG?card=small"
         />
+        <Article
+          href="https://www.dailymail.co.uk/tvshowbiz/article-15652233/Baywatch-Alexandra-Paul-arrested-animal-rights-protest.html"
+          iFramelyUrl="https://cdn.iframe.ly/ujpAP9yL?card=small"
+        />
       </Press>
     </>
   );
