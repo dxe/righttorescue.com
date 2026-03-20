@@ -276,6 +276,10 @@ const RidglanFarms: NextPage = () => {
           href="https://worldanimalnews.com/2026/03/16/22-beagles-rescued-from-ridglan-farms-animal-testing-breeding-facility-as-activists-face-arrest/"
           iFramelyUrl="https://cdn.iframe.ly/lg1Yfb66?card=small"
         />
+        <Article
+          href="https://wtmj.com/shows/wisconsins-midday-news/2026/03/16/activists-take-dogs-from-ridglan-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/rI61HpZG?card=small"
+        />
       </Press>
     </>
   );
