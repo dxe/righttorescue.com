@@ -284,6 +284,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.dailymail.co.uk/tvshowbiz/article-15652233/Baywatch-Alexandra-Paul-arrested-animal-rights-protest.html"
           iFramelyUrl="https://cdn.iframe.ly/ujpAP9yL?card=small"
         />
+        <Article
+          href="https://madison.com/news/local/crime-courts/article_19b692ad-8b87-45a7-95cd-8bc8cee3e77e.html"
+          iFramelyUrl="https://cdn.iframe.ly/5kLizoLf?card=small"
+        />
       </Press>
     </>
   );
