@@ -272,6 +272,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wkow.com/news/animal-activists-ridglan-farms-spokesperson-address-break-in-and-arrests/article_0bb38447-1fc0-4001-890e-7ab3878f6f56.html"
           iFramelyUrl="https://cdn.iframe.ly/14HYYFhn?card=small"
         />
+        <Article
+          href="https://worldanimalnews.com/2026/03/16/22-beagles-rescued-from-ridglan-farms-animal-testing-breeding-facility-as-activists-face-arrest/"
+          iFramelyUrl="https://cdn.iframe.ly/lg1Yfb66?card=small"
+        />
       </Press>
     </>
   );
