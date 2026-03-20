@@ -292,6 +292,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.syracuse.com/celebrity-news/2026/03/baywatch-alum-arrested-after-break-in-at-dog-breeding-facility.html"
           iFramelyUrl="https://cdn.iframe.ly/0JoOLKBl?card=small"
         />
+        <Article
+          href="https://nypost.com/2026/03/17/us-news/baywatch-actress-alexandra-paul-arrested-for-freeing-beagles-in-animal-rights-protest/"
+          iFramelyUrl="https://cdn.iframe.ly/hAfIplXc?card=small"
+        />
       </Press>
     </>
   );
