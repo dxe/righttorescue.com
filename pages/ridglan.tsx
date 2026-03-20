@@ -288,6 +288,10 @@ const RidglanFarms: NextPage = () => {
           href="https://madison.com/news/local/crime-courts/article_19b692ad-8b87-45a7-95cd-8bc8cee3e77e.html"
           iFramelyUrl="https://cdn.iframe.ly/5kLizoLf?card=small"
         />
+        <Article
+          href="https://www.syracuse.com/celebrity-news/2026/03/baywatch-alum-arrested-after-break-in-at-dog-breeding-facility.html"
+          iFramelyUrl="https://cdn.iframe.ly/0JoOLKBl?card=small"
+        />
       </Press>
     </>
   );
