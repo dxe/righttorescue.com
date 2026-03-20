@@ -256,6 +256,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.vox.com/future-perfect/481596/dogs-as-persons-habeas-corpus-ridglan-farms"
           iFramelyUrl="https://cdn.iframe.ly/wzH8OWW5?card=small"
         />
+        <Article
+          href="https://captimes.com/opinion/letters-to-the-editor/letter-ozanne-should-face-opposition-in-coming-election/article_1bda77bc-3e7b-4582-88cf-ea6231bc74a5.html"
+          iFramelyUrl="https://cdn.iframe.ly/Tw5pGEdQ?card=small"
+        />
       </Press>
     </>
   );
