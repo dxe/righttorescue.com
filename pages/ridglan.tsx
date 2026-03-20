@@ -252,6 +252,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/news/news/activists-plan-beagle-rescue-at-ridglan-farms/"
           iFramelyUrl="https://cdn.iframe.ly/SMOLVFDT?card=small"
         />
+         <Article
+          href="https://www.vox.com/future-perfect/481596/dogs-as-persons-habeas-corpus-ridglan-farms"
+          iFramelyUrl="https://cdn.iframe.ly/wzH8OWW5?card=small"
+        />
       </Press>
     </>
   );
