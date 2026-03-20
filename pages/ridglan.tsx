@@ -248,6 +248,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wkow.com/news/dane-county-judge-dismisses-case-on-ridglan-farms-beagles/article_7a2a6481-ec15-40cc-a374-95989da654e9.html"
           iFramelyUrl="https://cdn.iframe.ly/7lX1txVD?card=small"
         />
+        <Article
+          href="https://isthmus.com/news/news/activists-plan-beagle-rescue-at-ridglan-farms/"
+          iFramelyUrl="https://cdn.iframe.ly/SMOLVFDT?card=small"
+        />
       </Press>
     </>
   );
