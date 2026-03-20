@@ -268,6 +268,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wmtv15news.com/2026/03/15/activists-remove-22-dogs-ridglan-farms-facility/"
           iFramelyUrl="https://cdn.iframe.ly/Pn6Rgylt?card=small"
         />
+        <Article
+          href="https://www.wkow.com/news/animal-activists-ridglan-farms-spokesperson-address-break-in-and-arrests/article_0bb38447-1fc0-4001-890e-7ab3878f6f56.html"
+          iFramelyUrl="https://cdn.iframe.ly/14HYYFhn?card=small"
+        />
       </Press>
     </>
   );
