@@ -260,6 +260,10 @@ const RidglanFarms: NextPage = () => {
           href="https://captimes.com/opinion/letters-to-the-editor/letter-ozanne-should-face-opposition-in-coming-election/article_1bda77bc-3e7b-4582-88cf-ea6231bc74a5.html"
           iFramelyUrl="https://cdn.iframe.ly/Tw5pGEdQ?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/ridglan-farms-break-in-animal-activists"
+          iFramelyUrl="https://cdn.iframe.ly/A4dHUB2Y?card=small"
+        />
       </Press>
     </>
   );
