@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/VCIJxjj-lgw?si=Oad7MucqGRSRwvH9"
         videoRatio="1x1"
       >
-        Four activists were just charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. They named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. Now, they are facing up to 6.5 years in prison for saving these goats.
+        Four activists were just charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. The rescue followed a months-long investigation that found dozens of dead mother and baby goats were regularly being dumped into an illegal dead pile on the property. Rescuers named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. Now, they are facing up to 6.5 years in prison for saving these goats.
       </FeaturedCase>
       <Letter />
       <About
