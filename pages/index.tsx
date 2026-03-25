@@ -13,17 +13,12 @@ const Home: NextPage = () => {
     <>
       <MastHead image="Rescued Chicken.jpeg" takeActionPage={undefined} />
       <FeaturedCase
-        name="Rescue at Perdue's Petaluma Poultry Slaughterhouse"
-        page="petalumapoultry"
-        video="https://www.youtube.com/embed/3r4xjelwY0U?si=FCWNAJSv0SKn-mLV"
+        name="Rescuing Phoebe and Celia from Whole Foods' Goat Graveyard"
+        page="meyenberg"
+        video="https://youtu.be/VCIJxjj-lgw?si=9EHiVP0Lm9ADEYA0"
         videoRatio="1x1"
       >
-        Animal rescuer Zoe Rosenberg was sentenced to 90 days in jail for rescuing 4 sick chickens from Perdue's Petaluma Poultry slaughterhouse in Sonoma County, California. Zoe made sure the chickens, Poppy, Aster, Ivy, and Azalea, got the veterinary care they needed. For this act of compassion, Zoe is now a convicted felon and was incarcerated in solitary confinement in Sonoma County's Main Adult Detention Facility before being released to house arrest for the remainder of her sentence. Zoe finished house arrest on Feb. 11, 2026. Meanwhile, Petaluma Poultry still faces no consequences for leaving sick animals to die or scalding animals alive. Please{" "}
-        <a
-          href="https://www.instagram.com/p/DR0etM-DReD/"
-          target="_blank"
-        >
-          share the news of this injustice</a> and keep exposing the animal cruelty that the authorities are covering up.
+        Four activists were just charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. They named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. Now, they are facing up to 6.5 years in prison for saving these goats.
       </FeaturedCase>
       <Letter />
       <About
