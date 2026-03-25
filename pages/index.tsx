@@ -11,7 +11,7 @@ import { Letter } from "../components/Letter";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="Rescued Chicken.jpeg" takeActionPage={undefined} />
+      <MastHead image="M rescue.png" takeActionPage={undefined} />
       <FeaturedCase
         name="Rescuing Phoebe and Celia from Whole Foods' Goat Graveyard"
         page="meyenberg"
