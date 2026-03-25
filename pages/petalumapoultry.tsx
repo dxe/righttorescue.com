@@ -17,15 +17,13 @@ const Reichardt: NextPage = () => {
         location="Sonoma County, California"
         video="https://www.youtube.com/embed/3r4xjelwY0U?si=Hq0SmC7-RYN9iBmn"
         videoRatio="1/1"
-        ctaText1="Email the DA"
-        ctaLink1="#letter"
-        // Just scrolling down to #letter -- default target="_blank" is not desired here.
-        ctaTarget1="auto"
+        ctaText1="Sign to Pardon Zoe"
+        ctaLink1="https://www.freezoe.org/"
         ctaText2="Contact Trader Joe's"
         ctaLink2="https://docs.google.com/document/d/1WOBAr4Lc6Kj0vTdWbHpVhMg8P8E4klpt1T6udEqMp10/edit?usp=sharing"
       >
-        Ask Sonoma County District Attorney Carla Rodriguez to finally prosecute Petaluma Poultry for years of criminal animal
-        cruelty. Plus, urge Trader Joe's to cut ties with Petaluma Poultry.
+        Ask CA Governor Gavin Newsom to pardon Zoe Rosenberg and send a message that animal cruelty should be prosecuted, not animal
+        rescue. Plus, urge Trader Joe's to cut ties with Petaluma Poultry.
       </Header>
 
       <a
