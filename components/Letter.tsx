@@ -41,9 +41,21 @@ declare global {
 const CAPTCHA_SITE_KEY = "6LdiglcpAAAAAM9XE_TNnAiZ22NR9nSRxHMOFn8E";
 
 const CAMPAIGN = "sonoma";
+const PETITION_ID = "one-letter";
 
 export const Letter = () => {
   const [tally, setTally] = useState<number | undefined>(undefined);
+  const { isTest, isDebug } = useMemo(() => {
+    if (typeof window === "undefined") {
+      return { isTest: false, isDebug: false };
+    }
+    const searchParams = new URLSearchParams(window.location.search);
+    return {
+      isTest: searchParams.get("test") === "true",
+      isDebug: searchParams.get("debug") === "true",
+    };
+  }, []);
+
   useEffect(() => {
     ky.get(`${CAMPAIGN_MAILER_API_URL}/tally`, {
       searchParams: { campaign: CAMPAIGN },
@@ -73,6 +85,8 @@ export const Letter = () => {
             )}
           </div>
           <LetterForm
+            test={isTest}
+            debug={isDebug}
             afterSubmit={() =>
               setTally((prev) => (!prev ? undefined : prev + 1))
             }
@@ -83,7 +97,11 @@ export const Letter = () => {
   );
 };
 
-export const LetterForm = (props: { afterSubmit?: () => void }) => {
+export const LetterForm = (props: {
+  afterSubmit?: () => void;
+  test?: boolean;
+  debug?: boolean;
+}) => {
   const form = useForm<PetitionForm>({
     resolver: zodResolver(PetitionFormSchema),
     defaultValues: {
@@ -105,6 +123,21 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
   } = form;
   const [isSubmitting, setIsSubmitting] = useState(false);
   const [isSubmitted, setIsSubmitted] = useState(false);
+  const { petitionId, campaignName } = getSubmissionNames(props.test);
+  const debugLoggedRef = useRef(false);
+
+  useEffect(() => {
+    if (!props.debug || debugLoggedRef.current) {
+      return;
+    }
+    console.dir({
+      "petition url": PETITION_API_URL,
+      "mailer url": CAMPAIGN_MAILER_API_URL,
+      "petition id": petitionId,
+      campaign: campaignName,
+    });
+    debugLoggedRef.current = true;
+  }, [campaignName, petitionId, props.debug]);
 
   const onSubmit = useMemo(
     () =>
@@ -127,7 +160,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
         // resubmit the form without causing duplicate emails to be sent.
         const petitionResp = await ky.post(PETITION_API_URL, {
           body: new URLSearchParams({
-            id: "one-letter",
+            id: petitionId,
             name: data.name,
             email: data.email,
             ...(data.phone && { phone: data.phone }),
@@ -156,7 +189,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
               outside_us: data.outsideUS,
               ...(data.zip && { zip: data.zip }),
               message: data.message,
-              campaign: CAMPAIGN,
+              campaign: campaignName,
               token,
             },
             headers: {
@@ -175,7 +208,7 @@ export const LetterForm = (props: { afterSubmit?: () => void }) => {
         props?.afterSubmit?.();
         window.dataLayer?.push({ event: "petition-signed" });
       }),
-    [handleSubmit, props]
+    [campaignName, handleSubmit, petitionId, props]
   );
 
   const outsideUS = watch("outsideUS");
@@ -372,4 +405,18 @@ function getUtmParams() {
   }
 
   return utmParams;
+}
+
+function getSubmissionNames(test?: boolean) {
+  let petitionId = PETITION_ID;
+  let campaignName = CAMPAIGN;
+  if (test) {
+    if (!petitionId.startsWith("test:")) {
+      petitionId = "test:" + petitionId;
+    }
+    if (!campaignName.startsWith("test:")) {
+      campaignName = "test:" + campaignName;
+    }
+  }
+  return { petitionId, campaignName };
 }
