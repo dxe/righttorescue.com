@@ -15,7 +15,7 @@ const Home: NextPage = () => {
       <FeaturedCase
         name="Rescuing Phoebe and Celia from Whole Foods' Goat Graveyard"
         page="meyenberg"
-        video="https://youtu.be/VCIJxjj-lgw?si=9EHiVP0Lm9ADEYA0"
+        video="https://www.youtube.com/embed/VCIJxjj-lgw?si=Oad7MucqGRSRwvH9"
         videoRatio="1x1"
       >
         Four activists were just charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. They named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. Now, they are facing up to 6.5 years in prison for saving these goats.
