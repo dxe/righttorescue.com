@@ -28,25 +28,22 @@ const Meyenberg: NextPage = () => {
           Read more here</a>. 
       </Details>
       <Details image="5:27 Rescue.png">
-        An attorney on DxE's legal team repeatedly reported these violations to the local authorities, including the Central Valley Regional Water Quality Control Board (RWQCB) which had cited Vera in 2021 for illegally disposing of dead animals on site. But the authorities failed to take enforcement action against Vera. So DxE investigators went back to Vera on May 27, 2025 to document the conditions again in broad daylight, and they rescued two sick baby goats with eye and nasal discharge. They carried the goats, whom they named Phoebe and Celia, to safety. 
+        An attorney on DxE's legal team repeatedly reported these violations to the local authorities, including the Kings County Sheriff and Central Valley Regional Water Quality Control Board which had cited Vera in 2021 for illegally disposing of dead animals on site. But the authorities failed to take enforcement action. So DxE investigators went back to Vera on May 27, 2025 to document the conditions again in broad daylight, and they rescued two sick baby goats with eye and nasal discharge. They carried the goats, whom they named Phoebe and Celia, to safety. 
       </Details>
       <Details image="return.png">
-        Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the five rescuers. Joe, Carla, Taj, Yasirah, and Sally were released after a couple of hours in custody with certificates of release saying no charges are yet filed, pending further investigation. We are now waiting to see if Kings County will file charges against these compassionate animal rescuers.  
+        Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the five rescuers. Joe, Carla, Taj, Yasirah, and Sally were released after a couple of hours in custody with certificates of release saying no charges a Kings County will file charges against these compassionate animal rescuers.  
       </Details>
       <Defendants>
-        <Bio name="Joseph Allman" image="Joe.png">
+        <Bio name="Joseph" image="Joe.png">
           Joseph is a pilot, videographer, and animal cruelty investigator based in California. 
         </Bio>
-        <Bio name="Carla Cabral" image="Carla photo 1.jpeg">
+        <Bio name="Carla" image="Carla photo 1.jpeg">
           Carla grew up loving animals and built a career around caring for them, first as an ER veterinary technician and then as a research scientist—but it wasn’t until she faced the truth about how we exploit animals, even in the name of care, that she committed to a life of advocacy to help build a world free from speciesism and cruelty.
         </Bio>
-        <Bio name="Taj Uppal" image="Taj Uppal Photo.jpg">
-          Taj is an activist and attorney litigating animal activist defense cases. In his spare time, he enjoys playing basketball with his friends.
+        <Bio name="Taj" image="Taj Uppal Photo.jpg">
+          Taj is an activist and attorney working at a large law firm. In his spare time, he enjoys playing basketball with his friends.
         </Bio>
-        <Bio name="Yasirah Vaughn" image="yasirah.jpg">
-          Yasirah is from Princeton, New Jersey. When she's not doing animal rights activism, her hobbies include cooking, writing, and doing yoga.
-        </Bio>
-        <Bio name="Sally Zito" image="sally.jpg">
+        <Bio name="Sally" image="sally.jpg">
           Sally is a professional musician and a DxE organizer in Los Angeles, CA. She woke up to the torture inflicted on non-human animals by human animals in 2017 and has been an activist with DxE since 2018.
         </Bio>
       </Defendants>
