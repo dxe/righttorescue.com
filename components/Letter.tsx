@@ -68,7 +68,7 @@ export const Letter = () => {
                 <span className="tw-font-extrabold">
                   {tally?.toLocaleString()}
                 </span>{" "}
-                emails sent to DA Rodriguez
+                emails sent to prosecutors
               </div>
             )}
           </div>
