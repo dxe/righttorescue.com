@@ -490,6 +490,10 @@ const Reichardt: NextPage = () => {
           href="https://www.dailycal.org/news/campus/free-zoe-rally-calls-on-newsom-to-pardon-animal-rights-activist/article_6db8813f-c8a6-4f34-a1f0-6b2225488998.html"
           iFramelyUrl="https://cdn.iframe.ly/k3yayHRH?card=small"    
         />
+        <Article
+          href="https://www.pressdemocrat.com/2026/03/25/petaluma-poultry-products-no-longer-carried-by-marin-county-grocer/"
+          iFramelyUrl="https://cdn.iframe.ly/CQNCjvDk?card=small"    
+        />
       </Press>
     </>
   );
