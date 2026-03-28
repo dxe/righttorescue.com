@@ -64,6 +64,10 @@ const Meyenberg: NextPage = () => {
           href="https://abc30.com/post/protesters-ask-kings-county-officials-investigate-vera-goat-dairy/17140852/"
           iFramelyUrl="https://cdn.iframe.ly/YikVPpwC?card=small"
         />
+        <Article
+          href="https://kmph.com/news/local/four-animal-rights-activists-charged-after-taking-ill-baby-goats-from-stratford-dairy"
+          iFramelyUrl="https://cdn.iframe.ly/zbA2c5VP?card=small"
+        />
       </Press>
     </>
   );
