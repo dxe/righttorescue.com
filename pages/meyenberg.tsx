@@ -68,6 +68,10 @@ const Meyenberg: NextPage = () => {
           href="https://kmph.com/news/local/four-animal-rights-activists-charged-after-taking-ill-baby-goats-from-stratford-dairy"
           iFramelyUrl="https://cdn.iframe.ly/zbA2c5VP?card=small"
         />
+        <Article
+          href="https://sjvsun.com/news/hanford/activists-charged-for-stealing-goats-from-kings-co-dairy/"
+          iFramelyUrl="https://cdn.iframe.ly/xKFphpFl?card=small"
+        />
       </Press>
     </>
   );
