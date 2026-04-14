@@ -72,6 +72,10 @@ const Meyenberg: NextPage = () => {
           href="https://sjvsun.com/news/hanford/activists-charged-for-stealing-goats-from-kings-co-dairy/"
           iFramelyUrl="https://cdn.iframe.ly/xKFphpFl?card=small"
         />
+         <Article
+          href="https://www.fresnobee.com/news/local/article315201514.html"
+          iFramelyUrl="https://cdn.iframe.ly/7n4Tk3WF?card=small"
+        />
       </Press>
     </>
   );
