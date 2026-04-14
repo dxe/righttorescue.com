@@ -296,6 +296,10 @@ const RidglanFarms: NextPage = () => {
           href="https://nypost.com/2026/03/17/us-news/baywatch-actress-alexandra-paul-arrested-for-freeing-beagles-in-animal-rights-protest/"
           iFramelyUrl="https://cdn.iframe.ly/hAfIplXc?card=small"
         />
+        <Article
+          href="https://dailyillini.com/news-stories/university-news/research/2026/03/30/direct-action-everywhere-animal-research/"
+          iFramelyUrl="https://cdn.iframe.ly/8QT1lTnp?card=small"
+        />
       </Press>
     </>
   );
