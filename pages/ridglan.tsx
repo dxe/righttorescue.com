@@ -14,13 +14,8 @@ const RidglanFarms: NextPage = () => {
         location="Wisconsin"
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1/1"
-        ctaText1="Instructions for Calling"
-        ctaLink1="https://docs.google.com/document/d/1A6PyZV9fYke72q1tj7se7duBbW-UJAJVl7Os13XO3BI"
-        ctaText2="Instructions for Emailing"
-        ctaLink2="https://docs.google.com/document/d/1n4XUHQropg6FQFI6y42vojrgenvA_8kmLazdC51lDE8"
       >
-        Call and email Dane County District Attorney Ismael Ozanne asking him to
-        prosecute Ridglan Farms for animal cruelty.
+        Call Wisconsin Attorney General Josh Kaul and ask him to seize the 2,000 dogs suffering inside Ridglan Farms and work with rescues ready to place them in loving homes: (608) 266-1221, dial 4
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms is the second largest breeder of beagles for
