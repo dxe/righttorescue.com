@@ -34,7 +34,7 @@ const Meyenberg: NextPage = () => {
          Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the rescuers. In March 2026, the District Attorney filed felony charges against Joe, Carla, Taj, and Sally. They're charged with felony grand theft, felony conspiracy, and trespass and face up to 6.5 years in prison for saving Phoebe and Celia. Both goats were taken to a veterinarian and treated for their respiratory infections as well as for their conjunctivitis and overgrown hooves. Today, they are living in safety and peace.  
       </Details>
       <Details image="Goat rescuers at court.jpeg">
-          Joe, Carla, Taj, and Sally have their preliminary hearing scheduled for May 19, 2026 at the Kings County Superior Court (1640 Kings County Drive, Hanford, CA 93230). Supporters will be attending in solidarity with the defendants and the animals suffering behind Meyenberg Goat Milk. Please        <a
+          Sally, Carla, Joe, and Taj have their preliminary hearing scheduled for Tuesday, May 19, 2026 at 1:30 PM at the Kings County Superior Court (1640 Kings County Drive, Hanford, CA 93230). This preliminary hearing is like a mini trial where prosecutors will present evidence to the judge and the judge will decide if the case proceeds to trial. Supporters will be attending in solidarity with the defendants and the animals suffering behind Meyenberg Goat Milk. Please        <a
           href="https://www.facebook.com/events/1616542496285379"
           target="_blank"
         >
