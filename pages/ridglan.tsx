@@ -15,7 +15,7 @@ const RidglanFarms: NextPage = () => {
         video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
         videoRatio="1/1"
       >
-        Call Wisconsin Attorney General Josh Kaul and ask him to seize the 2,000 dogs suffering inside Ridglan Farms and work with rescues ready to place them in loving homes: (608) 266-1221, dial 4
+       URGENT: Call Wisconsin Governor Tony Evers and ask him to save the dogs suffering at Ridglan and work with rescues that are ready to place them in loving homes: (608) 266-1212
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms is the second largest breeder of beagles for
