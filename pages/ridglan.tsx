@@ -49,14 +49,18 @@ const RidglanFarms: NextPage = () => {
           target="_blank"
         >
           granted the petition
-        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. On October 28, 2025, DA Gruenke was about to file criminal charges of animal cruelty against Ridglan Farms when{" "}
+        </a>{" "} to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! On February 5, the Court appointed La Crosse County District Attorney Tim Gruenke to be the special prosecutor on this case. On October 28, 2025, Ridglan struck a deal where {" "}
         <a
           href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
           target="_blank"
         >
-          Ridglan announced
-        </a>{" "} they will just shut down breeding operations at Ridglan Farms for good. 
-      </p>
+          they agreed to shut down their breeding operation
+        </a>{" "} by July 1, 2026 to avoid felony animal cruelty charges. 
+      <p>
+        This is a huge win, but the fight isn’t over. Around 2,000 dogs are still trapped at Ridglan and destined to be sold off for cruel experimentation. The clock is ticking to save them.
+              <p>
+        URGENT: Call Wisconsin Governor Tony Evers and ask him to save the dogs suffering at Ridglan and work with rescues that are ready to place them in loving homes: (608) 266-1212
+        </p>
         </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
