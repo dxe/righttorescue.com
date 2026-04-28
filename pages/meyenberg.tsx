@@ -83,6 +83,10 @@ const Meyenberg: NextPage = () => {
           href="https://www.fresnobee.com/news/local/article315201514.html"
           iFramelyUrl="https://cdn.iframe.ly/7n4Tk3WF?card=small"
         />
+        <Article
+          href="https://www.modbee.com/news/local/turlock/article315360549.html"
+          iFramelyUrl="https://cdn.iframe.ly/82LxqWQw?card=small"
+        />
       </Press>
     </>
   );
