@@ -56,9 +56,11 @@ const RidglanFarms: NextPage = () => {
         >
           they agreed to shut down their breeding operation
         </a>{" "} by July 1, 2026 to avoid felony animal cruelty charges. 
-      <p>
+      </p>
+        <p>
         This is a huge win, but the fight isn’t over. Around 2,000 dogs are still trapped at Ridglan and destined to be sold off for cruel experimentation. The clock is ticking to save them.
-              <p>
+              </p>
+          <p>
         URGENT: Call Wisconsin Governor Tony Evers and ask him to save the dogs suffering at Ridglan and work with rescues that are ready to place them in loving homes: (608) 266-1212
         </p>
         </Details>
