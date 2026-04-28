@@ -307,6 +307,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.channel3000.com/news/animal-rights-activists-break-into-ridglan-farms/article_c61d41b4-cbfb-4174-a909-c37f8bf7db8b.html"
           iFramelyUrl="https://cdn.iframe.ly/ClvZQkm3?card=small"
         />
+        <Article
+          href="https://captimes.com/news/government/dane-county-police-tear-gas-arrest-animal-activists-at-ridglan-farms/article_5b5addab-3d47-4f71-82af-bed273c190b3.html"
+          iFramelyUrl="https://cdn.iframe.ly/bUu2KhhB?card=small"
+        />
       </Press>
     </>
   );
