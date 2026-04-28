@@ -295,6 +295,10 @@ const RidglanFarms: NextPage = () => {
           href="https://dailyillini.com/news-stories/university-news/research/2026/03/30/direct-action-everywhere-animal-research/"
           iFramelyUrl="https://cdn.iframe.ly/8QT1lTnp?card=small"
         />
+        <Article
+          href="https://isthmus.com/opinion/opinion/how-the-tactic-of-open-rescue-came-to-wisconsin/"
+          iFramelyUrl="https://cdn.iframe.ly/aSMUlZER?card=small"
+        />
       </Press>
     </>
   );
