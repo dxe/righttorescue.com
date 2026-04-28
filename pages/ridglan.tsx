@@ -299,6 +299,10 @@ const RidglanFarms: NextPage = () => {
           href="https://isthmus.com/opinion/opinion/how-the-tactic-of-open-rescue-came-to-wisconsin/"
           iFramelyUrl="https://cdn.iframe.ly/aSMUlZER?card=small"
         />
+        <Article
+          href="https://www.channel3000.com/news/animal-rights-activists-break-into-ridglan-farms/article_c61d41b4-cbfb-4174-a909-c37f8bf7db8b.html"
+          iFramelyUrl="https://cdn.iframe.ly/ClvZQkm3?card=small"
+        />
       </Press>
     </>
   );
