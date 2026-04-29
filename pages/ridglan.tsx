@@ -317,6 +317,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.wmtv15news.com/2026/04/18/tear-gas-deployed-ridglan-farms-protesters-attempt-break-into-facility-dane-co-sheriffs-office-says/"
           iFramelyUrl="https://cdn.iframe.ly/0qA3iAC3?card=small"
         />
+        <Article
+          href="https://www.democracynow.org/2026/4/20/headlines/activists_attempting_to_save_dogs_from_medical_experimentation_met_with_tear_gas_in_wisconsin"
+          iFramelyUrl="https://cdn.iframe.ly/zNLjibXB?card=small"
+        />
       </Press>
     </>
   );
