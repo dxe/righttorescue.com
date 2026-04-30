@@ -321,6 +321,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.democracynow.org/2026/4/20/headlines/activists_attempting_to_save_dogs_from_medical_experimentation_met_with_tear_gas_in_wisconsin"
           iFramelyUrl="https://cdn.iframe.ly/zNLjibXB?card=small"
         />
+        <Article
+          href="https://www.democracynow.org/2026/4/21/ridglan_farms_animal_rescue_robinson_dane4dogs"
+          iFramelyUrl="https://cdn.iframe.ly/pao0xHfB?card=small"
+        />
       </Press>
     </>
   );
