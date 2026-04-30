@@ -325,6 +325,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.democracynow.org/2026/4/21/ridglan_farms_animal_rescue_robinson_dane4dogs"
           iFramelyUrl="https://cdn.iframe.ly/pao0xHfB?card=small"
         />
+         <Article
+          href="https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html"
+          iFramelyUrl="https://cdn.iframe.ly/Zru9oQem?card=small"
+        />
       </Press>
     </>
   );
