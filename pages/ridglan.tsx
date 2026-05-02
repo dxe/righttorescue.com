@@ -333,6 +333,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.channel3000.com/news/ridglan-farms-cited-for-manure-filled-trench-built-to-stop-protesters/article_1f3f58a9-1cc5-4513-a017-974c6726eb31.html"
           iFramelyUrl="https://cdn.iframe.ly/5QHhQz6J?card=small"
         />
+        <Article
+          href="https://captimes.com/news/government/dane-county-police-tear-gas-arrest-animal-activists-at-ridglan-farms/article_5b5addab-3d47-4f71-82af-bed273c190b3.html"
+          iFramelyUrl="https://cdn.iframe.ly/bUu2KhhB?card=small"
+        />
       </Press>
     </>
   );
