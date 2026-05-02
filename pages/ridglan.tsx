@@ -329,6 +329,10 @@ const RidglanFarms: NextPage = () => {
           href="https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html"
           iFramelyUrl="https://cdn.iframe.ly/Zru9oQem?card=small"
         />
+        <Article
+          href="https://www.channel3000.com/news/ridglan-farms-cited-for-manure-filled-trench-built-to-stop-protesters/article_1f3f58a9-1cc5-4513-a017-974c6726eb31.html"
+          iFramelyUrl="https://cdn.iframe.ly/5QHhQz6J?card=small"
+        />
       </Press>
     </>
   );
