@@ -337,6 +337,10 @@ const RidglanFarms: NextPage = () => {
           href="https://captimes.com/news/government/dane-county-police-tear-gas-arrest-animal-activists-at-ridglan-farms/article_5b5addab-3d47-4f71-82af-bed273c190b3.html"
           iFramelyUrl="https://cdn.iframe.ly/bUu2KhhB?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2026/04/18/tear-gas-deployed-ridglan-farms-protesters-attempt-break-into-facility-dane-co-sheriffs-office-says/"
+          iFramelyUrl="https://cdn.iframe.ly/0qA3iAC3?card=small"
+        />
       </Press>
     </>
   );
