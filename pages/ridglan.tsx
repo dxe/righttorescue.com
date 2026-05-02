@@ -338,8 +338,8 @@ const RidglanFarms: NextPage = () => {
           iFramelyUrl="https://cdn.iframe.ly/UcxKTXP9?card=small"
         />
         <Article
-          href="https://www.wmtv15news.com/2026/04/18/tear-gas-deployed-ridglan-farms-protesters-attempt-break-into-facility-dane-co-sheriffs-office-says/"
-          iFramelyUrl="https://cdn.iframe.ly/0qA3iAC3?card=small"
+          href="https://www.vox.com/future-perfect/486973/beagle-rescue-ridglan-animal-testing-research-rights"
+          iFramelyUrl="https://cdn.iframe.ly/8ZjcuhKR?card=small"
         />
       </Press>
     </>
