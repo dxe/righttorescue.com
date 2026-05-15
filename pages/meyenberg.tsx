@@ -87,6 +87,10 @@ const Meyenberg: NextPage = () => {
           href="https://www.modbee.com/news/local/turlock/article315360549.html"
           iFramelyUrl="https://cdn.iframe.ly/82LxqWQw?card=small"
         />
+        <Article
+          href="https://www.kron4.com/news/bay-area/animal-rights-supporters-rally-in-berkeley-ahead-of-goat-theft-hearing/"
+          iFramelyUrl="https://cdn.iframe.ly/JjUn3fEx?card=small"
+        />
       </Press>
     </>
   );
