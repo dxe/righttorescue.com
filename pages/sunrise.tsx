@@ -328,6 +328,10 @@ const Sunrise: NextPage = () => {
           href="https://worldanimalnews.com/animal-activist-attorney-wayne-hsiung-appeals-conviction-for-rescuing-sick-animals-from-factory-farms/"
           iFramelyUrl="https://cdn.iframe.ly/jPtnIzZ?card=small"
         />
+        <Article
+          href="https://www.pressdemocrat.com/2026/04/30/court-overturns-animal-welfare-activist-wayne-hsiungs-conviction-on-two-of-three-counts/"
+          iFramelyUrl="https://cdn.iframe.ly/RsOBOmAO?card=small"
+        />
       </Press>
     </>
   );
