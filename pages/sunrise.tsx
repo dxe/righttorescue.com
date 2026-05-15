@@ -336,6 +336,10 @@ const Sunrise: NextPage = () => {
           href="https://localnewsmatters.org/2026/05/01/hsiung-convictions-overturned-petaluma-farms-appeal/"
           iFramelyUrl="https://cdn.iframe.ly/1twoXHif?card=small"
         />
+        <Article
+          href="https://norcalpublicmedia.org/20260501100909/news-feed/appeals-court-reverses-conspiracy-trespassing-convictions-for-activist"
+          iFramelyUrl="https://cdn.iframe.ly/6ODXkTPW?card=small"
+        />
       </Press>
     </>
   );
