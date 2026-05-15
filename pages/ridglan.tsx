@@ -343,6 +343,10 @@ While this is a victory for the 1500 dogs who are now feeling the grass and the 
           href="https://www.vox.com/future-perfect/486973/beagle-rescue-ridglan-animal-testing-research-rights"
           iFramelyUrl="https://cdn.iframe.ly/8ZjcuhKR?card=small"
         />
+        <Article
+          href="https://wausaupilotandreview.com/2026/05/10/before-the-ridglan-beagle-raids-there-were-years-of-complaints-and-no-charges-2/"
+          iFramelyUrl="https://cdn.iframe.ly/gj4qWgLO?card=small"
+        />
       </Press>
     </>
   );
