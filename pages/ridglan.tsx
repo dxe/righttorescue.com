@@ -347,6 +347,10 @@ While this is a victory for the 1500 dogs who are now feeling the grass and the 
           href="https://wausaupilotandreview.com/2026/05/10/before-the-ridglan-beagle-raids-there-were-years-of-complaints-and-no-charges-2/"
           iFramelyUrl="https://cdn.iframe.ly/gj4qWgLO?card=small"
         />
+        <Article
+          href="https://www.wuwm.com/what-to-know-about-ridglan-farms-animal-testing-activists-working-to-free-the-beagles"
+          iFramelyUrl="https://cdn.iframe.ly/1SQcdmOh?card=small"
+        />
       </Press>
     </>
   );
