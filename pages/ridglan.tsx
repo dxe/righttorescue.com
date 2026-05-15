@@ -351,6 +351,10 @@ While this is a victory for the 1500 dogs who are now feeling the grass and the 
           href="https://www.wuwm.com/what-to-know-about-ridglan-farms-animal-testing-activists-working-to-free-the-beagles"
           iFramelyUrl="https://cdn.iframe.ly/1SQcdmOh?card=small"
         />
+        <Article
+          href="https://www.wjhg.com/2026/05/01/1500-beagles-rescued-veterinary-research-facility-after-reaching-deal-with-animal-rescues/"
+          iFramelyUrl="https://cdn.iframe.ly/NBEKlwdT?card=small"
+        />
       </Press>
     </>
   );
