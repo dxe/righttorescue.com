@@ -332,6 +332,10 @@ const Sunrise: NextPage = () => {
           href="https://www.pressdemocrat.com/2026/04/30/court-overturns-animal-welfare-activist-wayne-hsiungs-conviction-on-two-of-three-counts/"
           iFramelyUrl="https://cdn.iframe.ly/RsOBOmAO?card=small"
         />
+        <Article
+          href="https://localnewsmatters.org/2026/05/01/hsiung-convictions-overturned-petaluma-farms-appeal/"
+          iFramelyUrl="https://cdn.iframe.ly/1twoXHif?card=small"
+        />
       </Press>
     </>
   );
