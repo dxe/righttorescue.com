@@ -48,6 +48,20 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Dane County, Wisconsin"
+          date="March 15, 2026"
+          image="dog.jpg"
+          featured
+        >
+           A coalition of activists entered Ridglan Farms and {" "}
+          <a
+            href="https://www.fox6now.com/news/ridglan-farms-break-in-animal-activists"
+            target="_blank"
+          >
+            openly rescued 22 dogs from a life of experimentation
+          </a>{" "}. 8 others were seized by Dane County Sheriff’s deputies after being rescued. Last year, Ridglan agreed to shut down its breeding operation by July 1, 2026 to avoid felony animal cruelty charges. But this delay has left thousands of dogs inside the facility still subject to Ridglan’s abuse and destined to be sold to labs across the country. The government is failing these animals. So ordinary people are taking action themselves. 
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Dec 24, 2025"
           image="SquareZoePP.png"
@@ -97,7 +111,7 @@ const Home: NextPage = () => {
           image="dog.jpg"
           featured
         >
-          VICTORY: Ridglan Farms, the second largest breeder of dogs for experimentation in the U.S., is shutting down! After charges were dropped against DxE activists who rescued three beagles from Ridglan's cruelty, activists and attorneys kept the pressure on and the court case completely flipped, with Ridglan facing prosecution. In a deal to avoid a felony for animal cruelty, Ridglan announced that it will shut down its breeding operation by July 1, 2026. This means thousands of dogs will be spared from cruelty. You can read more in the press{" "}
+          VICTORY: Ridglan Farms, the second largest breeder of dogs for experimentation in the U.S., is shutting down its breeding operation! After charges were dropped against DxE activists who rescued three beagles from Ridglan's cruelty, activists and attorneys kept the pressure on and the court case completely flipped, with Ridglan facing prosecution. In a deal to avoid a felony for animal cruelty, Ridglan announced that it will shut down its breeding operation by July 1, 2026. This means thousands of dogs will be spared from cruelty. You can read more in the press{" "}
           <a
             href="https://www.vox.com/future-perfect/466909/dog-experiments-beagles-ridglan-envigo-closing"
             target="_blank"
