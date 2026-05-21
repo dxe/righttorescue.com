@@ -49,6 +49,14 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Sonoma County, California"
+          date="Dec 3, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+          Zoe Rosenberg was sentenced to 90 days in custody for saving four chickens from Perdue’s Petaluma Poultry slaughterhouse. Zoe spoke at her sentencing hearing and did not express remorse for rescuing the chickens. Rather, she stated, “I am filled with remorse for every animal I have failed to save."
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
           date="Oct 29, 2025"
           image="SquareZoePP.png"
           featured
