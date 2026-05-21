@@ -49,6 +49,20 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Sonoma County, California"
+          date="Dec 24, 2025"
+          image="SquareZoePP.png"
+          featured
+        >
+          Zoe was released from jail early today, after being approved to spend the last 60 days of her 90-day sentence on house arrest rather than in jail and due to California's half-time credits for good behavior cutting her 30 days in half. {" "}
+          <a
+            href="https://www.sfchronicle.com/california/article/zoe-rosenberg-chicken-trial-jail-release-21257524.php"
+            target="_blank"
+          >
+            Read more in the SF Chronicle.
+          </a>{" "}
+        </Announcement>
+        <Announcement
+          title="Sonoma County, California"
           date="Dec 10, 2025"
           image="SquareZoePP.png"
           featured
