@@ -66,10 +66,9 @@ const Sunrise: NextPage = () => {
           Learn more about this new case here.
         </a>{" "}
         Wayne was released from jail on December 9th after serving almost half
-        his sentence, as is typical in California. He is in the process of
-        appealing.
+        his sentence, as is typical in California. 
       </Details>
-      <Details image="sunrise.jpg">
+      <Details image="Appeal Hearing in SF.png">
         Wayne and the Animal Activist Legal Defense Project appealed his conviction, and on April 30, 2026, the California Court of Appeals overturned two of the three convictions including the lone felony charge. The judges found that Sonoma County Judge Laura Passaglia wrongly excluded animal cruelty evidence that would have gone to show Wayne’s intent was to rescue. Since the court did not give a clear ruling on the necessity defense, Wayne and the Animal Activist Legal Defense Project will be appealing that issue all the way to the California Supreme Court. You can{" "}
         <a href="https://localnewsmatters.org/2026/05/01/hsiung-convictions-overturned-petaluma-farms-appeal/" target="_blank">
           read some of the press coverage here.
