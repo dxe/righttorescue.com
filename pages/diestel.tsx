@@ -11,7 +11,7 @@ const Diestel: NextPage = () => {
         video="https://www.youtube.com/embed/byb8WjknZxw"
         videoRatio="16/9"
         ctaText1="Share"
-        ctaLink1="https://www.facebook.com/watch/?v=1089174481112900"
+        ctaLink1="https://youtu.be/byb8WjknZxw"
       >
         Share the video exposing Diestel’s cruel practices.
       </Header>
