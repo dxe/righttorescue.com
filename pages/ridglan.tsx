@@ -355,6 +355,10 @@ While this is a victory for the 1500 dogs who are now feeling the grass and the 
           href="https://www.wjhg.com/2026/05/01/1500-beagles-rescued-veterinary-research-facility-after-reaching-deal-with-animal-rescues/"
           iFramelyUrl="https://cdn.iframe.ly/NBEKlwdT?card=small"
         />
+        <Article
+          href="https://www.yahoo.com/news/videos/rescued-beagles-arrive-sacramento-area-031046747.html"
+          iFramelyUrl="https://cdn.iframe.ly/d9Lrb9Zk?card=small"
+        />
       </Press>
     </>
   );
