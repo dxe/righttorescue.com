@@ -344,16 +344,20 @@ While this is a victory for the 1500 dogs who are now feeling the grass and the 
           iFramelyUrl="https://cdn.iframe.ly/8ZjcuhKR?card=small"
         />
         <Article
+          href="https://www.wjhg.com/2026/05/01/1500-beagles-rescued-veterinary-research-facility-after-reaching-deal-with-animal-rescues/"
+          iFramelyUrl="https://cdn.iframe.ly/NBEKlwdT?card=small"
+        />
+        <Article
+          href="https://abc7news.com/post/beagles-rescued-research-lab-wisconsin-finding-forever-homes-bay-area/19060767/"
+          iFramelyUrl="https://cdn.iframe.ly/U92Nrwk?card=small"
+        />
+        <Article
           href="https://wausaupilotandreview.com/2026/05/10/before-the-ridglan-beagle-raids-there-were-years-of-complaints-and-no-charges-2/"
           iFramelyUrl="https://cdn.iframe.ly/gj4qWgLO?card=small"
         />
         <Article
           href="https://www.wuwm.com/what-to-know-about-ridglan-farms-animal-testing-activists-working-to-free-the-beagles"
           iFramelyUrl="https://cdn.iframe.ly/1SQcdmOh?card=small"
-        />
-        <Article
-          href="https://www.wjhg.com/2026/05/01/1500-beagles-rescued-veterinary-research-facility-after-reaching-deal-with-animal-rescues/"
-          iFramelyUrl="https://cdn.iframe.ly/NBEKlwdT?card=small"
         />
         <Article
           href="https://www.yahoo.com/news/videos/rescued-beagles-arrive-sacramento-area-031046747.html"
