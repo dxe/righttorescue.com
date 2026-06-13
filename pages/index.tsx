@@ -49,17 +49,31 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Dane County, Wisconsin"
+          date="April 18, 2026"
+          image="dog.jpg"
+          featured
+        >
+           Today, over 1,000 people converged at Ridglan to nonviolently attempt to save the dogs still trapped inside. Dane County Sheriffs responded with tear gas, pepper spray, rubber bullets, and stinger grenades. They{" "}
+          <a
+            href="https://www.instagram.com/reel/DXR2DgggD5B/"
+            target="_blank"
+          >
+            knocked peaceful activists to the ground and brutalized them.
+          </a>{" "} This police brutality sparked widespread media attention and is generating even more public support to free the dogs. 
+        </Announcement>
+        <Announcement
+          title="Dane County, Wisconsin"
           date="March 15, 2026"
           image="dog.jpg"
           featured
         >
-           A coalition of activists entered Ridglan Farms and {" "}
+           A coalition of activists entered Ridglan Farms today and {" "}
           <a
             href="https://www.fox6now.com/news/ridglan-farms-break-in-animal-activists"
             target="_blank"
           >
-            openly rescued 22 dogs from a life of experimentation
-          </a>{" "}. 8 others were seized by Dane County Sheriff’s deputies after being rescued. Last year, Ridglan agreed to shut down its breeding operation by July 1, 2026 to avoid felony animal cruelty charges. But this delay has left thousands of dogs inside the facility still subject to Ridglan’s abuse and destined to be sold to labs across the country. The government is failing these animals. So ordinary people are taking action themselves. 
+            openly rescued 22 dogs from a life of experimentation.
+          </a>{" "} 8 others were seized by Dane County Sheriff’s deputies after being rescued. Last year, Ridglan agreed to shut down its breeding operation by July 1, 2026 to avoid felony animal cruelty charges. But this delay has left thousands of dogs inside the facility still subject to Ridglan’s abuse and destined to be sold to labs across the country. The government is failing these animals. So ordinary people are taking action themselves. 
         </Announcement>
         <Announcement
           title="Sonoma County, California"
