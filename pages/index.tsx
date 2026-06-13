@@ -53,13 +53,19 @@ const Home: NextPage = () => {
           image="dog.jpg"
           featured
         >
-           Today, over 1,000 people converged at Ridglan to nonviolently attempt to save the dogs still trapped inside. Dane County Sheriffs responded with tear gas, pepper spray, rubber bullets, and stinger grenades. They{" "}
+           Today, over 1,000 people converged at Ridglan Farms to nonviolently attempt to save the dogs still trapped inside. Dane County Sheriffs responded with tear gas, pepper spray, rubber bullets, and stinger grenades. They{" "}
           <a
             href="https://www.instagram.com/reel/DXR2DgggD5B/"
             target="_blank"
           >
             knocked peaceful activists to the ground and brutalized them.
-          </a>{" "} This police brutality sparked widespread media attention and is generating even more public support to free the dogs. 
+          </a>{" "} This police brutality{" "}
+          <a
+            href="https://www.nytimes.com/2026/04/18/us/beagle-facility-wisconsin-protests-tear-gas.html"
+            target="_blank"
+          >
+            sparked widespread media attention
+          </a>{" "}and is generating even more public support to free the dogs. 
         </Announcement>
         <Announcement
           title="Dane County, Wisconsin"
