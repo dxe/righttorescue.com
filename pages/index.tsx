@@ -49,8 +49,9 @@ const Home: NextPage = () => {
       <Announcements>
         <Announcement
           title="Sonoma County, California"
-          date="April 30, 2026"
+          date="Apr. 30, 2026"
           image="Sunrise.png"
+           featured
         >
           VICTORY: The California Court of Appeals just overturned Wayne Hsiung’s felony conviction for his role in rescuing 37 abused hens from Sunrise Farms. They also overturned his misdemeanor trespass conviction for his role in the rescue of 32 sick ducklings from Reichardt Duck Farm. The Court ruled that Wayne should have been allowed to argue that he believed his actions were legal under the necessity defense. Further, the Court wrote that “Neither this court nor the California Supreme Court has ruled that the necessity defense applies exclusively to situations involving physical harm to a human,” validating that individuals could have the right to violate laws in order to rescue animals from extreme harm.
 
@@ -68,7 +69,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
         </Announcement>
         <Announcement
           title="Dane County, Wisconsin"
-          date="April 18, 2026"
+          date="Apr. 18, 2026"
           image="dog.jpg"
           featured
         >
@@ -102,7 +103,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
         </Announcement>
         <Announcement
           title="Sonoma County, California"
-          date="Dec 24, 2025"
+          date="Dec. 24, 2025"
           image="SquareZoePP.png"
           featured
         >
@@ -116,7 +117,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
         </Announcement>
         <Announcement
           title="Sonoma County, California"
-          date="Dec 10, 2025"
+          date="Dec. 10, 2025"
           image="SquareZoePP.png"
           featured
         >
@@ -130,7 +131,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
         </Announcement>
         <Announcement
           title="Sonoma County, California"
-          date="Dec 3, 2025"
+          date="Dec. 3, 2025"
           image="SquareZoePP.png"
           featured
         >
@@ -138,7 +139,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
         </Announcement>
         <Announcement
           title="Sonoma County, California"
-          date="Oct 29, 2025"
+          date="Oct. 29, 2025"
           image="SquareZoePP.png"
           featured
         >
