@@ -48,6 +48,25 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Sonoma County, California"
+          date="April, 2026"
+          image="Sunrise.png"
+        >
+          VICTORY! The California Court of Appeals overturned Wayne Hsiung’s felony conviction for his role in rescuing 37 abused hens from Sunrise Farms. They also overturned his misdemeanor trespass conviction for his role in the rescue of 32 sick ducklings from Reichardt Duck Farm. The Court ruled that Wayne should have been allowed to argue that he believed his actions were legal under the necessity defense. Further, the Court wrote that “Neither this court nor the California Supreme Court has ruled that the necessity defense applies exclusively to situations involving physical harm to a human,” validating that individuals could have the right to violate laws in order to rescue animals from extreme harm.
+
+The Court did not overturn his misdemeanor trespass conviction for his actions at Sunrise Farms or make a clear ruling affirming that the necessity defense actively does apply to nonhuman animals. Consequently, Wayne will be appealing to the California Supreme Court on this issue.
+
+Nevertheless, this is a major step forward towards establishing the Right to Rescue and positioning animals as persons under the law.
+
+Thank you to the Animal Activist Legal Defense Project for leading the effort on this appeal. {" "}
+          <a
+            href="https://localnewsmatters.org/2026/05/01/hsiung-convictions-overturned-petaluma-farms-appeal/"
+            target="_blank"
+          >
+            Read some of the press coverage here.
+          </a>{" "}
+        </Announcement>
+        <Announcement
           title="Dane County, Wisconsin"
           date="April 18, 2026"
           image="dog.jpg"
