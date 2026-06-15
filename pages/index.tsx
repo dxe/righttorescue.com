@@ -90,7 +90,7 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
          <Announcement
           title="Kings County, California"
           date="March 26, 2026"
-          image="Goat Rescue.jpeg"
+          image="Goat Rescue.png"
           featured
         >
            NEW CASE: Four animal rescuers have just been charged with felonies for rescuing two baby goats, Phoebe and Celia, who were sick with respiratory infections on a Whole Foods-supplying goat dairy. The 9,000-goat operation produces milk for the nation’s largest goat milk brand, Meyenberg. Carla, Sally, Joe, and Taj are charged with felony grand theft, felony conspiracy, and trespass.{" "}
