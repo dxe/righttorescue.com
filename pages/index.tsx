@@ -169,7 +169,6 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
           title="Sonoma County, California"
           date="Sept. 15, 2025"
           image="SquareZoePP.png"
-          featured
         >
          The Perdue Rescue Trial began today in Santa Rosa. After 20 months, Zoe is finally getting her ankle monitor removed! The judge agreed to the removal after Zoe’s attorney, Chris Carraway, argued that requiring Zoe to wear the monitor in the presence of the jury could bias them against her. The judge also ruled that evidence regarding the conditions of the birds rescued by Zoe from the slaughterhouse will be allowed!
         </Announcement>
@@ -177,7 +176,6 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
           title="Sonoma County, California"
           date="June 4, 2025"
           image="SquareZoePP.png"
-          featured
         >
          Victory! Today, Sonoma County Judge Kenneth Gnoss refused to issue a gag order that would have prohibited Zoe from speaking publicly about her case. He described the prosecution's requested gag order as “overbroad and vague by any constitutional standard" and noted correctly that it would be unconstitutional to only silence Zoe when opponents have been very vocal in public discussion about Zoe's case, too. He listed off multiple examples including the Sonoma County Farm Bureau having an entire page on their website dedicated to updating people about DxE's court cases and a recent statement by Bill Mattos, President of the California Poultry Federation, describing Zoe's rescue of suffering chickens as a “terrorist act.”
        Also today, the prosecutors dropped the theft charge against Zoe. This seems like good news, but they are strategically trying to prevent the evidence of the condition of the rescued animals from being presented in the trial. They did the exact same thing in our last trial in Sonoma County, and it led to animal cruelty evidence being extremely limited. They do this because they know people will sympathize with the animals suffering at Perdue's Petaluma Poultry and will want to see the animals rescued! Public support is on the side of animal rescue, not animal abuse, and eventually, our movement will win. 
@@ -186,7 +184,6 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
           title="Sonoma County, California"
           date="Apr. 30, 2025"
           image="SquareZoePP.png"
-          featured
         >
         New trial dates were set today. Zoe's trial will start on Monday, September 15, 2025. The court also set a pre-trial hearing for June 13 to hear argument on whether the necessity defense should apply in this case. 
 
@@ -196,7 +193,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Sonoma County, California"
           date="Apr. 23, 2025"
           image="SquareZoePP.png"
-          featured
         >
         This morning, the prosecutors motioned to continue (delay) Zoe's May 16th trial to give themselves more time to prepare their case. District Attorney Matthew Hobson argued that the impact that delaying trial would have on Zoe personally is irrelevant. Unfortunately, despite objections from Zoe's lawyer, the judge granted the motion to continue. We are waiting on new trial dates.
 
@@ -206,7 +202,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Sonoma County, California"
           date="Mar. 3, 2025"
           image="SquareZoePP.png"
-          featured
         >
         Animal rescuer Zoe Rosenberg was arraigned in court today on her remaining charges, after defense attorneys successfully argued that the evidence does not support a felony burglary charge and prosecutors conceded. Judge Kenneth Gnoss confirmed trial will begin May 16th and set another hearing date of April 8th for defense attorneys to submit a motion arguing that the necessity defense should be allowed in this case. After the motion is submitted, another date will be set for it to be argued.
         </Announcement>
@@ -214,7 +209,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Dane County, Wisconsin"
           date="Jan. 9, 2025"
           image="dog.jpg"
-          featured
         >
           VICTORY! A Dane County judge has granted activists' petition to appoint a special prosecutor to investigate and prosecute Ridglan Farms for animal cruelty! This is an incredible reversal of events. A year ago, animal rescuers who exposed Ridglan's abuse of dogs were the ones facing felonies. Just before trial, Ridglan pushed for those charges to be dismissed because they didn't want the world to hear about their crimes. But we kept the pressure on, and now, Ridglan is the one facing prosecution. You can read more in the press{" "}
           <a
@@ -228,7 +222,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Sonoma County, California"
           date="May 13, 2024"
           image="SquareZoePP.png"
-          featured
         >
           Today, Sonoma County Judge Lynette Brown dismissed multiple felony
           charges against UC Berkeley student and DxE animal cruelty
@@ -246,7 +239,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Sonoma County, California"
           date="May 3, 2024"
           image="SquareZoePP.png"
-          featured
         >
           DxE investigator and animal rescuer Zoe Rosenberg had her preliminary
           hearing today. The defense attorneys successfully argued that there
@@ -269,7 +261,6 @@ The trial convergence DxE was organizing from May 16 - 22 will now be a week ful
           title="Dane County, Wisconsin"
           date="Mar. 8, 2024"
           image="dog.jpg"
-          featured
         >
           BREAKING: Ten days before trial, all charges have been DROPPED against
           Eva Hamer, Paul Darwin Picklesimer, and Wayne Hsiung who saved three
