@@ -70,7 +70,7 @@ While this is a huge victory for the dogs who are now feeling the grass and the 
  </p>
         <p>
 We've never been closer to ending dog experimentation in the U.S. That's why animal lovers across the country are now directing their attention to Marshall and protesting its suppliers—and you can join the campaign. You can find a campaign guide with more information including materials and key talking points at{" "}
-        <a href="dxe.io/mbrguide" target="_blank">
+        <a href="https://docs.google.com/document/d/1fbr7OyLya8NpkQxzL0vztdVBfFQW2WNtlVaYdG2T3RQ/edit?usp=sharing" target="_blank">
           dxe.io/mbrguide.
         </a>{" "}
               </p>
