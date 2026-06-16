@@ -19,7 +19,7 @@ const RidglanFarms: NextPage = () => {
         ctaText2="Join the campaign"
         ctaLink2="https://savethedogs.io/"
       >
-       VICTORY: After nearly ten years of campaigning by animal rights organizations, the notorious beagle abuser Ridglan Farms is shutting down completely! Share the news and join the campaign against the last major breeder of dogs for research in the US: Marshall BioResources.
+       VICTORY: After nearly ten years of campaigning by animal rights organizations, the notorious beagle abuser Ridglan Farms is shutting down completely! Now, activists are focusing on the last major breeder of dogs for research in the US: Marshall BioResources. Share the news of the victory against Ridglan and join the campaign to save the dogs at Marshall next.
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms was the second largest breeder of beagles for
