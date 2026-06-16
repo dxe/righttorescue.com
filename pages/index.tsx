@@ -58,7 +58,7 @@ const Home: NextPage = () => {
             href="https://www.instagram.com/p/DZnAAW3pNll/"
             target="_blank"
           >
-            Share the news now!
+            Share the news!
           </a>{" "}
         </Announcement>
         <Announcement
