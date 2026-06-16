@@ -48,6 +48,20 @@ const Home: NextPage = () => {
 
       <Announcements>
         <Announcement
+          title="Dane County, Wisconsin"
+          date="June 15, 2026"
+          image="dog.jpg"
+          featured
+        >
+          VICTORY: Ridglan Farms is releasing all the dogs and shutting down completely! This was only made possible by nearly ten years of campaigning, the hundreds of activists who risked arrest, and the rescue organizations that stepped up to negotiate with Ridglan’s lawyers and provide the dogs with safe places to go. Big Dog Ranch Rescue secured a deal for the remaining beagles to be released and it includes the permanent closure of Ridglan's cruel operations. Not just its breeding operation, which was already going to close as part of a deal Ridglan struck last year to avoid animal cruelty charges, but also Ridglan's on-site animal experimentation operation. Now, there is just one major breeder of dogs for experimentation left in the country: Marshall BioResources in upstate New York. Activists are now focusing their efforts on shutting down Marshall.{" "}
+          <a
+            href="https://www.instagram.com/p/DZnAAW3pNll/"
+            target="_blank"
+          >
+            Share the news now!
+          </a>{" "}
+        </Announcement>
+        <Announcement
           title="Sonoma County, California"
           date="Apr. 30, 2026"
           image="Sunrise.png"
