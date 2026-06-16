@@ -20,7 +20,7 @@ const RidglanFarms: NextPage = () => {
        After nearly ten years of campaigning by animal rights organizations, the notorious beagle abuser Ridglan Farms is shutting down completely! Help share the news.
       </Header>
       <Details image="ridglan.jpg">
-        Ridglan Farms is the second largest breeder of beagles for
+        Ridglan Farms was the second largest breeder of beagles for
         experimentation in the United States. In 2017, DxE investigators entered
         the facility and documented the filthy conditions and the psychological
         trauma of the dogs spinning endlessly inside small cages. The team
@@ -43,7 +43,7 @@ const RidglanFarms: NextPage = () => {
         that made it clear there is public support for animal rescue.
      </Details>
       <Details>
-        <h4>This court case completely flipped. Now, Ridglan is shutting down its breeding operation!</h4>
+        <h4>Then, this court case completely flipped. Now, Ridglan is shutting down!</h4>
         <p>
         The Dane County District Attorney’s office failed to prosecute Ridglan Farms for criminal animal cruelty, but former defendant Wayne Hsiung and local groups Dane4Dogs and Alliance for Animals filed a petition with the Dane County Courthouse asking the court to appoint a special prosecutor to prosecute Ridglan. Dane County Judge Rhonda Lanford agreed to hold an evidentiary hearing, which took place on October 24, 2024. The Animal Activist Legal Defense Project represented Dane4Dogs. The court heard testimony from investigator Wayne Hsiung, veterinarians, and former Ridglan employees who testified about the company's routine abuse of dogs, including non-veterinarians conducting surgeries on dogs without anesthetics. After reviewing this evidence, Judge Lanford issued her ruling on January 9, 2025. She{" "}
         <a
@@ -60,8 +60,11 @@ const RidglanFarms: NextPage = () => {
         </a>{" "} by July 1, 2026 to avoid felony animal cruelty charges. 
       </p>
         <p>
-        This was a huge win, but it left around 2,000 dogs still trapped at Ridglan despite the known abuse there. With the clock ticking to save them, activists from across the country united at Ridglan Farms for two mass open rescue attempts. First, on March 15, 2026, over 100 nonviolent activists entered the facility and removed 30 dogs. 8 dogs were seized by police and returned to Ridglan, but 22 made it to safety. 27 rescuers are arrested. Following this momentum, on April 18th, over 1,000 people converged at Ridglan to nonviolently attempt to save the dogs. Wisconsin law enforcement responded with tear gas, pepper spray, rubber bullets, and stinger grenades. They knocked peaceful activists to the ground and brutalized them, people who just wanted to help save dogs from abuse. This police brutality sparked widespread media attention and the pressure on Ridglan became impossible to ignore. Shortly after this, Ridglan agreed to release 1,500 beagles, after a coalition of rescue organizations negotiated an agreement for their surrender. This included Big Dog Ranch Rescue and the Center for a Humane Economy.
-While this is a victory for the 1500 dogs who are now feeling the grass and the sun for the first time, it is also a sobering reminder that our justice system failed to protect animals from documented felony cruelty — and that private citizens and rescue groups had to step in where authorities would not. Negotiations are continuing to hopefully secure the release of the remaining 650 beagles still trapped at Ridglan Farms before July 1st.
+        This was a huge win, but it left around 2,000 dogs still trapped at Ridglan despite the known abuse there. With the clock ticking to save them, activists from across the country united at Ridglan Farms for two mass open rescue attempts. First, on March 15, 2026, over 100 nonviolent activists entered the facility and removed 30 dogs. 8 dogs were seized by police and returned to Ridglan, but 22 made it to safety. 27 rescuers are arrested. Following this momentum, on April 18th, over 1,000 people converged at Ridglan to nonviolently attempt to save the dogs. Wisconsin law enforcement responded with tear gas, pepper spray, rubber bullets, and stinger grenades. They knocked peaceful activists to the ground and brutalized them, people who just wanted to help save dogs from abuse. This police brutality sparked widespread media attention and the pressure on Ridglan became impossible to ignore. Shortly after this, Ridglan agreed to release 1,500 beagles, after a coalition of rescue organizations negotiated an agreement for their surrender. This included Big Dog Ranch Rescue and the Center for a Humane Economy. Beagle Freedom Project and other groups helped place the rescued beagles in loving homes across the country. Big Dog Ranch continued the negotiations and in June, they secured a deal to save the remaining 500 dogs and get Ridglan to permanently close not only its breeding operation, but also its on-site experimentation laboratory.  
+While this is a huge victory for the dogs who are now feeling the grass and the sun for the first time, it is also a sobering reminder that our justice system failed to protect animals from documented felony cruelty — and that ordinary individuals and rescue groups had to step in where authorities would not. It's up to us to keep up the momentum. There is just one major breeder of dogs for experimentation left in the country: Marshall BioResources (MBR) in upstate New York. Their main facility confines over 16,000 dogs and 22,000 ferrets. At another New York site, they confine over 2,000 pigs and nearly 800 cats. Local activists in NY have been protesting MBR for years, and now they need the movement behind them. 
+ </p>
+        <p>
+We've never been closer to ending dog experimentation in the U.S. That's why animal lovers across the country are now directing their attention to MBR and protesting its suppliers—and you can join the campaign. Here is a campaign guide with more information including materials and key talking points: dxe.io/mbrguide.
               </p>
         </Details>
       <Defendants>
