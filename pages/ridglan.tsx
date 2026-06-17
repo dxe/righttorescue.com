@@ -380,6 +380,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.fox6now.com/news/ridglan-farms-beagles-protest-remaining-dogs"
           iFramelyUrl="https://cdn.iframe.ly/qmQI1jpY?card=small"
         />
+        <Article
+          href="https://www.wpr.org/news/deal-struck-ridglan-farms-shutdown-transfer-remaining-dogs"
+          iFramelyUrl="https://cdn.iframe.ly/MCyp2oBN?card=small"
+        />
       </Press>
     </>
   );
