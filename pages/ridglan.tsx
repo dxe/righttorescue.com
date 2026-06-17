@@ -376,6 +376,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.yahoo.com/news/videos/rescued-beagles-arrive-sacramento-area-031046747.html"
           iFramelyUrl="https://cdn.iframe.ly/d9Lrb9Zk?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/ridglan-farms-beagles-protest-remaining-dogs"
+          iFramelyUrl="https://cdn.iframe.ly/qmQI1jpY?card=small"
+        />
       </Press>
     </>
   );
