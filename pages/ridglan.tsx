@@ -384,6 +384,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.wpr.org/news/deal-struck-ridglan-farms-shutdown-transfer-remaining-dogs"
           iFramelyUrl="https://cdn.iframe.ly/MCyp2oBN?card=small"
         />
+        <Article
+          href="https://wausaupilotandreview.com/2026/06/15/ridglan-farms-agrees-to-release-remaining-beagles-to-rescue-organizations/"
+          iFramelyUrl="https://cdn.iframe.ly/Qu4PMOv5?card=small"
+        />
       </Press>
     </>
   );
