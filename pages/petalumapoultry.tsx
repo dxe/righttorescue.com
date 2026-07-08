@@ -494,6 +494,10 @@ const Reichardt: NextPage = () => {
           href="https://www.pressdemocrat.com/2026/03/25/petaluma-poultry-products-no-longer-carried-by-marin-county-grocer/"
           iFramelyUrl="https://cdn.iframe.ly/CQNCjvDk?card=small"    
         />
+        <Article
+          href="https://wagingnonviolence.org/metta/podcast/animal-rights-movement-can-transform-hearts-institutions/"
+          iFramelyUrl="https://cdn.iframe.ly/1nJKcWis?card=small"    
+        />
       </Press>
     </>
   );
