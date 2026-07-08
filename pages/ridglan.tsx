@@ -392,6 +392,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://captimes.com/news/community/ridglan-farms-to-cease-dog-breeding-remaining-beagles-get-new-homes/article_a49f40a6-6413-4c01-af8e-6da31b6e1d8e.html"
           iFramelyUrl="https://cdn.iframe.ly/QiLgDBIe?card=small"
         />
+        <Article
+          href="https://www.nytimes.com/2026/07/07/us/ridgeland-beagles-charges.html"
+          iFramelyUrl="https://cdn.iframe.ly/CpcH7Bf4?card=small"
+        />
       </Press>
     </>
   );
