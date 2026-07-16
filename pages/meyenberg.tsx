@@ -42,7 +42,7 @@ const Meyenberg: NextPage = () => {
           href="https://www.instagram.com/p/DYkjJJpBuq6/"
           target="_blank"
         >
-          watch a short video recap here</a>. Their next hearing is on July 14th. 
+          watch a short video recap here</a>. Their next hearing is on August 25th. 
       </Details>
       <Defendants>
         <Bio name="Joseph" image="Joe.png">
