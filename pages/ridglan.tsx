@@ -74,6 +74,16 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           dxe.io/mbrguide.
         </a>{" "}
               </p>
+        <h4>A New Ridglan Beagle Rescue Trial</h4>
+        <p>
+         In April 2026, the Dane County District Attorney’s Office filed felony charges against four rescuers for their alleged leadership roles in the Ridglan rescue efforts. On July 3, 2026, the DA filed felony charges against 47 additional beagle rescuers who were involved in the rescue of 22 puppies from Ridglan Farms on March 15, 2026. The rescuers face up to 12 years and 6 months in prison. Among those charged is former Baywatch actor Alexandra Paul, who rescued a{" "}
+        <a
+          href="https://www.instagram.com/p/DYx8FWuGWtV/?img_index=1/"
+          target="_blank"
+        >
+          puppy now named Puah.
+        </a>{" "} Alexandra said, “Carrying a dog out of Ridglan Farms was one of the best moments of my life. Knowing she is free and happy makes every charge I now face worth it.” She and other defendants intend to fight the charges and use the trial as an opportunity to expose the dog experimentation industry.
+        </p>
         </Details>
       <Defendants>
         <Bio name="Eva Hamer" image="eh.jpg">
