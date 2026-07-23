@@ -66,10 +66,10 @@ const RidglanFarms: NextPage = () => {
 While this is a huge victory for the dogs who are now feeling the grass and the sun for the first time, it is also a sobering reminder that our justice system failed to protect animals from documented felony cruelty — and that ordinary individuals and rescue groups had to step in where authorities would not. It's up to us to keep up the momentum. 
            </p>
         <p>
-          There is just one major breeder of dogs for experimentation left in the country: Marshall BioResources in upstate New York. Their main facility confines over 16,000 dogs and 22,000 ferrets. At another New York site, they confine over 2,000 pigs and nearly 800 cats. Local activists in NY have been protesting Marshall for years, and now they need the movement behind them. 
+          There is just one major breeder of dogs for experimentation left in the country: <b>Marshall BioResources</b> in upstate New York. Their main facility confines over 16,000 dogs and 22,000 ferrets. At another New York site, they confine over 2,000 pigs and nearly 800 cats. Local activists in NY have been protesting Marshall for years, and now they need the movement behind them. 
  </p>
         <p>
-We've never been closer to ending dog experimentation in the U.S. That's why animal lovers across the country are now directing their attention to Marshall and protesting its suppliers—and you can join the campaign. You can find a campaign guide with more information including materials and key talking points at{" "}
+We've never been closer to ending dog experimentation in the U.S. That's why animal lovers across the country are now directing their attention to Marshall and protesting its suppliers — and you can join the campaign. You can find a campaign guide with more information including materials and key talking points at{" "}
         <a href="https://docs.google.com/document/d/1fbr7OyLya8NpkQxzL0vztdVBfFQW2WNtlVaYdG2T3RQ/edit?usp=sharing" target="_blank">
           dxe.io/mbrguide.
         </a>{" "}
