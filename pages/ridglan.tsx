@@ -85,22 +85,6 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
         </a>{" "} Alexandra said, “Carrying a dog out of Ridglan Farms was one of the best moments of my life. Knowing she is free and happy makes every charge I now face worth it.” She and other defendants intend to fight the charges and use the trial as an opportunity to expose the dog experimentation industry.
         </p>
         </Details>
-      <Defendants>
-        <Bio name="Eva Hamer" image="eh.jpg">
-          Eva is a researcher with Pax Fauna, a nonprofit that seeks to improve
-          the ways animal advocates organize, take action, and communicate with
-          the public. She currently lives in Portland, Oregon.
-        </Bio>
-        <Bio name="Paul Darwin Picklesimer" image="sf-ut-paul.jpg">
-          When Paul was a roofer in West Virginia, they worked on farms and saw
-          animal abuse up close. Those experiences helped lead them to becoming
-          an animal rights activist.
-        </Bio>
-        <Bio name="Wayne Hsiung" image="wayne-julie.jpg">
-          Wayne is an attorney and co-founder of The Simple Heart. He has been a
-          community organizer for over 20 years.
-        </Bio>
-      </Defendants>
       <Press>
         <Article
           href="https://theintercept.com/2018/05/17/inside-the-barbaric-u-s-industry-of-dog-experimentation/"
