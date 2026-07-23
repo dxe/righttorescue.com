@@ -82,9 +82,12 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           target="_blank"
         >
           puppy now named Puah.
-        </a>{" "} Alexandra said, “Carrying a dog out of Ridglan Farms was one of the best moments of my life. Knowing she is free and happy makes every charge I now face worth it.” She and other defendants intend to fight the charges and use the trial as an opportunity to expose the dog experimentation industry.
+        </a>{" "}
         </p>
         </Details>
+      <Details image="Alexandra Paul Rescue Photo.jpg">
+          Alexandra said, “Carrying a dog out of Ridglan Farms was one of the best moments of my life. Knowing she is free and happy makes every charge I now face worth it.” She and other defendants intend to fight the charges and use the trial as an opportunity to expose the dog experimentation industry.  
+      </Details>
       <Press>
         <Article
           href="https://theintercept.com/2018/05/17/inside-the-barbaric-u-s-industry-of-dog-experimentation/"
