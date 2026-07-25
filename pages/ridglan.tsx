@@ -393,6 +393,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.nytimes.com/2026/07/07/us/ridgeland-beagles-charges.html"
           iFramelyUrl="https://cdn.iframe.ly/CpcH7Bf4?card=small"
         />
+        <Article
+          href="https://www.msn.com/en-us/news/us/ca-animal-activist-faces-prison-for-rescuing-sick-goats-and-dogs/ar-AA27LjjU"
+          iFramelyUrl="https://cdn.iframe.ly/9hcyKowv?card=small"
+        />
       </Press>
     </>
   );
