@@ -397,6 +397,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.msn.com/en-us/news/us/ca-animal-activist-faces-prison-for-rescuing-sick-goats-and-dogs/ar-AA27LjjU"
           iFramelyUrl="https://cdn.iframe.ly/9hcyKowv?card=small"
         />
+        <Article
+          href="https://patch.com/california/alameda/east-bay-woman-helped-save-hundreds-lab-research-beagles-now-she-faces-prison"
+          iFramelyUrl="https://cdn.iframe.ly/uesbipv7?card=small"
+        />
       </Press>
     </>
   );
