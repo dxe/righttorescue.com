@@ -95,6 +95,10 @@ const Meyenberg: NextPage = () => {
           href="https://www.kron4.com/news/bay-area/animal-rights-supporters-rally-in-berkeley-ahead-of-goat-theft-hearing/"
           iFramelyUrl="https://cdn.iframe.ly/JjUn3fEx?card=small"
         />
+        <Article
+          href="https://www.msn.com/en-us/news/us/ca-animal-activist-faces-prison-for-rescuing-sick-goats-and-dogs/ar-AA27LjjU"
+          iFramelyUrl="https://cdn.iframe.ly/9hcyKowv?card=small"
+        />
       </Press>
     </>
   );
