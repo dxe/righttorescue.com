@@ -52,7 +52,7 @@ const Meyenberg: NextPage = () => {
           Carla grew up loving animals and built a career around caring for them, first as an ER veterinary technician and then as a research scientist—but it wasn’t until she faced the truth about how we exploit animals, even in the name of care, that she committed to a life of advocacy to help build a world free from speciesism and cruelty.
         </Bio>
         <Bio name="Taj" image="Taj Uppal Photo.jpg">
-          Taj is an activist and attorney working at a large law firm. In his spare time, he enjoys playing basketball with his friends.
+          Taj is an activist and attorney. In his spare time, he enjoys playing basketball with his friends.
         </Bio>
         <Bio name="Sally" image="sally.jpg">
           Sally is a professional musician and a DxE organizer in Los Angeles, CA. She woke up to the torture inflicted on non-human animals by human animals in 2017 and has been an activist with DxE since 2018.
