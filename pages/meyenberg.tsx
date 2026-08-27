@@ -49,10 +49,10 @@ const Meyenberg: NextPage = () => {
           reduce</a> all of the four defendants’ felony charges to misdemeanors. Then he went even further. 
       </Details>
        <Details image="Dead pile 2.png">
-         He indicated he is considering dismissing the case through a judicial diversion, a process where a judge gives certain requirements for defendants to follow in order for their case to be dismissed. In this case, the judge mentioned community service and 6 months of probation. The prosecution objected, but the judge set a hearing for September 23rd to discuss diversion and seems likely to grant it. This is a huge change from where the case was just 24 hours ago. While the prosecution charged multiple felonies and even sought to put ankle monitors on the rescuers, the judge’s actions suggest he does not see animal rescue as any kind of serious crime.
+         He indicated he is considering dismissing the case through a judicial diversion, a process where a judge gives certain requirements for defendants to follow in order for their case to be dismissed. In this case, the judge mentioned community service and 6 months of probation. The prosecution objected, but the judge set a hearing for September 23rd to discuss diversion and seems likely to grant it. 
              </Details>
       <Details image="Rescued Goat.png">
-A huge thank you to our incredible attorneys at the Animal Activist Legal Defense Project, the Civil Liberties Defense Center, and our local counsel Kevin Little and Michael Aed. Their hard work filing the animal cruelty evidence and related motions led to today’s significant reduction in the charges, and quite possibly made the judge see this case in a new light.
+While the prosecution charged multiple felonies and even sought to put ankle monitors on the rescuers, the judge’s actions suggest he does not see animal rescue as any kind of serious crime. A huge thank you to our incredible attorneys at the Animal Activist Legal Defense Project, the Civil Liberties Defense Center, and our local counsel Kevin Little and Michael Aed. Their hard work filing the animal cruelty evidence and related motions led to today’s significant reduction in the charges, and quite possibly made the judge see this case in a new light.
              </Details>
       <Defendants>
         <Bio name="Joseph" image="Joe.png">
