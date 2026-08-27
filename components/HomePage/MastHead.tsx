@@ -23,7 +23,7 @@ export const MastHead = (props: MastHeadProps) => {
       >
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase fade-in-first">
-            Goat Rescuers Charged with Felony Grand Theft
+            Judge Reduces Felonies Against Goat Rescuers - Demand Justice for the Goats
           </h1>
 
           <ScrollLink
