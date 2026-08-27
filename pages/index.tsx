@@ -47,6 +47,27 @@ const Home: NextPage = () => {
       /> */}
 
       <Announcements>
+       <Announcement
+          title="Kings County, California"
+          date="Aug. 25, 2026"
+          image="Goat Rescue.png"
+          featured
+        >
+           After reviewing the animal cruelty evidence, Judge Jim Trevino ruled to reduce all of the four defendants’ felony charges to misdemeanors!{" "}
+          <a
+            href="https://www.instagram.com/p/DceZQgkAUlY/?img_index=1"
+            target="_blank"
+          >
+            Share the news!
+          </a>{" "} He also granted a motion to compel Kings County’s elected District Attorney Sarah Hacker to disclose evidence of her relationship with the farm owners. Defense attorneys had alerted the court to DA Hacker’s prior representation of the farm property owners in a class action lawsuit brought by workers at the dairy. She also received thousands of dollars in campaign contributions from the dairy when she ran for District Attorney. 
+{" "}
+          <a
+            href="https://www.instagram.com/p/DceZQgkAUlY/?img_index=2"
+            target="_blank"
+          >
+           Body cam footage
+          </a>{" "} of the day these rescuers were arrested shows that from the beginning, law enforcement was determined to overcharge this case. We’re grateful that the judge saw through it. 
+        </Announcement>
         <Announcement
           title="Dane County, Wisconsin"
           date="June 15, 2026"
