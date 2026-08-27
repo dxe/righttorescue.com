@@ -53,7 +53,7 @@ const Home: NextPage = () => {
           image="Goat Rescue.png"
           featured
         >
-           After reviewing the animal cruelty evidence, Judge Jim Trevino ruled to reduce all of the four defendants’ felony charges to misdemeanors!{" "}
+           VICTORY: After reviewing the animal cruelty evidence, Judge Jim Trevino ruled to reduce all of the four defendants’ felony charges to misdemeanors!{" "}
           <a
             href="https://www.instagram.com/p/DceZQgkAUlY/?img_index=1"
             target="_blank"
