@@ -31,10 +31,10 @@ const Meyenberg: NextPage = () => {
         An attorney on DxE's legal team repeatedly reported these violations to the local authorities, including the Kings County Sheriff and Central Valley Regional Water Quality Control Board which had cited Vera in 2021 for illegally disposing of dead animals on site. But the authorities failed to take enforcement action. So DxE investigators went back to Vera on May 27, 2025 to document the conditions again in broad daylight, and they rescued two emaciated baby goats with respiratory infections. They carried the goats, whom they named Phoebe and Celia, to safety. 
       </Details>
       <Details image="Arrest at Meyenberg.jpeg">
-         Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the rescuers. In March 2026, the District Attorney filed felony charges against Joe, Carla, Taj, and Sally. They're charged with felony grand theft, felony conspiracy, and trespass and face up to 6.5 years in prison for saving Phoebe and Celia. Both goats were taken to a veterinarian and treated for their respiratory infections as well as for their conjunctivitis and overgrown hooves. Today, they are living in safety and peace.  
+         Then, they returned to the facility with dozens of other activists to tell the authorities about the conditions they had just witnessed and urge them to investigate Vera's animal cruelty. Instead, the Kings County Sheriff arrested the rescuers. In March 2026, the District Attorney filed felony charges against Joe, Carla, Taj, and Sally. They were charged with felony grand theft, felony conspiracy, and trespass and faced up to 6.5 years in prison for saving Phoebe and Celia. Both goats were taken to a veterinarian and treated for their respiratory infections as well as for their conjunctivitis and overgrown hooves. Today, they are living in safety and peace.  
       </Details>
       <Details image="Defendants outside courthouse.png">
-          Sally, Carla, Joe, and Taj had their preliminary hearing on May 19, 2026. Judge Trevino ruled there is enough evidence for the defendants to stand trial. Their legal team — including local counsel and attorneys with the Animal Activist Legal Defense Project and Civil Liberties Defense Center — intend to argue that the rescuers were acting lawfully to protect animals from neglect and cruelty. You can <a
+          Sally, Carla, Joe, and Taj had their preliminary hearing on May 19, 2026. Judge Trevino ruled there is enough evidence for the defendants to stand trial. You can <a
           href="https://www.directactioneverywhere.com/dxe-in-the-news/make-sure-its-a-f-ing-felony-what-happened-at-the-preliminary-hearing-in-the-meyenberg-rescue-case"
           target="_blank"
         >
@@ -42,7 +42,11 @@ const Meyenberg: NextPage = () => {
           href="https://www.instagram.com/p/DYkjJJpBuq6/"
           target="_blank"
         >
-          watch a short video recap here</a>. Their next hearing is on August 25th. 
+          watch a short video recap here</a>. Judge Trevino asked to see the evidence of animal cruelty that DxE documented at Vera Goat Dairy prior to the rescue, and at their next hearing on August 25th, after he had reviewed the cruelty and additional arguments by the defense, he changed his mind. He ruled to <a
+          href="https://www.instagram.com/p/DceZQgkAUlY/?img_index=1"
+          target="_blank"
+        >
+          reduce</a> all of the four defendants’ felony charges to misdemeanors. Then he went even further. 
       </Details>
       <Defendants>
         <Bio name="Joseph" image="Joe.png">
