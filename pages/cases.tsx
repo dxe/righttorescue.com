@@ -34,6 +34,7 @@ const Cases: NextPage = () => {
           location="Sonoma County, California"
           page="sunrise"
           image="sunrise.jpg"
+         past
         />
 <Case
           name="Asha's Farm Sanctuary"
