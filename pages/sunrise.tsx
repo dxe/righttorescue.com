@@ -69,10 +69,10 @@ const Sunrise: NextPage = () => {
         his sentence, as is typical in California. 
       </Details>
       <Details image="Appeal Hearing in SF.png">
-        Wayne and the Animal Activist Legal Defense Project appealed his conviction, and on April 30, 2026, the California Court of Appeals overturned two of the three convictions including the lone felony charge. The judges found that Sonoma County Judge Laura Passaglia wrongly excluded animal cruelty evidence that would have gone to show Wayne’s intent was to rescue. Since the court did not give a clear ruling on the necessity defense, Wayne and the Animal Activist Legal Defense Project will be appealing that issue all the way to the California Supreme Court. You can{" "}
+        Wayne and the Animal Activist Legal Defense Project appealed his conviction, and on April 30, 2026, the California Court of Appeals overturned two of the three convictions including the lone felony charge! The judges found that Sonoma County Judge Laura Passaglia wrongly excluded animal cruelty evidence that would have gone to show Wayne’s intent was to rescue. While the judges did not affirm the use of a necessity defense in this case, they did reject the idea that the necessity defense could never apply to animals, stating, “Neither this court nor the California Supreme Court has ruled that the necessity defense applies exclusively to situations involving physical harm to a human.” {" "}
         <a href="https://localnewsmatters.org/2026/05/01/hsiung-convictions-overturned-petaluma-farms-appeal/" target="_blank">
-          read some of the press coverage here.
-        </a>{" "} 
+          Read press coverage here.
+        </a>{" "}  Since the court did not give a clear ruling on the necessity defense, Wayne and the Animal Activist Legal Defense Project appealed that issue all the way to the California Supreme Court, but the Court declined to review the case. This historic case is now over, with a first-of-its-kind appellate win.  
       </Details>
 
       <Defendants>
