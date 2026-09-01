@@ -26,7 +26,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/BgOHTQy6SEU"
         videoRatio="1x1"
       >
-        14 US states have laws that allow the rescue of dogs from hot cars, and{" "}
+        16 US states have laws that allow the rescue of dogs from hot cars, and{" "}
         <a href="https://directactioneverywhere.com">
           Direct Action Everywhere
         </a>{" "}
