@@ -190,7 +190,6 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
           title="Sonoma County, California"
           date="Oct. 29, 2025"
           image="SquareZoePP.png"
-          featured
         >
            Animal rescuer Zoe Rosenberg was just found guilty of felony conspiracy and three misdemeanors for her rescue of four chickens from Perdue's Petaluma Poultry slaughterhouse. Her sentencing hearing is Dec. 3rd. She faces a potential sentence of 4.5 years in jail. Meanwhile, Petaluma Poultry faces no consequences for leaving sick animals to die or scalding animals alive. After the verdict was read, prosecutor Matt Hobson asked for Zoe to be immediately remanded into custody, dismissing her life-threatening medical issues. Judge Gnoss chose not to remand Zoe into custody but he ordered that she be placed back on a GPS ankle monitor to ensure that she does not return to Petaluma Poultry. Zoe and her legal team will appeal this conviction, including the court’s refusal to allow her to present a necessity defense and severe restrictions on what animal cruelty evidence the jury was allowed to see. 
         </Announcement>
@@ -198,7 +197,6 @@ Thank you to the Animal Activist Legal Defense Project for leading the effort on
           title="Dane County, Wisconsin"
           date="Oct. 28, 2025"
           image="dog.jpg"
-          featured
         >
           VICTORY: Ridglan Farms, the second largest breeder of dogs for experimentation in the U.S., is shutting down its breeding operation! After charges were dropped against DxE activists who rescued three beagles from Ridglan's cruelty, activists and attorneys kept the pressure on and the court case completely flipped, with Ridglan facing prosecution. In a deal to avoid a felony for animal cruelty, Ridglan announced that it will shut down its breeding operation by July 1, 2026. This means thousands of dogs will be spared from cruelty. You can read more in the press{" "}
           <a
