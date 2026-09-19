@@ -22,7 +22,7 @@ const Meyenberg: NextPage = () => {
       <Details image="Dead pile.jpg">
         In early 2025, DxE investigators discovered a massive, illegal dead pile at Vera Goat Dairy, a "Certified Humane," Whole Foods-supplying goat dairy in California's Central Valley. They observed dozens of dead mother and baby goats being dumped on a regular basis, and they began a months-long investigation into the facility to find out why so many animals were dying. Vera supplies the nation's largest goat milk producer, Meyenberg Goat Milk. Inside Vera, investigators documented mothers with engorged and distended teats, animals with respiratory infections, and violations of both "Certified Humane" standards and state animal cruelty laws. {" "}
         <a
-          href="https://www.directactioneverywhere.com/campaigns/stop-meyenbergs-goat-graveyard"
+          href="https://docs.google.com/document/d/1NbJODNb11QSCntgp-aIvmgEf4eP9HYfZvHSoGJHzHYU/edit?usp=sharing"
           target="_blank"
         >
           Read more here</a>. 
