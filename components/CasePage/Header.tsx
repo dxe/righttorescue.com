@@ -111,6 +111,11 @@ export const Header = (props: HeaderProps) => {
                     </a>
                   </p>
                 )}
+                {props.moreText && props.moreLink && (
+                  <p className="text-white">
+                    <a href={props.moreLink}>{props.moreText}</a>
+                  </p>
+                )}
               </div>
             </div>
           )}
@@ -134,5 +139,7 @@ interface HeaderProps {
   ctaText3?: string;
   ctaLink3?: string;
   ctaTarget3?: string;
+  moreText?: string;
+  moreLink?: string;
   children?: any;
 }

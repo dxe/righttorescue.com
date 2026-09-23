@@ -16,6 +16,8 @@ const Meyenberg: NextPage = () => {
         videoRatio="1/1"
         ctaText1="Contact the AG"
         ctaLink1="https://docs.google.com/document/d/1YIwTQa28nHX8_0Fj2laX39cncA399ujTEBagUVBDIVk/edit?usp=sharing"
+        moreText="More ways to help"
+        moreLink="#more-ways-to-help"
       >
         Urge California Attorney General Rob Bonta to investigate the disease, neglect and death at Meyenberg's Vera Goat Dairy factory farm in Stratford and to stop the company's mass goat graveyard.
       </Header>
@@ -54,6 +56,44 @@ const Meyenberg: NextPage = () => {
       <Details image="Rescued Goat.png">
 While the prosecution charged multiple felonies and even sought to put ankle monitors on the rescuers, the judge’s actions suggest he does not see animal rescue as any kind of serious crime. A huge thank you to our incredible attorneys at the Animal Activist Legal Defense Project, the Civil Liberties Defense Center, and our local counsel Kevin Little and Michael Aed. Their hard work filing the animal cruelty evidence and related motions led to this significant reduction in the charges, and quite possibly made the judge see this case in a new light. Stay tuned for updates after September 23rd.
              </Details>
+      <section
+        id="more-ways-to-help"
+        className="projects-section bg-light"
+        style={{ scrollMarginTop: "60px" }}
+      >
+        <div className="container">
+          <div className="text-center" style={{ paddingBottom: "2rem" }}>
+            <h2>More Ways to Help</h2>
+          </div>
+          <h4>Call the District Attorney</h4>
+          <p>
+            You can share your concerns directly by calling Kings County District Attorney Sarah Hacker and asking her to prosecute Vera Goat Dairy for criminal animal cruelty, including letting baby goats die from disease and starvation. Please be respectful.
+          </p>
+          <p>
+            The phone number for her office is: <a href="tel:+15598522392">(559) 852-2392</a>
+          </p>
+          <p>
+            More notes and a sample script are{" "}
+            <a
+              href="https://docs.google.com/document/d/1uEFyZFYf5ufXz_9CzAHHeoF39DYC2_KjIsq_TryeiBQ/edit?usp=sharing"
+              target="_blank"
+            >
+              here</a>.
+          </p>
+          <h4 className="mt-5">Ask your local grocery store to drop Meyenberg</h4>
+          <p>
+            Urge your local Whole Foods or other store that carries Meyenberg products to cut ties. You can call, email, and/or post on their social media, asking them to cut ties. Better yet, ask a manager in person!
+          </p>
+          <p>
+            Instructions are{" "}
+            <a
+              href="https://docs.google.com/document/d/1gR1SNs_v6MQJTUnglgd_dgAn6JifIwhNfyF3sDr7g_g/edit?usp=sharing"
+              target="_blank"
+            >
+              here</a>. These are tailored to Whole Foods but you can modify them for another store.
+          </p>
+        </div>
+      </section>
       <Defendants>
         <Bio name="Joseph" image="Joe.png">
           Joseph is a pilot, videographer, and animal cruelty investigator based in California. 
