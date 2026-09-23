@@ -12,7 +12,11 @@ export const Announcements = (props: AnnouncementsProps) => {
   const [expanded, setExpanded] = useState(false);
 
   return (
-    <section className="projects-section bg-light" style={{ paddingTop: 50 }}>
+    <section
+      id="updates"
+      className="projects-section bg-light"
+      style={{ paddingTop: 50 }}
+    >
       <Container>
         <div className="row justify-content-center">
           <div className="col-lg-12">

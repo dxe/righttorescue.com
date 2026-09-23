@@ -2,7 +2,7 @@ import { Col, Container, Ratio, Row } from "react-bootstrap";
 
 export const About = (props: AboutProps) => {
   return (
-    <Container className="mt-5">
+    <Container className="mt-5" id="about">
       <Col lg={12}>
         <h2 className="mb-5 text-center">About the Right to Rescue</h2>
         <Row>

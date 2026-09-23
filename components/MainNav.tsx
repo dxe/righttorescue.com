@@ -107,8 +107,8 @@ export const MainNav = ({
               <Link to="sign" isNavLink={true} onClick={collapseNavbar}>
                 Sign
               </Link>
-              <Link to="support" isNavLink={true} onClick={collapseNavbar}>
-                Donate
+              <Link to="updates" isNavLink={true} onClick={collapseNavbar}>
+                Updates
               </Link>
               <PageLink
                 href="/cases"
@@ -124,6 +124,12 @@ export const MainNav = ({
               >
                 Supporters
               </PageLink>
+              <Link to="about" isNavLink={true} onClick={collapseNavbar}>
+                About
+              </Link>
+              <Link to="support" isNavLink={true} onClick={collapseNavbar}>
+                Donate
+              </Link>
             </Nav>
           </Navbar.Collapse>
         </Container>
