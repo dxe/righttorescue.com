@@ -31,11 +31,14 @@ export const FeaturedCase = (props: FeaturedCaseProps) => {
             className="mb-5 d-flex flex-column justify-content-center"
           >
             <div>{props.children}</div>
-            <p className="text-white mt-4 mb-5 text-center mx-auto">
+            <div className="mt-4 mb-5 d-flex flex-column align-items-center">
               <Link href={`/${props.page}`} legacyBehavior>
                 <Button>Learn more</Button>
               </Link>
-            </p>
+              <Link href="/cases" className="mt-3">
+                See more cases
+              </Link>
+            </div>
           </Col>
         </Row>
       </Col>
