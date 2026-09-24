@@ -23,7 +23,7 @@ export const MastHead = (props: MastHeadProps) => {
       >
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase fade-in-first">
-           Goat Rescuers Face Criminal Charges
+           Charges Against Goat Rescuers to Be Dismissed!
           </h1>
 
           <ScrollLink
