@@ -14,12 +14,12 @@ const Meyenberg: NextPage = () => {
         location="Kings County, California"
         video="https://www.youtube.com/embed/VCIJxjj-lgw?si=IXdLyd2_EUx1b-Dg"
         videoRatio="1/1"
-        ctaText1="Contact the AG"
-        ctaLink1="https://docs.google.com/document/d/1YIwTQa28nHX8_0Fj2laX39cncA399ujTEBagUVBDIVk/edit?usp=sharing"
+        ctaText1="Contact the DA"
+        ctaLink1="https://docs.google.com/document/d/1uEFyZFYf5ufXz_9CzAHHeoF39DYC2_KjIsq_TryeiBQ/edit?usp=sharing"
         moreText="More ways to help"
         moreLink="#more-ways-to-help"
       >
-        Urge California Attorney General Rob Bonta to investigate the disease, neglect and death at Meyenberg's Vera Goat Dairy factory farm in Stratford and to stop the company's mass goat graveyard.
+        A California judge granted judicial diversion for these four goat rescuers, meaning all their charges will be dismissed! But Kings County District Attorney Sarah Hacker still refuses to address the disease, neglect and cruelty at Meyenberg's Vera Goat Dairy factory farm in Stratford and to stop the company's mass goat graveyard. Call Kings County District Attorney Sarah Hacker and ask her to prosecute criminal animal cruelty in her county.
       </Header>
       <Details image="Dead pile.jpg">
         In early 2025, DxE investigators discovered a massive, illegal dead pile at Vera Goat Dairy, a "Certified Humane," Whole Foods-supplying goat dairy in California's Central Valley. They observed dozens of dead mother and baby goats being dumped on a regular basis, and they began a months-long investigation into the facility to find out why so many animals were dying. Vera supplies the nation's largest goat milk producer, Meyenberg Goat Milk. Inside Vera, investigators documented mothers with engorged and distended teats, animals with respiratory infections, and violations of both "Certified Humane" standards and state animal cruelty laws. {" "}
@@ -65,21 +65,6 @@ While the prosecution charged multiple felonies and even sought to put ankle mon
           <div className="text-center" style={{ paddingBottom: "2rem" }}>
             <h2>More Ways to Help</h2>
           </div>
-          <h4>Call the District Attorney</h4>
-          <p>
-            You can share your concerns directly by calling Kings County District Attorney Sarah Hacker and asking her to prosecute Vera Goat Dairy for criminal animal cruelty, including letting baby goats die from disease and starvation. Please be respectful.
-          </p>
-          <p>
-            The phone number for her office is: <a href="tel:+15598522392">(559) 852-2392</a>
-          </p>
-          <p>
-            More notes and a sample script are{" "}
-            <a
-              href="https://docs.google.com/document/d/1uEFyZFYf5ufXz_9CzAHHeoF39DYC2_KjIsq_TryeiBQ/edit?usp=sharing"
-              target="_blank"
-            >
-              here</a>.
-          </p>
           <h4 className="mt-5">Ask your local grocery store to drop Meyenberg</h4>
           <p>
             Urge your local Whole Foods or other store that carries Meyenberg products to cut ties. You can call, email, and/or post on their social media, asking them to cut ties. Better yet, ask a manager in person!
