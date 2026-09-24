@@ -35,7 +35,7 @@ export const MastHead = (props: MastHeadProps) => {
             duration={500}
             style={{ cursor: "pointer" }}
           >
-            Tell the DA to Protect the Goats
+            Tell the DA: Protect the Goats
           </ScrollLink>
 
           {props.takeActionPage && (
