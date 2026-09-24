@@ -18,7 +18,7 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/VCIJxjj-lgw?si=Oad7MucqGRSRwvH9"
         videoRatio="1x1"
       >
-        Four activists were charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. The rescue followed a months-long investigation that found dozens of dead mother and baby goats were regularly being dumped into an illegal dead pile on the property. Rescuers named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. In August, a Kings County, CA judge reviewed the evidence of animal cruelty that DxE documented prior to the rescue and ruled to reduce all of the felonies to misdemeanors. This is an important win for the rescuers. But we're still left asking who will protect the goats?
+        Four activists were charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. The rescue followed a months-long investigation that found dozens of dead mother and baby goats were regularly being dumped into an illegal dead pile on the property. Rescuers named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. In August, a Kings County, CA judge reviewed the evidence of animal cruelty that DxE documented prior to the rescue and ruled to reduce all of the felonies to misdemeanors. Then he went further and granted a judicial diversion, meaning all charges will be dismissed following completion of 40 hours of community service and 5 months of probation. This is a big win for the rescuers. But the Kings County District Attorney is still not addressing the animal cruelty.
       </FeaturedCase>
       <Letter />
       <About
@@ -47,6 +47,26 @@ const Home: NextPage = () => {
       /> */}
 
       <Announcements>
+        <Announcement
+          title="Kings County, California"
+          date="Sept. 23, 2026"
+          image="Goat Rescue.png"
+          featured
+        >
+           VICTORY: Judge Trevino granted judicial diversion for Carla, Sally, Taj, and Joe, the four DxE activists who rescued sick baby goats Phoebe and Celia from a "Certified Humane" Meyenberg goat dairy. All charges will be dismissed once they complete 40 hours community service and 5 months of probation. Judge Trevino made this rare decision over the prosecution's objection after reviewing the cruelty evidence DxE documented at Vera Goat Dairy prior to the rescue. This is a hopeful sign for the open rescue movement. The San Francisco Chronicle covered this positive ruling, with a focus on the cruelty these goats endure behind the "Certified Humane" label.{" "}
+          <a
+            href="https://www.sfchronicle.com/california/article/kings-county-goat-court-case-22446201.php"
+            target="_blank"
+          >
+            Read the article here.
+          </a>{" "} And help us 
+{" "}
+          <a
+            href="https://www.instagram.com/p/DdpO8gWyGAN/"
+            target="_blank"
+          >
+            share the news about this win!</a>{" "}
+        </Announcement>
        <Announcement
           title="Kings County, California"
           date="Aug. 25, 2026"
