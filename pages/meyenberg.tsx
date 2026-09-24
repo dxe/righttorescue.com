@@ -134,6 +134,10 @@ While the prosecution charged multiple felonies and even sought to put ankle mon
           href="https://www.msn.com/en-us/news/us/ca-animal-activist-faces-prison-for-rescuing-sick-goats-and-dogs/ar-AA27LjjU"
           iFramelyUrl="https://cdn.iframe.ly/9hcyKowv?card=small"
         />
+        <Article
+          href="https://www.sfchronicle.com/california/article/kings-county-goat-court-case-22446201.php"
+          iFramelyUrl="https://cdn.iframe.ly/OaGQVPku?card=small"
+        />
       </Press>
     </>
   );
