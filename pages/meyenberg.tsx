@@ -135,6 +135,10 @@ While the prosecution charged multiple felonies and even sought to put ankle mon
           iFramelyUrl="https://cdn.iframe.ly/9hcyKowv?card=small"
         />
         <Article
+          href="https://coppercourier.com/news/lawyer-saves-goats-could-go-to-prison/"
+          iFramelyUrl="https://cdn.iframe.ly/TZ1hxLlL?card=small"
+        />
+        <Article
           href="https://www.sfchronicle.com/california/article/kings-county-goat-court-case-22446201.php"
           iFramelyUrl="https://cdn.iframe.ly/OaGQVPku?card=small"
         />
