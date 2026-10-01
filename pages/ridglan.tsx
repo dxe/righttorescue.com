@@ -401,6 +401,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://patch.com/california/alameda/east-bay-woman-helped-save-hundreds-lab-research-beagles-now-she-faces-prison"
           iFramelyUrl="https://cdn.iframe.ly/uesbipv7?card=small"
         />
+        <Article
+          href="https://www.cbs58.com/news/activists-charged-after-taking-dogs-from-ridglan-farms-argue-actions-were-legally-justified"
+          iFramelyUrl="https://cdn.iframe.ly/gvSzz3ya?card=small"
+        />
       </Press>
     </>
   );
