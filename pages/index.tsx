@@ -11,10 +11,10 @@ import { Letter } from "../components/Letter";
 const Home: NextPage = () => {
   return (
     <>
-      <MastHead image="Goat Rescue.jpeg" takeActionPage={undefined} />
+      <MastHead image="Alexandra Paul Rescue Photo.jpg" takeActionPage={undefined} />
       <FeaturedCase
         name="Rescuing Phoebe and Celia from Whole Foods' Goat Graveyard"
-        page="meyenberg"
+        page="ridglan"
         video="https://www.youtube.com/embed/VCIJxjj-lgw?si=Oad7MucqGRSRwvH9"
         videoRatio="1x1"
       >
