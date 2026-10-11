@@ -23,7 +23,7 @@ export const MastHead = (props: MastHeadProps) => {
       >
         <div className="mx-auto text-center">
           <h1 className="mx-auto my-0 text-uppercase fade-in-first">
-           Charges Against Goat Rescuers to Be Dismissed!
+           Beagle Rescuers Face Felonies
           </h1>
 
           <ScrollLink
@@ -35,7 +35,7 @@ export const MastHead = (props: MastHeadProps) => {
             duration={500}
             style={{ cursor: "pointer" }}
           >
-            Tell the DA: Protect the Goats
+            Sign the Letter
           </ScrollLink>
 
           {props.takeActionPage && (
