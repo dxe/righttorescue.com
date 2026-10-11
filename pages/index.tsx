@@ -13,12 +13,12 @@ const Home: NextPage = () => {
     <>
       <MastHead image="Alexandra Paul Rescue Photo.jpg" takeActionPage={undefined} />
       <FeaturedCase
-        name="Rescuing Phoebe and Celia from Whole Foods' Goat Graveyard"
+        name="Beagles Rescued from Cruel Experiments"
         page="ridglan"
-        video="https://www.youtube.com/embed/VCIJxjj-lgw?si=Oad7MucqGRSRwvH9"
+        video="https://www.youtube.com/embed/XtX3TGlsN5g?si=PiO8zL7qzeDPws4M"
         videoRatio="1x1"
       >
-        Four activists were charged with felony grand theft, felony conspiracy, and trespass for openly rescuing two sick, baby goats from the largest goat milk producer in the U.S., Meyenberg, which supplies to Whole Foods and other major retailers. The rescue followed a months-long investigation that found dozens of dead mother and baby goats were regularly being dumped into an illegal dead pile on the property. Rescuers named the goats Phoebe and Celia and got them veterinary care for their respiratory infections and conjunctivitis. In August, a Kings County, CA judge reviewed the evidence of animal cruelty that DxE documented prior to the rescue and ruled to reduce all of the felonies to misdemeanors. Then he went further and granted a judicial diversion, meaning all charges will be dismissed following completion of 40 hours of community service and 5 months of probation. This is a big win for the rescuers. But the Kings County District Attorney is still not addressing the animal cruelty.
+        51 people are facing felony charges for openly rescuing beagles from Ridglan Farms, once the second-largest breeder of dogs for experimentation in the U.S. In 2025, after a Dane County, WI judge heard whistleblower evidence of routine abuse at the facility and appointed a special prosecutor, Ridglan agreed to shut down its breeding operation to avoid felony animal cruelty charges, but around 2,000 dogs remained trapped inside. On March 15, 2026, over 100 activists converged at the facility and carried 22 puppies to safety. A month later, more than 1,000 people returned and were met with tear gas and rubber bullets. The pressure worked: Ridglan surrendered all of its remaining dogs to rescue groups and agreed to close its breeding operation and experimentation lab for good. The public sided with animal rescuers over animal experimentation. And yet, Dane County District Attorney Ismael Ozanne is charging these compassionate rescuers. They plan to fight the charges and put the dog experimentation industry on trial.
       </FeaturedCase>
       <Letter />
       <About
