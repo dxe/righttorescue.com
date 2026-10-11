@@ -11,15 +11,13 @@ const RidglanFarms: NextPage = () => {
     <>
       <Header
         title="Ridglan Farms"
-        location="Wisconsin"
-        video="https://www.facebook.com/plugins/video.php?href=https%3A%2F%2Fwww.facebook.com%2Fdirectactioneverywhere%2Fvideos%2F1940219196008420%2F&show_text=0"
+        location="Dane County, Wisconsin"
+        video="https://www.youtube.com/embed/XtX3TGlsN5g?si=PiO8zL7qzeDPws4M"
         videoRatio="1/1"
-        ctaText1="Share the news"
-        ctaLink1="https://www.instagram.com/p/DZnAAW3pNll/"
-        ctaText2="Join the campaign"
-        ctaLink2="https://savethedogs.io/"
+        ctaText1="Join the campaign"
+        ctaLink1="https://savethedogs.io/"
       >
-       VICTORY: After nearly ten years of campaigning by animal rights organizations, the notorious beagle abuser Ridglan Farms is shutting down completely! Now, activists are focusing on the last major breeder of dogs for research in the US: Marshall BioResources. Share the news of the victory against Ridglan and join the campaign to save the dogs at Marshall next.
+       Notorious beagle abuser Ridglan Farms has finally shut down! But 51 compassionate people are still facing felony charges for rescuing beagles from Ridglan's abuse. And the fight continues to shut down the last major breeder of dogs for research in the US: Marshall BioResources (MBR).
       </Header>
       <Details image="ridglan.jpg">
         Ridglan Farms was the second largest breeder of beagles for
