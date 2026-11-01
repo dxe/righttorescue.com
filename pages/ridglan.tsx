@@ -431,6 +431,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.wbay.com/2026/10/28/judge-finds-probable-cause-ridglan-farms-beagle-case/"
           iFramelyUrl="https://cdn.iframe.ly/cF6e2Qrx?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2026/10/29/activists-accused-breaking-into-ridglan-farms-appear-dane-county-court/"
+          iFramelyUrl="https://cdn.iframe.ly/KWU5b7rT?card=small"
+        />
       </Press>
     </>
   );
