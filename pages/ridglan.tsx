@@ -419,6 +419,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.cbs58.com/news/ridglan-farms-activists-facing-felony-charges-make-court-appearance"
           iFramelyUrl="https://cdn.iframe.ly/D7OOo1Gv?card=small"
         />
+        <Article
+          href="https://www.fox6now.com/news/ridglan-farms-beagles-animal-rights-advocates-appear-court"
+          iFramelyUrl="https://cdn.iframe.ly/h7NW5GZv?card=small"
+        />
       </Press>
     </>
   );
