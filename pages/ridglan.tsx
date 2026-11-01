@@ -415,6 +415,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://spectrumnews1.com/wi/milwaukee/news/2026/10/19/ridglan-activists-in-court"
           iFramelyUrl="https://cdn.iframe.ly/oU8rG0zT?card=small"
         />
+        <Article
+          href="https://www.cbs58.com/news/ridglan-farms-activists-facing-felony-charges-make-court-appearance"
+          iFramelyUrl="https://cdn.iframe.ly/D7OOo1Gv?card=small"
+        />
       </Press>
     </>
   );
