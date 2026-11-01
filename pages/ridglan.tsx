@@ -403,6 +403,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.cbs58.com/news/activists-charged-after-taking-dogs-from-ridglan-farms-argue-actions-were-legally-justified"
           iFramelyUrl="https://cdn.iframe.ly/gvSzz3ya?card=small"
         />
+        <Article
+          href="https://www.wmtv15news.com/2026/09/30/prosecutors-ask-judge-exclude-evidence-about-ridglan-farms-conditions-open-rescue-trial/"
+          iFramelyUrl="https://cdn.iframe.ly/9qk5VBTJ?card=small"
+        />
       </Press>
     </>
   );
