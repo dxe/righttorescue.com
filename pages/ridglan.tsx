@@ -407,6 +407,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.wmtv15news.com/2026/09/30/prosecutors-ask-judge-exclude-evidence-about-ridglan-farms-conditions-open-rescue-trial/"
           iFramelyUrl="https://cdn.iframe.ly/9qk5VBTJ?card=small"
         />
+        <Article
+          href="https://www.wbay.com/2026/09/30/prosecutor-wants-evidence-excluded-trial-ridglan-beagle-farm-protesters/"
+          iFramelyUrl="https://cdn.iframe.ly/5GOK6pcw?card=small"
+        />
       </Press>
     </>
   );
