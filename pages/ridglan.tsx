@@ -423,6 +423,10 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
           href="https://www.fox6now.com/news/ridglan-farms-beagles-animal-rights-advocates-appear-court"
           iFramelyUrl="https://cdn.iframe.ly/h7NW5GZv?card=small"
         />
+        <Article
+          href="https://www.channel3000.com/news/activist-beagle-rescue-case-brings-attention-to-animal-research/article_a930a6b6-e8cf-4874-a778-41d36c3e4d8a.html"
+          iFramelyUrl="https://cdn.iframe.ly/ajs68Hun?card=small"
+        />
       </Press>
     </>
   );
