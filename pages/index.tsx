@@ -18,7 +18,11 @@ const Home: NextPage = () => {
         video="https://www.youtube.com/embed/XtX3TGlsN5g?si=PiO8zL7qzeDPws4M"
         videoRatio="1x1"
       >
-        51 people are facing felony charges for openly rescuing beagles from Ridglan Farms, once the second-largest breeder of dogs for experimentation in the U.S. In 2025, after a Dane County, WI judge heard whistleblower evidence of routine abuse at the facility and appointed a special prosecutor, Ridglan agreed to shut down its breeding operation to avoid felony animal cruelty charges, but around 2,000 dogs remained trapped inside. On March 15, 2026, over 100 activists converged at the facility and carried 22 puppies to safety. A month later, more than 1,000 people returned and were met with tear gas and rubber bullets. The pressure worked: Ridglan surrendered all of its remaining dogs to rescue groups and agreed to close its breeding operation and experimentation lab for good. The public sided with animal rescuers over animal experimentation. And yet, Dane County District Attorney Ismael Ozanne is charging these compassionate rescuers. They plan to fight the charges and put the dog experimentation industry on trial.
+        51 people are facing felony charges for openly rescuing beagles from Ridglan Farms, once the second-largest breeder of dogs for experimentation in the U.S. In 2025, after a Dane County, WI judge heard whistleblower evidence of routine abuse at the facility and appointed a special prosecutor, Ridglan agreed to shut down its breeding operation to avoid felony animal cruelty charges, but around 2,000 dogs remained trapped inside. On March 15, 2026, over 100 activists converged at the facility and carried 22 puppies to safety. A month later, more than 1,000 people returned and were met with tear gas and rubber bullets. The pressure worked: Ridglan surrendered all of its remaining dogs to rescue groups and agreed to close its breeding operation and experimentation lab for good. The public sided with animal rescuers over animal experimentation. And yet, Dane County District Attorney Ismael Ozanne is charging these compassionate rescuers. On January 25th, the first four defendants will stand trial.{" "}
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSfm19PxypuxtjxxrYF7kyuW00UR224rrynDVl7DFwksfUz71A/viewform?usp=send_form">
+          Register here
+        </a>{" "}  
+        to attend the trial in Madison, WI.
       </FeaturedCase>
       <Letter />
       <About
