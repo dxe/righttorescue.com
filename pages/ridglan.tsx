@@ -74,7 +74,7 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
               </p>
         <h4>A New Ridglan Beagle Rescue Trial</h4>
         <p>
-         In April 2026, the Dane County District Attorney’s Office filed felony charges against four rescuers for their alleged leadership roles in the Ridglan rescue efforts. On July 3, 2026, the DA filed felony charges against 47 additional beagle rescuers who were involved in the rescue of 22 puppies from Ridglan Farms on March 15, 2026. The rescuers face up to 12 years and 6 months in prison. Among those charged is former Baywatch actor Alexandra Paul, who rescued a{" "}
+         In April 2026, the Dane County District Attorney’s Office filed felony charges against four rescuers for their alleged leadership roles in the Ridglan rescue efforts: Misha Lunsky, Wayne Hsiung, Dean Wyrzykowski, and Aditya Aswani. On July 3, 2026, the DA filed felony charges against 47 additional beagle rescuers who were involved in the rescue of 22 puppies from Ridglan Farms on March 15, 2026. The rescuers face up to 12 years and 6 months in prison. Among those charged is former Baywatch actor Alexandra Paul, who rescued a{" "}
         <a
           href="https://www.instagram.com/p/DYx8FWuGWtV/?img_index=1/"
           target="_blank"
@@ -86,6 +86,17 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
       <Details image="Alexandra Paul Rescue Photo.jpg">
           Alexandra said, “Carrying a dog out of Ridglan Farms was one of the best moments of my life. Knowing she is free and happy makes every charge I now face worth it.” She and other defendants intend to fight the charges and use the trial as an opportunity to expose the dog experimentation industry.  
       </Details>
+      <Details>
+        <h4>Trial starts January 25, 2027.</h4>
+    On January 25th, the first four rescuers will stand trial for their participation in the rescue of the 22 Ridglan beagles. Misha, Wayne, Dean, and Aditya each face 16 years in prison. DxE is organizing court support during the trial, which is expected to last two weeks. Join us in Madison, Wisconsin to support the right to rescue. You can attend any number of days, but we are pushing for the largest mobilization on day one.
+{" "}
+        <a
+          href="https://docs.google.com/forms/d/e/1FAIpQLSfm19PxypuxtjxxrYF7kyuW00UR224rrynDVl7DFwksfUz71A/viewform"
+          target="_blank"
+        >
+          Register to attend the trial here.
+        </a>{" "} 
+ </Details>
       <Press>
         <Article
           href="https://theintercept.com/2018/05/17/inside-the-barbaric-u-s-industry-of-dog-experimentation/"
