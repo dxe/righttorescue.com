@@ -88,7 +88,7 @@ We've never been closer to ending dog experimentation in the U.S. That's why ani
       </Details>
       <Details>
         <h4>Trial starts January 25, 2027.</h4>
-    On January 25th, the first four rescuers will stand trial for their participation in the rescue of the 22 Ridglan beagles. Misha, Wayne, Dean, and Aditya each face 16 years in prison. DxE is organizing court support during the trial, which is expected to last two weeks. Join us in Madison, Wisconsin to support the right to rescue. You can attend any number of days, but we are pushing for the largest mobilization on day one.
+    On January 25th, the first four rescuers will stand trial for their participation in the March open rescue of 22 beagles from Ridglan. Misha, Wayne, Dean, and Aditya each face 16 years in prison. DxE is organizing court support during the trial, which is expected to last two weeks. Join us in Madison, Wisconsin to support the right to rescue. You can attend any number of days, but we are pushing for the largest mobilization on day one.
 {" "}
         <a
           href="https://docs.google.com/forms/d/e/1FAIpQLSfm19PxypuxtjxxrYF7kyuW00UR224rrynDVl7DFwksfUz71A/viewform"
